@@ -10,7 +10,7 @@ The skill is written in Chinese, in the first person, as a voice rather than a s
 
 ```
 liu-zhongjing-perspective/
-├── SKILL.md                        # the core persona — self-contained
+├── SKILL.md                        # core reasoning and judgement — read with voice.md
 ├── references/
 │   ├── clusters/
 │   │   ├── c01-ayi-life-advice.md     # anti-self-help life advice; the "machine off" warm register
@@ -22,8 +22,8 @@ liu-zhongjing-perspective/
 │   │   ├── c06-figures.md             # character studies, two registers: written studies + lecture-mode
 │   │   ├── c07-nation-invention.md    # comparative nation-invention: Poland, Russia, 中华民族
 │   │   └── c08-minguo-wenyan.md       # Republican chronicle + the classical-Chinese register
-│   ├── frameworks.md               # precise definitions of named frameworks (lookup only)
-│   └── voice.md                    # the measured expressive system — load before sustained prose
+│   ├── frameworks.md               # named concepts and established judgements — consult by topic
+│   └── voice.md                    # expressive system — required even for short answers
 ├── fidelity-ledger/
 │   ├── provenance.md               # honesty ledger: element → source → score → gate status;
 │   │                                    #   human-facing, never loaded by the host agent
@@ -34,9 +34,11 @@ liu-zhongjing-perspective/
 └── README.md
 ```
 
-`SKILL.md` alone is enough for most questions. Load a reference file only when a register needs finer grain — the loading hints are at the bottom of `SKILL.md`.
+**Before the first substantive response in this persona, read both `SKILL.md` and `references/voice.md` in full, even for a short answer.** The core supplies reasoning and judgement; `voice.md` governs the sentences actually written. Keep both available throughout the conversation. If either is lost through context compaction, reload it before continuing; do not reread material already fully available in context.
 
-`frameworks.md` and `voice.md` are the two **standing modules**: what the person thinks with, and how the person sounds. The core carries at most ~20% style by design — enough to *frame* an answer in the voice, not enough to *write* one at length — so **load `voice.md` before writing more than a paragraph or two of sustained prose in this voice.** It holds the favoured constructions, the avoid-list, the trigger→shift modulation rules, the register range across seven settings, and the measured `zh_metrics` baselines the style-match test compares against.
+The core's style sketch does not replace the expressive system. `voice.md` supplies constructions, an avoid-list, modulation rules, and three register families with nine measured subregisters. Apply the selected register from the first sentence and check the draft against it before sending. Short answers retain the voice; the measured baselines guide calibration, not word or phrase quotas.
+
+Consult `references/frameworks.md` for precise concepts and established judgements about particular people, regimes, institutions, or nations, and load relevant files in `references/clusters/` for the subject and register. These files supply substantive material as well as expressive detail; follow the retrieval rules at the bottom of `SKILL.md` rather than treating them as optional refinements based on answer length.
 
 ---
 
@@ -51,11 +53,11 @@ git clone https://github.com/ariel-lee-1023/liu-zhongjing-perspective.git \
   ~/.claude/skills/liu-zhongjing-perspective
 ```
 
-The agent reads the YAML frontmatter in `SKILL.md` to decide when to trigger, then pulls the reference files on demand.
+The agent reads the YAML frontmatter in `SKILL.md` to decide when to trigger. Once triggered, it reads the full core and `references/voice.md` before answering, then consults frameworks and clusters as the question requires.
 
 ### As a plain system prompt
 
-Paste the body of `SKILL.md` (everything after the frontmatter) as your system prompt. Append one or two reference files when the topic calls for them. Do not paste `fidelity-ledger/provenance.md` or `fidelity-ledger/episodic.md` into the prompt — they are metadata about the distillation, and putting them in context degrades the voice.
+Paste the body of `SKILL.md` (everything after the frontmatter) together with the full `references/voice.md` as your system prompt. Include relevant framework and cluster material when the question requires it. Do not paste `fidelity-ledger/provenance.md` or `fidelity-ledger/episodic.md` into the prompt — they are metadata about the distillation, and putting them in context degrades the voice.
 
 ---
 
@@ -99,7 +101,7 @@ Issues and pull requests are welcome, particularly for: coverage gaps (the femal
 
 这是一个供 LLM 代理加载的**技能**：以刘仲敬的方式分析历史、政治、文明、时事、人物乃至具体人生问题——先把问题翻译成一个关于秩序生产还是消耗、遗传与阶级位置、谱系定位的问题，再冷静给出结论，且在读者最想要安慰、认同、出路的地方偏偏不给。
 
-核心文件是 `SKILL.md`，自足；`references/` 下的参考文件按语域需要加载。命名框架的定义刻意留在 `references/frameworks.md`，不进核心——把定义当讲解复述是上一版最大的失败模式。
+首次以此人格作实质回答前，必须完整读取 `SKILL.md` 与 `references/voice.md`，短答也不例外：前者管分析与判断，后者管实际写出的句子。两份文件已完整保留在上下文中时不必重读，压缩后丢失则先补读。`references/frameworks.md` 按具体概念与对象查阅，相关簇按题材和语域加载；它们承载具体论述与定判，并非仅供长文润色。命名框架的定义仍留在框架文件中，不在回答里机械复述。
 
 **具体事实的覆盖以 2018–2025 语料为界，更新的事实需由宿主代理先行检索。
 

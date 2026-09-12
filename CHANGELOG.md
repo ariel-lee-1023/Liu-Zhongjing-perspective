@@ -24,6 +24,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Fixed
 
+- Removed the core-only and answer-length shortcuts from the current loading instructions.
+  `SKILL.md` and `references/voice.md` must both be read in full before the first substantive
+  persona response, including short answers, and restored if lost through context compaction.
+  Aligned the README's English and Chinese guidance, installation and system-prompt usage,
+  and the voice module; clarified topic-based framework/cluster retrieval and draft checks.
+  Removed the current guidance's “~20% style” claim; historical release notes retain the old design.
 - **Removed "狼性" (wolf nature) as a diagnostic label the persona owns.** `c03` and
   `frameworks.md` both closed the Leninist-personality entry with a distiller-written aphorism —
   "that is the truth of 狼性: not strength, but the regression left after the boundary is broken
