@@ -9,6 +9,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- 2026-09-17：將 `references/frameworks.md` 納入首次實質回答前的預設完整必讀清單，簡述其概念定義、推理方法與既有定判功能，並同步入口、參考文件與使用說明。
+
+- 2026-09-17：技能顯示名稱改為「劉仲敬」，中文內容統一轉為繁體中文；新增預設繁體中文輸出規則與 `agents/openai.yaml` 顯示設定。技術識別符保留為 `liu-zhongjing-perspective`。
+
 - **Third cluster merge: `c02-neiya-order` + `c08-premodern-order` → `c02-premodern-order.md`**
   (3,032 + 2,033 → 5,282 est. tokens). Same reasoning skeleton — constitutional position before
   name, order import/export, an armed band plus one bargain — split only by acquisition source
@@ -73,7 +77,7 @@ earlier scores were produced on question sets chosen by the distiller.
 ### Changed — `references/frameworks.md` rebuilt around a method layer (10 sections → 8)
 
 - **New §一 "how to read a question"**, which the package previously had nowhere: false-premise
-  diagnosis, the four-step search for the explanatory layer, 格局—路径—节点 plus the
+  diagnosis, the four-step search for the explanatory layer, 格局—路徑—節點 plus the
   counterfactual-substitution test, "material is subordinate to the configuration", and the
   read-the-compliment-backwards rule.
 - **New §七 "argumentative moves"**, consolidating the opening four-way choice, ventriloquism with
@@ -82,14 +86,14 @@ earlier scores were produced on question sets chosen by the distiller.
   civilisations away; off topic = a different subsystem under the same topic heading, even if every
   document is from the case at hand), and autobiographical material admitted only when it carries
   an argument.
-- The old `§史料与记录` section was dissolved and its contents folded into the sections whose
+- The old `§史料與記錄` section was dissolved and its contents folded into the sections whose
   reasoning they serve. §三 promotes 德性 from a definition to a causal node. Two deliberate
-  downgrades paid for the additions: `§个人层面` and `§守先待后` merged into an index of names with
+  downgrades paid for the additions: `§個人層面` and `§守先待後` merged into an index of names with
   definitions pointing back to `c01`/`c04`, and island-extrapolation merged with rattlesnake
   lock-in in §二. **No judgement was lost; what was lost is quoted wording recoverable from the
   clusters.** 4,834 → 5,999 est. tokens.
 - **No standing-positions library as a separate part.** The recurring concrete judgements are
-  inlined as `**定判**：` entries inside the relevant sections, with one 「常备定判」 entry at the
+  inlined as `**定判**：` entries inside the relevant sections, with one 「常備定判」 entry at the
   end of §六.
 
 ### Changed — `SKILL.md` compressed, three gates added
@@ -103,7 +107,7 @@ concrete object** — if one exists, follow it and do not re-derive on the spot.
 ### Changed — `references/voice.md`
 
 - **A new prohibition on mid-course signposting**, listed separately from the existing one on
-  closing cushions: "我先动一下你这个提法", "讲到这儿我岔一段", "所以回到你的问题". Metadiscourse
+  closing cushions: "我先動一下你這個提法", "講到這兒我岔一段", "所以回到你的問題". Metadiscourse
   markers measure 0 across the corpus. Forbidding closing cushions does not catch these.
 - Four fingerprints added to §一.3 (line-register for ventriloquised speech, pseudo-precision,
   forced concretisation, mid-sentence self-correction); the cutting-down close added to §七; the
@@ -124,9 +128,9 @@ concrete object** — if one exists, follow it and do not re-derive on the spot.
   smallest modules in the package (2,138 and 2,177 tokens). The merged module is 4,323 tokens,
   still under the 6,000 ceiling.
 - **The merged module keeps the two registers apart rather than averaging them.** A warning at the
-  head of the file forbids pooling the statistics: 甲组 (written studies) runs at 6 question marks
-  and 3.6% second person per 10k Chinese characters with flagship jargon near zero; 乙组 (lecture
-  mode) runs at 14–24 question marks with high second-person density and "对不对？" present. Each
+  head of the file forbids pooling the statistics: 甲組 (written studies) runs at 6 question marks
+  and 3.6% second person per 10k Chinese characters with flagship jargon near zero; 乙組 (lecture
+  mode) runs at 14–24 question marks with high second-person density and "對不對？" present. Each
   group is loaded on its own; §十一 states the difference explicitly.
 - **Renumbered the modules after the merge**: `c08-nation-invention` → `c07`,
   `c09-premodern-order` → `c08`, `c10-minguo-wenyan` → `c09`. All cross-references updated in
@@ -174,7 +178,7 @@ the future rulers, which is reproduction of 德性, not a contractual exchange.
 
 **A defect traced to another persona file — a first for this project.** The session that produced
 this release had the user's own `liu-zhongjing-persona` skill loaded, and that skill explicitly
-instructs the agent to "pull back to the main thread with 回到刚才的问题" and to say 好了，讲到这里.
+instructs the agent to "pull back to the main thread with 回到剛纔的問題" and to say 好了，講到這裏.
 Both are mid-course signposts; the corpus has none. The signposting drift observed across all five
 rounds traces directly to that instruction, and the new prohibition in `voice.md` §五 exists
 because of it.
@@ -230,27 +234,27 @@ distribution has always been chosen by the distiller and is systematically skewe
 ### Fixed — three failure modes the test located
 
 - **"Push back" was over-fit into a default reflex.** `c04` §一 opened with "袁 throws a frame,
-  刘 pushes it back" plus six push-back techniques, and the blind predictor concluded every
-  question must be pushed back — on the one item where 刘 simply agrees ("基本上是这样") the
+  劉 pushes it back" plus six push-back techniques, and the blind predictor concluded every
+  question must be pushed back — on the one item where 劉 simply agrees ("基本上是這樣") the
   prediction inverted his stance. Added a meta-rule: he pushes back on sentiment, hope, universal
   laws and moral frames, not on every question.
 - **The "inversion" move was never encoded as callable.** Three of the ten items failed for the
   same reason: the module supplies the mechanism library but never says that each answer should
-  land on a point that reverses the questioner's intuition. Added §一 "每答一题，找一次翻转"
+  land on a point that reverses the questioner's intuition. Added §一 "每答一題，找一次翻轉"
   with three attested samples (conquering the oldest civilization is the conqueror's misfortune;
   "the Roman Empire" does not exist as an entity; the biggest losers of the Manchu conquest were
   the tribal elders, not the Ming).
 - **Genuinely missing construct: 收割者 / the civilization ceiling.** `c04` had "evolution cannot
   climb back up a slope" but not "bureaucracy and state-building are the most dangerous harvesters
-  — the civilization freezes at the height it had when they appeared", nor the 树高根深 inference
-  rule. Added to `c04` §三 and defined in `frameworks.md` under 秩序生产与消耗.
+  — the civilization freezes at the height it had when they appeared", nor the 樹高根深 inference
+  rule. Added to `c04` §三 and defined in `frameworks.md` under 秩序生產與消耗.
 - The Machiavellian target-selection meta-rule was already present but buried and unillustrated;
   rewritten as a callable item with its attested example.
 
 ### Changed — budget recovery to absorb the additions
 
 - The additions cost ~780 est tokens against a cluster with no headroom, so: 36 long verbatim
-  quotes compressed with ellipses, the whole "比喻专名库" section removed (every name in it already
+  quotes compressed with ellipses, the whole "比喻專名庫" section removed (every name in it already
   occurs in place in the body — it was a redundant index), and three duplicated bullets deleted.
   `c04` 6,719 → **5,941** est tokens, still above its 4,457 soft budget and below the 6,000 ceiling.
   `frameworks.md` 4,612 → 4,835.
@@ -260,34 +264,34 @@ distribution has always been chosen by the distiller and is systematically skewe
 - **`c01-ayi-life-advice.md`, `c03-wadi-psychology.md`, and `c04-civilization-theory.md` extended from
   well under the per-cluster soft budget to deliberately *above* soft budget and below the hard ceiling**
   (c01 5,775 · c03 5,888 · c04 5,931 est. tokens; soft budgets ≈4,44x, hard ceiling 6,000). Their source
-  books (《阿姨我不想努力了》/《洼地与韭菜》/《文明更迭的源代码》) carry long causal chains rather than
+  books (《阿姨我不想努力了》/《窪地與韭菜》/《文明更迭的源代碼》) carry long causal chains rather than
   loose opinion lists, and the budget formula saturates near 4,775 words, which is a conservative lower
   bound for material of this density. The trade-off and its cost (no headroom left for future additions
   without equivalent cuts) are logged in `fidelity-ledger/provenance.md` batch 4.
 - **`c04` no longer draws only on 第八章.** Chapters 一–七 are now represented: the Darwinian
-  epistemology (孤岛外推／火车头喷蒸汽, 响尾蛇式锁定, 观相术随脉象改药), the attrition model
-  (组织资源不可再生, 普遍进步＝既有积累的毁灭, 决断＝分娩, 霸主＝补丁), the seed-bank clauses
-  (黑匣子, 拉比阶级的重税, 压缩胶囊), order-as-growth (舞伴默契, 罗马法的阶段截面, 普通法可逆),
-  the six-step noun-dismantling template built on 绝对主义, and the nation-state consequences.
+  epistemology (孤島外推／火車頭噴蒸汽, 響尾蛇式鎖定, 觀相術隨脈象改藥), the attrition model
+  (組織資源不可再生, 普遍進步＝既有積累的毀滅, 決斷＝分娩, 霸主＝補丁), the seed-bank clauses
+  (黑匣子, 拉比階級的重稅, 壓縮膠囊), order-as-growth (舞伴默契, 羅馬法的階段截面, 普通法可逆),
+  the six-step noun-dismantling template built on 絕對主義, and the nation-state consequences.
 - **`frameworks.md` extended with the new named constructs**, each tagged with its home cluster, plus two
-  new sections: 个人层面的可投射动作 (c01) and 守先待后的运作条款 (c04). Definitions stay solely in
+  new sections: 個人層面的可投射動作 (c01) and 守先待後的運作條款 (c04). Definitions stay solely in
   frameworks; clusters carry usage only.
 - **`voice.md` rewritten around a three-way register partition (BREAKING for anyone quoting the old
-  baseline table).** The previous version averaged incommensurable distributions: a single "均值 32–38 汉字"
+  baseline table).** The previous version averaged incommensurable distributions: a single "均值 32–38 漢字"
   across all registers, a "全部著作（9 部）" weighted-average row, and one combined cell for
-  《民国纪事本末》＋《数卷残编》. The corpus is now split into **nine mutually exclusive register
-  directories** and measured separately with no cross-group weighting. 人物评传 is treated as a
-  spoken/written continuum and split per-file at 你/万汉字 < 10; the four oral-Q&A books are also measured
-  individually. Headline spreads per 10k 汉字: 你 0.22 → 150.95 (~680×), 连接词 0 → 13.4, hedge 1.4 → 46.5,
-  疑问号 4.6 → 38.4, 句长均 28.0 → 46.0.
+  《民國紀事本末》＋《數卷殘編》. The corpus is now split into **nine mutually exclusive register
+  directories** and measured separately with no cross-group weighting. 人物評傳 is treated as a
+  spoken/written continuum and split per-file at 你/萬漢字 < 10; the four oral-Q&A books are also measured
+  individually. Headline spreads per 10k 漢字: 你 0.22 → 150.95 (~680×), 連接詞 0 → 13.4, hedge 1.4 → 46.5,
+  疑問號 4.6 → 38.4, 句長均 28.0 → 46.0.
 - **New explicit default rule in both `voice.md` and `SKILL.md`: the persona defaults to register family A
-  (oral Q&A, calibrated on 《洼地与韭菜》), switching to C (文言, with 《民国纪事本末》 as the extreme end)
-  only on explicit user request and to B (written 评传／史论) only for written-essay tasks.** Registers must
+  (oral Q&A, calibrated on 《窪地與韭菜》), switching to C (文言, with 《民國紀事本末》 as the extreme end)
+  only on explicit user request and to B (written 評傳／史論) only for written-essay tasks.** Registers must
   never be averaged, and rhetorical devices must not be generalized across them.
 - **Quantitative guardrails expanded from three to five and split by register family** (second person,
   flagship jargon, hedge floor, connective words as a register switch, sentence length).
 - **Measurement caveat logged**: `zh_metrics.py`'s person-percentage columns are unreliable on 文言 (之/其
-  are counted as pronouns, producing a spurious 82.2% "first person" for 《民国纪事本末》). Classical-Chinese
+  are counted as pronouns, producing a spurious 82.2% "first person" for 《民國紀事本末》). Classical-Chinese
   register is now calibrated on absolute per-10k rates only.
 
 ### Changed
@@ -301,28 +305,28 @@ distribution has always been chosen by the distiller and is systematically skewe
   mid-embodiment, so it belongs with the honesty ledger rather than the host-agent-facing package.
   Content unchanged; only the path moved, to `fidelity-ledger/episodic.md`. `SKILL.md` and
   `README.md` (including the repository-layout tree) updated to point at the new location.
-- **"Facts and framework handled separately" (事实与框架分开处理) rewritten to name the SOURCE OF
+- **"Facts and framework handled separately" (事實與框架分開處理) rewritten to name the SOURCE OF
   TRUTH distinction and the no-narration distinction explicitly.** The paragraph already required
   retrieving current external facts before letting the persona digest them, but did not say that
   this is a *different mechanism* from the knowledge-base priority retrieval directly above it
   (which stays inside the LiuZhongjing-Thoughts repository by design), and this repo had no
   existing "don't narrate the retrieval" rule to conflict with, so the paragraph now states the
-  distinction on its own terms: 不叙述≠不检索 (not narrating the search is not the same as not doing
+  distinction on its own terms: 不敘述≠不檢索 (not narrating the search is not the same as not doing
   it) — the retrieval itself can never be skipped.
 
 ### Added — fold-in batch 3: full knowledge base, distilled under persona-distiller 2.0.0
 
 Re-run against the whole of [LiuZhongjing-Thoughts](https://github.com/ariel-lee-1023/LiuZhongjing-Thoughts) @ `793c4c1` (131 files, 3.21M Chinese characters). The first two batches were built entirely from dialogue and lecture material; this one adds the three genres that were missing, and the two structural pieces persona-distiller 2.0.0 requires.
 
-- **`references/voice.md` — the standing expressive-system module, co-equal with `frameworks.md`.** The core carries at most ~20% style by design, which is enough to *frame* an answer in the voice and not enough to *write* one at length; the rest of the system now has a home. It holds favoured constructions with attested fragments, the **avoid-list** (综上所述, 需要指出的是, 笔者, 客观地说, 总的来说 … — near-zero hits across 3.21M characters, and as diagnostic as the favoured terms), modulation rules as trigger→shift pairs, a seven-row register range, the lexical fingerprint and proper-name inventory, the measured baselines, and anti-drift pairs. The core's loading block now tells host agents to load it before any sustained prose.
-- **Six new cluster modules**, covering genres no earlier batch touched: `c07-figures-written` (35 written character studies — the corpus's highest written register), `c08-figures-lectures` (诸夏十大罪人, Kissinger, Zhou Enlai, Chen Jiongming), `c09-nation-invention` (Poland, Czech, Hungary, Italy, Korea; the four-type taxonomy), `c10-premodern-order` (《经与史》《从华夏到中国》, Rome, 河朔三镇, 三星堆, the origin of writing), `c11-minguo-wenyan` (《民国纪事本末》《数卷残编》 — the only classical-Chinese register in the corpus), `c12-class-instinct` (class instinct, upbringing, entertainment, fragility).
+- **`references/voice.md` — the standing expressive-system module, co-equal with `frameworks.md`.** The core carries at most ~20% style by design, which is enough to *frame* an answer in the voice and not enough to *write* one at length; the rest of the system now has a home. It holds favoured constructions with attested fragments, the **avoid-list** (綜上所述, 需要指出的是, 筆者, 客觀地說, 總的來說 … — near-zero hits across 3.21M characters, and as diagnostic as the favoured terms), modulation rules as trigger→shift pairs, a seven-row register range, the lexical fingerprint and proper-name inventory, the measured baselines, and anti-drift pairs. The core's loading block now tells host agents to load it before any sustained prose.
+- **Six new cluster modules**, covering genres no earlier batch touched: `c07-figures-written` (35 written character studies — the corpus's highest written register), `c08-figures-lectures` (諸夏十大罪人, Kissinger, Zhou Enlai, Chen Jiongming), `c09-nation-invention` (Poland, Czech, Hungary, Italy, Korea; the four-type taxonomy), `c10-premodern-order` (《經與史》《從華夏到中國》, Rome, 河朔三鎮, 三星堆, the origin of writing), `c11-minguo-wenyan` (《民國紀事本末》《數卷殘編》 — the only classical-Chinese register in the corpus), `c12-class-instinct` (class instinct, upbringing, entertainment, fragility).
 - **Seven new elements in the core**, all diagnostic classes, no style padding: two cost-bearing refusals (giving a dead failure neither martyrdom nor betrayal; turning the knife on the writing class *including himself*), five projectible regularities (a record's credibility comes from the conditions of its making; a figure is judged by his net effect on *his own* polity; lineage and micro-environment co-evolve; every regime is a power base plus a bargain; re-feudalisation and the "Holy-Roman-Empire-isation" of public services), and two interactional moves (ironic restatement in the target's own propaganda voice; playing an opponent's first-person monologue before stepping back to judge).
 - A Chinese-language `zh_metrics` counterpart to persona-distiller's `style_metrics.py` (the shipped script tokenises on `[A-Za-z]` and returns zeros on this corpus). Every number in `voice.md` comes from an actual run of it.
 
 ### Changed
 - **Core size is now a computed budget, not a fixed cap.** supply = 6,140 tokens (9 cost-refusals capped at 6, 12 regularities capped at 7, 7 interactional capped at 5, 4 modulation); ceiling 6,500 (large multi-period corpus); the assembled core measures ≈6,141 tokens against a ±10% tolerance. It was ≈4,170 before this batch. Formula, ceiling row, and measured size are recorded in `references/provenance.md`.
 - **`references/episodic.md` no longer holds expression or modulation material.** Under 2.0.0 those belong in `voice.md`; the measured style tables, the proper-name inventory, and the demoted expression items moved there. `episodic.md` keeps demoted non-expression elements and the disposal notes.
-- `references/frameworks.md` gained the constructs this batch surfaced: the four-type nation-invention taxonomy, 班底与交易, the CCP faction taxonomy (干部党/匪谍系/工运系/梁山系), 逆淘汰定律, 血酬/费厄泼赖, 自守之贼, 水蜘蛛 with 价值界一神论/多神论, micro-environment co-evolution, and the sovereign-less state.
+- `references/frameworks.md` gained the constructs this batch surfaced: the four-type nation-invention taxonomy, 班底與交易, the CCP faction taxonomy (幹部黨/匪諜系/工運系/梁山系), 逆淘汰定律, 血酬/費厄潑賴, 自守之賊, 水蜘蛛 with 價值界一神論/多神論, micro-environment co-evolution, and the sovereign-less state.
 - OCR artefacts inherited from the PDF-converted corpus (口→又 substitutions) normalised in shipped quotations.
 
 ### Fidelity
@@ -365,7 +369,7 @@ First public release. Packaged for GitHub with license, changelog, and repositor
 
 ## [4.1.0-fold.2] - Batch 2 fold-in
 
-Folded in 23 lectures plus 5 topical talks from 《刘仲敬访谈精选》 (2020–2025), narrowing the post-2019 factual gap. Scoring weights unchanged; new material scored on the same scale as existing elements.
+Folded in 23 lectures plus 5 topical talks from 《劉仲敬訪談精選》 (2020–2025), narrowing the post-2019 factual gap. Scoring weights unchanged; new material scored on the same scale as existing elements.
 
 ### Added
 - **Anti-\"new\" recognition move** promoted into the core (composite 0.62): a thing presented as unprecedented is first identified as which recurrence of an old state it is. This is the engine that keeps the persona from fumbling 2020s topics.
@@ -390,7 +394,7 @@ A full re-distillation, not an edit. Four failure modes in v3 were targeted dire
 - The core rewritten entirely in the first person and inside the voice. v3 was largely meta-instruction *about* imitating the subject.
 
 ### Added
-- **Cost-refusal made the highest-priority pass.** Seven positions held at a cost were extracted and made the centre of gravity of the core (`我不让步`), replacing v3's success criteria, which measured only surface style — catchphrases, sentence length, proper-noun density, term frequency.
+- **Cost-refusal made the highest-priority pass.** Seven positions held at a cost were extracted and made the centre of gravity of the core (`我不讓步`), replacing v3's success criteria, which measured only surface style — catchphrases, sentence length, proper-noun density, term frequency.
 - The grief modulation: the analytical machine shuts off in the face of real bereavement, with short, plain, warm sentences.
 - The recoverable-versus-locked distinction governing \"what should I do\" answers.
 - `references/provenance.md` as an honesty ledger, and `references/episodic.md` for measured style figures and demoted evidence.

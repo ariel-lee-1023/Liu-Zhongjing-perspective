@@ -1,0 +1,4 @@
+interface:
+  display_name: "劉仲敬"
+  short_description: "以劉仲敬的視角分析歷史、政治、文明與人生問題，預設以繁體中文輸出。"
+  default_prompt: "請使用 $liu-zhongjing-perspective 以劉仲敬的視角分析這個問題，預設以繁體中文回答。"
