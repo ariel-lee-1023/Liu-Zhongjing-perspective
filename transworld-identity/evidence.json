@@ -1,0 +1,964 @@
+{
+  "schema_version": 1,
+  "scope": "2026-09-17新增c09；不聲稱重建或審核全人格既有證據",
+  "records": [
+    {
+      "id": "EA01",
+      "source": "東亞史.md",
+      "locator": "L1498–1498; L1896–1896; L2193–2195; L2732–2732; L2997–2997",
+      "source_spans": [
+        {
+          "start_line": 1498,
+          "end_line": 1498,
+          "locator_anchor": "江淮的历史是从内亚人和东南亚人的相遇开始的。江淮最古老的 居民也",
+          "span_sha256": "83c573124ea9f260a6ae00668db788bfa734f47f41784fdd18b7429590ba0eb0"
+        },
+        {
+          "start_line": 1896,
+          "end_line": 1896,
+          "locator_anchor": "曹彬 下江南是中古时期以扬州为中心的国际化程度很高的江淮 社会的",
+          "span_sha256": "fe713e341524de59d98994e1e28e4d2291ac0d53b94e64a4d396d499180720fc"
+        },
+        {
+          "start_line": 2193,
+          "end_line": 2195,
+          "locator_anchor": "我们可以从考古学遗址的时间线大致上推断出他们的来源。他们 是从后",
+          "span_sha256": "15d0cb3d4638ee94f1024fc84852a52ec6eb19f04b57537db0983a253f61653f"
+        },
+        {
+          "start_line": 2732,
+          "end_line": 2732,
+          "locator_anchor": "我们所知的夜郎民族，是百濮民族最古老、最强大的一支。百濮 民族和",
+          "span_sha256": "b471985fb8167cc28da238d7d19cc25d015175d9a169581271248dad1abcab29"
+        },
+        {
+          "start_line": 2997,
+          "end_line": 2997,
+          "locator_anchor": "我们今天讲滇国的历史。滇、蜀、缅三个政治实体在种族和文化 上有非",
+          "span_sha256": "0791d0da766161a6072ce0211a089a839be68bc96bc57abd4ea58e59b2aa8678"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA01",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "地方不是現代國界的附屬章節；巴蜀、江淮及滇黔有不同的通道與共同體。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "按時期區分交通線、地方行動者和後來的行政界線。"
+      ],
+      "exceptions": [
+        "本次僅擷取地方敘事的入口與代表段落，不覆蓋各地全部歷史。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "一、六",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA02",
+      "source": "東亞史.md",
+      "locator": "L3303–3303; L4283–4283; L4476–4476; L4877–4877; L5090–5090; L6730–6730; L6911–6911; L7142–7142",
+      "source_spans": [
+        {
+          "start_line": 3303,
+          "end_line": 3303,
+          "locator_anchor": "晋文化是内亚文化在欧亚大陆的最东端，也是中国或者东亚大多 数时期",
+          "span_sha256": "540f172727267b667174c7d264cb5165a7b2a51102a0603b51263ca81b3c5b6d"
+        },
+        {
+          "start_line": 4283,
+          "end_line": 4283,
+          "locator_anchor": "上古时期的东北亚文化区，你可以把它划分为一个独特的文化 区，也可",
+          "span_sha256": "5b3922b3deb4867f8342c5a8ae0ff284634eb2c24da43c809322f177d5549aa2"
+        },
+        {
+          "start_line": 4476,
+          "end_line": 4476,
+          "locator_anchor": "中古时代是伊朗文化的全盛时期，卢龙节度使的核心集团基本上 是伊朗",
+          "span_sha256": "79a519deffcbc1448d2d9cffd166f62de43b2615a10c17989026a2bc4d6f0077"
+        },
+        {
+          "start_line": 4877,
+          "end_line": 4877,
+          "locator_anchor": "史前时代的东北亚，地理环境和我们现在在地图上所看到的东北 亚是不",
+          "span_sha256": "b4229e897980ab2511809d0ad31da52e48be9164099ecb7c12f9ebe3dfde1999"
+        },
+        {
+          "start_line": 5090,
+          "end_line": 5090,
+          "locator_anchor": "永嘉之乱造成的大洪水，使得东北亚和东亚之间的传统边界从种 族意义",
+          "span_sha256": "796a7f5175c6297dfbbfb2b1770dd383e46aaeb87e8e7bd4d630204296b4b4eb"
+        },
+        {
+          "start_line": 6730,
+          "end_line": 6730,
+          "locator_anchor": "上古时代的东北亚文化区，是由朝鲜半岛、满洲、燕山山脉、滦 河流域",
+          "span_sha256": "cc56273e47593b7b3559d5e1118438a8f29db12acfea28fb091655f7b1768a1b"
+        },
+        {
+          "start_line": 6911,
+          "end_line": 6911,
+          "locator_anchor": "渤海国的二元体制在历史上产生了很多有趣的结果。最主要的一 个就是",
+          "span_sha256": "94b57cbb2dc8045fe57544c758193b27e6c7c57fbb1cbe50c6535e22838615eb"
+        },
+        {
+          "start_line": 7142,
+          "end_line": 7142,
+          "locator_anchor": "东北亚在五世纪以前也是技术落后区，那时的先进区只有内亚； 但是到",
+          "span_sha256": "6dc2cd8142519dccacbb56e9bc6576b7972e0a590c7a9cfaee94c462922ee183"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA02",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者區分內亞、東北亞與沿海譜系，並承認部分上古分區是從中古以後的分化回溯而來。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分區與具體時期、政治網絡相連。"
+      ],
+      "exceptions": [
+        "回溯性的分類不等於各時代已有固定民族邊界。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "一、六",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA03",
+      "source": "東亞史.md",
+      "locator": "L2137–2137; L2498–2516",
+      "source_spans": [
+        {
+          "start_line": 2137,
+          "end_line": 2137,
+          "locator_anchor": "人类本身的历史和人类文明的历史在定义上稍微有一点点差异。 所谓人",
+          "span_sha256": "ed66b2ad3f68cb5a438f586827c822b8a80e828bf33be76a482ce9ffac813ecb"
+        },
+        {
+          "start_line": 2498,
+          "end_line": 2516,
+          "locator_anchor": "我们在以前的许多讲座中都强调过，民族国家是一个近代的创 造，产生",
+          "span_sha256": "cc0f8b63be625f6a08e66405dd8741c166e2dd9f8b3d6d4b32a85c4f339028b9"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA03",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者區分人類遷徙與文明形成，以能否自我治理判斷民族建構，不要求種族和語言一致。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "此處為作者的概念界定與比較框架。"
+      ],
+      "exceptions": [
+        "不能用現代族名或單一器物直接證成古代政治認同。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "一、二、六",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA04",
+      "source": "東亞史.md",
+      "locator": "L806–824",
+      "source_spans": [
+        {
+          "start_line": 806,
+          "end_line": 824,
+          "locator_anchor": "十世纪到十二世纪之间，吴越佛教达到鼎盛时期，几乎吸收或兼 并了以",
+          "span_sha256": "f38504574017db8713418db3c89300e26a54e1ec2aa7a0fba13abc65b0cd82cc"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA04",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "佛教陸海兩路的同名宗教未必具有相同組織，教團承擔社會保護和地方組織。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "觀察教階、財產、福利及實際控制。"
+      ],
+      "exceptions": [
+        "教義師承與組織形態不一定重合。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "五",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA05",
+      "source": "東亞史.md",
+      "locator": "L854–864",
+      "source_spans": [
+        {
+          "start_line": 854,
+          "end_line": 864,
+          "locator_anchor": "可以列举出来：第一，东南亚的双季稻和多季稻；第二，修建滩涂石 塘",
+          "span_sha256": "9734e1c7441d313a69863fad3b04b5ceb2446a771532d5b64bdbe4e543ac4f66"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA05",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "吳越寺院先行引進墾殖與工程，官府後來整合、推廣並在記錄中取得功勞。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分引入、維護、推廣和記錄。"
+      ],
+      "exceptions": [
+        "技術路線、年代與人口敘述是作者論斷，未經本次獨立核實。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "五",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA06",
+      "source": "東亞史.md",
+      "locator": "L954–962",
+      "source_spans": [
+        {
+          "start_line": 954,
+          "end_line": 962,
+          "locator_anchor": "寺院是吴越文化的集大成者，而士大夫则是主要的收割者。资源 从寺院",
+          "span_sha256": "002d4266751075bb2df1c6b1a731e8be1a86857987b456e4f7edf4b9f5b232ca"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA06",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "南宋士紳藉官府收編寺院資源，也承擔公益；寺院仍存較多特權。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "比較地方團體對官府的依附與延續能力。"
+      ],
+      "exceptions": [
+        "不能抹掉作者承認的士紳公益和寺院剩餘權利。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "五",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA07",
+      "source": "東亞史.md",
+      "locator": "L5322–5322; L5453–5453; L5642–5642",
+      "source_spans": [
+        {
+          "start_line": 5322,
+          "end_line": 5322,
+          "locator_anchor": "上海可以说是像马基维利那种政治理论家最梦寐以求的实验室， 因为它",
+          "span_sha256": "a8f3b5a8c48d01d10a3feb5c42d882b291e074fb82b46951b2bbc82910ecd372"
+        },
+        {
+          "start_line": 5453,
+          "end_line": 5453,
+          "locator_anchor": "一八四五年的第一个土地章程，奠定了上海自由市的根基。它从 历史和",
+          "span_sha256": "c550a107a06ffe4278de2dcdc205ed5a4dbcca02a83208306a9b037105237865"
+        },
+        {
+          "start_line": 5642,
+          "end_line": 5642,
+          "locator_anchor": "一八五四年土地章程和一八四五年土地章程的关系，在上海自由 市的宪",
+          "span_sha256": "ffdbcc5484bf8a445cc97cd5a2d66ff9ed696450a1ac0ca134e6f365862f1e88"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA07",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "上海土地章程與業主共同體構成動態憲制過程；自由市與清屬縣城是作者分開處理的單位。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "按照章程、財產、機構和時期追查。"
+      ],
+      "exceptions": [
+        "自由市及子憲法是作者分析用語，不能自動升格為無爭議法定國家地位。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "八",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA08",
+      "source": "東亞史.md",
+      "locator": "L5668–5678; L5710–5720",
+      "source_spans": [
+        {
+          "start_line": 5668,
+          "end_line": 5678,
+          "locator_anchor": "一些非常伟大的人物，如果我们把他们跟胡适称之为非常伟大的一九 一",
+          "span_sha256": "13c11254bee17ff8ba5d1cd3862ef0daee53cb0d6e79a91ca8cc27e59f88da8e"
+        },
+        {
+          "start_line": 5710,
+          "end_line": 5720,
+          "locator_anchor": "法裔居民经常对英裔居民的优势地位表示不满意，并企图让法国 领事建",
+          "span_sha256": "26d7acebf7e6e3dcc285dc0bf8162064a9abec94a6a7bd52fb11f090dcedcfac"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA08",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者以婚姻见證類比慣例承認，並把日常自由落到法院及附則立法。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "類比服務於本書上海憲制敘事。"
+      ],
+      "exceptions": [
+        "沉默即承認不是跨時代普遍法律規則；未核對引述之原始報告。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "八、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA09",
+      "source": "東亞史.md",
+      "locator": "L4669–4669; L7386–7404; L7536–7536",
+      "source_spans": [
+        {
+          "start_line": 4669,
+          "end_line": 4669,
+          "locator_anchor": "辽金之变 是燕人豪族在政治上最大的胜利。可以说，他们以一 种不仅",
+          "span_sha256": "c47ffcbed3e366bb9ece9f9017bb189814d5c859f93a9b6ba99956f705a14a0e"
+        },
+        {
+          "start_line": 7386,
+          "end_line": 7404,
+          "locator_anchor": "勃极烈制度在满洲本身经历了由盛转衰的过程，主要就是由于征 服所带",
+          "span_sha256": "55370c41c3c77411425d4ea384b51cd2103871b6a4505f2aa6058e5e5330efd4"
+        },
+        {
+          "start_line": 7536,
+          "end_line": 7536,
+          "locator_anchor": "金人南下，使燕人变成了最大的赢家。他们好像是一个小股东， 投了百",
+          "span_sha256": "2bbcbc7e209dbedc7f16d42bbcb393bd04dbc5549d32e6c00d67d126e64457ce"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA09",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "金國擴張令皇室、燕地豪族與原有武士獲得不同收益，征服財富可打破原有權利平衡。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分開領土收益、財政控制、武士負擔與政治權利。"
+      ],
+      "exceptions": [
+        "講解性分紅比例不是量化研究。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "一、六、七、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA10",
+      "source": "東亞史.md",
+      "locator": "L7701–7701; L8036–8036; L8419–8419",
+      "source_spans": [
+        {
+          "start_line": 7701,
+          "end_line": 7701,
+          "locator_anchor": "日本史和满洲史的共同特点是，封建联盟在帝国体制占上风的时 候会被",
+          "span_sha256": "efcf5c58b9b7f130f523721937709bca84e44fdd2a2881ae8c51a0abcc8d04c2"
+        },
+        {
+          "start_line": 8036,
+          "end_line": 8036,
+          "locator_anchor": "民族国家是领土和民族的总和，而封建国家则是属人的，不一定 是属地",
+          "span_sha256": "d1e7e8048ce63bfa58bffdada40949be7255162c89bf6b7ae96bc8798488b684"
+        },
+        {
+          "start_line": 8419,
+          "end_line": 8419,
+          "locator_anchor": "近代满洲的协和主义建设，始于辛亥年间的三省保安会和议会联 合会。",
+          "span_sha256": "dde84e40a6bcbe4ed4e52feadc4d5771c2c1c8398c34b6460427e0eded75404d"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA10",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "滿洲篇同時敘述封建聯盟與帝國的衝突，以及領土和行政整合對民族國家的作用。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "不同政治階段及防衛任務會改變行政整合的作用。"
+      ],
+      "exceptions": [
+        "不可把所有行政國家一律視為同一種衰敗。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "七",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA11",
+      "source": "東亞史.md",
+      "locator": "L1201–1207",
+      "source_spans": [
+        {
+          "start_line": 1201,
+          "end_line": 1207,
+          "locator_anchor": "由于满蒙集团和湘淮集团的冲突，以及英、日、俄在北京的外交 博弈，",
+          "span_sha256": "b1528ceec522291b0122af5eef7b7a7123a03f443831c0f2bee07a73f668ea81"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA11",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "條約保護、海關和新軍之外，公局由地方出資者安插人員、監督開支，形成第三套財政。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分清付款、監督及軍事保護的不同主體。"
+      ],
+      "exceptions": [
+        "作者的制度比喻與語源解說未作獨立法制史驗證。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "八、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA12",
+      "source": "東亞史.md",
+      "locator": "L6072–6084; L6106–6112; L6249–6249",
+      "source_spans": [
+        {
+          "start_line": 6072,
+          "end_line": 6084,
+          "locator_anchor": "自由秩序的退化，在很多情况下是出于两个主要因素。第一个因 素就是",
+          "span_sha256": "fa5acdd17a015ecd8ede4b0f54158f031fdab0ebf3fa6c6e09d9387175b6c280"
+        },
+        {
+          "start_line": 6106,
+          "end_line": 6112,
+          "locator_anchor": "工部局在十九世纪采取的这些做法，在几十年内是可以相安无事 的，但",
+          "span_sha256": "d47d35c587923a966bd60c9e43782fe9fc8792cca3ef934544d1b433e40d1853"
+        },
+        {
+          "start_line": 6249,
+          "end_line": 6249,
+          "locator_anchor": "上海自由市南非化的关键在于一九一九年国民党控制的纳税华人 会，上",
+          "span_sha256": "5872480a75362541ccca6d1456e3772b9691e983ee3a291cedc2798fd351b139"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA12",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者分開擴張後的政治吸納與恐嚇滲透，認為上海遭遇兩者合擊；單一壓力不必同樣致亡。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "檢查具體吸納、保護和制約機制。"
+      ],
+      "exceptions": [
+        "不是膚色或族名本身決定結果；須與EA13共同閱讀。"
+      ],
+      "conflicts": [
+        "EA13"
+      ],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "九",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "EA13",
+      "source": "東亞史.md",
+      "locator": "L6420–6432",
+      "source_spans": [
+        {
+          "start_line": 6420,
+          "end_line": 6432,
+          "locator_anchor": "上海作为建构民族国家的失败案例，是二十世纪的远东最有意义 的历史",
+          "span_sha256": "7a9d450c9a4f197b49fb80a5f0d097d90b9a43c2e84bbe912d09fd7e7c1d6452"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-EA13",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "上海失敗的三項條件包括外交權、適應總體戰的行政安全體系、擴大至全民的政治共同體。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "相對十九世紀，二十世紀戰爭及政治動員條件已變。"
+      ],
+      "exceptions": [
+        "不可只摘批評人口擴充的段落，忽略作者同時批評代表資格過窄。"
+      ],
+      "conflicts": [
+        "EA12"
+      ],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "七、九",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES01",
+      "source": "美索不达米亚.md",
+      "locator": "L85–107; L493–509; L627–635",
+      "source_spans": [
+        {
+          "start_line": 85,
+          "end_line": 107,
+          "locator_anchor": "我们回到之前的段落，因为我们才刚刚讲到美索不达米亚当时还 主要是",
+          "span_sha256": "86f106d40dcb17c080ee9dd0e95b2956e16b62eb9ffafe888f231666c09c4548"
+        },
+        {
+          "start_line": 493,
+          "end_line": 509,
+          "locator_anchor": "我们可以简单地将美索不达米亚划分为两个地区：苏美人所谓的 外山和",
+          "span_sha256": "1369b3d34c287281d9c33ee25c608bdabc34f9c871b48d44accbae7897d71382"
+        },
+        {
+          "start_line": 627,
+          "end_line": 635,
+          "locator_anchor": "果给我们。我们被蚊子叮了，发烧，在我们的传说中间说是恶灵作 祟，",
+          "span_sha256": "e8a5768c7a34f9aeca53c2811e2c30857037b0f7356f8b549568626fcf9ef3c3"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES01",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "神廟組織測量、勞動、工程、倉儲與分配；作者以高低地互動解釋城市和文明傳播。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "解釋要包含制度載體與分工。"
+      ],
+      "exceptions": [
+        "稻米起源等具體譜系說是作者主張，非本次考古認證。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "二、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES02",
+      "source": "美索不达米亚.md",
+      "locator": "L316–326; L364–370",
+      "source_spans": [
+        {
+          "start_line": 316,
+          "end_line": 326,
+          "locator_anchor": "埃兰山地不属于肥沃月弯地带。各位要明白，西部那些游牧民族 和美索",
+          "span_sha256": "f15b695fc90eb1fdd8d3e0d5f648a77884d3f7ff4298606e67b39e054a199445"
+        },
+        {
+          "start_line": 364,
+          "end_line": 370,
+          "locator_anchor": "交通技术落后不落后跟它的传播是没有关系的。比如说东线，一 直传到",
+          "span_sha256": "fc5c34e6d1d59ffc690067d422b421943387871b74101051dd8e2d1948ba7211"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES02",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者區分文化伊朗化與種族變化，也分開技術模仿與伴隨征服的傳播。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "關注時間、傳播路線和具體攜帶者。"
+      ],
+      "exceptions": [
+        "不少實例不能分清模仿與直接殖民，不能把文化相似等同血緣替換。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "二",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES03",
+      "source": "美索不达米亚.md",
+      "locator": "L167–195",
+      "source_spans": [
+        {
+          "start_line": 167,
+          "end_line": 195,
+          "locator_anchor": "这段历史一定是隐藏在埃利都，甚至是比埃利都更早的、至少有 五千年",
+          "span_sha256": "6af3ee1211aaa1e3f64cd2ced361c359dc9bcb175cdba9ac098bbdcfab45f46d"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES03",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者用霸權而非後世王朝理解蘇美多國體系，並提出印章文字向東傳播的譜系。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "檢查同時仍存在的地方城邦及來源缺環。"
+      ],
+      "exceptions": [
+        "史詩和形式相似只是其推論材料，不自動證實跨文明直系傳承。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "二、四",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES04",
+      "source": "美索不达米亚.md",
+      "locator": "L940–964",
+      "source_spans": [
+        {
+          "start_line": 940,
+          "end_line": 964,
+          "locator_anchor": "恩西这个词来源于恩（EN），它出自于神庙的祭司首领。卢伽尔 这个",
+          "span_sha256": "20c7acf0d28830faf9e386860a2841248e225805a7e25cd3b8fc12f9d9433292"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES04",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者把恩西、盧伽爾分別連到祭司及民間長老，以孩子修鐘的故事解釋路徑依賴。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "早期職務分工可能由小事件形成，固定以後改變成本增加。"
+      ],
+      "exceptions": [
+        "不同城邦可以有不同分工；稱號解讀保留作者歸屬。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "三、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES05",
+      "source": "美索不达米亚.md",
+      "locator": "L966–1002",
+      "source_spans": [
+        {
+          "start_line": 966,
+          "end_line": 1002,
+          "locator_anchor": "卢伽尔好像没有什么不同。温马的卢伽尔跟乌鲁克的恩西一样，他有 事",
+          "span_sha256": "14b97bd837aafa66300c7f29bf8eeef862b37a9fe352a579dd2c4b110d01a439"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES05",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者從史詩的長老與壯丁議事解讀出錢、流血和決定權，繼而分析統帥與地方機構分享權力。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分單城邦的地位與多城邦軍事動員。"
+      ],
+      "exceptions": [
+        "上下議院是比較語彙，不是證明古今法定制度完全同一。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "一、三、四、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES06",
+      "source": "美索不达米亚.md",
+      "locator": "L1004–1022",
+      "source_spans": [
+        {
+          "start_line": 1004,
+          "end_line": 1022,
+          "locator_anchor": "这些哀歌和挽歌多半要等到十九世纪甚至二十世纪我们才见到， 但是这",
+          "span_sha256": "0ea9b213aa145ff00ad82d59ce2e1c77439f56129080cb66c971152d6aa46443"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES06",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "軍事專業化與宮廷藏書繁榮可以伴隨水渠、城市和地方再生能力的破壞。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分開軍事能力、文化收藏與社會再生。"
+      ],
+      "exceptions": [
+        "不得推成所有技術都退步或任何征服均必定同一後果。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "四",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES07",
+      "source": "美索不达米亚.md",
+      "locator": "L1074–1088",
+      "source_spans": [
+        {
+          "start_line": 1074,
+          "end_line": 1088,
+          "locator_anchor": "在这种情况之下，征服君士坦丁堡和埃及的、装备了欧洲军器和 重炮的",
+          "span_sha256": "f20da946cdd759d890b5e071c6ee415959d3d5d6e61014512834abf3b7decd1c"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES07",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "城市依附人口、農村教團和部落有不同自治與法律地位，部落身分也可能藉承接法統取得。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "追查具體財產、仲裁、法統與地方權利。"
+      ],
+      "exceptions": [
+        "不要以地名、血緣或宗教標籤替代制度關係。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "十",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES08",
+      "source": "美索不达米亚.md",
+      "locator": "L1110–1144",
+      "source_spans": [
+        {
+          "start_line": 1110,
+          "end_line": 1144,
+          "locator_anchor": "最后剩下来的这些力量就是在农村费拉中有相当大力量和一定组 织度的",
+          "span_sha256": "26d9b89ab33f68c00969e0772be9c0ee451f9b4933a6ddfcbf64fd21480f463c"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES08",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者將選舉、社會凝聚和軍事能力分開，宗教團體可跨越農村移居城市而保持組織。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "此為2019年講座中的伊拉克分析及對東亞的推演。"
+      ],
+      "exceptions": [
+        "不能沿用為當前職位、人口及政治事實；組織差異不是族群天性。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "十",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    },
+    {
+      "id": "MES09",
+      "source": "美索不达米亚.md",
+      "locator": "L1168–1170; L1212–1226; L1290–1292; L1320–1322",
+      "source_spans": [
+        {
+          "start_line": 1168,
+          "end_line": 1170,
+          "locator_anchor": "组织度是不容易量化计算的，因为早期文明留下的材料很有限， 只够提",
+          "span_sha256": "65e13e0bc515d4b2fd1f3b31f982706e5be5cae7aa5c9352e4ac8b8160eaa3cd"
+        },
+        {
+          "start_line": 1212,
+          "end_line": 1226,
+          "locator_anchor": "当然是《乌尔纳姆法典》更自由一些。它离多国体系不远，习惯 法的精",
+          "span_sha256": "625a0ada075b5496511f886dbd8af6d434381a3e35b544b95bada5e96805f35c"
+        },
+        {
+          "start_line": 1290,
+          "end_line": 1292,
+          "locator_anchor": "当然可能有别的演化结构。从统计频率来讲的话，文明提供的样 本数目",
+          "span_sha256": "e03e93b5bd1aabfd8643add791b27d15d2ac4dcd8e7fb7434265b3e8f73d1344"
+        },
+        {
+          "start_line": 1320,
+          "end_line": 1322,
+          "locator_anchor": "这个目前还看不出来。而且，不是所有美索不达米亚君主都有长 胡须，",
+          "span_sha256": "28064d6c4bca4afdd2d07882f8925ce063530749ffedc9ec33eb9fc3c6266078"
+        }
+      ],
+      "attribution": "劉仲敬講座／問答的編輯整理本；本條為轉述，不視為獨立核實的歷史事實。",
+      "group_id": "c09-MES09",
+      "situation": "世界憲制史／地方史講座及對聽眾追問的回答。",
+      "audience": "具基本歷史知識的講座觀眾及整理本讀者。",
+      "available_information": "以本次提供的Markdown及所列段落為限，未取得完整錄音與原始史料。",
+      "constraints": "出版編輯介入與轉錄誤差可能存在；同書重述不增加獨立證據數。",
+      "observation": "作者承認組織度難以量化、婚姻材料不足、文明演化模式只具有限樣本的經驗性，胡鬚意義也不能確定。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "對具體問題給出相應證據限制。"
+      ],
+      "exceptions": [
+        "可能存在其他演化路徑，不能升格為普世必然法則。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c09-civilizational-genealogy-constitutions.md"
+      ],
+      "runtime_sections": "四、十一",
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留具體推理與判斷，將適用條件及證據限制一起帶入。"
+      }
+    }
+  ]
+}

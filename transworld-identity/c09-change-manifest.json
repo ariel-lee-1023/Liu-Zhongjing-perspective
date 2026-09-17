@@ -1,0 +1,28 @@
+{
+  "baseline_commit": "186ce0560ad6c6be3c39810638513e25282a02c8",
+  "operation": "single_reference_increment",
+  "existing_uncommitted_file_preserved": "AGENTS.md",
+  "changed_files": [
+    "SKILL.md",
+    "README.md",
+    "CHANGELOG.md",
+    "references/clusters/c09-civilizational-genealogy-constitutions.md",
+    "transworld-identity/c09-change-manifest.json",
+    "transworld-identity/c09-package-after.json",
+    "transworld-identity/c09-package-before.json",
+    "transworld-identity/c09-reading-coverage.json",
+    "transworld-identity/c09-source-review.json",
+    "transworld-identity/c09-sources.json",
+    "transworld-identity/evidence.json",
+    "transworld-identity/provenance.md",
+    "transworld-identity/scope.md",
+    "transworld-identity/validation.json"
+  ],
+  "source_review_scope": "新增c09全文及其路由；未重審既有全部core",
+  "recognition": {
+    "status": "not_run",
+    "max_calls": 8,
+    "calls_used": 0,
+    "reason": "PERSONA_API_KEY未配置；不以同一作者上下文自評冒充隔離辨識。"
+  }
+}

@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- 2026-09-17：新增 c09「文明譜系與地方憲制——從兩河到東亞」，蒸餾《東亞史.md》與《美索不达米亚.md》，附22組來源定位及條件化判斷；接入按題材載入入口。保存本次來源、範圍及驗證於 `transworld-identity/`，原有 `fidelity-ledger/` 歷史記錄保持原樣。新簇狀態為 Candidate，未執行人格辨識評測。將既有啟用入口原文移至標題之後。
+
 ### Changed
 
 - 2026-09-17：將 `references/frameworks.md` 納入首次實質回答前的預設完整必讀清單，簡述其概念定義、推理方法與既有定判功能，並同步入口、參考文件與使用說明。

@@ -1,0 +1,343 @@
+{
+  "summary": "新增模組22組依據完成原文位置、段落指紋、歸屬及條件核對。",
+  "reviewer": "Codex machine-assisted editorial review, same authoring context",
+  "reviewed_all_core_claims": false,
+  "reviewed_scope": "c09全文及新增題材路由；未重審舊core",
+  "limitations": [
+    "作者觀點蒸餾，不是獨立史學審核。",
+    "原書由編者整理，未對照錄音與掃描版。",
+    "未執行人格辨識。"
+  ],
+  "source_checks": [
+    {
+      "claim": "地方不是現代國界的附屬章節；巴蜀、江淮及滇黔有不同的通道與共同體。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "按時期區分交通線、地方行動者和後來的行政界線。",
+        "本次僅擷取地方敘事的入口與代表段落，不覆蓋各地全部歷史。"
+      ],
+      "evidence_ids": [
+        "EA01"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者區分內亞、東北亞與沿海譜系，並承認部分上古分區是從中古以後的分化回溯而來。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "分區與具體時期、政治網絡相連。",
+        "回溯性的分類不等於各時代已有固定民族邊界。"
+      ],
+      "evidence_ids": [
+        "EA02"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者區分人類遷徙與文明形成，以能否自我治理判斷民族建構，不要求種族和語言一致。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "此處為作者的概念界定與比較框架。",
+        "不能用現代族名或單一器物直接證成古代政治認同。"
+      ],
+      "evidence_ids": [
+        "EA03"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "佛教陸海兩路的同名宗教未必具有相同組織，教團承擔社會保護和地方組織。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "觀察教階、財產、福利及實際控制。",
+        "教義師承與組織形態不一定重合。"
+      ],
+      "evidence_ids": [
+        "EA04"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "吳越寺院先行引進墾殖與工程，官府後來整合、推廣並在記錄中取得功勞。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "區分引入、維護、推廣和記錄。",
+        "技術路線、年代與人口敘述是作者論斷，未經本次獨立核實。"
+      ],
+      "evidence_ids": [
+        "EA05"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "南宋士紳藉官府收編寺院資源，也承擔公益；寺院仍存較多特權。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "比較地方團體對官府的依附與延續能力。",
+        "不能抹掉作者承認的士紳公益和寺院剩餘權利。"
+      ],
+      "evidence_ids": [
+        "EA06"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "上海土地章程與業主共同體構成動態憲制過程；自由市與清屬縣城是作者分開處理的單位。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "按照章程、財產、機構和時期追查。",
+        "自由市及子憲法是作者分析用語，不能自動升格為無爭議法定國家地位。"
+      ],
+      "evidence_ids": [
+        "EA07"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者以婚姻见證類比慣例承認，並把日常自由落到法院及附則立法。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "類比服務於本書上海憲制敘事。",
+        "沉默即承認不是跨時代普遍法律規則；未核對引述之原始報告。"
+      ],
+      "evidence_ids": [
+        "EA08"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "金國擴張令皇室、燕地豪族與原有武士獲得不同收益，征服財富可打破原有權利平衡。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "分開領土收益、財政控制、武士負擔與政治權利。",
+        "講解性分紅比例不是量化研究。"
+      ],
+      "evidence_ids": [
+        "EA09"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "滿洲篇同時敘述封建聯盟與帝國的衝突，以及領土和行政整合對民族國家的作用。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "不同政治階段及防衛任務會改變行政整合的作用。",
+        "不可把所有行政國家一律視為同一種衰敗。"
+      ],
+      "evidence_ids": [
+        "EA10"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "條約保護、海關和新軍之外，公局由地方出資者安插人員、監督開支，形成第三套財政。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "分清付款、監督及軍事保護的不同主體。",
+        "作者的制度比喻與語源解說未作獨立法制史驗證。"
+      ],
+      "evidence_ids": [
+        "EA11"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者分開擴張後的政治吸納與恐嚇滲透，認為上海遭遇兩者合擊；單一壓力不必同樣致亡。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "檢查具體吸納、保護和制約機制。",
+        "不是膚色或族名本身決定結果；須與EA13共同閱讀。"
+      ],
+      "evidence_ids": [
+        "EA12"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "上海失敗的三項條件包括外交權、適應總體戰的行政安全體系、擴大至全民的政治共同體。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "相對十九世紀，二十世紀戰爭及政治動員條件已變。",
+        "不可只摘批評人口擴充的段落，忽略作者同時批評代表資格過窄。"
+      ],
+      "evidence_ids": [
+        "EA13"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "神廟組織測量、勞動、工程、倉儲與分配；作者以高低地互動解釋城市和文明傳播。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "解釋要包含制度載體與分工。",
+        "稻米起源等具體譜系說是作者主張，非本次考古認證。"
+      ],
+      "evidence_ids": [
+        "MES01"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者區分文化伊朗化與種族變化，也分開技術模仿與伴隨征服的傳播。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "關注時間、傳播路線和具體攜帶者。",
+        "不少實例不能分清模仿與直接殖民，不能把文化相似等同血緣替換。"
+      ],
+      "evidence_ids": [
+        "MES02"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者用霸權而非後世王朝理解蘇美多國體系，並提出印章文字向東傳播的譜系。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "檢查同時仍存在的地方城邦及來源缺環。",
+        "史詩和形式相似只是其推論材料，不自動證實跨文明直系傳承。"
+      ],
+      "evidence_ids": [
+        "MES03"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者把恩西、盧伽爾分別連到祭司及民間長老，以孩子修鐘的故事解釋路徑依賴。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "早期職務分工可能由小事件形成，固定以後改變成本增加。",
+        "不同城邦可以有不同分工；稱號解讀保留作者歸屬。"
+      ],
+      "evidence_ids": [
+        "MES04"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者從史詩的長老與壯丁議事解讀出錢、流血和決定權，繼而分析統帥與地方機構分享權力。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "區分單城邦的地位與多城邦軍事動員。",
+        "上下議院是比較語彙，不是證明古今法定制度完全同一。"
+      ],
+      "evidence_ids": [
+        "MES05"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "軍事專業化與宮廷藏書繁榮可以伴隨水渠、城市和地方再生能力的破壞。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "分開軍事能力、文化收藏與社會再生。",
+        "不得推成所有技術都退步或任何征服均必定同一後果。"
+      ],
+      "evidence_ids": [
+        "MES06"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "城市依附人口、農村教團和部落有不同自治與法律地位，部落身分也可能藉承接法統取得。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "追查具體財產、仲裁、法統與地方權利。",
+        "不要以地名、血緣或宗教標籤替代制度關係。"
+      ],
+      "evidence_ids": [
+        "MES07"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者將選舉、社會凝聚和軍事能力分開，宗教團體可跨越農村移居城市而保持組織。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "此為2019年講座中的伊拉克分析及對東亞的推演。",
+        "不能沿用為當前職位、人口及政治事實；組織差異不是族群天性。"
+      ],
+      "evidence_ids": [
+        "MES08"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    },
+    {
+      "claim": "作者承認組織度難以量化、婚姻材料不足、文明演化模式只具有限樣本的經驗性，胡鬚意義也不能確定。",
+      "outcome": "pass",
+      "assessment": "作者材料內的忠實轉述及條件保留；不是獨立歷史核驗。",
+      "condition_or_exception": [
+        "對具體問題給出相應證據限制。",
+        "可能存在其他演化路徑，不能升格為普世必然法則。"
+      ],
+      "evidence_ids": [
+        "MES09"
+      ],
+      "dependencies": {
+        "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+      }
+    }
+  ]
+}

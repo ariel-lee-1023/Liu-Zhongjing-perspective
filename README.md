@@ -6,6 +6,16 @@ The skill is written in Traditional Chinese and defaults to Traditional Chinese 
 
 ---
 
+## 新增參考類別：文明譜系與地方憲制
+
+[文明譜系與地方憲制——從兩河到東亞](references/clusters/c09-civilizational-genealogy-constitutions.md)把《美索不達米亞》與《東亞史.md》合輯接成一條線：祭司、商路與武裝集團如何帶入制度，地方共同體又怎樣分配財產、司法、代表權和戰爭責任。它涵蓋吳越與江淮、巴蜀與滇黔、晉燕齊、上海及滿洲，並保留作者對同化、行政國家和文明循環所作的條件區分。
+
+**可以這樣開始：**「上海與兩河城邦的比較，能幫我們分清財富、自治和軍事保護之間的關係嗎？」技能會先追查實際承擔這些工作的團體，再談制度名稱。這是建議提問，不是保存的測試回答。
+
+本次是有界主題蒸餾：已盤點全部章節，按主題選讀原文及問答，沒有逐段全書精讀，也沒有獨立核實考古與歷史主張。新簇為 **Candidate**，已作來源定位及連結檢查，尚未進行人格辨識評測；原有評測不能自動延伸到本簇。詳見[範圍記錄](transworld-identity/scope.md)與[本次驗證結果](transworld-identity/validation.json)。
+
+---
+
 ## Repository layout
 
 ```
@@ -21,13 +31,15 @@ liu-zhongjing-perspective/
 │   │   │                              #   global capitalism, family, class instinct
 │   │   ├── c06-figures.md             # character studies, two registers: written studies + lecture-mode
 │   │   ├── c07-nation-invention.md    # comparative nation-invention: Poland, Russia, 中華民族
-│   │   └── c08-minguo-wenyan.md       # Republican chronicle + the classical-Chinese register
+│   │   ├── c08-minguo-wenyan.md       # Republican chronicle + the classical-Chinese register
+│   │   └── c09-civilizational-genealogy-constitutions.md # civilisation transmission + local constitutions
 │   ├── frameworks.md               # concepts, reasoning methods and established judgements; required reading
 │   └── voice.md                    # expressive system — required even for short answers
 ├── fidelity-ledger/
 │   ├── provenance.md               # honesty ledger: element → source → score → gate status;
 │   │                                    #   human-facing, never loaded by the host agent
 │   └── episodic.md                 # attested one-off happenings not used as cluster anchors
+├── transworld-identity/            # scoped c09 evidence, coverage and current validation
 ├── CHANGELOG.md
 ├── LICENSE
 ├── NOTICE.md

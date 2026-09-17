@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "scope": "single_reference_increment_c09",
+  "status": "candidate",
+  "standard_accepted": false,
+  "source": {
+    "outcome": "pass_for_declared_increment",
+    "records": 22,
+    "reviewed_all_core_claims": false,
+    "review": "c09-source-review.json"
+  },
+  "increment_integrity": {
+    "outcome": "pass",
+    "source_span_count": 49,
+    "runtime_relative_links": [
+      "c02-premodern-order.md",
+      "c07-nation-invention.md",
+      "../voice.md",
+      "../frameworks.md"
+    ],
+    "all_markers_resolve": true,
+    "existing_unrelated_files_byte_preserved": true,
+    "core_changes_limited_to_activation_move_and_new_route": true
+  },
+  "recognition": {
+    "outcome": "not_run",
+    "calls_used": 0,
+    "reason": "No configured PERSONA_API_KEY; no claim of machine recognition."
+  },
+  "runtime_hashes": {
+    "SKILL.md": "sha256:e1c6da37f7e48b09bfec13370c78b127a202bb2f1fffed7fb05929aad09e8e27",
+    "references/frameworks.md": "sha256:a7964612f504a37f0542fb5874580ca40d80de09fa8896be66ea79fd49dfe5fa",
+    "references/voice.md": "sha256:458afc0b144dca18e23ae771950c107ee3c5ca5abee033a949d62ee4f6ba51e6",
+    "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+  },
+  "package": {
+    "outcome": "fail_existing_layout",
+    "validator_exit_code": 1,
+    "failed_checks": [
+      "S9",
+      "S1",
+      "S2",
+      "S3",
+      "C1",
+      "C1b",
+      "C2",
+      "C6"
+    ],
+    "before": "c09-package-before.json",
+    "after": "c09-package-after.json",
+    "assessment": "既有套件尚未採用新版可發現技能目錄，另有舊聲音文件至賬本的連結及README既有連結問題；未在本次單一ref增補中整包遷移。錯誤類別未增加，新增模組連結單獨通過。"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "structure_revision": 2,
+  "package": ".",
+  "skill_root": ".agents/skills/<skill-name>",
+  "strict": false,
+  "checks": [
+    {
+      "check": "S9",
+      "level": "error",
+      "ok": false,
+      "detail": "hidden assessment route in runtime: references/voice.md; runtime link escapes runtime: fidelity-ledger/provenance.md; need reconstruction account at transworld-identity/scope.md; source review checks its responsibilities; README.md: missing local link voice.md; README.md: missing local link content/LZJT/; README.md: missing local link frameworks.md",
+      "effective_level": "error"
+    },
+    {
+      "check": "S1",
+      "level": "error",
+      "ok": false,
+      "detail": "expected exactly one .agents/skills/<name>/SKILL.md; found 0",
+      "effective_level": "error"
+    },
+    {
+      "check": "S2",
+      "level": "error",
+      "ok": false,
+      "detail": "missing .agents/skills/<name>/SKILL.md",
+      "effective_level": "error"
+    },
+    {
+      "check": "S3",
+      "level": "error",
+      "ok": false,
+      "detail": "need references/ with voice.md and frameworks.md",
+      "effective_level": "error"
+    },
+    {
+      "check": "S4",
+      "level": "error",
+      "ok": false,
+      "detail": "missing project-level transworld-identity/provenance.md",
+      "effective_level": "error"
+    },
+    {
+      "check": "S4",
+      "level": "warn",
+      "ok": false,
+      "detail": "episodic.md absent (permitted but expected when episodic material exists)",
+      "effective_level": "warn"
+    },
+    {
+      "check": "S5",
+      "level": "error",
+      "ok": true,
+      "detail": "no ledger files under references/",
+      "effective_level": "error"
+    },
+    {
+      "check": "S6",
+      "level": "warn",
+      "ok": true,
+      "detail": "topic modules may use an equivalent existing layout",
+      "effective_level": "warn"
+    },
+    {
+      "check": "C1",
+      "level": "error",
+      "ok": false,
+      "detail": "frontmatter needs non-empty name and description",
+      "effective_level": "error"
+    },
+    {
+      "check": "C1b",
+      "level": "error",
+      "ok": false,
+      "detail": "frontmatter name '<missing>' must match skill directory '<skill-name>'",
+      "effective_level": "error"
+    },
+    {
+      "check": "C2",
+      "level": "error",
+      "ok": false,
+      "detail": "description empty or contains audit/meta vocabulary: ",
+      "effective_level": "error"
+    },
+    {
+      "check": "C3",
+      "level": "warn",
+      "ok": true,
+      "detail": "skipped: no --headings file supplied (subject-language cores need supplied anchors)",
+      "effective_level": "warn"
+    },
+    {
+      "check": "C4",
+      "level": "error",
+      "ok": true,
+      "detail": "no banned implementation strings in core",
+      "effective_level": "error"
+    },
+    {
+      "check": "S7",
+      "level": "error",
+      "ok": true,
+      "detail": "runtime/evaluation separation",
+      "effective_level": "error"
+    },
+    {
+      "check": "S8",
+      "level": "error",
+      "ok": true,
+      "detail": "no detected raw books or local paths",
+      "effective_level": "error"
+    },
+    {
+      "check": "C5",
+      "level": "error",
+      "ok": true,
+      "detail": "runtime links and disk agree",
+      "effective_level": "error"
+    },
+    {
+      "check": "C6",
+      "level": "error",
+      "ok": false,
+      "detail": "unresolved cluster citations: c01, c02, c03, c04, c05, c06, c07, c08, c09, c10, c11, c12",
+      "effective_level": "error"
+    },
+    {
+      "check": "L1",
+      "level": "warn",
+      "ok": true,
+      "detail": "skipped: provenance.md is missing (reported by S3)",
+      "effective_level": "warn"
+    },
+    {
+      "check": "L2",
+      "level": "error",
+      "ok": false,
+      "detail": "cannot check first provenance heading because provenance.md is missing",
+      "effective_level": "error"
+    },
+    {
+      "check": "L3",
+      "level": "error",
+      "ok": true,
+      "detail": "not applicable: episodic.md is absent",
+      "effective_level": "error"
+    },
+    {
+      "check": "X1",
+      "level": "error",
+      "ok": true,
+      "detail": "references contain no numeric composite/probe score pattern",
+      "effective_level": "error"
+    }
+  ],
+  "errors": 10,
+  "warnings": 1,
+  "verdict": "FAIL"
+}

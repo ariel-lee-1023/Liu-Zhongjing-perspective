@@ -1,0 +1,612 @@
+{
+  "method": "全檔機械盤點章節；EA逐章開篇有界調讀；MES三章的主題段落及問答選讀；發布定位與雜湊，不發布原書全文。",
+  "full_close_read": false,
+  "source_boundary": {
+    "sources": 2,
+    "ocr_pages": 0,
+    "additional_sources": 0,
+    "max_reading_units": 128,
+    "reading_unit_definition": "一個章節開篇節選（最多850字元），或一組最多2500字元的相鄰原文段落；長範圍按此拆分。"
+  },
+  "chapter_survey": [
+    {
+      "heading": "# 一、东南亚原住民与内亚殖民者",
+      "line": 51,
+      "prefix_chars_read": 261,
+      "truncated": false
+    },
+    {
+      "heading": "# 二、爱国主义与帝国主义的斗争",
+      "line": 270,
+      "prefix_chars_read": 336,
+      "truncated": false
+    },
+    {
+      "heading": "# 三、拜占庭主义统治时期的吴越土豪与国际 关系",
+      "line": 493,
+      "prefix_chars_read": 327,
+      "truncated": false
+    },
+    {
+      "heading": "# 四、从中世到近世",
+      "line": 633,
+      "prefix_chars_read": 409,
+      "truncated": false
+    },
+    {
+      "heading": "# 五、寺院的衰退和士大夫的兴起",
+      "line": 806,
+      "prefix_chars_read": 541,
+      "truncated": false
+    },
+    {
+      "heading": "# 六、内亚衰微时代的士大夫与海盗贸易者",
+      "line": 954,
+      "prefix_chars_read": 283,
+      "truncated": false
+    },
+    {
+      "heading": "# 七、哥伦布时代的条约体系与诸夏联盟",
+      "line": 1161,
+      "prefix_chars_read": 455,
+      "truncated": false
+    },
+    {
+      "heading": "# 八、诸夏联盟的灭亡与反恐战争的开始",
+      "line": 1352,
+      "prefix_chars_read": 354,
+      "truncated": false
+    },
+    {
+      "heading": "# 九、内亚、东亚和东南亚的交叉路口",
+      "line": 1498,
+      "prefix_chars_read": 339,
+      "truncated": false
+    },
+    {
+      "heading": "# 十、邦国与帝国",
+      "line": 1729,
+      "prefix_chars_read": 330,
+      "truncated": false
+    },
+    {
+      "heading": "# 十一、内亚衰微时代",
+      "line": 1896,
+      "prefix_chars_read": 245,
+      "truncated": false
+    },
+    {
+      "heading": "# 一、古老文明与近代民族",
+      "line": 2137,
+      "prefix_chars_read": 297,
+      "truncated": false
+    },
+    {
+      "heading": "# 二、种族、邦国和民族国家的源流",
+      "line": 2498,
+      "prefix_chars_read": 539,
+      "truncated": false
+    },
+    {
+      "heading": "# 三、百濮联合酋长国的前世今生",
+      "line": 2732,
+      "prefix_chars_read": 465,
+      "truncated": false
+    },
+    {
+      "heading": "# 四、东南亚的中流砥柱",
+      "line": 2997,
+      "prefix_chars_read": 236,
+      "truncated": false
+    },
+    {
+      "heading": "# 一、内亚面对 东亚的最前线和输液管",
+      "line": 3303,
+      "prefix_chars_read": 405,
+      "truncated": false
+    },
+    {
+      "heading": "# 二、从封建主义到民族主义",
+      "line": 3543,
+      "prefix_chars_read": 169,
+      "truncated": false
+    },
+    {
+      "heading": "# 三、帝国没落与民族复兴",
+      "line": 3737,
+      "prefix_chars_read": 304,
+      "truncated": false
+    },
+    {
+      "heading": "# 四、内亚衰微时代的反恐建国斗争",
+      "line": 3974,
+      "prefix_chars_read": 221,
+      "truncated": false
+    },
+    {
+      "heading": "# 五、东北亚的边疆",
+      "line": 4283,
+      "prefix_chars_read": 314,
+      "truncated": false
+    },
+    {
+      "heading": "# 六、帝国诅咒和民族构建",
+      "line": 4476,
+      "prefix_chars_read": 394,
+      "truncated": false
+    },
+    {
+      "heading": "# 七、新旧殖民主义与民族复兴",
+      "line": 4669,
+      "prefix_chars_read": 532,
+      "truncated": false
+    },
+    {
+      "heading": "# 八、东北亚和东亚的缓冲国",
+      "line": 4877,
+      "prefix_chars_read": 564,
+      "truncated": false
+    },
+    {
+      "heading": "# 九、王国、藩镇与行省",
+      "line": 5090,
+      "prefix_chars_read": 469,
+      "truncated": false
+    },
+    {
+      "heading": "# 一、原住民的迁入和拓殖",
+      "line": 5322,
+      "prefix_chars_read": 707,
+      "truncated": false
+    },
+    {
+      "heading": "# 二、上海自由市初期的外交和宪制",
+      "line": 5453,
+      "prefix_chars_read": 421,
+      "truncated": false
+    },
+    {
+      "heading": "# 三、上海自由市黄金时代的宗主权、司法统 治和附则立法权",
+      "line": 5642,
+      "prefix_chars_read": 497,
+      "truncated": false
+    },
+    {
+      "heading": "# 四、上海自由市的法治、领土和主权者",
+      "line": 5767,
+      "prefix_chars_read": 191,
+      "truncated": false
+    },
+    {
+      "heading": "# 五、上海自由市的南非化和南越化（上）",
+      "line": 5883,
+      "prefix_chars_read": 255,
+      "truncated": false
+    },
+    {
+      "heading": "# 六、上海自由市的南非化和南越化（中）",
+      "line": 6072,
+      "prefix_chars_read": 218,
+      "truncated": false
+    },
+    {
+      "heading": "# 七、上海自由市的南非化和南越化（下）",
+      "line": 6249,
+      "prefix_chars_read": 331,
+      "truncated": false
+    },
+    {
+      "heading": "# 八、上海行政国家的夭折和恐怖主义的兴起",
+      "line": 6420,
+      "prefix_chars_read": 277,
+      "truncated": false
+    },
+    {
+      "heading": "# 一、东北亚的核心",
+      "line": 6730,
+      "prefix_chars_read": 306,
+      "truncated": false
+    },
+    {
+      "heading": "# 二、内亚的新大陆",
+      "line": 6911,
+      "prefix_chars_read": 326,
+      "truncated": false
+    },
+    {
+      "heading": "# 三、东北亚、东亚和内亚的三角斗争",
+      "line": 7142,
+      "prefix_chars_read": 199,
+      "truncated": false
+    },
+    {
+      "heading": "# 四、内亚的衰微和东北亚的崛起",
+      "line": 7348,
+      "prefix_chars_read": 361,
+      "truncated": false
+    },
+    {
+      "heading": "# 五、殖民主义与逆向殖民主义",
+      "line": 7536,
+      "prefix_chars_read": 310,
+      "truncated": false
+    },
+    {
+      "heading": "# 六、清帝国时期的宪制、技术与意识形态",
+      "line": 7701,
+      "prefix_chars_read": 173,
+      "truncated": false
+    },
+    {
+      "heading": "# 七、帝国体系与条约体系下的自组织",
+      "line": 7877,
+      "prefix_chars_read": 358,
+      "truncated": false
+    },
+    {
+      "heading": "# 八、行政国家的产生与发展",
+      "line": 8036,
+      "prefix_chars_read": 304,
+      "truncated": false
+    },
+    {
+      "heading": "# 九、正统主义对决协和主义",
+      "line": 8224,
+      "prefix_chars_read": 214,
+      "truncated": false
+    },
+    {
+      "heading": "# 十、满洲堡垒的陷落及反恐战争的余波",
+      "line": 8419,
+      "prefix_chars_read": 288,
+      "truncated": false
+    },
+    {
+      "heading": "# 后记：没有祖国，自己什么都不是",
+      "line": 8635,
+      "prefix_chars_read": 299,
+      "truncated": false
+    }
+  ],
+  "retained_support_spans": {
+    "EA01": [
+      {
+        "start_line": 1498,
+        "end_line": 1498,
+        "locator_anchor": "江淮的历史是从内亚人和东南亚人的相遇开始的。江淮最古老的 居民也",
+        "span_sha256": "83c573124ea9f260a6ae00668db788bfa734f47f41784fdd18b7429590ba0eb0"
+      },
+      {
+        "start_line": 1896,
+        "end_line": 1896,
+        "locator_anchor": "曹彬 下江南是中古时期以扬州为中心的国际化程度很高的江淮 社会的",
+        "span_sha256": "fe713e341524de59d98994e1e28e4d2291ac0d53b94e64a4d396d499180720fc"
+      },
+      {
+        "start_line": 2193,
+        "end_line": 2195,
+        "locator_anchor": "我们可以从考古学遗址的时间线大致上推断出他们的来源。他们 是从后",
+        "span_sha256": "15d0cb3d4638ee94f1024fc84852a52ec6eb19f04b57537db0983a253f61653f"
+      },
+      {
+        "start_line": 2732,
+        "end_line": 2732,
+        "locator_anchor": "我们所知的夜郎民族，是百濮民族最古老、最强大的一支。百濮 民族和",
+        "span_sha256": "b471985fb8167cc28da238d7d19cc25d015175d9a169581271248dad1abcab29"
+      },
+      {
+        "start_line": 2997,
+        "end_line": 2997,
+        "locator_anchor": "我们今天讲滇国的历史。滇、蜀、缅三个政治实体在种族和文化 上有非",
+        "span_sha256": "0791d0da766161a6072ce0211a089a839be68bc96bc57abd4ea58e59b2aa8678"
+      }
+    ],
+    "EA02": [
+      {
+        "start_line": 3303,
+        "end_line": 3303,
+        "locator_anchor": "晋文化是内亚文化在欧亚大陆的最东端，也是中国或者东亚大多 数时期",
+        "span_sha256": "540f172727267b667174c7d264cb5165a7b2a51102a0603b51263ca81b3c5b6d"
+      },
+      {
+        "start_line": 4283,
+        "end_line": 4283,
+        "locator_anchor": "上古时期的东北亚文化区，你可以把它划分为一个独特的文化 区，也可",
+        "span_sha256": "5b3922b3deb4867f8342c5a8ae0ff284634eb2c24da43c809322f177d5549aa2"
+      },
+      {
+        "start_line": 4476,
+        "end_line": 4476,
+        "locator_anchor": "中古时代是伊朗文化的全盛时期，卢龙节度使的核心集团基本上 是伊朗",
+        "span_sha256": "79a519deffcbc1448d2d9cffd166f62de43b2615a10c17989026a2bc4d6f0077"
+      },
+      {
+        "start_line": 4877,
+        "end_line": 4877,
+        "locator_anchor": "史前时代的东北亚，地理环境和我们现在在地图上所看到的东北 亚是不",
+        "span_sha256": "b4229e897980ab2511809d0ad31da52e48be9164099ecb7c12f9ebe3dfde1999"
+      },
+      {
+        "start_line": 5090,
+        "end_line": 5090,
+        "locator_anchor": "永嘉之乱造成的大洪水，使得东北亚和东亚之间的传统边界从种 族意义",
+        "span_sha256": "796a7f5175c6297dfbbfb2b1770dd383e46aaeb87e8e7bd4d630204296b4b4eb"
+      },
+      {
+        "start_line": 6730,
+        "end_line": 6730,
+        "locator_anchor": "上古时代的东北亚文化区，是由朝鲜半岛、满洲、燕山山脉、滦 河流域",
+        "span_sha256": "cc56273e47593b7b3559d5e1118438a8f29db12acfea28fb091655f7b1768a1b"
+      },
+      {
+        "start_line": 6911,
+        "end_line": 6911,
+        "locator_anchor": "渤海国的二元体制在历史上产生了很多有趣的结果。最主要的一 个就是",
+        "span_sha256": "94b57cbb2dc8045fe57544c758193b27e6c7c57fbb1cbe50c6535e22838615eb"
+      },
+      {
+        "start_line": 7142,
+        "end_line": 7142,
+        "locator_anchor": "东北亚在五世纪以前也是技术落后区，那时的先进区只有内亚； 但是到",
+        "span_sha256": "6dc2cd8142519dccacbb56e9bc6576b7972e0a590c7a9cfaee94c462922ee183"
+      }
+    ],
+    "EA03": [
+      {
+        "start_line": 2137,
+        "end_line": 2137,
+        "locator_anchor": "人类本身的历史和人类文明的历史在定义上稍微有一点点差异。 所谓人",
+        "span_sha256": "ed66b2ad3f68cb5a438f586827c822b8a80e828bf33be76a482ce9ffac813ecb"
+      },
+      {
+        "start_line": 2498,
+        "end_line": 2516,
+        "locator_anchor": "我们在以前的许多讲座中都强调过，民族国家是一个近代的创 造，产生",
+        "span_sha256": "cc0f8b63be625f6a08e66405dd8741c166e2dd9f8b3d6d4b32a85c4f339028b9"
+      }
+    ],
+    "EA04": [
+      {
+        "start_line": 806,
+        "end_line": 824,
+        "locator_anchor": "十世纪到十二世纪之间，吴越佛教达到鼎盛时期，几乎吸收或兼 并了以",
+        "span_sha256": "f38504574017db8713418db3c89300e26a54e1ec2aa7a0fba13abc65b0cd82cc"
+      }
+    ],
+    "EA05": [
+      {
+        "start_line": 854,
+        "end_line": 864,
+        "locator_anchor": "可以列举出来：第一，东南亚的双季稻和多季稻；第二，修建滩涂石 塘",
+        "span_sha256": "9734e1c7441d313a69863fad3b04b5ceb2446a771532d5b64bdbe4e543ac4f66"
+      }
+    ],
+    "EA06": [
+      {
+        "start_line": 954,
+        "end_line": 962,
+        "locator_anchor": "寺院是吴越文化的集大成者，而士大夫则是主要的收割者。资源 从寺院",
+        "span_sha256": "002d4266751075bb2df1c6b1a731e8be1a86857987b456e4f7edf4b9f5b232ca"
+      }
+    ],
+    "EA07": [
+      {
+        "start_line": 5322,
+        "end_line": 5322,
+        "locator_anchor": "上海可以说是像马基维利那种政治理论家最梦寐以求的实验室， 因为它",
+        "span_sha256": "a8f3b5a8c48d01d10a3feb5c42d882b291e074fb82b46951b2bbc82910ecd372"
+      },
+      {
+        "start_line": 5453,
+        "end_line": 5453,
+        "locator_anchor": "一八四五年的第一个土地章程，奠定了上海自由市的根基。它从 历史和",
+        "span_sha256": "c550a107a06ffe4278de2dcdc205ed5a4dbcca02a83208306a9b037105237865"
+      },
+      {
+        "start_line": 5642,
+        "end_line": 5642,
+        "locator_anchor": "一八五四年土地章程和一八四五年土地章程的关系，在上海自由 市的宪",
+        "span_sha256": "ffdbcc5484bf8a445cc97cd5a2d66ff9ed696450a1ac0ca134e6f365862f1e88"
+      }
+    ],
+    "EA08": [
+      {
+        "start_line": 5668,
+        "end_line": 5678,
+        "locator_anchor": "一些非常伟大的人物，如果我们把他们跟胡适称之为非常伟大的一九 一",
+        "span_sha256": "13c11254bee17ff8ba5d1cd3862ef0daee53cb0d6e79a91ca8cc27e59f88da8e"
+      },
+      {
+        "start_line": 5710,
+        "end_line": 5720,
+        "locator_anchor": "法裔居民经常对英裔居民的优势地位表示不满意，并企图让法国 领事建",
+        "span_sha256": "26d7acebf7e6e3dcc285dc0bf8162064a9abec94a6a7bd52fb11f090dcedcfac"
+      }
+    ],
+    "EA09": [
+      {
+        "start_line": 4669,
+        "end_line": 4669,
+        "locator_anchor": "辽金之变 是燕人豪族在政治上最大的胜利。可以说，他们以一 种不仅",
+        "span_sha256": "c47ffcbed3e366bb9ece9f9017bb189814d5c859f93a9b6ba99956f705a14a0e"
+      },
+      {
+        "start_line": 7386,
+        "end_line": 7404,
+        "locator_anchor": "勃极烈制度在满洲本身经历了由盛转衰的过程，主要就是由于征 服所带",
+        "span_sha256": "55370c41c3c77411425d4ea384b51cd2103871b6a4505f2aa6058e5e5330efd4"
+      },
+      {
+        "start_line": 7536,
+        "end_line": 7536,
+        "locator_anchor": "金人南下，使燕人变成了最大的赢家。他们好像是一个小股东， 投了百",
+        "span_sha256": "2bbcbc7e209dbedc7f16d42bbcb393bd04dbc5549d32e6c00d67d126e64457ce"
+      }
+    ],
+    "EA10": [
+      {
+        "start_line": 7701,
+        "end_line": 7701,
+        "locator_anchor": "日本史和满洲史的共同特点是，封建联盟在帝国体制占上风的时 候会被",
+        "span_sha256": "efcf5c58b9b7f130f523721937709bca84e44fdd2a2881ae8c51a0abcc8d04c2"
+      },
+      {
+        "start_line": 8036,
+        "end_line": 8036,
+        "locator_anchor": "民族国家是领土和民族的总和，而封建国家则是属人的，不一定 是属地",
+        "span_sha256": "d1e7e8048ce63bfa58bffdada40949be7255162c89bf6b7ae96bc8798488b684"
+      },
+      {
+        "start_line": 8419,
+        "end_line": 8419,
+        "locator_anchor": "近代满洲的协和主义建设，始于辛亥年间的三省保安会和议会联 合会。",
+        "span_sha256": "dde84e40a6bcbe4ed4e52feadc4d5771c2c1c8398c34b6460427e0eded75404d"
+      }
+    ],
+    "EA11": [
+      {
+        "start_line": 1201,
+        "end_line": 1207,
+        "locator_anchor": "由于满蒙集团和湘淮集团的冲突，以及英、日、俄在北京的外交 博弈，",
+        "span_sha256": "b1528ceec522291b0122af5eef7b7a7123a03f443831c0f2bee07a73f668ea81"
+      }
+    ],
+    "EA12": [
+      {
+        "start_line": 6072,
+        "end_line": 6084,
+        "locator_anchor": "自由秩序的退化，在很多情况下是出于两个主要因素。第一个因 素就是",
+        "span_sha256": "fa5acdd17a015ecd8ede4b0f54158f031fdab0ebf3fa6c6e09d9387175b6c280"
+      },
+      {
+        "start_line": 6106,
+        "end_line": 6112,
+        "locator_anchor": "工部局在十九世纪采取的这些做法，在几十年内是可以相安无事 的，但",
+        "span_sha256": "d47d35c587923a966bd60c9e43782fe9fc8792cca3ef934544d1b433e40d1853"
+      },
+      {
+        "start_line": 6249,
+        "end_line": 6249,
+        "locator_anchor": "上海自由市南非化的关键在于一九一九年国民党控制的纳税华人 会，上",
+        "span_sha256": "5872480a75362541ccca6d1456e3772b9691e983ee3a291cedc2798fd351b139"
+      }
+    ],
+    "EA13": [
+      {
+        "start_line": 6420,
+        "end_line": 6432,
+        "locator_anchor": "上海作为建构民族国家的失败案例，是二十世纪的远东最有意义 的历史",
+        "span_sha256": "7a9d450c9a4f197b49fb80a5f0d097d90b9a43c2e84bbe912d09fd7e7c1d6452"
+      }
+    ],
+    "MES01": [
+      {
+        "start_line": 85,
+        "end_line": 107,
+        "locator_anchor": "我们回到之前的段落，因为我们才刚刚讲到美索不达米亚当时还 主要是",
+        "span_sha256": "86f106d40dcb17c080ee9dd0e95b2956e16b62eb9ffafe888f231666c09c4548"
+      },
+      {
+        "start_line": 493,
+        "end_line": 509,
+        "locator_anchor": "我们可以简单地将美索不达米亚划分为两个地区：苏美人所谓的 外山和",
+        "span_sha256": "1369b3d34c287281d9c33ee25c608bdabc34f9c871b48d44accbae7897d71382"
+      },
+      {
+        "start_line": 627,
+        "end_line": 635,
+        "locator_anchor": "果给我们。我们被蚊子叮了，发烧，在我们的传说中间说是恶灵作 祟，",
+        "span_sha256": "e8a5768c7a34f9aeca53c2811e2c30857037b0f7356f8b549568626fcf9ef3c3"
+      }
+    ],
+    "MES02": [
+      {
+        "start_line": 316,
+        "end_line": 326,
+        "locator_anchor": "埃兰山地不属于肥沃月弯地带。各位要明白，西部那些游牧民族 和美索",
+        "span_sha256": "f15b695fc90eb1fdd8d3e0d5f648a77884d3f7ff4298606e67b39e054a199445"
+      },
+      {
+        "start_line": 364,
+        "end_line": 370,
+        "locator_anchor": "交通技术落后不落后跟它的传播是没有关系的。比如说东线，一 直传到",
+        "span_sha256": "fc5c34e6d1d59ffc690067d422b421943387871b74101051dd8e2d1948ba7211"
+      }
+    ],
+    "MES03": [
+      {
+        "start_line": 167,
+        "end_line": 195,
+        "locator_anchor": "这段历史一定是隐藏在埃利都，甚至是比埃利都更早的、至少有 五千年",
+        "span_sha256": "6af3ee1211aaa1e3f64cd2ced361c359dc9bcb175cdba9ac098bbdcfab45f46d"
+      }
+    ],
+    "MES04": [
+      {
+        "start_line": 940,
+        "end_line": 964,
+        "locator_anchor": "恩西这个词来源于恩（EN），它出自于神庙的祭司首领。卢伽尔 这个",
+        "span_sha256": "20c7acf0d28830faf9e386860a2841248e225805a7e25cd3b8fc12f9d9433292"
+      }
+    ],
+    "MES05": [
+      {
+        "start_line": 966,
+        "end_line": 1002,
+        "locator_anchor": "卢伽尔好像没有什么不同。温马的卢伽尔跟乌鲁克的恩西一样，他有 事",
+        "span_sha256": "14b97bd837aafa66300c7f29bf8eeef862b37a9fe352a579dd2c4b110d01a439"
+      }
+    ],
+    "MES06": [
+      {
+        "start_line": 1004,
+        "end_line": 1022,
+        "locator_anchor": "这些哀歌和挽歌多半要等到十九世纪甚至二十世纪我们才见到， 但是这",
+        "span_sha256": "0ea9b213aa145ff00ad82d59ce2e1c77439f56129080cb66c971152d6aa46443"
+      }
+    ],
+    "MES07": [
+      {
+        "start_line": 1074,
+        "end_line": 1088,
+        "locator_anchor": "在这种情况之下，征服君士坦丁堡和埃及的、装备了欧洲军器和 重炮的",
+        "span_sha256": "f20da946cdd759d890b5e071c6ee415959d3d5d6e61014512834abf3b7decd1c"
+      }
+    ],
+    "MES08": [
+      {
+        "start_line": 1110,
+        "end_line": 1144,
+        "locator_anchor": "最后剩下来的这些力量就是在农村费拉中有相当大力量和一定组 织度的",
+        "span_sha256": "26d9b89ab33f68c00969e0772be9c0ee451f9b4933a6ddfcbf64fd21480f463c"
+      }
+    ],
+    "MES09": [
+      {
+        "start_line": 1168,
+        "end_line": 1170,
+        "locator_anchor": "组织度是不容易量化计算的，因为早期文明留下的材料很有限， 只够提",
+        "span_sha256": "65e13e0bc515d4b2fd1f3b31f982706e5be5cae7aa5c9352e4ac8b8160eaa3cd"
+      },
+      {
+        "start_line": 1212,
+        "end_line": 1226,
+        "locator_anchor": "当然是《乌尔纳姆法典》更自由一些。它离多国体系不远，习惯 法的精",
+        "span_sha256": "625a0ada075b5496511f886dbd8af6d434381a3e35b544b95bada5e96805f35c"
+      },
+      {
+        "start_line": 1290,
+        "end_line": 1292,
+        "locator_anchor": "当然可能有别的演化结构。从统计频率来讲的话，文明提供的样 本数目",
+        "span_sha256": "e03e93b5bd1aabfd8643add791b27d15d2ac4dcd8e7fb7434265b3e8f73d1344"
+      },
+      {
+        "start_line": 1320,
+        "end_line": 1322,
+        "locator_anchor": "这个目前还看不出来。而且，不是所有美索不达米亚君主都有长 胡须，",
+        "span_sha256": "28064d6c4bca4afdd2d07882f8925ce063530749ffedc9ec33eb9fc3c6266078"
+      }
+    ]
+  },
+  "limitations": "部分較長工具回傳曾截斷；成稿保留的論點由可見段落和後續定點回讀支持，沒有把被截斷部分算成完整精讀。"
+}
