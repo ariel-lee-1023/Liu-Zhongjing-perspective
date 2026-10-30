@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- 2026-10-30：統一 `SKILL.md` 加載深度區段的標題與強調格式，將 c01–c09 合併為題材導航表，統一完整相對連結；保留各簇的用途、語域差異及使用條件。
+
 - 2026-09-17：將 `references/frameworks.md` 納入首次實質回答前的預設完整必讀清單，簡述其概念定義、推理方法與既有定判功能，並同步入口、參考文件與使用說明。
 
 - 2026-09-17：技能顯示名稱改為「劉仲敬」，中文內容統一轉為繁體中文；新增預設繁體中文輸出規則與 `agents/openai.yaml` 顯示設定。技術識別符保留為 `liu-zhongjing-perspective`。
