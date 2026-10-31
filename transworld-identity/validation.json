@@ -1,21 +1,23 @@
 {
   "schema_version": 1,
-  "scope": "author-summary correction: move editorial essays outside references and integrate source-grounded book distillation into C02",
+  "scope": "source-grounded cultivation distillation within existing frameworks, B-family literary sample, and deeper C02 arguments",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
     "outcome": "pass_for_declared_editorial_scope",
-    "reused_source_groups": 33,
-    "new_source_groups": 0,
+    "new_source_groups": 5,
+    "revisited_source_groups": [
+      "J07"
+    ],
+    "inherited_source_groups": 33,
     "reviewed_all_core_claims": false,
-    "review": "distillation-correction-2026-10-31/correction.json",
-    "coverage": "books-2026-10-31/reading-coverage.json",
+    "review": "cultivation-2026-10-31/source-review.json",
+    "coverage": "cultivation-2026-10-31/reading-coverage.json",
     "independent_reviewer": false
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "distillation-correction-2026-10-31/checks.json",
-    "migration": "distillation-correction-2026-10-31/correction.json"
+    "record": "cultivation-2026-10-31/checks.json"
   },
   "recognition": {
     "outcome": "not_run",
@@ -25,15 +27,15 @@
   "runtime_hashes": {
     "SKILL.md": "sha256:8bea077ffe981e43864107556992dade4266fab8a19022975e829d9dae887815",
     "references/clusters/c01-ayi-life-advice.md": "sha256:2a58fb606d7076f0b786551d504ff66d700cee056d6b8e3c2be5a810779375ab",
-    "references/clusters/c02-premodern-order.md": "sha256:47024680b3a162f0bed5a461dfbfff863631244d3f6020ccbbf452d06e0556bc",
+    "references/clusters/c02-premodern-order.md": "sha256:600ccf6a3df64d704a8b8e668ba94da297198bcdf1ad961dd48aaf54bfd39fb4",
     "references/clusters/c03-wadi-psychology.md": "sha256:54044d45169427413e6c2370fca581eaa8a0a3a3bce9ab1098793acbdb383340",
     "references/clusters/c04-civilization-theory.md": "sha256:2916db97b361bc6e078be28a271b113722b835bb8c84c676c9a68ba6f5ae1d0c",
     "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12",
     "references/clusters/c06-figures.md": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
     "references/clusters/c07-nation-invention.md": "sha256:4438467f69a44533b2e005e827f5040dd7a29f0561e925bbb4f7e2acc550cc44",
     "references/clusters/c08-minguo-wenyan.md": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e",
-    "references/frameworks.md": "sha256:8120239570f6588bac5fc0a7a8b6efda553bad04bc65ca10ebde177c1bf654d0",
-    "references/voice.md": "sha256:f552ed2bf4cf3f3e54f39875625d6667e02833ae193fc4e76953281d4cf182de"
+    "references/frameworks.md": "sha256:5871b4dc99192f5eea5872f81bdcba5cc81f74020770b6380442ae464a3604aa",
+    "references/voice.md": "sha256:f8816c921ed73cc65ba5ec3a69fddc14d3dd49011358dbb6c50a379dfeec5257"
   },
   "package": {
     "outcome": "fail_existing_layout",
@@ -50,8 +52,8 @@
       "S3"
     ],
     "new_failed_checks": [],
-    "before": "distillation-correction-2026-10-31/package-before.json",
-    "after": "distillation-correction-2026-10-31/package-after.json"
+    "before": "cultivation-2026-10-31/package-before.json",
+    "after": "cultivation-2026-10-31/package-after.json"
   },
-  "previous_validation": "distillation-correction-2026-10-31/validation-before.json"
+  "previous_validation": "cultivation-2026-10-31/validation-before.json"
 }

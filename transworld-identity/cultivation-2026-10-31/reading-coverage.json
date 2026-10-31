@@ -1,0 +1,52 @@
+{
+  "scope": "本輪有界原文閱讀；抽取不等於閱讀；前次選讀與此次選讀均不代表全書覆蓋。",
+  "source_sha256": "268d48eb519f0c3fcf79478fbe524b7f853edef588e674cd85925cb7f3394d87",
+  "confirmed_windows": [
+    {
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "start": 4386,
+      "end": 7600,
+      "sha256": "2ac4e6007dfcdfab84cfb20222ca76f8986360e7061199565ed473ede60903bc"
+    },
+    {
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "start": 7600,
+      "end": 10116,
+      "sha256": "7f467f8d6499905ba3a6494519e88a41a4fa273bc09f0f1e9c9d0c14446c1e1a"
+    },
+    {
+      "locator": "OEBPS/Text/ch04t.xhtml",
+      "start": 9427,
+      "end": 12700,
+      "sha256": "77c79d2efe9c6c32318ef437644eaaf51c317248b509484060c0dcace768b271"
+    },
+    {
+      "locator": "OEBPS/Text/ch05t.xhtml",
+      "start": 8698,
+      "end": 11900,
+      "sha256": "c1b403958ff691f24c8ddfd54d90523e6e64be21dea4f51b6d001fcc288d2a38"
+    },
+    {
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "start": 10583,
+      "end": 13800,
+      "sha256": "511276a47d65a35f97db261c9a2ae9328f32645efac6f6d78413f92a3771d7eb"
+    },
+    {
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "start": 10116,
+      "end": 14823,
+      "sha256": "b40011d39b9be3db1836566756141045e683148c3447b65b42fe709abecc080d"
+    },
+    {
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "start": 13800,
+      "end": 15819,
+      "sha256": "e4b061697da847cd56a7447b590d7b18dc295c778ed2ace92ce0203608aa4fc1"
+    }
+  ],
+  "window_count": 7,
+  "characters_read": 22148,
+  "new_unique_characters_vs_books_round": 17441,
+  "previous_coverage": "../books-2026-10-31/reading-coverage.json"
+}

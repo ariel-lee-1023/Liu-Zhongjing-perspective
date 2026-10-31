@@ -86,7 +86,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 民族發明、文明傳播與地方憲制現已整合至同一主題模組；地緣角色與通用道統分析歸入地緣、資本與階級模組。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
 
-《經與史》《從華夏到中國》的作者觀點現歸納於 C02，包括經史關係、宗法與契約、儒學演變，以及郡縣、家族、科舉和軍役財政。先前兩篇混入編者應用建議的專題已移出 references，不再載入。選讀範圍未擴大為全書覆蓋；詳見[修訂記錄](transworld-identity/distillation-correction-2026-10-31/report.md)。
+《經與史》《從華夏到中國》的作者觀點歸納於 C02；補充重點包括修養與知識的分離、禮制的成熟與退化、項羽的共同體義務、新莽與東漢，以及朝廷、幕府和科舉的演變。指定的修養段落也補入既有框架，並作為 B 語族文學性的原文範本。先前混入編者應用建議的兩篇專題已移出 references，不再載入。新增選讀及核對範圍見[修訂記錄](transworld-identity/cultivation-2026-10-31/report.md)，不代表全書覆蓋。
 
 《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。原有 [c09 範圍記錄](transworld-identity/scope.md) 與[增補驗證](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
 

@@ -1,0 +1,499 @@
+{
+  "outcome": "pass_for_declared_increment",
+  "checks": [
+    {
+      "check": "framework_headings_unchanged",
+      "ok": true,
+      "detail": "所有既有標題逐字不變，沒有新增section"
+    },
+    {
+      "check": "framework_entries_unchanged",
+      "ok": true,
+      "detail": "只補既有條目，不增條目"
+    },
+    {
+      "check": "framework_three_existing_entries",
+      "ok": true,
+      "detail": "僅在認知功能、德性、微環境共同演化條目末尾補充"
+    },
+    {
+      "check": "c02_direct_statement",
+      "ok": true,
+      "detail": "全文三項均零命中"
+    },
+    {
+      "check": "c02_no_substitute_author_narrator",
+      "ok": true,
+      "detail": "未以作者認為替代姓名或他"
+    },
+    {
+      "check": "voice_A",
+      "ok": true,
+      "detail": "既有語域或統計逐字不變"
+    },
+    {
+      "check": "voice_C",
+      "ok": true,
+      "detail": "既有語域或統計逐字不變"
+    },
+    {
+      "check": "voice_B_statistics",
+      "ok": true,
+      "detail": "既有語域或統計逐字不變"
+    },
+    {
+      "check": "voice_metrics",
+      "ok": true,
+      "detail": "既有語域或統計逐字不變"
+    },
+    {
+      "check": "voice_verbatim_sample",
+      "ok": true,
+      "detail": "344字與原EPUB正文一致"
+    },
+    {
+      "check": "voice_literary_observations",
+      "ok": true,
+      "detail": "文學性分別歸納措辭、節奏、類比、頓挫、意象；內容由編輯覆讀"
+    },
+    {
+      "check": "c02_inherited_sources_preserved",
+      "ok": true,
+      "detail": [
+        "H01",
+        "H02",
+        "H03",
+        "H04",
+        "H05",
+        "H06",
+        "H07",
+        "H08",
+        "H09",
+        "H10",
+        "H11",
+        "H12",
+        "H14",
+        "H15",
+        "H16",
+        "J01",
+        "J02",
+        "J03",
+        "J04",
+        "J05",
+        "J06",
+        "J07",
+        "J08",
+        "J09",
+        "J10",
+        "J11",
+        "J12",
+        "J13",
+        "J14",
+        "J15",
+        "J16",
+        "J17",
+        "J18"
+      ]
+    },
+    {
+      "check": "c02_new_sources",
+      "ok": true,
+      "detail": [
+        "J19",
+        "J20",
+        "J21",
+        "J22",
+        "J23"
+      ]
+    },
+    {
+      "check": "c02_source_table",
+      "ok": true,
+      "detail": "38 個代碼均有篇章定位"
+    },
+    {
+      "check": "runtime_and_report_links",
+      "ok": true,
+      "detail": {
+        "count": 64,
+        "broken": []
+      }
+    },
+    {
+      "check": "editorial_notes_not_loaded",
+      "ok": true,
+      "detail": "兩篇專題未回流runtime"
+    },
+    {
+      "check": "only_authorized_existing_files",
+      "ok": true,
+      "detail": [
+        "README.md",
+        "references/frameworks.md",
+        "references/voice.md",
+        "transworld-identity/scope.md",
+        "transworld-identity/provenance.md",
+        "references/clusters/c02-premodern-order.md"
+      ]
+    },
+    {
+      "check": "user_agents_preserved",
+      "ok": true,
+      "detail": "既有使用者修改原樣保留，不提交"
+    },
+    {
+      "check": "core_and_other_clusters_preserved",
+      "ok": true,
+      "detail": "其他runtime逐字保留"
+    },
+    {
+      "check": "no_new_package_errors",
+      "ok": true,
+      "detail": [
+        "C1",
+        "C1b",
+        "C2",
+        "C6",
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "check": "no_new_package_warnings",
+      "ok": true,
+      "detail": [
+        "L1",
+        "S4"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c06-figures.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "SKILL.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#可以帶來的問題",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#開始使用",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#檔案與載入",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#來源及其作用",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#範圍與目前狀態",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "#授權",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/frameworks.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/voice.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/frameworks.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/voice.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "fidelity-ledger/",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c06-figures.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/provenance.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/provenance.md#readme-editorial-review-2026-10-30",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/cultivation-2026-10-31/report.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/scope.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/history/refs-2026-10-31/validation-before.json",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/refs-2026-10-31/report.md",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "transworld-identity/validation.json",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "LICENSE",
+      "ok": true
+    },
+    {
+      "from": "README.md",
+      "target": "NOTICE.md",
+      "ok": true
+    },
+    {
+      "from": "references/voice.md",
+      "target": "frameworks.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c08-minguo-wenyan.md",
+      "target": "c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c08-minguo-wenyan.md",
+      "target": "../voice.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c07-nation-invention.md",
+      "target": "c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c07-nation-invention.md",
+      "target": "c05-geopolitics-capital-and-class.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c07-nation-invention.md",
+      "target": "../frameworks.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c07-nation-invention.md",
+      "target": "../voice.md",
+      "ok": true
+    },
+    {
+      "from": "references/clusters/c07-nation-invention.md",
+      "target": "c06-figures.md",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "../../references/frameworks.md",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "../../references/voice.md",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "../../references/clusters/c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "source-review.json",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "reading-coverage.json",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "measurements.json",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "checks.json",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "package-before.json",
+      "ok": true
+    },
+    {
+      "from": "transworld-identity/cultivation-2026-10-31/report.md",
+      "target": "package-after.json",
+      "ok": true
+    }
+  ],
+  "manual_review": {
+    "source_and_paraphrase": "完成新來源論點的逐組對照；不是獨立史學驗證",
+    "voice": "觀察文學性，不列框架操作次序",
+    "quotations": "需要去除他字的舊引文改為歸納，沒有保留改字後的引號；未重驗全部舊語料"
+  },
+  "package_status": "7 existing errors, 2 existing warnings; no recognition calls"
+}

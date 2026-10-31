@@ -1,0 +1,135 @@
+{
+  "scope": "指定段落提煉、B語族文學性歸納與C02關鍵論述補充",
+  "source": {
+    "id": "J",
+    "filename": "經與史華夏世界的歷史建構 (劉仲敬) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "sha256": "268d48eb519f0c3fcf79478fbe524b7f853edef588e674cd85925cb7f3394d87",
+    "extraction": "EPUB spine-order XHTML; block paragraph/heading text joined by newline; preserve empty paragraphs; UTF-8; offsets zero-based half-open in joined item text."
+  },
+  "reviewer": "same authoring agent; not independent",
+  "new_source_groups": 5,
+  "revisited_source_groups": [
+    "J07"
+  ],
+  "inherited_source_groups": 33,
+  "previous_source_map": "../distillation-correction-2026-10-31/correction.json",
+  "previous_source_records": "../books-2026-10-31/source-review.json",
+  "reviewed_all_core_claims": false,
+  "records": [
+    {
+      "id": "J07",
+      "new": false,
+      "source": "J",
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "start": 10116,
+      "end": 14823,
+      "sha256": "b40011d39b9be3db1836566756141045e683148c3447b65b42fe709abecc080d",
+      "topic": "修養、知識與游士",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "修養高低與知識真偽分開；共同演化產生狀態，記錄教學損失關係中的能力；游士解放與社會解體同時發生。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md",
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    },
+    {
+      "id": "J19",
+      "new": true,
+      "source": "J",
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "start": 4386,
+      "end": 10116,
+      "sha256": "788afc7c690c21e15388f86f67c7600f697e590f594083bc118775a551f60eb4",
+      "topic": "禮樂與列國憲制",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "春秋成熟、戰國退化，不能一律視為衰落；齊、晉、鄭、魯、楚的政治與判斷均保留各自比較條件。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    },
+    {
+      "id": "J20",
+      "new": true,
+      "source": "J",
+      "locator": "OEBPS/Text/ch04t.xhtml",
+      "start": 9427,
+      "end": 12700,
+      "sha256": "77c79d2efe9c6c32318ef437644eaaf51c317248b509484060c0dcace768b271",
+      "topic": "項羽與共同體",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "領袖受共同體邊界約束；相對戰力變化來自衰退速度差；不把來源對烏江的價值解釋冒充獨立查證的心理事實。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    },
+    {
+      "id": "J21",
+      "new": true,
+      "source": "J",
+      "locator": "OEBPS/Text/ch05t.xhtml",
+      "start": 8698,
+      "end": 11900,
+      "sha256": "c1b403958ff691f24c8ddfd54d90523e6e64be21dea4f51b6d001fcc288d2a38",
+      "topic": "新莽與東漢",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "理想實踐的矛盾、後世宗族正當性與黨錮的治理成本；不把儒家各階段合併為同一政策。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    },
+    {
+      "id": "J22",
+      "new": true,
+      "source": "J",
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "start": 10583,
+      "end": 13800,
+      "sha256": "511276a47d65a35f97db261c9a2ae9328f32645efac6f6d78413f92a3771d7eb",
+      "topic": "朝廷與幕府",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "二元權力造成家族分裂；北周省費源於軍事組織；不以文化程度或君主品性取代組織解釋。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    },
+    {
+      "id": "J23",
+      "new": true,
+      "source": "J",
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "start": 13800,
+      "end": 15819,
+      "sha256": "e4b061697da847cd56a7447b590d7b18dc295c778ed2ace92ce0203608aa4fc1",
+      "topic": "科舉、門閥與內外朝",
+      "speaker": "作者正文議論；不用重複插圖說明充當額外證據",
+      "retained_reasoning_and_boundary": "評定權轉移與門閥除根是緩慢過程；朝代更迭不等於革命；制度繁複與權力穩定不能等同。",
+      "used_in": [
+        "references/clusters/c02-premodern-order.md"
+      ],
+      "review": "supported_with_stated_conditions"
+    }
+  ],
+  "verbatim_sample": {
+    "locator": "OEBPS/Text/ch03t.xhtml",
+    "start": 12275,
+    "end": 12619,
+    "sha256": "c2f49690bc71fab9c2ff58bffd6ad8fbf9d7d2d6d766dc6fddc06855c856db1b",
+    "characters": 344,
+    "placement": "references/voice.md §2.3",
+    "comparison": "與本地 EPUB 正文逐字一致；使用者摘錄末尾補原書句號。"
+  },
+  "editorial_decisions": [
+    "frameworks 僅補既有認知功能、德性、微環境共同演化三個條目，不新增標題或條目。",
+    "voice 歸納詞語質感、長短句節奏、類比、對偶、意象與褒貶；不把框架運行次序當作聲音。",
+    "C02 全文改為直接陳述；原有含他字的引述改作不帶引號的忠實歸納，不在引號中改字。",
+    "C02 甲組和講座段落僅根據既有引述改寫敘述口吻，本輪未重新調讀其全部原始語料。",
+    "舊語料統計不重算、不當作本次產物辨識分數；B語族樣本只增加質性觀察。",
+    "兩篇既有編輯專題仍在 editorial-notes，未回流到 references。"
+  ]
+}

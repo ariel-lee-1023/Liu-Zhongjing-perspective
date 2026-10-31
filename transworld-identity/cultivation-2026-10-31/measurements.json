@@ -1,0 +1,26 @@
+{
+  "meaning": "實際篇幅，含標點與Markdown；不等於蒸餾充分度或辨識成績。使用者要求直接在C02補足論述，不因通用篇幅上限截斷來源論證。",
+  "files": {
+    "references/frameworks.md": {
+      "before_characters": 7394,
+      "after_characters": 7827,
+      "delta_characters": 433,
+      "before_han": 5409,
+      "after_han": 5765
+    },
+    "references/voice.md": {
+      "before_characters": 8608,
+      "after_characters": 9851,
+      "delta_characters": 1243,
+      "before_han": 4774,
+      "after_han": 5770
+    },
+    "references/clusters/c02-premodern-order.md": {
+      "before_characters": 12362,
+      "after_characters": 15942,
+      "delta_characters": 3580,
+      "before_han": 9924,
+      "after_han": 13048
+    }
+  }
+}

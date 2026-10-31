@@ -162,3 +162,8 @@ pending directory deletions or publish unrelated working-tree changes.
 使用者指出前次兩篇專題混入編者分析，要求移出 references，參考模組只能是對作者的歸納總結。兩篇現存於 `editorial-notes/books-2026-10-31/`，不再載入。C02 的乙組重新依兩書歸納作者觀點、因果及限定，刪去編者讀題與應用建議；原有問答、講座案例保持其來源，未假稱全部舊內容已重新核驗。
 
 兩書與33組既有來源區間再次驗指紋，歸納的章節映射、移動路徑、編輯決定與實際篇幅見 [更正記錄](distillation-correction-2026-10-31/report.md)。前次 source-review 的 used_in 指向歷史版本，不再是當前載入表。核心僅修改技術歸屬說明與入口，README 開場、voice、frameworks、C05 和其他主簇不改。使用者 AGENTS.md 改動不提交。無新增辨識呼叫，保留 Candidate 與既有套件問題的實際狀態。
+
+
+## 2026-10-31 · 修養、文學性與關鍵史論
+
+本輪在既有 frameworks 條目中補入指定段落的定見與思路，以原文補充 B 語族文學性，並沿《經與史》的論述補 C02。新增 J19–J23 五組來源，重讀 J07；C02 改直接陳述，不含作者姓名與「他」。七個確認閱讀視窗仍屬有界選讀，未覆蓋全書。變動、出處和實際驗證見[本輪記錄](cultivation-2026-10-31/report.md)。既有來源與評測保持原來適用範圍；零新增辨識呼叫，仍為 Candidate。
