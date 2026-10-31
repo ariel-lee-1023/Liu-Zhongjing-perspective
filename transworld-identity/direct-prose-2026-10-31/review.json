@@ -1,0 +1,534 @@
+{
+  "baseline_commit": "35eaed2c4f5e884d49ff81553bd980bf0c2b0b22",
+  "scope": "All ten references; direct statements of existing viewpoints and methods, without a third-person narrator for the subject.",
+  "raw_sources_reopened": false,
+  "new_source_groups": 0,
+  "new_recognition_calls": 0,
+  "independent_reviewer": false,
+  "decisions": [
+    "Rewrite subject-name, third-person and book-as-narrator phrases as direct propositions or procedures.",
+    "Rewrite host-imitation introductions; retain conditional methods, register distinctions and literary description.",
+    "Preserve all inline source codes, chapter order, section numbers and existing C links. Heading wording may change.",
+    "Preserve dated views, concessions, hypothetical examples and evidential uncertainty; no renewed primary-source verification is claimed.",
+    "Keep seven verbatim source titles bearing the subject name, original quoted historical pronouns and the generic person in the voice contrast example.",
+    "C07 Shanghai: restate the existing two institutional criticisms directly; remove the redundant editorial-summary label and application-style sentence. No new claim is introduced.",
+    "Historical evaluation results remain scoped to their original inputs. The revised runtime remains Candidate."
+  ],
+  "files": [
+    {
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "before_hash": "sha256:2a58fb606d7076f0b786551d504ff66d700cee056d6b8e3c2be5a810779375ab",
+      "after_hash": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
+      "replacement_count": 25,
+      "before_characters": 6835,
+      "after_characters": 6638
+    },
+    {
+      "path": "references/clusters/c02-premodern-order.md",
+      "before_hash": "sha256:600ccf6a3df64d704a8b8e668ba94da297198bcdf1ad961dd48aaf54bfd39fb4",
+      "after_hash": "sha256:bd84f5d7ad886bbed547ba82fb980cab6543d6130e1d8e077dfd185f5cd41071",
+      "replacement_count": 24,
+      "before_characters": 15942,
+      "after_characters": 15740
+    },
+    {
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "before_hash": "sha256:54044d45169427413e6c2370fca581eaa8a0a3a3bce9ab1098793acbdb383340",
+      "after_hash": "sha256:3ab2668e03c580ad60eb6f51798bd5805dcb274562c43d1cf61a9c5514fab5a2",
+      "replacement_count": 14,
+      "before_characters": 6972,
+      "after_characters": 6912
+    },
+    {
+      "path": "references/clusters/c04-civilization-theory.md",
+      "before_hash": "sha256:2916db97b361bc6e078be28a271b113722b835bb8c84c676c9a68ba6f5ae1d0c",
+      "after_hash": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
+      "replacement_count": 25,
+      "before_characters": 6977,
+      "after_characters": 6846
+    },
+    {
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "before_hash": "sha256:57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12",
+      "after_hash": "sha256:c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
+      "replacement_count": 34,
+      "before_characters": 6958,
+      "after_characters": 6868
+    },
+    {
+      "path": "references/clusters/c06-figures.md",
+      "before_hash": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
+      "after_hash": "sha256:056b507683c716db0cbbf1464572d05260969c205f8c682a9916061a12bdd3b6",
+      "replacement_count": 32,
+      "before_characters": 5018,
+      "after_characters": 4916
+    },
+    {
+      "path": "references/clusters/c07-nation-invention.md",
+      "before_hash": "sha256:4438467f69a44533b2e005e827f5040dd7a29f0561e925bbb4f7e2acc550cc44",
+      "after_hash": "sha256:84d36bfc606d41900f2c87450cbdcd0218e1f445706866bab37875c68a3f2670",
+      "replacement_count": 37,
+      "before_characters": 6356,
+      "after_characters": 6261
+    },
+    {
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "before_hash": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e",
+      "after_hash": "sha256:42ed1ebba7939df83e76f569dc20772f71389173909f12a69b62941b5f0a409a",
+      "replacement_count": 35,
+      "before_characters": 5096,
+      "after_characters": 4917
+    },
+    {
+      "path": "references/frameworks.md",
+      "before_hash": "sha256:adfe6ccd25b07f032e94f7a2aa866e94ad4cce9133ea43a00963117e305fe149",
+      "after_hash": "sha256:1e8e8ec0ffec1c093e21c4bb857ea8f983fe704d1e06a39479c25208a49cbf9c",
+      "replacement_count": 14,
+      "before_characters": 8879,
+      "after_characters": 8903
+    },
+    {
+      "path": "references/voice.md",
+      "before_hash": "sha256:935a7afcf30979eb41fc52b3788eb3f40f821c3268fc27c7a09ca102560b3c8f",
+      "after_hash": "sha256:8377ff4e53b582b35c17ff4c33a4143d13abf34793da43a302effec8067fc514",
+      "replacement_count": 4,
+      "before_characters": 9490,
+      "after_characters": 9472
+    }
+  ],
+  "verbatim_source_titles": [
+    {
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 128,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 129,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 130,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 95,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 96,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 97,
+      "reason": "verbatim source title in source locator list"
+    },
+    {
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 98,
+      "reason": "verbatim source title in source locator list"
+    }
+  ],
+  "unquoted_generic_pronouns": [
+    [
+      "references/voice.md",
+      183
+    ],
+    [
+      "references/voice.md",
+      184
+    ]
+  ],
+  "reviewed_quote_changes": {
+    "references/clusters/c01-ayi-life-advice.md": {
+      "\"怎麼看清事物\"": 1,
+      "「我父親癌症快不行了，你能安慰安慰我嗎？」": 1
+    },
+    "references/clusters/c03-wadi-psychology.md": {
+      "\"內亞·秩序論\"": 1,
+      "\"如何自救\"": 1,
+      "\"辱華 / 恨國\"": 1,
+      "\"素質論\"": 1
+    },
+    "references/clusters/c04-civilization-theory.md": {
+      "\"希望\"": 1,
+      "\"還有希望嗎\"": 1,
+      "\"我意識到自己是文明的揮霍者，那我們能做些什麼\"": 1,
+      "\"把一個名詞拆成製造者、願望和現實\"": 1,
+      "\"如何重建自組織資源\"": 1
+    },
+    "references/clusters/c06-figures.md": {
+      "\"他寫得好/不好\"": 1,
+      "\"諸夏十大罪人\"": 1,
+      "\"這個人是哪一邦的人、他的行爲對那一邦的組織資源是增是減\"": 1
+    },
+    "references/clusters/c08-minguo-wenyan.md": {
+      "\"逐層給分\"": 1,
+      "「工具有自身生命」": 1
+    },
+    "references/frameworks.md": {
+      "\"誰在什麼處境下留下它、他當時需要它是真是假\"": 1,
+      "\"他到底知不知情／有沒有下令\"": 1
+    }
+  },
+  "framework_targets": [
+    {
+      "label": "C01 §一",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "line": 9,
+      "heading": "一、總招式：把個人問題翻譯成結構 / 生物 / 演化問題，再回答"
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "line": 19,
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）"
+    },
+    {
+      "label": "C02 §九",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 257,
+      "heading": "九、胡漢雙重性與\"儒學由藩鎮復活\""
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "line": 19,
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）"
+    },
+    {
+      "label": "C04 §一",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 7,
+      "heading": "一、回應希望與普遍規律：先檢查問題的框架"
+    },
+    {
+      "label": "C04 §二",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 27,
+      "heading": "二、理論是探測器，不是判決書"
+    },
+    {
+      "label": "C04 §二",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 27,
+      "heading": "二、理論是探測器，不是判決書"
+    },
+    {
+      "label": "C01 §六",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "line": 72,
+      "heading": "六、怎麼看清事物：目的與認知框架"
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 82,
+      "heading": "修養與知識：生活如何被抽離為學問"
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 98,
+      "heading": "十六、遺傳×環境，與民國青年黨"
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 82,
+      "heading": "修養與知識：生活如何被抽離為學問"
+    },
+    {
+      "label": "C04 §三",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 35,
+      "heading": "三、組織資源：不可再生，所以\"進步\"就是揮霍"
+    },
+    {
+      "label": "C04 §三",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 35,
+      "heading": "三、組織資源：不可再生，所以\"進步\"就是揮霍"
+    },
+    {
+      "label": "C02 §一",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 11,
+      "heading": "一、秩序的產生：保護、供養與仲裁"
+    },
+    {
+      "label": "C02 §二",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 19,
+      "heading": "二、幾個高識別度的判斷（連推理鏈）"
+    },
+    {
+      "label": "C02 §五",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 44,
+      "heading": "五、資金流版的興衰判斷（與全球資本主義簇呼應）"
+    },
+    {
+      "label": "C05 §二",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 19,
+      "heading": "二、資金流／全球資本主義定位"
+    },
+    {
+      "label": "C03 §八",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 95,
+      "heading": "八、瓦房店化：技術退化的完整因果鏈（照鏈條講，不要只丟詞）"
+    },
+    {
+      "label": "C03 §二",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 21,
+      "heading": "二、\"韭菜\"：可反覆汲取的人格—市場—時間三層結構"
+    },
+    {
+      "label": "C03 §三",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 33,
+      "heading": "三、互害博弈：不是愚昧，是短期理性"
+    },
+    {
+      "label": "C03 §四",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 52,
+      "heading": "四、人格是怎麼被制度做出來的：關係網、告密、教育"
+    },
+    {
+      "label": "C03 §五",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 67,
+      "heading": "五、三種可以點名的人格類型（驗屍式，不是罵人）"
+    },
+    {
+      "label": "C04 §七",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 75,
+      "heading": "七、末人（史後之人）：診斷連着例證"
+    },
+    {
+      "label": "C04 §九",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 86,
+      "heading": "九、大洪水：完整機理 + 紙幣類比"
+    },
+    {
+      "label": "C04 §十",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 94,
+      "heading": "十、守先待後：處方、正反例、運作機制、邊界"
+    },
+    {
+      "label": "C04 §四",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 48,
+      "heading": "四、種子庫怎麼運作：黑匣子、重稅、壓縮膠囊"
+    },
+    {
+      "label": "C04 §五",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 56,
+      "heading": "五、秩序是長出來的：封建、羅馬法、普通法"
+    },
+    {
+      "label": "C04 §六",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 64,
+      "heading": "六、拆名詞的示範：絕對主義"
+    },
+    {
+      "label": "C02「禮樂的成熟、解體與國家的產生」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 74,
+      "heading": "禮樂的成熟、解體與國家的產生"
+    },
+    {
+      "label": "C04 §六",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 64,
+      "heading": "六、拆名詞的示範：絕對主義"
+    },
+    {
+      "label": "C02 §二",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 19,
+      "heading": "二、幾個高識別度的判斷（連推理鏈）"
+    },
+    {
+      "label": "C02 §十",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 266,
+      "heading": "十、文字、技術與傳播路線"
+    },
+    {
+      "label": "C07 §一",
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 7,
+      "heading": "一、四種民族主義：先查它在拆誰、保誰"
+    },
+    {
+      "label": "C02 §六",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 231,
+      "heading": "六、齊魯晉鄭楚：憲制位置先於名稱"
+    },
+    {
+      "label": "C06 §十",
+      "path": "references/clusters/c06-figures.md",
+      "line": 94,
+      "heading": "十、幾條可直接調用的定性"
+    },
+    {
+      "label": "C05 §十五",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 92,
+      "heading": "十五、唯物主義的道統建構：道統是政治行爲，不是哲學"
+    },
+    {
+      "label": "C07 §一",
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 7,
+      "heading": "一、四種民族主義：先查它在拆誰、保誰"
+    },
+    {
+      "label": "C07 §三",
+      "path": "references/clusters/c07-nation-invention.md",
+      "line": 23,
+      "heading": "三、書面評傳對照：發明者被敘事反制"
+    },
+    {
+      "label": "C03 §五",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "line": 67,
+      "heading": "五、三種可以點名的人格類型（驗屍式，不是罵人）"
+    },
+    {
+      "label": "C06 §三",
+      "path": "references/clusters/c06-figures.md",
+      "line": 34,
+      "heading": "三、生態位定名法：先分類，再解釋"
+    },
+    {
+      "label": "C06 §三",
+      "path": "references/clusters/c06-figures.md",
+      "line": 34,
+      "heading": "三、生態位定名法：先分類，再解釋"
+    },
+    {
+      "label": "C06 §一",
+      "path": "references/clusters/c06-figures.md",
+      "line": 11,
+      "heading": "一、人物分析：家系、心法、微環境與自述"
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 82,
+      "heading": "修養與知識：生活如何被抽離為學問"
+    },
+    {
+      "label": "C02 §八",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 249,
+      "heading": "八、秩序的來源是一個武裝集團加一筆交易"
+    },
+    {
+      "label": "C06 §六",
+      "path": "references/clusters/c06-figures.md",
+      "line": 64,
+      "heading": "六、班底與交易：任何政權先看這兩樣"
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 98,
+      "heading": "十六、遺傳×環境，與民國青年黨"
+    },
+    {
+      "label": "C06 §六",
+      "path": "references/clusters/c06-figures.md",
+      "line": 64,
+      "heading": "六、班底與交易：任何政權先看這兩樣"
+    },
+    {
+      "label": "C08 §六",
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "line": 51,
+      "heading": "六、逆淘汰定律（這一簇最可複用的一條機制）"
+    },
+    {
+      "label": "C05 §十二",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 74,
+      "heading": "十二、認知戰的本質：欺騙是軟弱的形式"
+    },
+    {
+      "label": "C08 §八",
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "line": 64,
+      "heading": "八、主權、福利與武力（札記裏最硬的一段）"
+    },
+    {
+      "label": "C02 §三",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 29,
+      "heading": "三、民族認同與福利的判斷"
+    },
+    {
+      "label": "C02 §八",
+      "path": "references/clusters/c02-premodern-order.md",
+      "line": 249,
+      "heading": "八、秩序的來源是一個武裝集團加一筆交易"
+    },
+    {
+      "label": "C06 §五",
+      "path": "references/clusters/c06-figures.md",
+      "line": 52,
+      "heading": "五、評價座標：對**本邦**的淨損益，不是對\"中國\"的功過"
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "line": 19,
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）"
+    },
+    {
+      "label": "C06 §十一",
+      "path": "references/clusters/c06-figures.md",
+      "line": 100,
+      "heading": "十一、兩個語域的風格差別（務必分清）"
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "line": 98,
+      "heading": "十六、遺傳×環境，與民國青年黨"
+    },
+    {
+      "label": "C01 §二",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "line": 17,
+      "heading": "二、個人困惑的結構與推理"
+    },
+    {
+      "label": "C01 §七",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "line": 80,
+      "heading": "七、行動先於知識：反規劃的動作鏈（此簇的\"怎麼辦\"總出口）"
+    },
+    {
+      "label": "C04 §十",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "line": 94,
+      "heading": "十、守先待後：處方、正反例、運作機制、邊界"
+    }
+  ]
+}

@@ -172,3 +172,7 @@ pending directory deletions or publish unrelated working-tree changes.
 ## 2026-10-31 · Frameworks 引用位置與 voice 摘錄
 
 依現有八簇內容重核 frameworks 的 C 指引，分開混合段落的來源位置，補 C03 技術退化及 C08 血酬出處，保留 C05 道統與 C07 民族發明的現行歸屬。voice 移除整段原文，保留文學性歸納。此輪沒有原書新增覆蓋；參見[位置核對](framework-routing-2026-10-31/report.md)。舊證據仍屬原版範圍，零新增辨識呼叫，Candidate不變。
+
+## 2026-10-31：references 直陳寫法
+
+依使用者要求，逐一檢查十個 refs，把人名／第三人稱轉述、以書名為主語的書評句和宿主模仿指令改成直接觀點與方法。來源代碼、引文歸屬、條件與例外保留；來源表原題目不改。本輪只核對既有 refs 與修改差異，未重開原書、未新增來源或機器辨識。詳見 [修訂記錄](direct-prose-2026-10-31/report.md)及[核對範圍](direct-prose-2026-10-31/review.json)。

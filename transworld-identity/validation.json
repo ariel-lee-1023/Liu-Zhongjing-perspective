@@ -1,49 +1,38 @@
 {
   "schema_version": 1,
-  "scope": "framework citation placement against current C01-C08 modules and removal of the full voice excerpt",
+  "scope": "direct-statement prose across all ten references, preserving existing viewpoints, source locators and framework routing",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
-    "outcome": "pass_for_declared_reference_routing_scope_with_unexpanded_details",
+    "outcome": "pass_for_declared_editorial_scope",
     "new_source_groups": 0,
     "raw_sources_reopened": false,
     "reviewed_all_core_claims": false,
-    "review": "framework-routing-2026-10-31/routing.json",
-    "previous_distillation": {
-      "outcome": "pass_for_declared_editorial_scope",
-      "new_source_groups": 5,
-      "revisited_source_groups": [
-        "J07"
-      ],
-      "inherited_source_groups": 33,
-      "reviewed_all_core_claims": false,
-      "review": "cultivation-2026-10-31/source-review.json",
-      "coverage": "cultivation-2026-10-31/reading-coverage.json",
-      "independent_reviewer": false
-    },
-    "independent_reviewer": false
+    "review": "direct-prose-2026-10-31/review.json",
+    "independent_reviewer": false,
+    "previous_source_check": "direct-prose-2026-10-31/validation-before.json#/source"
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "framework-routing-2026-10-31/checks.json"
+    "record": "direct-prose-2026-10-31/checks.json"
   },
   "recognition": {
     "outcome": "not_run",
     "calls_used": 0,
-    "reason": "No configured PERSONA_API_KEY; changed runtime remains Candidate."
+    "reason": "Editorial revision of all reference inputs; historical evaluations retain their original scope. No new recognition run was performed."
   },
   "runtime_hashes": {
     "SKILL.md": "sha256:8bea077ffe981e43864107556992dade4266fab8a19022975e829d9dae887815",
-    "references/clusters/c01-ayi-life-advice.md": "sha256:2a58fb606d7076f0b786551d504ff66d700cee056d6b8e3c2be5a810779375ab",
-    "references/clusters/c02-premodern-order.md": "sha256:600ccf6a3df64d704a8b8e668ba94da297198bcdf1ad961dd48aaf54bfd39fb4",
-    "references/clusters/c03-wadi-psychology.md": "sha256:54044d45169427413e6c2370fca581eaa8a0a3a3bce9ab1098793acbdb383340",
-    "references/clusters/c04-civilization-theory.md": "sha256:2916db97b361bc6e078be28a271b113722b835bb8c84c676c9a68ba6f5ae1d0c",
-    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12",
-    "references/clusters/c06-figures.md": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
-    "references/clusters/c07-nation-invention.md": "sha256:4438467f69a44533b2e005e827f5040dd7a29f0561e925bbb4f7e2acc550cc44",
-    "references/clusters/c08-minguo-wenyan.md": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e",
-    "references/frameworks.md": "sha256:adfe6ccd25b07f032e94f7a2aa866e94ad4cce9133ea43a00963117e305fe149",
-    "references/voice.md": "sha256:935a7afcf30979eb41fc52b3788eb3f40f821c3268fc27c7a09ca102560b3c8f"
+    "references/clusters/c01-ayi-life-advice.md": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
+    "references/clusters/c02-premodern-order.md": "sha256:bd84f5d7ad886bbed547ba82fb980cab6543d6130e1d8e077dfd185f5cd41071",
+    "references/clusters/c03-wadi-psychology.md": "sha256:3ab2668e03c580ad60eb6f51798bd5805dcb274562c43d1cf61a9c5514fab5a2",
+    "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
+    "references/clusters/c06-figures.md": "sha256:056b507683c716db0cbbf1464572d05260969c205f8c682a9916061a12bdd3b6",
+    "references/clusters/c07-nation-invention.md": "sha256:84d36bfc606d41900f2c87450cbdcd0218e1f445706866bab37875c68a3f2670",
+    "references/clusters/c08-minguo-wenyan.md": "sha256:42ed1ebba7939df83e76f569dc20772f71389173909f12a69b62941b5f0a409a",
+    "references/frameworks.md": "sha256:1e8e8ec0ffec1c093e21c4bb857ea8f983fe704d1e06a39479c25208a49cbf9c",
+    "references/voice.md": "sha256:8377ff4e53b582b35c17ff4c33a4143d13abf34793da43a302effec8067fc514"
   },
   "package": {
     "outcome": "fail_existing_layout",
@@ -60,8 +49,8 @@
       "S3"
     ],
     "new_failed_checks": [],
-    "before": "framework-routing-2026-10-31/package-before.json",
-    "after": "framework-routing-2026-10-31/package-after.json"
+    "before": "direct-prose-2026-10-31/package-before.json",
+    "after": "direct-prose-2026-10-31/package-after.json"
   },
-  "previous_validation": "framework-routing-2026-10-31/validation-before.json"
+  "previous_validation": "direct-prose-2026-10-31/validation-before.json"
 }

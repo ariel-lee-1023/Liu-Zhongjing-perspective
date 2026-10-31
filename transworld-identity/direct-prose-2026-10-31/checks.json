@@ -1,0 +1,1578 @@
+{
+  "scope": "deterministic integrity and editorial review; not new primary-source validation or recognition",
+  "checks": [
+    {
+      "check": "all_ten_references_reviewed",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_reference_files_added_or_removed",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c02-premodern-order.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c02-premodern-order.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c02-premodern-order.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "line_count_preserved:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "section_structure_preserved:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_codes_preserved:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "quoted_views_preserved_except_reviewed_labels_questions_and_procedure_phrases",
+      "ok": true,
+      "detail": {
+        "references/clusters/c01-ayi-life-advice.md": {
+          "\"怎麼看清事物\"": 1,
+          "「我父親癌症快不行了，你能安慰安慰我嗎？」": 1
+        },
+        "references/clusters/c03-wadi-psychology.md": {
+          "\"內亞·秩序論\"": 1,
+          "\"如何自救\"": 1,
+          "\"辱華 / 恨國\"": 1,
+          "\"素質論\"": 1
+        },
+        "references/clusters/c04-civilization-theory.md": {
+          "\"希望\"": 1,
+          "\"還有希望嗎\"": 1,
+          "\"我意識到自己是文明的揮霍者，那我們能做些什麼\"": 1,
+          "\"把一個名詞拆成製造者、願望和現實\"": 1,
+          "\"如何重建自組織資源\"": 1
+        },
+        "references/clusters/c06-figures.md": {
+          "\"他寫得好/不好\"": 1,
+          "\"諸夏十大罪人\"": 1,
+          "\"這個人是哪一邦的人、他的行爲對那一邦的組織資源是增是減\"": 1
+        },
+        "references/clusters/c08-minguo-wenyan.md": {
+          "\"逐層給分\"": 1,
+          "「工具有自身生命」": 1
+        },
+        "references/frameworks.md": {
+          "\"誰在什麼處境下留下它、他當時需要它是真是假\"": 1,
+          "\"他到底知不知情／有沒有下令\"": 1
+        }
+      }
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c02-premodern-order.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c05-geopolitics-capital-and-class.md:128",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c05-geopolitics-capital-and-class.md:129",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c05-geopolitics-capital-and-class.md:130",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c07-nation-invention.md:95",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c07-nation-invention.md:96",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c07-nation-invention.md:97",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "name_only_in_verbatim_source_title:references/clusters/c07-nation-invention.md:98",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_narrating_author_or_host_templates:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "remaining_unquoted_pronouns_are_generic_subject_of_voice_example",
+      "ok": true,
+      "detail": [
+        [
+          "references/voice.md",
+          183
+        ],
+        [
+          "references/voice.md",
+          184
+        ]
+      ]
+    },
+    {
+      "check": "source_title_count_preserved",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "eight_canonical_link_definitions_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_label_matches_reference:0",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:0",
+      "ok": true,
+      "detail": [
+        "C01 §一",
+        [
+          [
+            9,
+            "一、總招式：把個人問題翻譯成結構 / 生物 / 演化問題，再回答"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:1",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:1",
+      "ok": true,
+      "detail": [
+        "C06 §二",
+        [
+          [
+            19,
+            "二、這一簇獨有的三條判斷（識別度最高）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:2",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:2",
+      "ok": true,
+      "detail": [
+        "C02 §九",
+        [
+          [
+            257,
+            "九、胡漢雙重性與\"儒學由藩鎮復活\""
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:3",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:3",
+      "ok": true,
+      "detail": [
+        "C06 §二",
+        [
+          [
+            19,
+            "二、這一簇獨有的三條判斷（識別度最高）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:4",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:4",
+      "ok": true,
+      "detail": [
+        "C04 §一",
+        [
+          [
+            7,
+            "一、回應希望與普遍規律：先檢查問題的框架"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:5",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:5",
+      "ok": true,
+      "detail": [
+        "C04 §二",
+        [
+          [
+            27,
+            "二、理論是探測器，不是判決書"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:6",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:6",
+      "ok": true,
+      "detail": [
+        "C04 §二",
+        [
+          [
+            27,
+            "二、理論是探測器，不是判決書"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:7",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:7",
+      "ok": true,
+      "detail": [
+        "C01 §六",
+        [
+          [
+            72,
+            "六、怎麼看清事物：目的與認知框架"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:8",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:8",
+      "ok": true,
+      "detail": [
+        "C02「修養與知識」",
+        [
+          [
+            82,
+            "修養與知識：生活如何被抽離為學問"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:9",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:9",
+      "ok": true,
+      "detail": [
+        "C05 §十六",
+        [
+          [
+            98,
+            "十六、遺傳×環境，與民國青年黨"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:10",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:10",
+      "ok": true,
+      "detail": [
+        "C02「修養與知識」",
+        [
+          [
+            82,
+            "修養與知識：生活如何被抽離為學問"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:11",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:11",
+      "ok": true,
+      "detail": [
+        "C04 §三",
+        [
+          [
+            35,
+            "三、組織資源：不可再生，所以\"進步\"就是揮霍"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:12",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:12",
+      "ok": true,
+      "detail": [
+        "C04 §三",
+        [
+          [
+            35,
+            "三、組織資源：不可再生，所以\"進步\"就是揮霍"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:13",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:13",
+      "ok": true,
+      "detail": [
+        "C02 §一",
+        [
+          [
+            11,
+            "一、秩序的產生：保護、供養與仲裁"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:14",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:14",
+      "ok": true,
+      "detail": [
+        "C02 §二",
+        [
+          [
+            19,
+            "二、幾個高識別度的判斷（連推理鏈）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:15",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:15",
+      "ok": true,
+      "detail": [
+        "C02 §五",
+        [
+          [
+            44,
+            "五、資金流版的興衰判斷（與全球資本主義簇呼應）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:16",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:16",
+      "ok": true,
+      "detail": [
+        "C05 §二",
+        [
+          [
+            19,
+            "二、資金流／全球資本主義定位"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:17",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:17",
+      "ok": true,
+      "detail": [
+        "C03 §八",
+        [
+          [
+            95,
+            "八、瓦房店化：技術退化的完整因果鏈（照鏈條講，不要只丟詞）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:18",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:18",
+      "ok": true,
+      "detail": [
+        "C03 §二",
+        [
+          [
+            21,
+            "二、\"韭菜\"：可反覆汲取的人格—市場—時間三層結構"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:19",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:19",
+      "ok": true,
+      "detail": [
+        "C03 §三",
+        [
+          [
+            33,
+            "三、互害博弈：不是愚昧，是短期理性"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:20",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:20",
+      "ok": true,
+      "detail": [
+        "C03 §四",
+        [
+          [
+            52,
+            "四、人格是怎麼被制度做出來的：關係網、告密、教育"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:21",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:21",
+      "ok": true,
+      "detail": [
+        "C03 §五",
+        [
+          [
+            67,
+            "五、三種可以點名的人格類型（驗屍式，不是罵人）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:22",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:22",
+      "ok": true,
+      "detail": [
+        "C04 §七",
+        [
+          [
+            75,
+            "七、末人（史後之人）：診斷連着例證"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:23",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:23",
+      "ok": true,
+      "detail": [
+        "C04 §九",
+        [
+          [
+            86,
+            "九、大洪水：完整機理 + 紙幣類比"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:24",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:24",
+      "ok": true,
+      "detail": [
+        "C04 §十",
+        [
+          [
+            94,
+            "十、守先待後：處方、正反例、運作機制、邊界"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:25",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:25",
+      "ok": true,
+      "detail": [
+        "C04 §四",
+        [
+          [
+            48,
+            "四、種子庫怎麼運作：黑匣子、重稅、壓縮膠囊"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:26",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:26",
+      "ok": true,
+      "detail": [
+        "C04 §五",
+        [
+          [
+            56,
+            "五、秩序是長出來的：封建、羅馬法、普通法"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:27",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:27",
+      "ok": true,
+      "detail": [
+        "C04 §六",
+        [
+          [
+            64,
+            "六、拆名詞的示範：絕對主義"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:28",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:28",
+      "ok": true,
+      "detail": [
+        "C02「禮樂的成熟、解體與國家的產生」",
+        [
+          [
+            74,
+            "禮樂的成熟、解體與國家的產生"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:29",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:29",
+      "ok": true,
+      "detail": [
+        "C04 §六",
+        [
+          [
+            64,
+            "六、拆名詞的示範：絕對主義"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:30",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:30",
+      "ok": true,
+      "detail": [
+        "C02 §二",
+        [
+          [
+            19,
+            "二、幾個高識別度的判斷（連推理鏈）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:31",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:31",
+      "ok": true,
+      "detail": [
+        "C02 §十",
+        [
+          [
+            266,
+            "十、文字、技術與傳播路線"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:32",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:32",
+      "ok": true,
+      "detail": [
+        "C07 §一",
+        [
+          [
+            7,
+            "一、四種民族主義：先查它在拆誰、保誰"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:33",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:33",
+      "ok": true,
+      "detail": [
+        "C02 §六",
+        [
+          [
+            231,
+            "六、齊魯晉鄭楚：憲制位置先於名稱"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:34",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:34",
+      "ok": true,
+      "detail": [
+        "C06 §十",
+        [
+          [
+            94,
+            "十、幾條可直接調用的定性"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:35",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:35",
+      "ok": true,
+      "detail": [
+        "C05 §十五",
+        [
+          [
+            92,
+            "十五、唯物主義的道統建構：道統是政治行爲，不是哲學"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:36",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:36",
+      "ok": true,
+      "detail": [
+        "C07 §一",
+        [
+          [
+            7,
+            "一、四種民族主義：先查它在拆誰、保誰"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:37",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:37",
+      "ok": true,
+      "detail": [
+        "C07 §三",
+        [
+          [
+            23,
+            "三、書面評傳對照：發明者被敘事反制"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:38",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:38",
+      "ok": true,
+      "detail": [
+        "C03 §五",
+        [
+          [
+            67,
+            "五、三種可以點名的人格類型（驗屍式，不是罵人）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:39",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:39",
+      "ok": true,
+      "detail": [
+        "C06 §三",
+        [
+          [
+            34,
+            "三、生態位定名法：先分類，再解釋"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:40",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:40",
+      "ok": true,
+      "detail": [
+        "C06 §三",
+        [
+          [
+            34,
+            "三、生態位定名法：先分類，再解釋"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:41",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:41",
+      "ok": true,
+      "detail": [
+        "C06 §一",
+        [
+          [
+            11,
+            "一、人物分析：家系、心法、微環境與自述"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:42",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:42",
+      "ok": true,
+      "detail": [
+        "C02「修養與知識」",
+        [
+          [
+            82,
+            "修養與知識：生活如何被抽離為學問"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:43",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:43",
+      "ok": true,
+      "detail": [
+        "C02 §八",
+        [
+          [
+            249,
+            "八、秩序的來源是一個武裝集團加一筆交易"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:44",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:44",
+      "ok": true,
+      "detail": [
+        "C06 §六",
+        [
+          [
+            64,
+            "六、班底與交易：任何政權先看這兩樣"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:45",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:45",
+      "ok": true,
+      "detail": [
+        "C05 §十六",
+        [
+          [
+            98,
+            "十六、遺傳×環境，與民國青年黨"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:46",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:46",
+      "ok": true,
+      "detail": [
+        "C06 §六",
+        [
+          [
+            64,
+            "六、班底與交易：任何政權先看這兩樣"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:47",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:47",
+      "ok": true,
+      "detail": [
+        "C08 §六",
+        [
+          [
+            51,
+            "六、逆淘汰定律（這一簇最可複用的一條機制）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:48",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:48",
+      "ok": true,
+      "detail": [
+        "C05 §十二",
+        [
+          [
+            74,
+            "十二、認知戰的本質：欺騙是軟弱的形式"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:49",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:49",
+      "ok": true,
+      "detail": [
+        "C08 §八",
+        [
+          [
+            64,
+            "八、主權、福利與武力（札記裏最硬的一段）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:50",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:50",
+      "ok": true,
+      "detail": [
+        "C02 §三",
+        [
+          [
+            29,
+            "三、民族認同與福利的判斷"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:51",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:51",
+      "ok": true,
+      "detail": [
+        "C02 §八",
+        [
+          [
+            249,
+            "八、秩序的來源是一個武裝集團加一筆交易"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:52",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:52",
+      "ok": true,
+      "detail": [
+        "C06 §五",
+        [
+          [
+            52,
+            "五、評價座標：對**本邦**的淨損益，不是對\"中國\"的功過"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:53",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:53",
+      "ok": true,
+      "detail": [
+        "C06 §二",
+        [
+          [
+            19,
+            "二、這一簇獨有的三條判斷（識別度最高）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:54",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:54",
+      "ok": true,
+      "detail": [
+        "C06 §十一",
+        [
+          [
+            100,
+            "十一、兩個語域的風格差別（務必分清）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:55",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:55",
+      "ok": true,
+      "detail": [
+        "C05 §十六",
+        [
+          [
+            98,
+            "十六、遺傳×環境，與民國青年黨"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:56",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:56",
+      "ok": true,
+      "detail": [
+        "C01 §二",
+        [
+          [
+            17,
+            "二、個人困惑的結構與推理"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:57",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:57",
+      "ok": true,
+      "detail": [
+        "C01 §七",
+        [
+          [
+            80,
+            "七、行動先於知識：反規劃的動作鏈（此簇的\"怎麼辦\"總出口）"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "framework_label_matches_reference:58",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "framework_destination_section_exists:58",
+      "ok": true,
+      "detail": [
+        "C04 §十",
+        [
+          [
+            94,
+            "十、守先待後：處方、正反例、運作機制、邊界"
+          ]
+        ]
+      ]
+    },
+    {
+      "check": "all_fifty_nine_framework_links_retained",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "local_link_exists:0",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c01-ayi-life-advice.md"
+      }
+    },
+    {
+      "check": "local_link_exists:1",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c02-premodern-order.md"
+      }
+    },
+    {
+      "check": "local_link_exists:2",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c03-wadi-psychology.md"
+      }
+    },
+    {
+      "check": "local_link_exists:3",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c04-civilization-theory.md"
+      }
+    },
+    {
+      "check": "local_link_exists:4",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c05-geopolitics-capital-and-class.md"
+      }
+    },
+    {
+      "check": "local_link_exists:5",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c06-figures.md"
+      }
+    },
+    {
+      "check": "local_link_exists:6",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c07-nation-invention.md"
+      }
+    },
+    {
+      "check": "local_link_exists:7",
+      "ok": true,
+      "detail": {
+        "source": "SKILL.md",
+        "destination": "references/clusters/c08-minguo-wenyan.md"
+      }
+    },
+    {
+      "check": "local_link_exists:8",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c03-wadi-psychology.md",
+        "destination": "c02-premodern-order.md"
+      }
+    },
+    {
+      "check": "local_link_exists:9",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c05-geopolitics-capital-and-class.md",
+        "destination": "c07-nation-invention.md"
+      }
+    },
+    {
+      "check": "local_link_exists:10",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c07-nation-invention.md",
+        "destination": "c02-premodern-order.md"
+      }
+    },
+    {
+      "check": "local_link_exists:11",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c07-nation-invention.md",
+        "destination": "c05-geopolitics-capital-and-class.md"
+      }
+    },
+    {
+      "check": "local_link_exists:12",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c07-nation-invention.md",
+        "destination": "../frameworks.md"
+      }
+    },
+    {
+      "check": "local_link_exists:13",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c07-nation-invention.md",
+        "destination": "../voice.md"
+      }
+    },
+    {
+      "check": "local_link_exists:14",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c07-nation-invention.md",
+        "destination": "c06-figures.md"
+      }
+    },
+    {
+      "check": "local_link_exists:15",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c08-minguo-wenyan.md",
+        "destination": "c07-nation-invention.md"
+      }
+    },
+    {
+      "check": "local_link_exists:16",
+      "ok": true,
+      "detail": {
+        "source": "references/clusters/c08-minguo-wenyan.md",
+        "destination": "../voice.md"
+      }
+    },
+    {
+      "check": "local_link_exists:17",
+      "ok": true,
+      "detail": {
+        "source": "references/voice.md",
+        "destination": "frameworks.md"
+      }
+    },
+    {
+      "check": "voice_b_literary_summary_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_full_cultivation_quote_in_voice",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated_file_preserved:AGENTS.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated_file_preserved:SKILL.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated_file_preserved:README.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated_file_preserved:LICENSE",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated_file_preserved:.gitignore",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_new_discovery_layout",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "package_failures_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_primary_source_or_recognition_claim_added",
+      "ok": true,
+      "detail": null
+    }
+  ],
+  "all_passed": true,
+  "total_checks": 200,
+  "reviewed_files": 10,
+  "framework_links": 59,
+  "local_runtime_links": 18,
+  "package_errors_unchanged": 7,
+  "package_warnings_unchanged": 2
+}
