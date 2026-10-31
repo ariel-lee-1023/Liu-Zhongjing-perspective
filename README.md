@@ -94,7 +94,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 當代事件、政策與數據必須另行查證；材料中的「今日」不是現在。生成文字不是作者原話，引用或爭議歸屬需要相應版本。對人生與社會的強烈判斷是這套視角的組成部分，不是對讀者處境的確定診斷。
 
-**目前執行版本仍為 Candidate，未作新的辨識評測。** [前次篇幅與來源報告](transworld-identity/refs-2026-10-31/report.md) 列明各模組預算、補充內容與遷移去向；[validation.json](transworld-identity/validation.json) 分開記錄來源檢查、既有套件結構問題與辨識狀態。
+**目前執行版本仍為 Candidate，未作新的辨識評測。** [前次篇幅與來源報告](transworld-identity/refs-2026-10-31/report.md) 列明各模組預算、補充內容與遷移去向；[validation.json](transworld-identity/validation.json) 分開記錄來源檢查、套件結構檢查與辨識狀態。根目錄模式的結構驗證現為 0 錯誤、1 項可選警告，詳見[修復報告](transworld-identity/validation-repair-2026-10-31/report.md)。
 
 ## 授權
 

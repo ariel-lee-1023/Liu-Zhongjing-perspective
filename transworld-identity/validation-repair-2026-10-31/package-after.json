@@ -1,0 +1,159 @@
+{
+  "structure_revision": 2,
+  "layout": "root",
+  "package": "/private/tmp/liu-validator-20261031/candidate",
+  "skill_root": "/private/tmp/liu-validator-20261031/candidate",
+  "strict": false,
+  "checks": [
+    {
+      "check": "S9",
+      "level": "error",
+      "ok": true,
+      "detail": "reconstruction scope and host boundaries present; editorial responsibilities require source review",
+      "effective_level": "error"
+    },
+    {
+      "check": "S1",
+      "level": "error",
+      "ok": true,
+      "detail": "canonical root SKILL.md; discovery alias optional in explicit root layout",
+      "effective_level": "error"
+    },
+    {
+      "check": "S2",
+      "level": "error",
+      "ok": true,
+      "detail": "SKILL.md exists at the selected runtime root",
+      "effective_level": "error"
+    },
+    {
+      "check": "S3",
+      "level": "error",
+      "ok": true,
+      "detail": "references/, voice.md, and frameworks.md present",
+      "effective_level": "error"
+    },
+    {
+      "check": "S4",
+      "level": "error",
+      "ok": true,
+      "detail": "transworld-identity/provenance.md present outside .agents/",
+      "effective_level": "error"
+    },
+    {
+      "check": "S4",
+      "level": "warn",
+      "ok": false,
+      "detail": "episodic.md absent (permitted but expected when episodic material exists)",
+      "effective_level": "warn"
+    },
+    {
+      "check": "S5",
+      "level": "error",
+      "ok": true,
+      "detail": "no ledger files under references/",
+      "effective_level": "error"
+    },
+    {
+      "check": "S6",
+      "level": "warn",
+      "ok": true,
+      "detail": "cluster modules directory is references/clusters/",
+      "effective_level": "warn"
+    },
+    {
+      "check": "C1",
+      "level": "error",
+      "ok": true,
+      "detail": "frontmatter has name and description",
+      "effective_level": "error"
+    },
+    {
+      "check": "C1b",
+      "level": "error",
+      "ok": true,
+      "detail": "root skill name is declared; any discovery alias matches (repository name may differ)",
+      "effective_level": "error"
+    },
+    {
+      "check": "C2",
+      "level": "error",
+      "ok": true,
+      "detail": "description is non-empty and runtime-facing",
+      "effective_level": "error"
+    },
+    {
+      "check": "C3",
+      "level": "warn",
+      "ok": true,
+      "detail": "skipped: no --headings file supplied (subject-language cores need supplied anchors)",
+      "effective_level": "warn"
+    },
+    {
+      "check": "C4",
+      "level": "error",
+      "ok": true,
+      "detail": "no banned implementation strings in core",
+      "effective_level": "error"
+    },
+    {
+      "check": "S7",
+      "level": "error",
+      "ok": true,
+      "detail": "runtime/evaluation separation",
+      "effective_level": "error"
+    },
+    {
+      "check": "S8",
+      "level": "error",
+      "ok": true,
+      "detail": "no detected raw books or local paths",
+      "effective_level": "error"
+    },
+    {
+      "check": "C5",
+      "level": "error",
+      "ok": true,
+      "detail": "runtime links and disk agree",
+      "effective_level": "error"
+    },
+    {
+      "check": "C6",
+      "level": "error",
+      "ok": true,
+      "detail": "all cNN citations resolve to a module",
+      "effective_level": "error"
+    },
+    {
+      "check": "L1",
+      "level": "warn",
+      "ok": true,
+      "detail": "no second-person or bare-English-imperative lines found",
+      "effective_level": "warn"
+    },
+    {
+      "check": "L2",
+      "level": "error",
+      "ok": true,
+      "detail": "provenance records the build contract and source/editorial lineage; content requires source review",
+      "effective_level": "error"
+    },
+    {
+      "check": "L3",
+      "level": "error",
+      "ok": true,
+      "detail": "not applicable: episodic.md is absent",
+      "effective_level": "error"
+    },
+    {
+      "check": "X1",
+      "level": "error",
+      "ok": true,
+      "detail": "references contain no numeric composite/probe score pattern",
+      "effective_level": "error"
+    }
+  ],
+  "errors": 0,
+  "warnings": 1,
+  "verdict": "PASS"
+}

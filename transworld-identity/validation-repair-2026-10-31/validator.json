@@ -1,0 +1,23 @@
+{
+  "repository": "https://github.com/ariel-lee-1023/Persona-Distiller",
+  "commit": "4e9263a337d3b2c02fa7010c6620e202d02b2683",
+  "script": "scripts/validate_package.py",
+  "script_hash": "sha256:9d23d27bff4d42e5fbe0ca9cbe71d46d1dfa5d5c67022777f0a69f2014cf48c6",
+  "layout": "root",
+  "default_discovery_requirements_unchanged": true,
+  "new_root_and_citation_regression_tests": 9,
+  "package_validator_tests": 16,
+  "full_test_suite": {
+    "command": "python -m unittest discover -s tests -v",
+    "tests": 114,
+    "exit_code": 0,
+    "outcome": "pass"
+  },
+  "test_environment": {
+    "python": "3.13",
+    "dependency": "jsonschema==4.26.0",
+    "installation": "temporary virtual environment; requirements-release.txt",
+    "initial_host_suite": "Unavailable schema dependency caused failures; resolved by installing the declared dependency in the temporary environment."
+  },
+  "recognition_calls": 0
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scope": "direct-statement prose across all ten references, preserving existing viewpoints, source locators and framework routing",
+  "scope": "explicit root-layout validation and repair of three relative runtime links; previous direct-prose source scope retained",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
@@ -14,12 +14,12 @@
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "direct-prose-2026-10-31/checks.json"
+    "record": "validation-repair-2026-10-31/checks.json"
   },
   "recognition": {
     "outcome": "not_run",
     "calls_used": 0,
-    "reason": "Editorial revision of all reference inputs; historical evaluations retain their original scope. No new recognition run was performed."
+    "reason": "Only three relative runtime links changed. No new source review or recognition run; previous evidence retains its original scope."
   },
   "runtime_hashes": {
     "SKILL.md": "sha256:8bea077ffe981e43864107556992dade4266fab8a19022975e829d9dae887815",
@@ -28,29 +28,30 @@
     "references/clusters/c03-wadi-psychology.md": "sha256:3ab2668e03c580ad60eb6f51798bd5805dcb274562c43d1cf61a9c5514fab5a2",
     "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
     "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
-    "references/clusters/c06-figures.md": "sha256:056b507683c716db0cbbf1464572d05260969c205f8c682a9916061a12bdd3b6",
+    "references/clusters/c06-figures.md": "sha256:adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
     "references/clusters/c07-nation-invention.md": "sha256:84d36bfc606d41900f2c87450cbdcd0218e1f445706866bab37875c68a3f2670",
     "references/clusters/c08-minguo-wenyan.md": "sha256:42ed1ebba7939df83e76f569dc20772f71389173909f12a69b62941b5f0a409a",
-    "references/frameworks.md": "sha256:1e8e8ec0ffec1c093e21c4bb857ea8f983fe704d1e06a39479c25208a49cbf9c",
-    "references/voice.md": "sha256:8377ff4e53b582b35c17ff4c33a4143d13abf34793da43a302effec8067fc514"
+    "references/frameworks.md": "sha256:eaf43262db373724837e6a4b17ccab63c82ec504b26e0d3f9319f1379c6bb6fe",
+    "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
   },
   "package": {
-    "outcome": "fail_existing_layout",
-    "validator_exit_code": 1,
-    "errors": 7,
-    "warnings": 2,
-    "failed_checks": [
-      "C1",
-      "C1b",
-      "C2",
-      "C6",
-      "S1",
-      "S2",
-      "S3"
+    "outcome": "pass_explicit_root_layout",
+    "layout": "root",
+    "validator_exit_code": 0,
+    "errors": 0,
+    "warnings": 1,
+    "failed_checks": [],
+    "warning_checks": [
+      "S4: optional episodic.md absent"
     ],
-    "new_failed_checks": [],
-    "before": "direct-prose-2026-10-31/package-before.json",
-    "after": "direct-prose-2026-10-31/package-after.json"
+    "skipped_checks": [
+      "C3: no language-specific heading anchors supplied"
+    ],
+    "validator": "validation-repair-2026-10-31/validator.json",
+    "before": "validation-repair-2026-10-31/package-before.json",
+    "after": "validation-repair-2026-10-31/package-after.json",
+    "default_discovery_layout_passed": false,
+    "research_release_check_run": false
   },
-  "previous_validation": "direct-prose-2026-10-31/validation-before.json"
+  "previous_validation": "validation-repair-2026-10-31/validation-before.json"
 }

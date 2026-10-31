@@ -114,8 +114,8 @@ source reviews, saved outputs and assessment artifacts retain their original sco
 **README review.** Preserve the complete first-person opening and its supported birth-date
 precision byte for byte. Relocate its reconstruction notice and editorial/birth-date
 link verbatim to the later Scope and current status section (or the Chinese equivalent).
-Keep source-contribution links with the relevant sources. Update usage or current status
-only where the actual runtime changed.
+Source-contribution links remain with the relevant sources. Usage and current status
+were updated only where the actual runtime changed.
 
 - Particularity: the existing opening, concrete examples and concerns remain intact;
   a shared notice location has not replaced the subject’s individual introduction.
@@ -176,3 +176,8 @@ pending directory deletions or publish unrelated working-tree changes.
 ## 2026-10-31：references 直陳寫法
 
 依使用者要求，逐一檢查十個 refs，把人名／第三人稱轉述、以書名為主語的書評句和宿主模仿指令改成直接觀點與方法。來源代碼、引文歸屬、條件與例外保留；來源表原題目不改。本輪只核對既有 refs 與修改差異，未重開原書、未新增來源或機器辨識。詳見 [修訂記錄](direct-prose-2026-10-31/report.md)及[核對範圍](direct-prose-2026-10-31/review.json)。
+
+
+## 2026-10-31 · 七項驗證錯誤修復
+
+依使用者要求逐項查明原七項報錯：前六項來自入口錯位，C6 另包含歷史 C 編號被誤當作當前引用。驗證器新增明確的根目錄模式，保留原預設打包規則，並把引用檢查限定於核心與 references。正文另修正三處相對路徑，現為 0 錯誤、1 項可選 episodic 缺檔警告；不表示預設 discovery 模式或人格辨識通過。完整 114 項工具測試通過，零新增辨識呼叫，仍為 Candidate。使用者 AGENTS.md 修改保持未提交；詳見[修復報告](validation-repair-2026-10-31/report.md)。

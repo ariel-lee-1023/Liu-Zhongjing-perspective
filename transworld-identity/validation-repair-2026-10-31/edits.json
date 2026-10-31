@@ -1,0 +1,26 @@
+{
+  "runtime_paths": {
+    "references/frameworks.md": [
+      [
+        "與 `SKILL.md`、`voice.md`",
+        "與 `../SKILL.md`、`voice.md`"
+      ]
+    ],
+    "references/voice.md": [
+      [
+        "與 `SKILL.md`、`frameworks.md`",
+        "與 `../SKILL.md`、`frameworks.md`"
+      ]
+    ],
+    "references/clusters/c06-figures.md": [
+      [
+        "（見 `voice.md`）",
+        "（見 `../voice.md`）"
+      ]
+    ]
+  },
+  "provenance_wording": {
+    "before": "Keep source-contribution links with the relevant sources. Update usage or current status\nonly where the actual runtime changed.",
+    "after": "Source-contribution links remain with the relevant sources. Usage and current status\nwere updated only where the actual runtime changed."
+  }
+}
