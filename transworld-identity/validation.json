@@ -1,53 +1,58 @@
 {
   "schema_version": 1,
-  "scope": "single_reference_increment_c09",
+  "scope": "2026-10-31 ref budget audit; c05/c07/c08 supplementation and c09 merge",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
-    "outcome": "pass_for_declared_increment",
-    "records": 22,
+    "outcome": "pass_for_declared_editorial_scope",
+    "new_or_relocated_source_groups": 19,
+    "inherited_c09_groups": 22,
     "reviewed_all_core_claims": false,
-    "review": "c09-source-review.json"
+    "review": "refs-2026-10-31/source-review.json",
+    "coverage": "refs-2026-10-31/reading-coverage.json",
+    "independent_reviewer": false
   },
   "increment_integrity": {
     "outcome": "pass",
-    "source_span_count": 49,
-    "runtime_relative_links": [
-      "c02-premodern-order.md",
-      "c07-nation-invention.md",
-      "../voice.md",
-      "../frameworks.md"
-    ],
-    "all_markers_resolve": true,
-    "existing_unrelated_files_byte_preserved": true,
-    "core_changes_limited_to_activation_move_and_new_route": true
+    "record": "refs-2026-10-31/integrity.json",
+    "migration": "refs-2026-10-31/migration-map.json"
   },
   "recognition": {
     "outcome": "not_run",
     "calls_used": 0,
-    "reason": "No configured PERSONA_API_KEY; no claim of machine recognition."
+    "reason": "No configured PERSONA_API_KEY; no machine-recognition claim. Historical results retain their original scope."
   },
   "runtime_hashes": {
-    "SKILL.md": "sha256:e1c6da37f7e48b09bfec13370c78b127a202bb2f1fffed7fb05929aad09e8e27",
-    "references/frameworks.md": "sha256:a7964612f504a37f0542fb5874580ca40d80de09fa8896be66ea79fd49dfe5fa",
-    "references/voice.md": "sha256:458afc0b144dca18e23ae771950c107ee3c5ca5abee033a949d62ee4f6ba51e6",
-    "references/clusters/c09-civilizational-genealogy-constitutions.md": "sha256:382cef80b2ba4477f4642fb711f1e5ba93b3c130f795187bd8186c2ffcdc7f63"
+    "SKILL.md": "sha256:97bca3aaf6fe3086878a5e51cdf6ab9b460c0d8aa8e1e37645571413daff5af6",
+    "references/frameworks.md": "sha256:8120239570f6588bac5fc0a7a8b6efda553bad04bc65ca10ebde177c1bf654d0",
+    "references/voice.md": "sha256:f552ed2bf4cf3f3e54f39875625d6667e02833ae193fc4e76953281d4cf182de",
+    "references/clusters/c01-ayi-life-advice.md": "sha256:2a58fb606d7076f0b786551d504ff66d700cee056d6b8e3c2be5a810779375ab",
+    "references/clusters/c02-premodern-order.md": "sha256:2faa1cabf9aa597f93c1aa11cb5e82431f8e949c0c5c83cdd594676ea00a38e9",
+    "references/clusters/c03-wadi-psychology.md": "sha256:54044d45169427413e6c2370fca581eaa8a0a3a3bce9ab1098793acbdb383340",
+    "references/clusters/c04-civilization-theory.md": "sha256:2916db97b361bc6e078be28a271b113722b835bb8c84c676c9a68ba6f5ae1d0c",
+    "references/clusters/c05-jingxuan-lectures.md": "sha256:57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12",
+    "references/clusters/c06-figures.md": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
+    "references/clusters/c07-nation-invention.md": "sha256:8cba39826e1cca87442caeabb0e3a9bcd3b4e2ff1cf0d04970729fda23aae563",
+    "references/clusters/c08-minguo-wenyan.md": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e"
   },
   "package": {
     "outcome": "fail_existing_layout",
     "validator_exit_code": 1,
+    "errors": 7,
+    "warnings": 2,
     "failed_checks": [
-      "S9",
-      "S1",
-      "S2",
-      "S3",
       "C1",
       "C1b",
       "C2",
-      "C6"
+      "C6",
+      "S1",
+      "S2",
+      "S3"
     ],
-    "before": "c09-package-before.json",
-    "after": "c09-package-after.json",
-    "assessment": "既有套件尚未採用新版可發現技能目錄，另有舊聲音文件至賬本的連結及README既有連結問題；未在本次單一ref增補中整包遷移。錯誤類別未增加，新增模組連結單獨通過。"
-  }
+    "new_failed_checks": [],
+    "before": "refs-2026-10-31/package-before.json",
+    "after": "refs-2026-10-31/package-after.json",
+    "assessment": "修改前後七個錯誤與兩個警告相同；技能發現目錄及歷史引用等既有結構問題未在本次refs補寫中改造。當前根目錄導航另行實際檢查，不把空根目錄檢查誤作整包通過。"
+  },
+  "previous_validation": "history/refs-2026-10-31/validation-before.json"
 }

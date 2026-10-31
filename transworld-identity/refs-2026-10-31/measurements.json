@@ -1,0 +1,186 @@
+{
+  "estimator": "CJK U+3400..U+9FFF characters + 0.35 * all remaining characters, rounded; NOT model tokenizer output",
+  "records": [
+    {
+      "cluster_id": "c01",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "source_units_upper_bound": 82405,
+      "before": {
+        "characters": 6835,
+        "cjk": 5204,
+        "estimated_tokens": 5775
+      },
+      "after": {
+        "characters": 6835,
+        "cjk": 5204,
+        "estimated_tokens": 5775
+      },
+      "budget": 4134,
+      "mass_term": 59,
+      "mass_sensitivity_budget": [
+        4075,
+        4475
+      ],
+      "status": "OK"
+    },
+    {
+      "cluster_id": "c02",
+      "path": "references/clusters/c02-premodern-order.md",
+      "source_units_upper_bound": 482114,
+      "before": {
+        "characters": 6113,
+        "cjk": 4835,
+        "estimated_tokens": 5282
+      },
+      "after": {
+        "characters": 6113,
+        "cjk": 4835,
+        "estimated_tokens": 5282
+      },
+      "budget": 3549,
+      "mass_term": 144,
+      "mass_sensitivity_budget": [
+        3405,
+        3805
+      ],
+      "status": "OK"
+    },
+    {
+      "cluster_id": "c03",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "source_units_upper_bound": 112912,
+      "before": {
+        "characters": 6972,
+        "cjk": 5466,
+        "estimated_tokens": 5993
+      },
+      "after": {
+        "characters": 6972,
+        "cjk": 5466,
+        "estimated_tokens": 5993
+      },
+      "budget": 3485,
+      "mass_term": 70,
+      "mass_sensitivity_budget": [
+        3415,
+        3815
+      ],
+      "status": "OK"
+    },
+    {
+      "cluster_id": "c04",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "source_units_upper_bound": 137583,
+      "before": {
+        "characters": 6977,
+        "cjk": 5383,
+        "estimated_tokens": 5941
+      },
+      "after": {
+        "characters": 6977,
+        "cjk": 5383,
+        "estimated_tokens": 5941
+      },
+      "budget": 4242,
+      "mass_term": 77,
+      "mass_sensitivity_budget": [
+        4165,
+        4565
+      ],
+      "status": "OK"
+    },
+    {
+      "cluster_id": "c05",
+      "path": "references/clusters/c05-jingxuan-lectures.md",
+      "source_units_upper_bound": 1435843,
+      "before": {
+        "characters": 6955,
+        "cjk": 5476,
+        "estimated_tokens": 5994
+      },
+      "after": {
+        "characters": 6958,
+        "cjk": 5471,
+        "estimated_tokens": 5991
+      },
+      "budget": 4093,
+      "mass_term": 248,
+      "mass_sensitivity_budget": [
+        3845,
+        4245
+      ],
+      "status": "SPLIT_IN_MODULE"
+    },
+    {
+      "cluster_id": "c06",
+      "path": "references/clusters/c06-figures.md",
+      "source_units_upper_bound": 102801,
+      "before": {
+        "characters": 5018,
+        "cjk": 3947,
+        "estimated_tokens": 4322
+      },
+      "after": {
+        "characters": 5018,
+        "cjk": 3947,
+        "estimated_tokens": 4322
+      },
+      "budget": 3406,
+      "mass_term": 66,
+      "mass_sensitivity_budget": [
+        3340,
+        3740
+      ],
+      "status": "OK"
+    },
+    {
+      "cluster_id": "c07",
+      "path": "references/clusters/c07-nation-invention.md",
+      "source_units_upper_bound": 1033919,
+      "before": {
+        "characters": 1936,
+        "cjk": 1497,
+        "estimated_tokens": 1651
+      },
+      "after": {
+        "characters": 6344,
+        "cjk": 4434,
+        "estimated_tokens": 5102
+      },
+      "budget": 4236,
+      "mass_term": 211,
+      "mass_sensitivity_budget": [
+        4025,
+        4425
+      ],
+      "status": "SPLIT_IN_MODULE"
+    },
+    {
+      "cluster_id": "c08",
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "source_units_upper_bound": 462688,
+      "before": {
+        "characters": 2211,
+        "cjk": 1639,
+        "estimated_tokens": 1839
+      },
+      "after": {
+        "characters": 5096,
+        "cjk": 3799,
+        "estimated_tokens": 4253
+      },
+      "budget": 3386,
+      "mass_term": 141,
+      "mass_sensitivity_budget": [
+        3245,
+        3645
+      ],
+      "status": "SPLIT_IN_MODULE"
+    }
+  ],
+  "retired_c09": {
+    "characters": 6439,
+    "cjk": 4438,
+    "estimated_tokens": 5138
+  }
+}

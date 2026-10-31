@@ -1,0 +1,94 @@
+{
+  "words_firsthand": 3727982,
+  "measurement_note": "API欄位 words_firsthand 本次以可用文字的去重上界代理；包括未逐段剔除的主持人、引文與編者文字，不宣稱精確第一手詞數。每簇另報 mass=0..400 的敏感度。",
+  "clusters": [
+    {
+      "cluster_id": "c01",
+      "words": 82405,
+      "apparatus": 9,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 24,
+      "registers": 1,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c02",
+      "words": 482114,
+      "apparatus": 2,
+      "moves": 10,
+      "applications": 8,
+      "fragments": 14,
+      "registers": 3,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c03",
+      "words": 112912,
+      "apparatus": 3,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 20,
+      "registers": 1,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c04",
+      "words": 137583,
+      "apparatus": 10,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 24,
+      "registers": 1,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c05",
+      "words": 1435843,
+      "apparatus": 4,
+      "moves": 17,
+      "applications": 8,
+      "fragments": 24,
+      "registers": 2,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c06",
+      "words": 102801,
+      "apparatus": 0,
+      "moves": 12,
+      "applications": 7,
+      "fragments": 22,
+      "registers": 2,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c07",
+      "words": 1033919,
+      "apparatus": 6,
+      "moves": 17,
+      "applications": 8,
+      "fragments": 27,
+      "registers": 2,
+      "shared_domain": true,
+      "siblings": 7
+    },
+    {
+      "cluster_id": "c08",
+      "words": 462688,
+      "apparatus": 0,
+      "moves": 13,
+      "applications": 8,
+      "fragments": 16,
+      "registers": 2,
+      "shared_domain": true,
+      "siblings": 7
+    }
+  ]
+}

@@ -19,7 +19,7 @@
 
 > 上海與兩河城邦的比較，能幫我們分清財富、自治和軍事保護之間的關係嗎？請先追查實際承擔這些工作的團體，再說哪些結構能比較，哪些不能。
 
-這個問題會用到[文明譜系與地方憲制](references/clusters/c09-civilizational-genealogy-constitutions.md)：把祭司、商路、武裝集團與地方共同體的制度放在一起，追問財產、司法、代表權和戰爭責任由誰承擔。類比之後仍須回到各地的證據。
+這個問題會用到[文明譜系與地方憲制](references/clusters/c07-nation-invention.md)：把祭司、商路、武裝集團與地方共同體的制度放在一起，追問財產、司法、代表權和戰爭責任由誰承擔。類比之後仍須回到各地的證據。
 
 其他處境會帶出不同的關係：
 
@@ -58,9 +58,9 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | [SKILL.md](SKILL.md) | 整體視角、語言與啟用入口 | 首次實質回答前完整讀取 |
 | [frameworks.md](references/frameworks.md) | 概念、推理方法與既有判斷 | 預設完整讀取，再按問題運用 |
 | [voice.md](references/voice.md) | 口語、史論評傳與文言的表達差異 | 預設完整讀取；體裁依要求選擇 |
-| [主題模組](references/clusters/) | c01–c09 的材料、例子、限定與題材路由 | 有相關問題時載入 |
+| [主題模組](references/clusters/) | c01–c08 的材料、例子、限定與題材路由 | 有相關問題時載入 |
 | [原有來源帳本](fidelity-ledger/) | 早期來源、編輯與測試記錄 | 維護或明確查核時使用 |
-| [新增模組與維護記錄](transworld-identity/) | c09 的來源、範圍、檢查及後續編輯紀錄 | 不作普通對話的預設載入內容 |
+| [新增模組與維護記錄](transworld-identity/) | 主題增補、來源預算、合併與後續編輯紀錄 | 不作普通對話的預設載入內容 |
 
 ## 來源及其作用
 
@@ -72,27 +72,27 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-premodern-order.md) |
 | 微環境怎樣塑造行為和信任？ | 《窪地與韭菜》獨白與評論 | 作者對制度與社會心理的解釋；不是獨立驗證的群體診斷。[社會心理](references/clusters/c03-wadi-psychology.md) |
 | 文明模型在何處成立，又在哪裡外推？ | 《文明更迭的源代碼》，與袁真嗣的訪談 | 演化、組織資源與守先待後；提問者的前提不等於作者主張。[文明理論](references/clusters/c04-civilization-theory.md) |
-| 新事件如何進入既有分析？ | 陳醫師訪談、《訪談精選》及專題講座 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[當代應用](references/clusters/c05-jingxuan-lectures.md) |
+| 新事件如何進入既有分析？ | 陳醫師訪談、《訪談精選》及「歷史哲學」目錄的對應講座稿 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[當代應用](references/clusters/c05-jingxuan-lectures.md) |
 | 人物的策略如何承接家系與班底？ | 《近代史的墮落·民國文人卷》及人物講座 | 書面評傳和口頭評論的不同證據與表達。[人物評傳](references/clusters/c06-figures.md) |
 | 誰在建構民族認同？ | 比較民族發明學相關講座 | 語言、政治需要與敘事的相互制約。[民族發明](references/clusters/c07-nation-invention.md) |
-| 事件與短按語如何組成紀事？ | 《民國紀事本末 1911–1949》《數卷殘編言論集》 | 編年與文言表達；作者按語、剪報及他人回帖須分清。[紀事與札記](references/clusters/c08-minguo-wenyan.md) |
-| 地方共同體怎樣承接文明傳播？ | 《美索不達米亞》2019 年三講及問答（書內載 2022 年出版）；《東亞史.md》合輯，主要為 2018–2020 年講座 | 兩河與東亞的具體地方制度，保留戰爭、人口與共同責任的限定。[地方憲制](references/clusters/c09-civilizational-genealogy-constitutions.md) |
+| 事件與短按語如何組成紀事？ | 《民國紀事本末》本地整理合輯（含1949年後增收部分）、《數卷殘編言論集》 | 憲制演變、軍政財政與文言表達；作者按語、剪報及他人回帖須分清。[紀事與札記](references/clusters/c08-minguo-wenyan.md) |
+| 地方共同體怎樣承接文明傳播？ | 《美索不達米亞》2019 年三講及問答（書內載 2022 年出版）；《東亞史.md》合輯，主要為 2018–2020 年講座 | 兩河與東亞的具體地方制度，保留戰爭、人口與共同責任的限定。[地方憲制](references/clusters/c07-nation-invention.md) |
 
-完整出處見[原有來源帳本](fidelity-ledger/provenance.md)與[c09 來源記錄](transworld-identity/provenance.md)。表格中的連接是跨來源整理；作者判斷、編者文字、訪談問題與今天的應用仍須分清。考古與史學主張並未因收進模組而獲得獨立核驗。
+完整出處見[原有來源帳本](fidelity-ledger/provenance.md)與[來源與編輯記錄](transworld-identity/provenance.md)。表格中的連接是跨來源整理；作者判斷、編者文字、訪談問題與今天的應用仍須分清。考古與史學主張並未因收進模組而獲得獨立核驗。
 
 ## 範圍與目前狀態
 
 *以上是依既有材料新寫的人格重構，不是劉仲敬的歷史引文或本人背書。[編輯與出生年份依據](transworld-identity/provenance.md#readme-editorial-review-2026-10-30)。*
 
-**c09 增補的記錄狀態是 Candidate，機器辨識未執行。** 這個狀態只適用於該次主題增補，不能當成整個人格的新驗收。[validation.json](transworld-identity/validation.json) 分別記錄該增補的來源核對與完整性通過、既有整包結構未通過新版檢查，以及辨識尚未執行。
+民族發明、文明傳播與地方憲制現已整合至同一主題模組；地緣角色與通用道統分析歸入當代應用。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
 
-《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。[範圍記錄](transworld-identity/scope.md) 說明實際閱讀與作者歸屬；其範圍也是 c09，不是全人格的重建報告。
+《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。原有 [c09 範圍記錄](transworld-identity/scope.md) 與[增補驗證](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
 
 原有小樣本遮罩、聲音與成本檢查保留在[歷史帳本](fidelity-ledger/provenance.md)，不能為新模組或後來的載入修改背書。檔案連結與結構檢查、來源編輯核對、個別生成樣例及機器辨識是不同層次的證據；本次核心及相關載入規則修訂改變了執行輸入，沒有新增辨識或效能結論；舊結果只保留其原有範圍。
 
 當代事件、政策與數據必須另行查證；材料中的「今日」不是現在。生成文字不是作者原話，引用或爭議歸屬需要相應版本。對人生與社會的強烈判斷是這套視角的組成部分，不是對讀者處境的確定診斷。
 
-**目前執行版本仍為 Candidate，未作新的辨識評測。** 本次修訂保留既有內容，校正人格與宿主規則的區別，並移動開場重構說明。核對範圍與既存整包檢查問題見[維護記錄](transworld-identity/provenance.md#skill-and-readme-alignment-2026-10-31)；未新增測試。
+**目前執行版本仍為 Candidate，未作新的辨識評測。** [本次篇幅與來源報告](transworld-identity/refs-2026-10-31/report.md) 列明各模組預算、補充內容與遷移去向；[validation.json](transworld-identity/validation.json) 分開記錄來源檢查、既有套件結構問題與辨識狀態。
 
 ## 授權
 

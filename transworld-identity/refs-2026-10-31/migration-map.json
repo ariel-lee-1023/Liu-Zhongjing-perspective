@@ -1,0 +1,57 @@
+{
+  "old_c07": {
+    "一四分類": "c07 §一",
+    "二地緣接力": "c05 §四",
+    "三回力鏢": "c07 §三",
+    "四發明成功幻覺": "c07 §三",
+    "四道統通用方法": "c05 §十五",
+    "四語言政策": "c07 §一–二",
+    "五風格": "c07 §十一"
+  },
+  "old_c09": {
+    "一地圖與主體": "c07 §四",
+    "二傳播": "c07 §五",
+    "三國王": "c07 §六",
+    "四霸權帝國": "c07 §六",
+    "五吳越": "c07 §七",
+    "六東亞四分岔": "c07 §四",
+    "七滿洲": "c07 §八",
+    "八上海制度": "c07 §九",
+    "九上海失敗": "c07 §九",
+    "十伊拉克": "c07 §十",
+    "十一表達": "c07 §十一",
+    "來源表": "c07 來源定位"
+  },
+  "preserved_evidence_ids": [
+    "EA01",
+    "EA02",
+    "EA03",
+    "EA04",
+    "EA05",
+    "EA06",
+    "EA07",
+    "EA08",
+    "EA09",
+    "EA10",
+    "EA11",
+    "EA12",
+    "EA13",
+    "MES01",
+    "MES02",
+    "MES03",
+    "MES04",
+    "MES05",
+    "MES06",
+    "MES07",
+    "MES08",
+    "MES09"
+  ],
+  "historical_path_resolution": {
+    "references/clusters/c09-civilizational-genealogy-constitutions.md": {
+      "historical_snapshot": "transworld-identity/history/refs-2026-10-31/c09-civilizational-genealogy-constitutions.md",
+      "current_destination": "references/clusters/c07-nation-invention.md"
+    }
+  },
+  "old_evidence_policy": "原c09 evidence、source-review、reading-coverage及歷史provenance原文不改；其舊runtime路徑依此映射讀為當時快照，不視作當前認證。",
+  "no_raw_sources_in_repository": true
+}

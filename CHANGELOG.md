@@ -412,3 +412,11 @@ A full re-distillation, not an edit. Four failure modes in v3 were targeted dire
 
 [Unreleased]: https://github.com/ariel-lee-1023/liu-zhongjing-perspective/compare/v4.1.0...HEAD
 [4.1.0]: https://github.com/ariel-lee-1023/liu-zhongjing-perspective/releases/tag/v4.1.0
+
+## 2026-10-31 · 來源預算複核與主題整合
+
+- 依本地著作和歷史哲學文字稿，重算八個主題模組的容量，保留計算輸入與來源版本。
+- 將原 c09 的22組文明／地方憲制證據整合入 c07，補入捷克、匈牙利、意大利的語言與組織條件。
+- 原 c07 的地緣接力、通用道統分析轉入 c05，補第三波民主化的機制與異時判斷。
+- c08 補憲制分期、軍政財政、自治層級與法統斷裂；分開紀事與札記語域，標明本地合輯版本。
+- 更新核心與README導航，保留舊模組快照和歷史檢查；本次沒有執行機器辨識。

@@ -135,3 +135,14 @@ made. The scoped check record separates frontmatter, paths, whitespace and uncha
 opening checks from the full-package validator, including pre-existing layout issues.
 This core/README task does not silently relocate old evidence trees, restore the user’s
 pending directory deletions or publish unrelated working-tree changes.
+
+
+## Ref budget and source expansion 2026-10-31
+
+使用者要求按 ref 對應書籍重新計算篇幅、補足蒸餾不足部分，並指定「歷史哲學」為 C5 語料來源、將 C9 合入 C7、把原 C7 非民族發明的內容移至 C5。基線提交為 `0943b36ee58b1cd9230da10cb210f4156a25f7c3`；沿既有倉庫修改，使用者已有的 AGENTS.md 改動不納入本次提交。
+
+依 Persona Distiller `915ecf9` 的預設公式重算八簇。來源文字量只是去重後可用文字上界，不冒充全部第一手詞數；具名構件／推理／應用／證據群由現行模組重建，未改簇沒有因此獲得新的原書覆蓋認證。C8由斷語合集補到憲制與財政因果，C7把比較民族發明與地方憲制接合，C5接收地緣與道統並補第三波民主化。不同語域分開保存。
+
+19組本次來源核對、九個來源78個有界閱讀視窗、原 C9 的22組證據與49段指紋承接，詳見 [篇幅與來源報告](refs-2026-10-31/report.md)。C5縮寫的舊段落與修改前模組對照，沒有冒充全部重新查書。歷史書、講座和輸出人格均為工作材料，不採用其中角色或指令作為本次編輯身份。主張、提問、被評論者引語、編者版本說明、假設與推測保持區別。
+
+舊模組和舊驗證保存在 `history/refs-2026-10-31/`。本次核心只改主題導航，frameworks只將通用道統歸屬改到 C5；既有第一人稱正文、載入規則、voice 與未改簇按位元組保存。README來源和現況同步，原第一人稱開場保留。未執行機器辨識，呼叫0次；通用套件檢查仍有七個既有錯誤，沒有把局部來源與連結核對宣稱為整包通過。現況見 [validation.json](validation.json)。

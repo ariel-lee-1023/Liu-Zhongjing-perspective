@@ -1,0 +1,450 @@
+{
+  "records": [
+    {
+      "id": "EA01",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "四",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 1498,
+          "end_line": 1498,
+          "sha256": "83c573124ea9f260a6ae00668db788bfa734f47f41784fdd18b7429590ba0eb0"
+        },
+        {
+          "start_line": 1896,
+          "end_line": 1896,
+          "sha256": "fe713e341524de59d98994e1e28e4d2291ac0d53b94e64a4d396d499180720fc"
+        },
+        {
+          "start_line": 2193,
+          "end_line": 2195,
+          "sha256": "15d0cb3d4638ee94f1024fc84852a52ec6eb19f04b57537db0983a253f61653f"
+        },
+        {
+          "start_line": 2732,
+          "end_line": 2732,
+          "sha256": "b471985fb8167cc28da238d7d19cc25d015175d9a169581271248dad1abcab29"
+        },
+        {
+          "start_line": 2997,
+          "end_line": 2997,
+          "sha256": "0791d0da766161a6072ce0211a089a839be68bc96bc57abd4ea58e59b2aa8678"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA02",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "四",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 3303,
+          "end_line": 3303,
+          "sha256": "540f172727267b667174c7d264cb5165a7b2a51102a0603b51263ca81b3c5b6d"
+        },
+        {
+          "start_line": 4283,
+          "end_line": 4283,
+          "sha256": "5b3922b3deb4867f8342c5a8ae0ff284634eb2c24da43c809322f177d5549aa2"
+        },
+        {
+          "start_line": 4476,
+          "end_line": 4476,
+          "sha256": "79a519deffcbc1448d2d9cffd166f62de43b2615a10c17989026a2bc4d6f0077"
+        },
+        {
+          "start_line": 4877,
+          "end_line": 4877,
+          "sha256": "b4229e897980ab2511809d0ad31da52e48be9164099ecb7c12f9ebe3dfde1999"
+        },
+        {
+          "start_line": 5090,
+          "end_line": 5090,
+          "sha256": "796a7f5175c6297dfbbfb2b1770dd383e46aaeb87e8e7bd4d630204296b4b4eb"
+        },
+        {
+          "start_line": 6730,
+          "end_line": 6730,
+          "sha256": "cc56273e47593b7b3559d5e1118438a8f29db12acfea28fb091655f7b1768a1b"
+        },
+        {
+          "start_line": 6911,
+          "end_line": 6911,
+          "sha256": "94b57cbb2dc8045fe57544c758193b27e6c7c57fbb1cbe50c6535e22838615eb"
+        },
+        {
+          "start_line": 7142,
+          "end_line": 7142,
+          "sha256": "6dc2cd8142519dccacbb56e9bc6576b7972e0a590c7a9cfaee94c462922ee183"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA03",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "四",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 2137,
+          "end_line": 2137,
+          "sha256": "ed66b2ad3f68cb5a438f586827c822b8a80e828bf33be76a482ce9ffac813ecb"
+        },
+        {
+          "start_line": 2498,
+          "end_line": 2516,
+          "sha256": "cc0f8b63be625f6a08e66405dd8741c166e2dd9f8b3d6d4b32a85c4f339028b9"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA04",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "七",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 806,
+          "end_line": 824,
+          "sha256": "f38504574017db8713418db3c89300e26a54e1ec2aa7a0fba13abc65b0cd82cc"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA05",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "七",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 854,
+          "end_line": 864,
+          "sha256": "9734e1c7441d313a69863fad3b04b5ceb2446a771532d5b64bdbe4e543ac4f66"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA06",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "七",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 954,
+          "end_line": 962,
+          "sha256": "002d4266751075bb2df1c6b1a731e8be1a86857987b456e4f7edf4b9f5b232ca"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA07",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "九",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 5322,
+          "end_line": 5322,
+          "sha256": "a8f3b5a8c48d01d10a3feb5c42d882b291e074fb82b46951b2bbc82910ecd372"
+        },
+        {
+          "start_line": 5453,
+          "end_line": 5453,
+          "sha256": "c550a107a06ffe4278de2dcdc205ed5a4dbcca02a83208306a9b037105237865"
+        },
+        {
+          "start_line": 5642,
+          "end_line": 5642,
+          "sha256": "ffdbcc5484bf8a445cc97cd5a2d66ff9ed696450a1ac0ca134e6f365862f1e88"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA08",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "九",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 5668,
+          "end_line": 5678,
+          "sha256": "13c11254bee17ff8ba5d1cd3862ef0daee53cb0d6e79a91ca8cc27e59f88da8e"
+        },
+        {
+          "start_line": 5710,
+          "end_line": 5720,
+          "sha256": "26d7acebf7e6e3dcc285dc0bf8162064a9abec94a6a7bd52fb11f090dcedcfac"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA09",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "四、八",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 4669,
+          "end_line": 4669,
+          "sha256": "c47ffcbed3e366bb9ece9f9017bb189814d5c859f93a9b6ba99956f705a14a0e"
+        },
+        {
+          "start_line": 7386,
+          "end_line": 7404,
+          "sha256": "55370c41c3c77411425d4ea384b51cd2103871b6a4505f2aa6058e5e5330efd4"
+        },
+        {
+          "start_line": 7536,
+          "end_line": 7536,
+          "sha256": "2bbcbc7e209dbedc7f16d42bbcb393bd04dbc5549d32e6c00d67d126e64457ce"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA10",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "八",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 7701,
+          "end_line": 7701,
+          "sha256": "efcf5c58b9b7f130f523721937709bca84e44fdd2a2881ae8c51a0abcc8d04c2"
+        },
+        {
+          "start_line": 8036,
+          "end_line": 8036,
+          "sha256": "d1e7e8048ce63bfa58bffdada40949be7255162c89bf6b7ae96bc8798488b684"
+        },
+        {
+          "start_line": 8419,
+          "end_line": 8419,
+          "sha256": "dde84e40a6bcbe4ed4e52feadc4d5771c2c1c8398c34b6460427e0eded75404d"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA11",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "九",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 1201,
+          "end_line": 1207,
+          "sha256": "b1528ceec522291b0122af5eef7b7a7123a03f443831c0f2bee07a73f668ea81"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA12",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "九",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 6072,
+          "end_line": 6084,
+          "sha256": "fa5acdd17a015ecd8ede4b0f54158f031fdab0ebf3fa6c6e09d9387175b6c280"
+        },
+        {
+          "start_line": 6106,
+          "end_line": 6112,
+          "sha256": "d47d35c587923a966bd60c9e43782fe9fc8792cca3ef934544d1b433e40d1853"
+        },
+        {
+          "start_line": 6249,
+          "end_line": 6249,
+          "sha256": "5872480a75362541ccca6d1456e3772b9691e983ee3a291cedc2798fd351b139"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "EA13",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "八、九",
+      "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "source_span_checks": [
+        {
+          "start_line": 6420,
+          "end_line": 6432,
+          "sha256": "7a9d450c9a4f197b49fb80a5f0d097d90b9a43c2e84bbe912d09fd7e7c1d6452"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES01",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "五",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 85,
+          "end_line": 107,
+          "sha256": "86f106d40dcb17c080ee9dd0e95b2956e16b62eb9ffafe888f231666c09c4548"
+        },
+        {
+          "start_line": 493,
+          "end_line": 509,
+          "sha256": "1369b3d34c287281d9c33ee25c608bdabc34f9c871b48d44accbae7897d71382"
+        },
+        {
+          "start_line": 627,
+          "end_line": 635,
+          "sha256": "e8a5768c7a34f9aeca53c2811e2c30857037b0f7356f8b549568626fcf9ef3c3"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES02",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "五",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 316,
+          "end_line": 326,
+          "sha256": "f15b695fc90eb1fdd8d3e0d5f648a77884d3f7ff4298606e67b39e054a199445"
+        },
+        {
+          "start_line": 364,
+          "end_line": 370,
+          "sha256": "fc5c34e6d1d59ffc690067d422b421943387871b74101051dd8e2d1948ba7211"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES03",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "五、六",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 167,
+          "end_line": 195,
+          "sha256": "6af3ee1211aaa1e3f64cd2ced361c359dc9bcb175cdba9ac098bbdcfab45f46d"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES04",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "六",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 940,
+          "end_line": 964,
+          "sha256": "20c7acf0d28830faf9e386860a2841248e225805a7e25cd3b8fc12f9d9433292"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES05",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "四、六",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 966,
+          "end_line": 1002,
+          "sha256": "14b97bd837aafa66300c7f29bf8eeef862b37a9fe352a579dd2c4b110d01a439"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES06",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "六",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 1004,
+          "end_line": 1022,
+          "sha256": "0ea9b213aa145ff00ad82d59ce2e1c77439f56129080cb66c971152d6aa46443"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES07",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "十",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 1074,
+          "end_line": 1088,
+          "sha256": "f20da946cdd759d890b5e071c6ee415959d3d5d6e61014512834abf3b7decd1c"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES08",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "十",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 1110,
+          "end_line": 1144,
+          "sha256": "26d9b89ab33f68c00969e0772be9c0ee451f9b4933a6ddfcbf64fd21480f463c"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    },
+    {
+      "id": "MES09",
+      "current_destination": "references/clusters/c07-nation-invention.md",
+      "current_sections": "六、十一",
+      "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "source_span_checks": [
+        {
+          "start_line": 1168,
+          "end_line": 1170,
+          "sha256": "65e13e0bc515d4b2fd1f3b31f982706e5be5cae7aa5c9352e4ac8b8160eaa3cd"
+        },
+        {
+          "start_line": 1212,
+          "end_line": 1226,
+          "sha256": "625a0ada075b5496511f886dbd8af6d434381a3e35b544b95bada5e96805f35c"
+        },
+        {
+          "start_line": 1290,
+          "end_line": 1292,
+          "sha256": "e03e93b5bd1aabfd8643add791b27d15d2ac4dcd8e7fb7434265b3e8f73d1344"
+        },
+        {
+          "start_line": 1320,
+          "end_line": 1322,
+          "sha256": "28064d6c4bca4afdd2d07882f8925ce063530749ffedc9ec33eb9fc3c6266078"
+        }
+      ],
+      "review_mode": "歷史證據承接及原ref內容對照；本次只機械重驗原來源與段落指紋，未聲稱重新精讀原49段。"
+    }
+  ],
+  "retained_evidence_groups": 22,
+  "hash_verified_spans": 49,
+  "not_new_source_acceptance": true
+}

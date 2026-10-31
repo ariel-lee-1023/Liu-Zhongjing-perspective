@@ -1,0 +1,729 @@
+{
+  "method": "指定本地來源的有界段落選讀；機械抽取與全文讀過分開記錄。",
+  "inventory_text_versions": 111,
+  "budget_selected_editions": 46,
+  "close_read_source_count": 9,
+  "confirmed_nonempty_windows": 78,
+  "confirmed_characters": 35482,
+  "full_close_read": false,
+  "ocr_pages": 0,
+  "external_research_sources": 0,
+  "records": [
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Foreword.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 1080,
+      "characters": 1080,
+      "sha256": "3db40436c01b8fdf211d17d03f69c6ddcebe40a160540e8987ed4fd38e83c45e"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter02.xhtml",
+      "kind": "epub_item",
+      "start": 6400,
+      "end": 7550,
+      "characters": 1150,
+      "sha256": "70270929b1e94e9a43f7572a03a55240281a15203bced8cbcb9e85a3b9ab58a4"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter06.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 2200,
+      "characters": 2200,
+      "sha256": "f9f6b598859f5926f6d6b8677c5da3a3ab2e6743c618ee09eabc30825d8b4aeb"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter11.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 1800,
+      "characters": 1800,
+      "sha256": "f38fe721d68de7d1236054dba1b8124c023e0c896f9d33525999de5cfed6144c"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 4,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1250,
+      "characters": 1250,
+      "sha256": "00bc9f8586505fc016aadec394680fe92f5fe4f4be5bc7a698b7f5acf26bb58a"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 5,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1341,
+      "characters": 1341,
+      "sha256": "95d126a09fdd76c5d82cc1efa547eec0a656b5c196480f0e52a35dfac7ddbe05"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 8,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1291,
+      "characters": 1291,
+      "sha256": "8584fff184b25e5b320455728842b56b253bc4390b2057ac296df7085f1bc594"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 13,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 2,
+      "characters": 2,
+      "sha256": "d661c3d96d53ebc0ca8a55aae24b5df4a4d1bf28d37337b982fe8ebf54846eeb"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 14,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 174,
+      "characters": 174,
+      "sha256": "d2461983e3e3ada490b738cf9880566867ec7ac4eda4e7de1c79606683dea178"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 15,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 170,
+      "characters": 170,
+      "sha256": "2a5159235a2467287c21e3a45695773e736631cc058fafafaec81a4f274000a1"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 16,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 12,
+      "characters": 12,
+      "sha256": "3bd3c046d19878f07c900d12dde440578bd9f2e74e4757d8a51256ed8b08f150"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 17,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 411,
+      "characters": 411,
+      "sha256": "59aa0c05168bece2d80f71522568ba52a9670efd3233903c77a36a014a992a8f"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 18,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 292,
+      "characters": 292,
+      "sha256": "583476f11ef2f2949c24e764b13bcc9492f2f341f7f59247096fd53a8a6d9e32"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 19,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 15,
+      "characters": 15,
+      "sha256": "33cc7eb2ce10d53f2aa79f82392d9ddd2500c22782f11d7d867c9b5a80e4ade9"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 95,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 97,
+      "characters": 97,
+      "sha256": "7c9dd5fe95762693ef8a7038c085cf7705a5f75a624f46115ef67cb8907406be"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 97,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 276,
+      "characters": 276,
+      "sha256": "494cc99ac46e64c6c9dbf7f41c9828e1c7c450e93b6ab8e15e5c62d424a92f4a"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 99,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 174,
+      "characters": 174,
+      "sha256": "7d34a1ea7e97279792997af726545056887d94ff027d0318b4cdcef265fc898c"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 101,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 158,
+      "characters": 158,
+      "sha256": "09d08ccf6e49ee3b130a411d019373fb8398a162c6b198cd93fa01744d6b33b4"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 103,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 137,
+      "characters": 137,
+      "sha256": "e646f6447f0287650d9fae5f8f4b40dd504c9a0dcd90adc05a93e19a4c3bb50a"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 105,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 157,
+      "characters": 157,
+      "sha256": "606df4026960456afb2fdc5deaecf7a14bdb4387f7fd2eb9e21b7f85c2234d3e"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 107,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 115,
+      "characters": 115,
+      "sha256": "cadcf544ddea2763d69c422e80e53ae4e4ffffd23a6fe2852f97f26537b83761"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 109,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 103,
+      "characters": 103,
+      "sha256": "8fda262a1046f6f901bf6e53538f296d432556fac793110644e2cfab002b9ed6"
+    },
+    {
+      "source_id": "H432c092f",
+      "locator": 111,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 202,
+      "characters": 202,
+      "sha256": "088f9afef7004f2c7ccc4fbf116f7d0140c325c607147a3b1050d7d0c4dfe4a8"
+    },
+    {
+      "source_id": "H2ee96f85",
+      "locator": 73,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 186,
+      "characters": 186,
+      "sha256": "bec6ec8578be9884ccacb8dc75a00789d16b8d7fa73ec640e62f2ff257b0579b"
+    },
+    {
+      "source_id": "H2ee96f85",
+      "locator": 79,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 214,
+      "characters": 214,
+      "sha256": "4acc879c54ef2faa495a1e38c86475e7b04d431a0b335d23b35d89c2e0d0e7b6"
+    },
+    {
+      "source_id": "H2ee96f85",
+      "locator": 109,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 388,
+      "characters": 388,
+      "sha256": "e0622ce10f0b381003ca4c656414fad8fe422a3c4728f8bd04041dfc0e54e133"
+    },
+    {
+      "source_id": "H2ee96f85",
+      "locator": 113,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 269,
+      "characters": 269,
+      "sha256": "1dd6a52e782c274421b292ace1e0d20e6cd0b8673ab4384ed2db42bc88fd67f2"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 29,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 60,
+      "characters": 60,
+      "sha256": "3df6243a39ad0a6fcededf59c99480caafd0726a47195f52bb6a61b5bace3533"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 31,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 153,
+      "characters": 153,
+      "sha256": "a10c362cd27c1cc297ddcc1547d57b401236d50f8d853a8c0958bc784c67df4e"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 33,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 90,
+      "characters": 90,
+      "sha256": "21f88620bf4797d262c256f3b6480b66ae8650b90ef1c2c34c209d850b6f6b14"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 35,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 92,
+      "characters": 92,
+      "sha256": "721f9ab5ba724e5d1e10285ebf904a6043634057490d2c52fd038870324c7fb0"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 37,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 116,
+      "characters": 116,
+      "sha256": "9334599f35902d0aa82105c004023fd20ea4e9115da1a7808f2e7a70732da08c"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 39,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 350,
+      "characters": 350,
+      "sha256": "7c5649eec38b873098c35cc858733739ebe11b66cfda17803e71c9fc067ba5d9"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 41,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 12,
+      "characters": 12,
+      "sha256": "e75d8c0a1dc1bc7c14283d726ff268ee1c32fb40abb71bba5a790ec02c4bd257"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 43,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 111,
+      "characters": 111,
+      "sha256": "abcae3c55fa387d86c99ffcbbd842b70226481367f19e43f61c75e04e61ea408"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 45,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 162,
+      "characters": 162,
+      "sha256": "17e9a24edaca7d46a9ed44c70b8686c88908dd9dd61224e5ec4e5af40b46487d"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 47,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 127,
+      "characters": 127,
+      "sha256": "a9114747c6d5ca31c2ca9ff412f4b4cd4c5985c290761c4e0f9b2e2afe21be3f"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 49,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 142,
+      "characters": 142,
+      "sha256": "393ad77741353972d843af861931fb4c56527a163cc0af33ad663fbc4ece33a3"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 209,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 157,
+      "characters": 157,
+      "sha256": "73a97e50a8dd1291310e486542e178b00ad090f523b0431c3c9209230968c4ca"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 211,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 150,
+      "characters": 150,
+      "sha256": "cf4adc6c554c3c411629bfb1c2499738861e8be3a15c48d62a03eded447ddb0e"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 41,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1421,
+      "characters": 1421,
+      "sha256": "97ddb3ace8a0fca2b038a1ca0f2847d1e1c2b268903b8b07be82b23cddcbd5b0"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 42,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1444,
+      "characters": 1444,
+      "sha256": "b29a25a32c2b539d8d5b371ac0a11dd38aca33a9808674d59b2a4a885f67919d"
+    },
+    {
+      "source_id": "B3ece57c9",
+      "locator": 326,
+      "kind": "pdf_page",
+      "start": 0,
+      "end": 1239,
+      "characters": 1239,
+      "sha256": "4366f2300bbdae6382d1f469df9279246cd377ce5dd14f0ef6f27343c6823f2b"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter12.xhtml",
+      "kind": "epub_item",
+      "start": 12500,
+      "end": 14968,
+      "characters": 2468,
+      "sha256": "1d231a2e1fe2c2493db75173c8dbbfa184e423e6b774f4e9d75108a2fa8fcb3c"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 121,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 315,
+      "characters": 315,
+      "sha256": "13e3204fdec2f4029f122cb1c7fcc55d3886d455100fbe06b8814387c91a62ff"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 3,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 152,
+      "characters": 152,
+      "sha256": "a044a55745dc56ccca39e0999f41a6df5527b8b582c6cba4bac98b57c720bb07"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 5,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 238,
+      "characters": 238,
+      "sha256": "3b772c312187e7ed2085254c0a03daef238c27fbe4001c2912a018744df727a7"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 23,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 127,
+      "characters": 127,
+      "sha256": "e71375616e5e5a5b3d2e74ec664a82cc0a55225513ef096420ae9e2334c8c12b"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 25,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 138,
+      "characters": 138,
+      "sha256": "2bd7fa85afc5473c2c2e06b7ca691021aafa372543dff8cc82ba103653a6e464"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 27,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 129,
+      "characters": 129,
+      "sha256": "a308b0329c362a537dbb84849c40e150dcfd930e16fe9f134501ec467cfa9a97"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 42,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 22,
+      "characters": 22,
+      "sha256": "14e661abd33b8eecb8751e9fc6c80e7f1af6fd6dbe4f20343e385bab6275e2a7"
+    },
+    {
+      "source_id": "H0354de92",
+      "locator": 51,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 20,
+      "characters": 20,
+      "sha256": "ed51255a4f5b7dd01d63f901f5cdee70dc0753f09371ab6776abafe388e39603"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 26,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 2,
+      "characters": 2,
+      "sha256": "d661c3d96d53ebc0ca8a55aae24b5df4a4d1bf28d37337b982fe8ebf54846eeb"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 27,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 7,
+      "characters": 7,
+      "sha256": "d67d2c0b50478b706274a52df5e13876df6c825e869dd20e8f0bacab60422f39"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 28,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 120,
+      "characters": 120,
+      "sha256": "e64c2ea6e5efb4f12742f1542ea409b9d9f1973e5b163b1065748ce1923c4662"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 29,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 236,
+      "characters": 236,
+      "sha256": "a1980eddf242cd4cbffcfedf732de885e3e9bd4f578bca48678463f91f210cb8"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 30,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 197,
+      "characters": 197,
+      "sha256": "c3786fe3f555bb9a7316762196dd59cfa2df508b85faec0ba6e84d38a01c3a3b"
+    },
+    {
+      "source_id": "H53adff84",
+      "locator": 31,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 409,
+      "characters": 409,
+      "sha256": "5e1773d73077aad5e7ac2df77730b843eb6e1f4e9e29b19849f2d4e72f96acd3"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 41,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 707,
+      "characters": 707,
+      "sha256": "01f77c9691485e95d526e7ba3ad60500f6e0d1657931f53ca126a98169cf3ecc"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 42,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 1404,
+      "characters": 1404,
+      "sha256": "195f3155c3364e64e48dffe87c40d8e2786dd992ca426c2fc532822199aceaea"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 43,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 13,
+      "characters": 13,
+      "sha256": "7bd529de639dcbf6f2a72babfe124b1dcecb9992133021f94b834428fa798859"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 44,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 390,
+      "characters": 390,
+      "sha256": "89c0ddff670bf75e418dce1d4d4f8204fce45d91507acab1aa181628152c2259"
+    },
+    {
+      "source_id": "H97cd02ef",
+      "locator": 45,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 974,
+      "characters": 974,
+      "sha256": "ce5ecda630b5b8f10a6d2785635d8d7f203cb94c5b260f1396e97938e7c83302"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 113,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 118,
+      "characters": 118,
+      "sha256": "ad54ad3b374f23d22d50457e04dacf37313385147c2616a85b386263795cdaec"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 114,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 33,
+      "characters": 33,
+      "sha256": "94a13c362ee32c835c83be37830fa6eb518528b9f7bbafbe66822a44340c87ac"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 115,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 48,
+      "characters": 48,
+      "sha256": "7044a563dd97e36846fd30b787bc086500ccb4d83290594e861dd9eeb7e95370"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 117,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 172,
+      "characters": 172,
+      "sha256": "0c988432008e7899901ef0c0483f1725d7fa6f7010026002e70ec01931e8798a"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 119,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 144,
+      "characters": 144,
+      "sha256": "c525c2bc38dc3f67b55a521a787ed96374fad1a5c273c470c918ef9eba053456"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 123,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 65,
+      "characters": 65,
+      "sha256": "12a5d8df280bbcea680768080787e89772425c914e614352b59529dc1cb194cd"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 127,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 262,
+      "characters": 262,
+      "sha256": "25da9d73d704618114333e031993d0b6842901250c2266121e3f8a6553446d40"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 153,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 79,
+      "characters": 79,
+      "sha256": "e63c573f629434a69d71b5ef415784f99fa6974616c270d01d6b6cccf6907030"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 159,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 173,
+      "characters": 173,
+      "sha256": "4d4f9130b8059f4f26f3dfdd6af33e78fc6e49a46fe3798a67be442b4e332d75"
+    },
+    {
+      "source_id": "Hae98a45e",
+      "locator": 163,
+      "kind": "paragraph",
+      "start": 0,
+      "end": 380,
+      "characters": 380,
+      "sha256": "52afe670c06559dfc6af5b00252e51fc15bd71816bc1aa2208f73868925f3993"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter04.xhtml",
+      "kind": "epub_item",
+      "start": 3290,
+      "end": 4520,
+      "characters": 1230,
+      "sha256": "d1d088589501818b3c81a1c3bb14cf3e66369d790cc97205f3cf2c0712437f2b"
+    },
+    {
+      "source_id": "B014910ce",
+      "locator": "OEBPS/Text/ch7.xhtml",
+      "kind": "epub_item",
+      "start": 1700,
+      "end": 2100,
+      "characters": 400,
+      "sha256": "4cc7eccb139059ca0d5ff4a179d740ef905e8e9184a6e35f1ed9ec29d01506be"
+    },
+    {
+      "source_id": "B014910ce",
+      "locator": "OEBPS/Text/ch7.xhtml",
+      "kind": "epub_item",
+      "start": 4750,
+      "end": 6300,
+      "characters": 1550,
+      "sha256": "79a2a574f10b75b073ef195b634b9e7a689772cf70c4f4330c1be8e92ef78767"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter01.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 2050,
+      "characters": 2050,
+      "sha256": "3546fdb447f5eab987763e073071ede9983f4950e88122ef52a92b3c9bad08ea"
+    },
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Arrange.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 1220,
+      "characters": 1220,
+      "sha256": "1ea5d9fffd7c4a03fbd9e68f059e65c3796db9999813036a09434aa3f3dd8c54"
+    }
+  ],
+  "excluded_receipts": [
+    {
+      "source_id": "B5045fd36",
+      "locator": "OEBPS/Text/Chapter01.xhtml",
+      "kind": "epub_item",
+      "start": 0,
+      "end": 4955,
+      "characters": 4955,
+      "sha256": "3e7d3582d3df5af61f98ebe00944a7e0a341211211e76286288924e57b2c30ba",
+      "reason": "較早工具輸出遭截斷，不把請求長度當閱讀完成；其後只確認0–2050視窗。"
+    }
+  ],
+  "not_in_close_read_count": "另以配對PDF扉頁及末尾整理說明核對民國合輯版本，未重算另一份來源。",
+  "inherited_c09": "原49段閱讀記錄本次只核對來源及段落雜湊，不冒稱重新精讀49段。"
+}

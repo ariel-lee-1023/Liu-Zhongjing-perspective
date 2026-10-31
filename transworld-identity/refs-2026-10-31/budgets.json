@@ -1,0 +1,170 @@
+[
+  {
+    "cluster_id": "c01",
+    "supply": 4134,
+    "budget": 4134,
+    "counts": {
+      "apparatus": 9,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 24,
+      "siblings": 7,
+      "registers": 1
+    },
+    "words": 82405,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c02",
+    "supply": 3549,
+    "budget": 3549,
+    "counts": {
+      "apparatus": 2,
+      "moves": 10,
+      "applications": 8,
+      "fragments": 14,
+      "siblings": 7,
+      "registers": 3
+    },
+    "words": 482114,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c03",
+    "supply": 3485,
+    "budget": 3485,
+    "counts": {
+      "apparatus": 3,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 20,
+      "siblings": 7,
+      "registers": 1
+    },
+    "words": 112912,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c04",
+    "supply": 4242,
+    "budget": 4242,
+    "counts": {
+      "apparatus": 10,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 24,
+      "siblings": 7,
+      "registers": 1
+    },
+    "words": 137583,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c05",
+    "supply": 4093,
+    "budget": 4093,
+    "counts": {
+      "apparatus": 4,
+      "moves": 17,
+      "applications": 8,
+      "fragments": 24,
+      "siblings": 7,
+      "registers": 2
+    },
+    "words": 1435843,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": true,
+    "split_in_module_flagged": true,
+    "shared_domain": true,
+    "verdict": "SPLIT_IN_MODULE",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c06",
+    "supply": 3406,
+    "budget": 3406,
+    "counts": {
+      "apparatus": 0,
+      "moves": 12,
+      "applications": 7,
+      "fragments": 22,
+      "siblings": 7,
+      "registers": 2
+    },
+    "words": 102801,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c07",
+    "supply": 4236,
+    "budget": 4236,
+    "counts": {
+      "apparatus": 6,
+      "moves": 17,
+      "applications": 8,
+      "fragments": 27,
+      "siblings": 7,
+      "registers": 2
+    },
+    "words": 1033919,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": true,
+    "split_in_module_flagged": true,
+    "shared_domain": true,
+    "verdict": "SPLIT_IN_MODULE",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "c08",
+    "supply": 3386,
+    "budget": 3386,
+    "counts": {
+      "apparatus": 0,
+      "moves": 13,
+      "applications": 8,
+      "fragments": 16,
+      "siblings": 7,
+      "registers": 2
+    },
+    "words": 462688,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": true,
+    "split_in_module_flagged": true,
+    "shared_domain": true,
+    "verdict": "SPLIT_IN_MODULE",
+    "coefficients_source": "defaults"
+  }
+]

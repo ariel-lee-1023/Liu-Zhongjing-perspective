@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "scope": "Source pointers, migration, bytes, paths and estimated lengths; not behavioral fidelity",
+  "outcome": "pass",
+  "checks": [
+    {
+      "check": "package_failure_set_unchanged",
+      "ok": true,
+      "detail": {
+        "before": [
+          [
+            "C1",
+            "error"
+          ],
+          [
+            "C1b",
+            "error"
+          ],
+          [
+            "C2",
+            "error"
+          ],
+          [
+            "C6",
+            "error"
+          ],
+          [
+            "L1",
+            "warn"
+          ],
+          [
+            "S1",
+            "error"
+          ],
+          [
+            "S2",
+            "error"
+          ],
+          [
+            "S3",
+            "error"
+          ],
+          [
+            "S4",
+            "warn"
+          ]
+        ],
+        "after": [
+          [
+            "C1",
+            "error"
+          ],
+          [
+            "C1b",
+            "error"
+          ],
+          [
+            "C2",
+            "error"
+          ],
+          [
+            "C6",
+            "error"
+          ],
+          [
+            "L1",
+            "warn"
+          ],
+          [
+            "S1",
+            "error"
+          ],
+          [
+            "S2",
+            "error"
+          ],
+          [
+            "S3",
+            "error"
+          ],
+          [
+            "S4",
+            "warn"
+          ]
+        ],
+        "whole_package_pass": false
+      }
+    },
+    {
+      "check": "eight_live_routes",
+      "ok": true,
+      "detail": [
+        "c01-ayi-life-advice.md",
+        "c02-premodern-order.md",
+        "c03-wadi-psychology.md",
+        "c04-civilization-theory.md",
+        "c05-jingxuan-lectures.md",
+        "c06-figures.md",
+        "c07-nation-invention.md",
+        "c08-minguo-wenyan.md"
+      ]
+    },
+    {
+      "check": "core_only_routes_changed",
+      "ok": true,
+      "detail": "Remove c05/c07/c08/c09 routing rows; all other lines byte-equivalent including first-person core and activation rules."
+    },
+    {
+      "check": "frameworks_only_attribution",
+      "ok": true,
+      "detail": "One lineage source citation changed."
+    },
+    {
+      "check": "untouched_runtime_and_user_edits",
+      "ok": true,
+      "detail": [
+        "AGENTS.md",
+        "references/voice.md",
+        "fidelity-ledger/provenance.md",
+        "fidelity-ledger/episodic.md",
+        "references/clusters/c01-ayi-life-advice.md",
+        "references/clusters/c02-premodern-order.md",
+        "references/clusters/c03-wadi-psychology.md",
+        "references/clusters/c04-civilization-theory.md",
+        "references/clusters/c06-figures.md"
+      ]
+    },
+    {
+      "check": "readme_opening_preserved",
+      "ok": true,
+      "detail": "Opening and introductory navigation unchanged."
+    },
+    {
+      "check": "snapshots_exact",
+      "ok": true,
+      "detail": "Four original ref files copied byte for byte; old validation snapshot retained."
+    },
+    {
+      "check": "historical_artifact:evidence.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-reading-coverage.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-source-review.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-sources.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-package-before.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-package-after.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "historical_artifact:c09-change-manifest.json",
+      "ok": true,
+      "detail": "byte-preserved"
+    },
+    {
+      "check": "source_versions_unchanged",
+      "ok": true,
+      "detail": {
+        "editions": 46,
+        "raw_sources_copied_to_package": false
+      }
+    },
+    {
+      "check": "new_markers_resolve",
+      "ok": true,
+      "detail": {
+        "reviewed": [
+          "H05",
+          "H06",
+          "H07",
+          "M01",
+          "M02",
+          "M03",
+          "M04",
+          "M05",
+          "M06",
+          "N01",
+          "N02",
+          "N03",
+          "N04",
+          "N05",
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05"
+        ],
+        "runtime": [
+          "H05",
+          "H06",
+          "H07",
+          "M01",
+          "M02",
+          "M03",
+          "M04",
+          "M05",
+          "M06",
+          "N01",
+          "N02",
+          "N03",
+          "N04",
+          "N05",
+          "S01",
+          "S02",
+          "S03",
+          "S04",
+          "S05"
+        ],
+        "scope": "19 source groups; not all historical core claims"
+      }
+    },
+    {
+      "check": "c09_evidence_mapping_complete",
+      "ok": true,
+      "detail": {
+        "groups": 22,
+        "source_hash_verified_spans": 49
+      }
+    },
+    {
+      "check": "estimated_module_ceiling",
+      "ok": true,
+      "detail": {
+        "c01": 5775,
+        "c02": 5282,
+        "c03": 5993,
+        "c04": 5941,
+        "c05": 5991,
+        "c06": 4322,
+        "c07": 5102,
+        "c08": 4253
+      }
+    },
+    {
+      "check": "live_and_current_report_links",
+      "ok": true,
+      "detail": {
+        "checked": 65,
+        "errors": [],
+        "historical_snapshot_relative_links": "Original bytes retained; resolve with migration-map and original runtime context."
+      }
+    },
+    {
+      "check": "all_other_existing_files_preserved",
+      "ok": true,
+      "detail": {
+        "files": 22
+      }
+    }
+  ],
+  "links": [
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c05-jingxuan-lectures.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c06-figures.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#可以帶來的問題",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#開始使用",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#檔案與載入",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#來源及其作用",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#範圍與目前狀態",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "#授權",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/frameworks.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/voice.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/frameworks.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/voice.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c05-jingxuan-lectures.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c06-figures.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/provenance.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/provenance.md#readme-editorial-review-2026-10-30",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/scope.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/history/refs-2026-10-31/validation-before.json",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/refs-2026-10-31/report.md",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/validation.json",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "LICENSE",
+      "ok": true
+    },
+    {
+      "file": "README.md",
+      "target": "NOTICE.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c08-minguo-wenyan.md",
+      "target": "c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c08-minguo-wenyan.md",
+      "target": "../voice.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c05-jingxuan-lectures.md",
+      "target": "c07-nation-invention.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c07-nation-invention.md",
+      "target": "c02-premodern-order.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c07-nation-invention.md",
+      "target": "c05-jingxuan-lectures.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c07-nation-invention.md",
+      "target": "../frameworks.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c07-nation-invention.md",
+      "target": "../voice.md",
+      "ok": true
+    },
+    {
+      "file": "references/clusters/c07-nation-invention.md",
+      "target": "c06-figures.md",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "sources.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "budget-spec.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "budgets.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "reading-coverage.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "source-review.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "inherited-c09-check.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "../history/refs-2026-10-31/",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "migration-map.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "integrity.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "package-before.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "package-after.json",
+      "ok": true
+    },
+    {
+      "file": "transworld-identity/refs-2026-10-31/report.md",
+      "target": "../validation.json",
+      "ok": true
+    }
+  ]
+}
