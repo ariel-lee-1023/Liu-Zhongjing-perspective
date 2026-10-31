@@ -86,9 +86,9 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 民族發明、文明傳播與地方憲制現已整合至同一主題模組；地緣角色與通用道統分析歸入地緣、資本與階級模組。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
 
-《經與史》《從華夏到中國》的作者觀點歸納於 C02；補充重點包括修養與知識的分離、禮制的成熟與退化、項羽的共同體義務、新莽與東漢，以及朝廷、幕府和科舉的演變。指定的修養段落也補入既有框架，voice 則歸納其 B 語族文學性。先前混入編者應用建議的兩篇專題已移出 references，不再載入。新增選讀及核對範圍見[修訂記錄](transworld-identity/cultivation-2026-10-31/report.md)，不代表全書覆蓋。
+《經與史》《從華夏到中國》的作者觀點歸納於 C02；補充重點包括修養與知識的分離、禮制的成熟與退化、項羽的共同體義務、新莽與東漢，以及朝廷、幕府和科舉的演變。指定的修養段落也補入既有框架，voice 則歸納其 B 語族文學性。先前混入編者應用建議的兩篇專題已移出 references，不再載入。新增選讀範圍見[來源補充記錄](transworld-identity/cultivation-2026-10-31/report.md)，後續引用核對與移除原文摘錄見[frameworks／voice 修訂記錄](transworld-identity/framework-routing-2026-10-31/report.md)；不代表全書覆蓋。
 
-《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。原有 [c09 範圍記錄](transworld-identity/scope.md) 與[增補驗證](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
+《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。現行內容已合入 [C07：民族發明、文明譜系與地方憲制](references/clusters/c07-nation-invention.md)。[原 C09 的歷史範圍記錄](transworld-identity/scope.md#本次重建範圍c09-文明譜系與地方憲制) 與[合併前驗證快照](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
 
 原有小樣本遮罩、聲音與成本檢查保留在[歷史帳本](fidelity-ledger/provenance.md)，不能為新模組或後來的載入修改背書。檔案連結與結構檢查、來源編輯核對、個別生成樣例及機器辨識是不同層次的證據；本次核心及相關載入規則修訂改變了執行輸入，沒有新增辨識或效能結論；舊結果只保留其原有範圍。
 
