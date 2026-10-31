@@ -1,0 +1,60 @@
+[
+  {
+    "id": "J",
+    "filename": "經與史華夏世界的歷史建構 (劉仲敬) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "sha256": "268d48eb519f0c3fcf79478fbe524b7f853edef588e674cd85925cb7f3394d87",
+    "characters": 197712,
+    "items": 25,
+    "kind": "supplied_epub",
+    "author": "劉仲敬",
+    "full_read": false,
+    "eligible_body_units_upper_bound": 174592,
+    "measurement_caveat": "正文容量上界仍含內嵌引文與編者文字，非精確第一手詞數；H已剔除卷末克勞備忘錄全文。",
+    "extraction": "EPUB spine-order XHTML; block paragraph/heading text joined by newline; preserve empty paragraphs; UTF-8; offsets zero-based half-open in joined item text.",
+    "reviewed_item_text_hashes": {
+      "OEBPS/Text/preface01.xhtml": "202227db7af4e26b08aee41b7b42a72c3f2d16f3d07a4a666d3e3cc4c86fc8d9",
+      "OEBPS/Text/preface02.xhtml": "958d9e1046d513a1caee6f730c0d957ecd063bb1597d84b08b54dc0ee620d7ae",
+      "OEBPS/Text/ch01t.xhtml": "4d5294c81050fe88f39f16dfb18dbec0e109c3908b8cb17101c486cbbfda1cce",
+      "OEBPS/Text/ch02t.xhtml": "25d8ec00be57dc2c4e08e7924cce84214678037438a705144655d034459dcd67",
+      "OEBPS/Text/ch03t.xhtml": "12d96fa3b0dcb92763666ae865d8d1fc50f740d621d229631bd0c01b22563707",
+      "OEBPS/Text/ch04t.xhtml": "96f5328f32147f8a837344b979af1845f246aab7dcf3d564daf9c75696e8a323",
+      "OEBPS/Text/ch05t.xhtml": "d278a544092a51cb1847b6e8571fd0939800f21ff79fe239e59cc728d5fb5157",
+      "OEBPS/Text/ch06t.xhtml": "432733115f12ef5b25c4bbd96a952c120da95f3cd549d504297ab12fbeb1e779",
+      "OEBPS/Text/ch07t.xhtml": "5a84835f2f121c215725fca62bc15e467c9e09b714ed2feff7ddb66a264a0567",
+      "OEBPS/Text/ch08t.xhtml": "90823336941c2505fcce97d6a3fc4d362906788c9e1f192b2a7dda76033bb1f1",
+      "OEBPS/Text/ch09t.xhtml": "a1050dabe6bd879e26c64ab049831b58355b89ec90d5e3da42ca0e10161107dd"
+    }
+  },
+  {
+    "id": "H",
+    "filename": "从华夏到中国 (刘仲敬.epub",
+    "sha256": "1b78ae95d51b20ea2bae2b0f06c9edf6b8756cf9fe328ca87e62b23278935c5a",
+    "characters": 221828,
+    "items": 103,
+    "kind": "supplied_epub",
+    "author": "劉仲敬",
+    "full_read": false,
+    "eligible_body_units_upper_bound": 164762,
+    "measurement_caveat": "正文容量上界仍含內嵌引文與編者文字，非精確第一手詞數；H已剔除卷末克勞備忘錄全文。",
+    "extraction": "EPUB spine-order XHTML; block paragraph/heading text joined by newline; preserve empty paragraphs; UTF-8; offsets zero-based half-open in joined item text.",
+    "reviewed_item_text_hashes": {
+      "text/part0001_split_000.html": "ad3ad8225e0312f21dbb4657591f9909c014fef95f2dddd74ab222ba829f8454",
+      "text/part0001_split_002.html": "bd76ec7c0d5134acf2b51c7c099c8331879593b814f758d5dcb42f40c75eb9f5",
+      "text/part0001_split_007.html": "b7752cf7eef00bc3f71ee847068d90a07295198851891c38c923c1175a712b7b",
+      "text/part0001_split_009.html": "1d5da6cd619756cccae583a644e880a8b5c9ee1af4ec1c8495f3850c1947b138",
+      "text/part0001_split_012.html": "3219cc606d2737852cbd353a774e4d9ca4afc38cb406298807a2d805bddd013a",
+      "text/part0001_split_023.html": "7593525477a79e6c7ef74da169a7356de315da7fe1711338f9e0f3158818defb",
+      "text/part0001_split_029.html": "b1fb08694114f4aa8db9b4373353461f9e81464b383a5071ed3bc9dc60a99c84",
+      "text/part0001_split_049.html": "8c3612243709469b896ac8fc4547d24c35f3523dd6155ce038cba3d789432f3f",
+      "text/part0001_split_051.html": "5a2460ca4945df862c5d86050dca59b47c6421e1ff4ef11ba90cc09d5edf3475",
+      "text/part0001_split_069.html": "38a8fd664926859e562fff2c1b2f9bf83a22f63813edb02398f9287e8e9c1010",
+      "text/part0001_split_071.html": "5abdd12d7e455ab8e2a80528eb922e4a2434152633c8aebd36a312651a33f0d6",
+      "text/part0001_split_073.html": "021b1d8247e7f60520d85c749198bc90c4be31e1ec93bb91332443e71900a361",
+      "text/part0001_split_075.html": "560e80720c1e28af3b85db624114101ace8bba8d305e3a8cd10ec12f90c58a06",
+      "text/part0001_split_081.html": "65f11b6f86e7c9330d0cb63ea3fb40590794f4d130b97ce64ad6467fea3b59bf",
+      "text/part0001_split_087.html": "a5ba0040b9522ee103f41a574b3d619246efa0b75d31d91039bce20544bb8104",
+      "text/part0001_split_093.html": "d8bdc007646284a69d6876b7de1e76ab85c38eefbcaa2c447797185ffe0749af",
+      "text/part0001_split_100.html": "ba27d01962e6f754d6dda73959da2f17c910fd4febda82144ccdc364ffc4c105"
+    }
+  }
+]

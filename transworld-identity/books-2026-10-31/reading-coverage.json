@@ -1,0 +1,343 @@
+{
+  "scope": "原書有界選讀；不把抽取、搜尋命中或標題盤點算作閱讀",
+  "confirmed_windows": [
+    {
+      "source": "J",
+      "item": "OEBPS/Text/preface01.xhtml",
+      "start": 0,
+      "end": 767,
+      "characters": 767,
+      "sha256": "202227db7af4e26b08aee41b7b42a72c3f2d16f3d07a4a666d3e3cc4c86fc8d9"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/preface02.xhtml",
+      "start": 0,
+      "end": 2118,
+      "characters": 2118,
+      "sha256": "958d9e1046d513a1caee6f730c0d957ecd063bb1597d84b08b54dc0ee620d7ae"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch01t.xhtml",
+      "start": 0,
+      "end": 3300,
+      "characters": 3300,
+      "sha256": "5727402063eb1ec227cd38096090273044a10dc99703c4b86908d2c7473b29c5"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch01t.xhtml",
+      "start": 12933,
+      "end": 16400,
+      "characters": 3467,
+      "sha256": "f7e245cbebb0b548d1eb1c0f671778b9d0fd0f8b64e0ac49c6fb9c9b7a065b0a"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch02t.xhtml",
+      "start": 3817,
+      "end": 8512,
+      "characters": 4695,
+      "sha256": "e662a3c7d3b3a0d6bf6c5eafdf26895d6a90ff50d5f8a4c4a309224e83538907"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch02t.xhtml",
+      "start": 12780,
+      "end": 15150,
+      "characters": 2370,
+      "sha256": "da0a74632a314285be60d584e0c48941e5bdca0556b15435b750f24ba015f375"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch03t.xhtml",
+      "start": 10116,
+      "end": 14823,
+      "characters": 4707,
+      "sha256": "b40011d39b9be3db1836566756141045e683148c3447b65b42fe709abecc080d"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch04t.xhtml",
+      "start": 0,
+      "end": 2850,
+      "characters": 2850,
+      "sha256": "78b3072c2ae5c975b271560a5b68d95ca85e6008bff00423f85a63a54343de86"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch05t.xhtml",
+      "start": 4247,
+      "end": 7050,
+      "characters": 2803,
+      "sha256": "cbbd8db496aad749a0ac358100fc3cf19f31b5521a65015c7356202fbe4c21e3"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch05t.xhtml",
+      "start": 13675,
+      "end": 17100,
+      "characters": 3425,
+      "sha256": "1e491c9dd3765fd603bef0d486e6317d5e54b24fb2af68c721eb366b866b1e6c"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch06t.xhtml",
+      "start": 6204,
+      "end": 8950,
+      "characters": 2746,
+      "sha256": "efe3050e4fff18e0cc43affc818e601ab764052c17836c62242e78086dd428db"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch06t.xhtml",
+      "start": 15819,
+      "end": 18450,
+      "characters": 2631,
+      "sha256": "583036e720d1f8739b56228318fe2e452436fbc8aa822908a9917fd0af59ed60"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch07t.xhtml",
+      "start": 0,
+      "end": 2950,
+      "characters": 2950,
+      "sha256": "557e99ddac87358a920bf9e364ad267a4ff9380c45fdcba1115363181791cd96"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch07t.xhtml",
+      "start": 9625,
+      "end": 12150,
+      "characters": 2525,
+      "sha256": "6d1fb7c19eca3fcf9bf2dc0c9299b90f33f634ad0890a946fb62001f9a353c0e"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch08t.xhtml",
+      "start": 0,
+      "end": 3000,
+      "characters": 3000,
+      "sha256": "33d30b8e0559f30b52b66d7c03f4d85509ba9d37164c5440b4dc5a4368b8ae5a"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch08t.xhtml",
+      "start": 8883,
+      "end": 10800,
+      "characters": 1917,
+      "sha256": "115caa993c211dad997eac5d15d4db2434734386c7f4877c20f3f544a5395207"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch09t.xhtml",
+      "start": 3961,
+      "end": 6550,
+      "characters": 2589,
+      "sha256": "7291b8523923a7d402eebb061deacc2a4ca1ba50b6ea059c0686ac5bae1785b7"
+    },
+    {
+      "source": "J",
+      "item": "OEBPS/Text/ch09t.xhtml",
+      "start": 14059,
+      "end": 16700,
+      "characters": 2641,
+      "sha256": "bb194d2c05efbaae4d84ce89e31881036598cb78c1cf543fca099c3bce5c001a"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_000.html",
+      "start": 0,
+      "end": 1400,
+      "characters": 1400,
+      "sha256": "a8798b091917ab9a096fa654f7b48e4e71dae58b67fff7b353a33c42c2c633dc"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_007.html",
+      "start": 0,
+      "end": 777,
+      "characters": 777,
+      "sha256": "b7752cf7eef00bc3f71ee847068d90a07295198851891c38c923c1175a712b7b"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_012.html",
+      "start": 0,
+      "end": 1918,
+      "characters": 1918,
+      "sha256": "3219cc606d2737852cbd353a774e4d9ca4afc38cb406298807a2d805bddd013a"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_023.html",
+      "start": 0,
+      "end": 1746,
+      "characters": 1746,
+      "sha256": "7593525477a79e6c7ef74da169a7356de315da7fe1711338f9e0f3158818defb"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_069.html",
+      "start": 0,
+      "end": 953,
+      "characters": 953,
+      "sha256": "38a8fd664926859e562fff2c1b2f9bf83a22f63813edb02398f9287e8e9c1010"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_071.html",
+      "start": 0,
+      "end": 876,
+      "characters": 876,
+      "sha256": "5abdd12d7e455ab8e2a80528eb922e4a2434152633c8aebd36a312651a33f0d6"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_073.html",
+      "start": 0,
+      "end": 253,
+      "characters": 253,
+      "sha256": "021b1d8247e7f60520d85c749198bc90c4be31e1ec93bb91332443e71900a361"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_075.html",
+      "start": 0,
+      "end": 636,
+      "characters": 636,
+      "sha256": "560e80720c1e28af3b85db624114101ace8bba8d305e3a8cd10ec12f90c58a06"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_081.html",
+      "start": 0,
+      "end": 1117,
+      "characters": 1117,
+      "sha256": "65f11b6f86e7c9330d0cb63ea3fb40590794f4d130b97ce64ad6467fea3b59bf"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_087.html",
+      "start": 0,
+      "end": 1055,
+      "characters": 1055,
+      "sha256": "a5ba0040b9522ee103f41a574b3d619246efa0b75d31d91039bce20544bb8104"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_029.html",
+      "start": 0,
+      "end": 2814,
+      "characters": 2814,
+      "sha256": "b1fb08694114f4aa8db9b4373353461f9e81464b383a5071ed3bc9dc60a99c84"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_049.html",
+      "start": 0,
+      "end": 1252,
+      "characters": 1252,
+      "sha256": "8c3612243709469b896ac8fc4547d24c35f3523dd6155ce038cba3d789432f3f"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_051.html",
+      "start": 0,
+      "end": 1034,
+      "characters": 1034,
+      "sha256": "5a2460ca4945df862c5d86050dca59b47c6421e1ff4ef11ba90cc09d5edf3475"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_093.html",
+      "start": 0,
+      "end": 679,
+      "characters": 679,
+      "sha256": "d8bdc007646284a69d6876b7de1e76ab85c38eefbcaa2c447797185ffe0749af"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_009.html",
+      "start": 0,
+      "end": 1600,
+      "characters": 1600,
+      "sha256": "df408e156dc68c8df0802e751e1cf1b25cabc7301859dae8cc718d0dcc992c56"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_009.html",
+      "start": 1600,
+      "end": 3004,
+      "characters": 1404,
+      "sha256": "89e8efa9145262414c1a8a4c0c91d9787e82d749aa26b64febce72df9e116c1c"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_002.html",
+      "start": 0,
+      "end": 650,
+      "characters": 650,
+      "sha256": "9d9a2df79df0843e6fdddf40c7a3dcf0dd9b05bd3defe602d7958dc0a4e21a79"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_100.html",
+      "start": 0,
+      "end": 550,
+      "characters": 550,
+      "sha256": "aa5142d24e89bc220be6c2fd4c22abdeeee5f4dcf39691e059c7e5e884eb59cb"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_002.html",
+      "start": 628,
+      "end": 2200,
+      "characters": 1572,
+      "sha256": "0cc0627e8ba968deddf3ba9e37678d57db721eef4a1a8e6b776936ae839660b5"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_002.html",
+      "start": 5377,
+      "end": 7550,
+      "characters": 2173,
+      "sha256": "2ab1948366c19c0d10d4b99bc36c3e4bd9e1ddf13602457d2c88f34f0618be48"
+    },
+    {
+      "source": "H",
+      "item": "text/part0001_split_002.html",
+      "start": 19424,
+      "end": 21900,
+      "characters": 2476,
+      "sha256": "c682307242e8fa33a51d17042b6ff1fc47807b06bac8c1ceb703be09d8e470be"
+    }
+  ],
+  "excluded_receipts": [
+    {
+      "source": "H",
+      "item": "text/part0001_split_009.html",
+      "start": 0,
+      "end": 3004,
+      "characters": 3004,
+      "sha256": "1d5da6cd619756cccae583a644e880a8b5c9ee1af4ec1c8495f3850c1947b138",
+      "reason": "Initial tool output truncated; replaced by complete 0:1600 and 1600:3004 windows."
+    }
+  ],
+  "summary": [
+    {
+      "source": "J",
+      "unique_reviewed_characters": 51501,
+      "items_with_review": 11,
+      "whole_book_claim": false
+    },
+    {
+      "source": "H",
+      "unique_reviewed_characters": 26913,
+      "items_with_review": 17,
+      "whole_book_claim": false
+    }
+  ],
+  "reading_not_equal_authorial_material": "包含為確認歸屬而讀到的第三方譯文、跨篇註釋；這些不列為作者原創主張。"
+}

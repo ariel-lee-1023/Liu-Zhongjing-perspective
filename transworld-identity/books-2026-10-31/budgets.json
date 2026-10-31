@@ -1,0 +1,44 @@
+[
+  {
+    "cluster_id": "classics-and-historiography",
+    "supply": 4226,
+    "budget": 4226,
+    "counts": {
+      "apparatus": 11,
+      "moves": 11,
+      "applications": 8,
+      "fragments": 21,
+      "siblings": 9,
+      "registers": 1
+    },
+    "words": 339354,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  },
+  {
+    "cluster_id": "state-and-social-structure",
+    "supply": 4226,
+    "budget": 4226,
+    "counts": {
+      "apparatus": 10,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 21,
+      "siblings": 9,
+      "registers": 1
+    },
+    "words": 339354,
+    "words_firsthand": 3727982,
+    "floor_triggered": false,
+    "recut_flagged": false,
+    "split_in_module_flagged": false,
+    "shared_domain": true,
+    "verdict": "OK",
+    "coefficients_source": "defaults"
+  }
+]

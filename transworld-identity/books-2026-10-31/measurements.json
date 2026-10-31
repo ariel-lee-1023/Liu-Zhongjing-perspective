@@ -1,0 +1,32 @@
+{
+  "estimator": "CJK U3400–9fff + 0.35 × other Unicode characters, rounded; not a model tokenizer",
+  "before_c02": {
+    "characters": 6113,
+    "cjk_characters": 4835,
+    "estimated_tokens": 5282
+  },
+  "after": {
+    "references/clusters/c02-premodern-order.md": {
+      "characters": 6482,
+      "cjk_characters": 5069,
+      "estimated_tokens": 5564
+    },
+    "references/history/classics-and-historiography.md": {
+      "characters": 5874,
+      "cjk_characters": 4351,
+      "estimated_tokens": 4884
+    },
+    "references/history/state-and-social-structure.md": {
+      "characters": 6259,
+      "cjk_characters": 4738,
+      "estimated_tokens": 5270
+    },
+    "references/clusters/c05-geopolitics-capital-and-class.md": {
+      "characters": 6958,
+      "cjk_characters": 5471,
+      "estimated_tokens": 5991
+    }
+  },
+  "formula_is_not_completeness_gate": true,
+  "editorial_allocation": "保留八個主簇，C02增加兩個有主題邊界的按需專題；每篇編輯上限6000估算tokens。公式是規劃參考，超建議值不刪除因果條件以湊數；未增其他書籍的覆蓋宣稱。"
+}

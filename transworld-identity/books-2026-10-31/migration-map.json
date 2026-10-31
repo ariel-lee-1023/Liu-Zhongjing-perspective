@@ -1,0 +1,18 @@
+{
+  "base_commit": "9bafa68d404164bd6e65cd1d0693529297788983",
+  "renames": [
+    {
+      "from": "references/clusters/c05-jingxuan-lectures.md",
+      "to": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "content_identical": true,
+      "sha256": "57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12"
+    }
+  ],
+  "new_topic_references": [
+    "references/history/classics-and-historiography.md",
+    "references/history/state-and-social-structure.md"
+  ],
+  "primary_cluster_ids_unchanged": "c01–c08",
+  "historical_paths": "前次refs報告及快照的舊C05路徑按當時版本閱讀；本次不回改歷史結果。",
+  "preexisting_user_change": "AGENTS.md preserved, excluded from commit"
+}

@@ -1,0 +1,28 @@
+{
+  "words_firsthand": 3727982,
+  "measurement_note": "沿前次全庫正文上界代理作可比量尺，不宣稱精確第一手詞數；兩專題同用兩書、來源容量不可相加。H剔除整篇克勞譯文；餘內嵌引文仍使容量是上界。",
+  "clusters": [
+    {
+      "cluster_id": "classics-and-historiography",
+      "words": 339354,
+      "apparatus": 11,
+      "moves": 11,
+      "applications": 8,
+      "fragments": 21,
+      "registers": 1,
+      "shared_domain": true,
+      "siblings": 9
+    },
+    {
+      "cluster_id": "state-and-social-structure",
+      "words": 339354,
+      "apparatus": 10,
+      "moves": 12,
+      "applications": 8,
+      "fragments": 21,
+      "registers": 1,
+      "shared_domain": true,
+      "siblings": 9
+    }
+  ]
+}

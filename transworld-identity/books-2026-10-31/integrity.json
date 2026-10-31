@@ -1,0 +1,238 @@
+{
+  "outcome": "pass",
+  "scope": "source fingerprints, root links and preservation; not full-package or behavioral acceptance",
+  "checks": [
+    {
+      "check": "source_file_J",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_file_H",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_reextract_and_33_group_spans",
+      "ok": true,
+      "detail": {
+        "files": 2,
+        "items": 28,
+        "groups": 33,
+        "block_tags": [
+          "p",
+          "h1",
+          "h2",
+          "h3",
+          "h4",
+          "h5",
+          "h6",
+          "li"
+        ],
+        "normalization": "strip each block itertext; preserve empty blocks; join by newline"
+      }
+    },
+    {
+      "check": "all_new_claim_ids_mapped",
+      "ok": true,
+      "detail": [
+        "H01",
+        "H02",
+        "H03",
+        "H04",
+        "H05",
+        "H06",
+        "H07",
+        "H08",
+        "H09",
+        "H10",
+        "H11",
+        "H12",
+        "H14",
+        "H15",
+        "H16",
+        "J01",
+        "J02",
+        "J03",
+        "J04",
+        "J05",
+        "J06",
+        "J07",
+        "J08",
+        "J09",
+        "J10",
+        "J11",
+        "J12",
+        "J13",
+        "J14",
+        "J15",
+        "J16",
+        "J17",
+        "J18"
+      ]
+    },
+    {
+      "check": "root_runtime_and_readme_links",
+      "ok": true,
+      "detail": {
+        "checked": 60,
+        "missing": []
+      }
+    },
+    {
+      "check": "c05_rename_only",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_live_old_c05_path",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "eight_primary_clusters",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "c02_original_text_preserved",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "skill_only_routes_changed",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "readme_opening_preserved",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "only_expected_existing_files_changed",
+      "ok": true,
+      "detail": [
+        "README.md",
+        "SKILL.md",
+        "transworld-identity/scope.md",
+        "transworld-identity/provenance.md",
+        "transworld-identity/validation.json",
+        "references/clusters/c02-premodern-order.md",
+        "references/clusters/c05-jingxuan-lectures.md",
+        "references/clusters/c07-nation-invention.md"
+      ]
+    },
+    {
+      "check": "c07_only_link_renamed",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "user_agents_preserved",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "voice_frameworks_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_raw_source_artifacts",
+      "ok": true,
+      "detail": []
+    },
+    {
+      "check": "no_machine_local_path:SKILL.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:README.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c02-premodern-order.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/history/classics-and-historiography.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "no_machine_local_path:references/history/state-and-social-structure.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "package_failures_unchanged",
+      "ok": true,
+      "detail": [
+        "C1",
+        "C1b",
+        "C2",
+        "C6",
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "check": "all_new_modules_below_editing_ceiling",
+      "ok": true,
+      "detail": null
+    }
+  ],
+  "untouched_baseline_files": 49,
+  "source_semantics_review": "source-review.json",
+  "independent_reviewer": false
+}

@@ -1,0 +1,666 @@
+{
+  "outcome": "pass_for_declared_editorial_scope",
+  "reviewer": "same authoring agent; not independent",
+  "reviewed_all_core_claims": false,
+  "new_source_groups": 33,
+  "records": [
+    {
+      "id": "J01",
+      "source": "J",
+      "topic": "漂流瓶與保存種子",
+      "retained_reasoning_and_boundary": "寫作對象、交鋒與傳承分開",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/preface01.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 767,
+          "sha256": "202227db7af4e26b08aee41b7b42a72c3f2d16f3d07a4a666d3e3cc4c86fc8d9"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J02",
+      "source": "J",
+      "topic": "經史與認知框架",
+      "retained_reasoning_and_boundary": "分類先於統計；梯子有高下；價值選擇不替代事實核驗",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/preface02.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 2118,
+          "sha256": "958d9e1046d513a1caee6f730c0d957ecd063bb1597d84b08b54dc0ee620d7ae"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J03",
+      "source": "J",
+      "topic": "巫、德與史官",
+      "retained_reasoning_and_boundary": "還原宗教職分；能源比喻不是科學事實",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch01t.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 3300,
+          "sha256": "5727402063eb1ec227cd38096090273044a10dc99703c4b86908d2c7473b29c5"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J04",
+      "source": "J",
+      "topic": "秩序的湧現",
+      "retained_reasoning_and_boundary": "周禮降低競爭成本；代言與神話形象不冒充史料",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch01t.xhtml",
+      "spans": [
+        {
+          "start": 12933,
+          "end": 16400,
+          "sha256": "f7e245cbebb0b548d1eb1c0f671778b9d0fd0f8b64e0ac49c6fb9c9b7a065b0a"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J05",
+      "source": "J",
+      "topic": "宗法封建",
+      "retained_reasoning_and_boundary": "宗支婚姻與繼承限制權力；個人解放可與集中同時發生",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch02t.xhtml",
+      "spans": [
+        {
+          "start": 3817,
+          "end": 8512,
+          "sha256": "e662a3c7d3b3a0d6bf6c5eafdf26895d6a90ff50d5f8a4c4a309224e83538907"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J06",
+      "source": "J",
+      "topic": "各等級自由",
+      "retained_reasoning_and_boundary": "西歐契約法團與周禮倫理不可直接等同",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch02t.xhtml",
+      "spans": [
+        {
+          "start": 12780,
+          "end": 15150,
+          "sha256": "da0a74632a314285be60d584e0c48941e5bdca0556b15435b750f24ba015f375"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J07",
+      "source": "J",
+      "topic": "游士與啟蒙",
+      "retained_reasoning_and_boundary": "知識商品化和責任鬆動；孔子教育的內在張力",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch03t.xhtml",
+      "spans": [
+        {
+          "start": 10116,
+          "end": 14823,
+          "sha256": "b40011d39b9be3db1836566756141045e683148c3447b65b42fe709abecc080d"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "J08",
+      "source": "J",
+      "topic": "儒士與法吏",
+      "retained_reasoning_and_boundary": "經義判案、師承和行政角色不同；社會重建不同於政治烏托邦成功",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch05t.xhtml",
+      "spans": [
+        {
+          "start": 4247,
+          "end": 7050,
+          "sha256": "cbbd8db496aad749a0ac358100fc3cf19f31b5521a65015c7356202fbe4c21e3"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J09",
+      "source": "J",
+      "topic": "家族征服帝國",
+      "retained_reasoning_and_boundary": "家族擴張與編戶衰減並存；曹魏人才與士族；西晉封王非再封建",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch05t.xhtml",
+      "spans": [
+        {
+          "start": 13675,
+          "end": 17100,
+          "sha256": "1e491c9dd3765fd603bef0d486e6317d5e54b24fb2af68c721eb366b866b1e6c"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J10",
+      "source": "J",
+      "topic": "蠻族與士族",
+      "retained_reasoning_and_boundary": "教育婚姻重組邊界；保地方與建帝國張力；劉裕改變均勢",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "spans": [
+        {
+          "start": 6204,
+          "end": 8950,
+          "sha256": "efe3050e4fff18e0cc43affc818e601ab764052c17836c62242e78086dd428db"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J11",
+      "source": "J",
+      "topic": "部落與軍戶",
+      "retained_reasoning_and_boundary": "同族因位置分化；府兵需身份財產義務配套",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch06t.xhtml",
+      "spans": [
+        {
+          "start": 15819,
+          "end": 18450,
+          "sha256": "583036e720d1f8739b56228318fe2e452436fbc8aa822908a9917fd0af59ed60"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J12",
+      "source": "J",
+      "topic": "科第興起",
+      "retained_reasoning_and_boundary": "教育投資、官職稀缺與地方人才流失",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch07t.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 2950,
+          "sha256": "557e99ddac87358a920bf9e364ad267a4ff9380c45fdcba1115363181791cd96"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J13",
+      "source": "J",
+      "topic": "藩鎮憲制",
+      "retained_reasoning_and_boundary": "專賣與走私武裝；地方防衛成本；文人史觀位置",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch07t.xhtml",
+      "spans": [
+        {
+          "start": 9625,
+          "end": 12150,
+          "sha256": "6d1fb7c19eca3fcf9bf2dc0c9299b90f33f634ad0890a946fb62001f9a353c0e"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J14",
+      "source": "J",
+      "topic": "士紳與宋代黨爭",
+      "retained_reasoning_and_boundary": "四種政治組合及付薪成本；地方宗族有修復作用",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch08t.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 3000,
+          "sha256": "33d30b8e0559f30b52b66d7c03f4d85509ba9d37164c5440b4dc5a4368b8ae5a"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J15",
+      "source": "J",
+      "topic": "流氓無產者",
+      "retained_reasoning_and_boundary": "不同地區組織能力與士紳保護需求；不外推人口替換為確證",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch08t.xhtml",
+      "spans": [
+        {
+          "start": 8883,
+          "end": 10800,
+          "sha256": "115caa993c211dad997eac5d15d4db2434734386c7f4877c20f3f544a5395207"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J16",
+      "source": "J",
+      "topic": "諸夏淪為蠻夷",
+      "retained_reasoning_and_boundary": "外部安全、地方再生與新政負擔雙向作用",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch09t.xhtml",
+      "spans": [
+        {
+          "start": 3961,
+          "end": 6550,
+          "sha256": "7291b8523923a7d402eebb061deacc2a4ca1ba50b6ea059c0686ac5bae1785b7"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J17",
+      "source": "J",
+      "topic": "羅馬與萬國",
+      "retained_reasoning_and_boundary": "自主需防衛能力；降低外部保護誘因的代價；保留書寫年代",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch09t.xhtml",
+      "spans": [
+        {
+          "start": 14059,
+          "end": 16700,
+          "sha256": "bb194d2c05efbaae4d84ce89e31881036598cb78c1cf543fca099c3bce5c001a"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "J18",
+      "source": "J",
+      "topic": "軍國主義與群眾解放",
+      "retained_reasoning_and_boundary": "郡縣監護及邊區職分；軍功平等與直接動員",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "OEBPS/Text/ch04t.xhtml",
+      "spans": [
+        {
+          "start": 0,
+          "end": 2850,
+          "sha256": "78b3072c2ae5c975b271560a5b68d95ca85e6008bff00423f85a63a54343de86"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H01",
+      "source": "H",
+      "topic": "秩序之流",
+      "retained_reasoning_and_boundary": "事件與歷史意義不同；史前史後非年份",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_000.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1400,
+          "sha256": "a8798b091917ab9a096fa654f7b48e4e71dae58b67fff7b353a33c42c2c633dc"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "H02",
+      "source": "H",
+      "topic": "縣而未封",
+      "retained_reasoning_and_boundary": "監護擴張有無外部制衡",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_007.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 777,
+          "sha256": "b7752cf7eef00bc3f71ee847068d90a07295198851891c38c923c1175a712b7b"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H03",
+      "source": "H",
+      "topic": "韓侯甘居胯下",
+      "retained_reasoning_and_boundary": "不同政治目的和榮譽尺度；貴族與寵臣不同",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_009.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 3004,
+          "sha256": "1d5da6cd619756cccae583a644e880a8b5c9ee1af4ec1c8495f3850c1947b138"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H04",
+      "source": "H",
+      "topic": "無恆產者",
+      "retained_reasoning_and_boundary": "多僱主消失、退出變弱、客成私屬",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_012.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1918,
+          "sha256": "3219cc606d2737852cbd353a774e4d9ca4afc38cb406298807a2d805bddd013a"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H05",
+      "source": "H",
+      "topic": "天下民力竭矣",
+      "retained_reasoning_and_boundary": "稅役兩種交換；免費公共職分消失",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_023.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1746,
+          "sha256": "7593525477a79e6c7ef74da169a7356de315da7fe1711338f9e0f3158818defb"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H06",
+      "source": "H",
+      "topic": "鹽鈔之弊",
+      "retained_reasoning_and_boundary": "信用財政化與采邑收回；領薪軍人依賴中央",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_029.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 2814,
+          "sha256": "b1fb08694114f4aa8db9b4373353461f9e81464b383a5071ed3bc9dc60a99c84"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H07",
+      "source": "H",
+      "topic": "西耶斯、貢斯當",
+      "retained_reasoning_and_boundary": "共和名目與實際制衡；集權軍人反噬原保守派",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_049.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1252,
+          "sha256": "8c3612243709469b896ac8fc4547d24c35f3523dd6155ce038cba3d789432f3f"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H08",
+      "source": "H",
+      "topic": "海地革命與小農",
+      "retained_reasoning_and_boundary": "出口財政不同於自保；小農比較有組織條件",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_051.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1034,
+          "sha256": "5a2460ca4945df862c5d86050dca59b47c6421e1ff4ef11ba90cc09d5edf3475"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H09",
+      "source": "H",
+      "topic": "奮其私智而不師古",
+      "retained_reasoning_and_boundary": "有例之治優先於民主標籤；高稅和任意沒收不同",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_069.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 953,
+          "sha256": "38a8fd664926859e562fff2c1b2f9bf83a22f63813edb02398f9287e8e9c1010"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "H10",
+      "source": "H",
+      "topic": "繼承權與文明",
+      "retained_reasoning_and_boundary": "代際承諾依賴物質載體；不複製民族人類學斷言為事實",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_071.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 876,
+          "sha256": "5abdd12d7e455ab8e2a80528eb922e4a2434152633c8aebd36a312651a33f0d6"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "H11",
+      "source": "H",
+      "topic": "規則與元規則",
+      "retained_reasoning_and_boundary": "作者宗教法源觀；規則不出於臨時意志",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_073.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 253,
+          "sha256": "021b1d8247e7f60520d85c749198bc90c4be31e1ec93bb91332443e71900a361"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "H12",
+      "source": "H",
+      "topic": "擴張型財政",
+      "retained_reasoning_and_boundary": "排除清代的國際變量限定；不能直接預測當代貨幣",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_075.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 636,
+          "sha256": "560e80720c1e28af3b85db624114101ace8bba8d305e3a8cd10ec12f90c58a06"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H14",
+      "source": "H",
+      "topic": "民初財務地域階級問題",
+      "retained_reasoning_and_boundary": "正當性變化不取消軍政財政義務",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_087.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 1055,
+          "sha256": "a5ba0040b9522ee103f41a574b3d619246efa0b75d31d91039bce20544bb8104"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "id": "H15",
+      "source": "H",
+      "topic": "僭政與法統",
+      "retained_reasoning_and_boundary": "失敗測試與婚姻比喻；排除其後跨篇註釋",
+      "speaker": "劉仲敬作者議論；文內引用另分",
+      "locator": "text/part0001_split_093.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 431,
+          "sha256": "c06cd8258266b97652b72f30133e5b0352d721f4886fbb62466484a6e0107611"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/classics-and-historiography.md"
+      ]
+    },
+    {
+      "id": "H16",
+      "source": "H",
+      "topic": "美國主導的世界秩序及中國成長",
+      "retained_reasoning_and_boundary": "宗教價值、內外信任圈、同盟與集體安全、離岸均勢；剔除麥考萊引文作作者原創的可能",
+      "speaker": "作者正文與第三方引文區分",
+      "locator": "text/part0001_split_002.html",
+      "spans": [
+        {
+          "start": 0,
+          "end": 2200,
+          "sha256": "84f3e267d9cec9e184f7f4af0c80b33e1a9194d4756106cf2e05bfbc4a05870d"
+        },
+        {
+          "start": 5377,
+          "end": 7550,
+          "sha256": "2ab1948366c19c0d10d4b99bc36c3e4bd9e1ddf13602457d2c88f34f0618be48"
+        },
+        {
+          "start": 19424,
+          "end": 21900,
+          "sha256": "c682307242e8fa33a51d17042b6ff1fc47807b06bac8c1ceb703be09d8e470be"
+        }
+      ],
+      "outcome": "supported_with_stated_conditions",
+      "used_in": [
+        "references/history/state-and-social-structure.md"
+      ]
+    }
+  ],
+  "excluded_as_authorial_source": [
+    "H卷末《克勞備忘錄》為1907年英國外交文件，劉仲敬為譯者",
+    "H16內麥考萊引文",
+    "H15後跨篇註釋",
+    "原書中的古人引語、作者代言、編者註釋不能作本人經歷"
+  ],
+  "not_claimed": [
+    "全書通讀",
+    "全部著作蒸餾充分",
+    "獨立史學核驗",
+    "行為辨識通過"
+  ]
+}
