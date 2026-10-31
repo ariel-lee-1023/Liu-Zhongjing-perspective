@@ -1,0 +1,342 @@
+{
+  "outcome": "pass_for_declared_reference_routing_scope",
+  "checks": [
+    {
+      "check": "framework_claims_unchanged",
+      "ok": true,
+      "detail": "48 個原條目逐字保留，只移動與細化引用"
+    },
+    {
+      "check": "no_added_framework_section",
+      "ok": true,
+      "detail": 8
+    },
+    {
+      "check": "all_original_c_tags_reviewed",
+      "ok": true,
+      "detail": 28
+    },
+    {
+      "check": "canonical_current_files",
+      "ok": true,
+      "detail": {
+        "c01": "clusters/c01-ayi-life-advice.md",
+        "c02": "clusters/c02-premodern-order.md",
+        "c03": "clusters/c03-wadi-psychology.md",
+        "c04": "clusters/c04-civilization-theory.md",
+        "c05": "clusters/c05-geopolitics-capital-and-class.md",
+        "c06": "clusters/c06-figures.md",
+        "c07": "clusters/c07-nation-invention.md",
+        "c08": "clusters/c08-minguo-wenyan.md"
+      }
+    },
+    {
+      "check": "all_cluster_links_resolve",
+      "ok": true,
+      "detail": "59 節次指引連到八個現存檔案"
+    },
+    {
+      "check": "labels_match_cluster_numbers",
+      "ok": true,
+      "detail": "顯示編號與實際檔名一致"
+    },
+    {
+      "check": "section_positions_verified",
+      "ok": true,
+      "detail": "59 個章節定位均在目前 refs 的指定行；簇內容未改"
+    },
+    {
+      "check": "no_obsolete_cluster_destinations",
+      "ok": true,
+      "detail": "沒有引用已合併C09或C05舊檔名"
+    },
+    {
+      "check": "source_scope_narrowed",
+      "ok": true,
+      "detail": "天花板、瓦房店化、血酬標註緊鄰對應命題"
+    },
+    {
+      "check": "voice_quote_removed",
+      "ok": true,
+      "detail": "刪除完整原文摘錄與摘錄說明"
+    },
+    {
+      "check": "literary_distillation_preserved",
+      "ok": true,
+      "detail": "五點文學性歸納逐字保留"
+    },
+    {
+      "check": "other_voice_sections_preserved",
+      "ok": true,
+      "detail": "其他語族、統計與表達提示不變"
+    },
+    {
+      "check": "core_clusters_and_agents_preserved",
+      "ok": true,
+      "detail": "SKILL、八簇及使用者AGENTS修改均原樣保留"
+    },
+    {
+      "check": "runtime_inline_links_exist",
+      "ok": true,
+      "detail": 55
+    },
+    {
+      "check": "package_errors_not_increased",
+      "ok": true,
+      "detail": [
+        "C1",
+        "C1b",
+        "C2",
+        "C6",
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "check": "package_warnings_not_increased",
+      "ok": true,
+      "detail": [
+        "L1",
+        "S4"
+      ]
+    },
+    {
+      "check": "only_requested_existing_files",
+      "ok": true,
+      "detail": [
+        "README.md",
+        "references/frameworks.md",
+        "references/voice.md",
+        "transworld-identity/scope.md",
+        "transworld-identity/provenance.md"
+      ]
+    }
+  ],
+  "inline_links": [
+    [
+      "SKILL.md",
+      "references/clusters/c01-ayi-life-advice.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c02-premodern-order.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c03-wadi-psychology.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c04-civilization-theory.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c05-geopolitics-capital-and-class.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c06-figures.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c07-nation-invention.md"
+    ],
+    [
+      "SKILL.md",
+      "references/clusters/c08-minguo-wenyan.md"
+    ],
+    [
+      "README.md",
+      "#可以帶來的問題"
+    ],
+    [
+      "README.md",
+      "#開始使用"
+    ],
+    [
+      "README.md",
+      "#檔案與載入"
+    ],
+    [
+      "README.md",
+      "#來源及其作用"
+    ],
+    [
+      "README.md",
+      "#範圍與目前狀態"
+    ],
+    [
+      "README.md",
+      "#授權"
+    ],
+    [
+      "README.md",
+      "references/clusters/c07-nation-invention.md"
+    ],
+    [
+      "README.md",
+      "SKILL.md"
+    ],
+    [
+      "README.md",
+      "references/"
+    ],
+    [
+      "README.md",
+      "SKILL.md"
+    ],
+    [
+      "README.md",
+      "references/frameworks.md"
+    ],
+    [
+      "README.md",
+      "references/voice.md"
+    ],
+    [
+      "README.md",
+      "SKILL.md"
+    ],
+    [
+      "README.md",
+      "references/frameworks.md"
+    ],
+    [
+      "README.md",
+      "references/voice.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/"
+    ],
+    [
+      "README.md",
+      "fidelity-ledger/"
+    ],
+    [
+      "README.md",
+      "transworld-identity/"
+    ],
+    [
+      "README.md",
+      "references/clusters/c01-ayi-life-advice.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c02-premodern-order.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c03-wadi-psychology.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c04-civilization-theory.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c05-geopolitics-capital-and-class.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c06-figures.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c07-nation-invention.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c08-minguo-wenyan.md"
+    ],
+    [
+      "README.md",
+      "references/clusters/c07-nation-invention.md"
+    ],
+    [
+      "README.md",
+      "fidelity-ledger/provenance.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/provenance.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/provenance.md#readme-editorial-review-2026-10-30"
+    ],
+    [
+      "README.md",
+      "transworld-identity/cultivation-2026-10-31/report.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/scope.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/history/refs-2026-10-31/validation-before.json"
+    ],
+    [
+      "README.md",
+      "fidelity-ledger/provenance.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/refs-2026-10-31/report.md"
+    ],
+    [
+      "README.md",
+      "transworld-identity/validation.json"
+    ],
+    [
+      "README.md",
+      "LICENSE"
+    ],
+    [
+      "README.md",
+      "NOTICE.md"
+    ],
+    [
+      "references/voice.md",
+      "frameworks.md"
+    ],
+    [
+      "references/clusters/c05-geopolitics-capital-and-class.md",
+      "c07-nation-invention.md"
+    ],
+    [
+      "references/clusters/c08-minguo-wenyan.md",
+      "c07-nation-invention.md"
+    ],
+    [
+      "references/clusters/c08-minguo-wenyan.md",
+      "../voice.md"
+    ],
+    [
+      "references/clusters/c07-nation-invention.md",
+      "c02-premodern-order.md"
+    ],
+    [
+      "references/clusters/c07-nation-invention.md",
+      "c05-geopolitics-capital-and-class.md"
+    ],
+    [
+      "references/clusters/c07-nation-invention.md",
+      "../frameworks.md"
+    ],
+    [
+      "references/clusters/c07-nation-invention.md",
+      "../voice.md"
+    ],
+    [
+      "references/clusters/c07-nation-invention.md",
+      "c06-figures.md"
+    ]
+  ],
+  "reference_style_link_count": 59,
+  "unexpanded_details_record": "routing.json",
+  "raw_sources_added": 0,
+  "recognition_calls": 0
+}

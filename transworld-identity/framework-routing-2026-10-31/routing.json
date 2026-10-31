@@ -1,0 +1,663 @@
+{
+  "baseline": "58c16744c64813e11ce5275ada25e7c2e3562432",
+  "original_c_tag_count": 28,
+  "entries": [
+    {
+      "line": 9,
+      "entry": "- **第一動作",
+      "old_tags": [
+        "〔c01〕"
+      ],
+      "new_tags": [
+        "〔[C01 §一][c01]〕"
+      ]
+    },
+    {
+      "line": 12,
+      "entry": "- **材料從屬",
+      "old_tags": [
+        "〔c06/c02〕"
+      ],
+      "new_tags": [
+        "〔[C06 §二][c06]〕",
+        "〔[C02 §九][c02]〕",
+        "〔[C06 §二][c06]〕"
+      ]
+    },
+    {
+      "line": 17,
+      "entry": "- **達爾文式",
+      "old_tags": [
+        "〔源碼書一章／c04〕"
+      ],
+      "new_tags": [
+        "〔源碼書一章；[C04 §一][c04]；[C04 §二][c04]〕"
+      ]
+    },
+    {
+      "line": 18,
+      "entry": "- **孤島外推",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §二][c04]〕"
+      ]
+    },
+    {
+      "line": 19,
+      "entry": "- **認知功能",
+      "old_tags": [
+        "〔c01〕",
+        "〔《經與史》〈游士與啟蒙者〉／c02〕"
+      ],
+      "new_tags": [
+        "〔[C01 §六][c01]〕",
+        "〔《經與史》〈游士與啟蒙者〉；[C02「修養與知識」][c02]〕"
+      ]
+    },
+    {
+      "line": 20,
+      "entry": "- **天花板與梯子",
+      "old_tags": [
+        "〔c05〕"
+      ],
+      "new_tags": [
+        "〔[C05 §十六][c05]〕"
+      ]
+    },
+    {
+      "line": 26,
+      "entry": "- **德性（",
+      "old_tags": [
+        "〔《經與史》〈游士與啟蒙者〉／c02〕"
+      ],
+      "new_tags": [
+        "〔《經與史》〈游士與啟蒙者〉；[C02「修養與知識」][c02]〕"
+      ]
+    },
+    {
+      "line": 27,
+      "entry": "- **不可再生",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §三][c04]〕"
+      ]
+    },
+    {
+      "line": 28,
+      "entry": "- **收割者",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §三][c04]〕"
+      ]
+    },
+    {
+      "line": 29,
+      "entry": "- **秩序輸入／輸出",
+      "old_tags": [
+        "〔c05〕"
+      ],
+      "new_tags": [
+        "〔[C02 §一][c02]；[C02 §二][c02]〕",
+        "〔[C02 §五][c02]；[C05 §二][c05]〕",
+        "〔[C03 §八][c03]〕"
+      ]
+    },
+    {
+      "line": 31,
+      "entry": "- **韭菜三層",
+      "old_tags": [
+        "〔c03〕"
+      ],
+      "new_tags": [
+        "〔[C03 §二][c03]〕"
+      ]
+    },
+    {
+      "line": 32,
+      "entry": "- **演化不能",
+      "old_tags": [
+        "〔c03〕"
+      ],
+      "new_tags": [
+        "〔[C03 §三][c03]；[C03 §四][c03]〕"
+      ]
+    },
+    {
+      "line": 33,
+      "entry": "- **心臟病",
+      "old_tags": [
+        "〔c03〕"
+      ],
+      "new_tags": [
+        "〔[C03 §五][c03]〕"
+      ]
+    },
+    {
+      "line": 34,
+      "entry": "- **末人／史後",
+      "old_tags": [
+        "〔源碼書八章〕"
+      ],
+      "new_tags": [
+        "〔源碼書八章；[C04 §七][c04]；[C04 §九][c04]；[C04 §十][c04]〕"
+      ]
+    },
+    {
+      "line": 39,
+      "entry": "- **種子庫",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §四][c04]〕"
+      ]
+    },
+    {
+      "line": 40,
+      "entry": "- **秩序是長出來",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §五][c04]〕"
+      ]
+    },
+    {
+      "line": 41,
+      "entry": "- **拆名詞",
+      "old_tags": [
+        "〔c04〕"
+      ],
+      "new_tags": [
+        "〔[C04 §六][c04]〕"
+      ]
+    },
+    {
+      "line": 43,
+      "entry": "- **周政／秦政",
+      "old_tags": [
+        "〔c02/c06〕"
+      ],
+      "new_tags": [
+        "〔[C02「禮樂的成熟、解體與國家的產生」][c02]；[C04 §六][c04]〕",
+        "〔[C02 §二][c02]；[C02 §十][c02]〕",
+        "〔[C07 §一][c07]〕",
+        "〔[C02 §六][c02]；[C06 §十][c06]〕"
+      ]
+    },
+    {
+      "line": 44,
+      "entry": "- **道統是",
+      "old_tags": [
+        "〔c05〕"
+      ],
+      "new_tags": [
+        "〔[C05 §十五][c05]〕"
+      ]
+    },
+    {
+      "line": 50,
+      "entry": "- **民族發明學",
+      "old_tags": [
+        "〔c07〕"
+      ],
+      "new_tags": [
+        "〔[C07 §一][c07]；[C07 §三][c07]〕"
+      ]
+    },
+    {
+      "line": 55,
+      "entry": "- **三種可點名",
+      "old_tags": [
+        "〔c03〕"
+      ],
+      "new_tags": [
+        "〔[C03 §五][c03]〕"
+      ]
+    },
+    {
+      "line": 56,
+      "entry": "- **水蜘蛛",
+      "old_tags": [
+        "〔c06〕"
+      ],
+      "new_tags": [
+        "〔[C06 §三][c06]〕",
+        "〔[C06 §三][c06]〕"
+      ]
+    },
+    {
+      "line": 57,
+      "entry": "- **微環境共同演化",
+      "old_tags": [
+        "〔c06〕",
+        "〔《經與史》〈游士與啟蒙者〉／c02〕"
+      ],
+      "new_tags": [
+        "〔[C06 §一][c06]〕",
+        "〔《經與史》〈游士與啟蒙者〉；[C02「修養與知識」][c02]〕"
+      ]
+    },
+    {
+      "line": 58,
+      "entry": "- **班底與交易",
+      "old_tags": [
+        "〔c06/c02/c05〕"
+      ],
+      "new_tags": [
+        "〔[C02 §八][c02]；[C06 §六][c06]〕",
+        "〔[C05 §十六][c05]〕",
+        "〔[C06 §六][c06]〕"
+      ]
+    },
+    {
+      "line": 60,
+      "entry": "- **逆淘汰",
+      "old_tags": [
+        "〔c08/c05〕"
+      ],
+      "new_tags": [
+        "〔[C08 §六][c08]〕",
+        "〔[C05 §十二][c05]〕"
+      ]
+    },
+    {
+      "line": 61,
+      "entry": "- **血酬",
+      "old_tags": [
+        "〔c02/c06〕"
+      ],
+      "new_tags": [
+        "〔[C08 §八][c08]；[C02 §三][c02]〕",
+        "〔[C02 §八][c02]〕"
+      ]
+    },
+    {
+      "line": 62,
+      "entry": "- **常備定判",
+      "old_tags": [
+        "〔c06/c05〕"
+      ],
+      "new_tags": [
+        "〔[C06 §五][c06]〕",
+        "〔[C06 §二][c06]〕",
+        "〔[C06 §十一][c06]〕",
+        "〔[C05 §十六][c05]〕"
+      ]
+    }
+  ],
+  "section_eight": "把含混的全體定義指引改為具體題材參閱，不假定每一名目均已收入C01/C04。",
+  "targets": [
+    {
+      "label": "C01 §一",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "heading": "一、總招式：把個人問題翻譯成結構 / 生物 / 演化問題，再回答",
+      "line": 9
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）",
+      "line": 19
+    },
+    {
+      "label": "C02 §九",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "九、胡漢雙重性與\"儒學由藩鎮復活\"",
+      "line": 257
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）",
+      "line": 19
+    },
+    {
+      "label": "C04 §一",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "一、袁-劉往復的固定結構（照這個來）",
+      "line": 7
+    },
+    {
+      "label": "C04 §二",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "二、理論是探測器，不是判決書",
+      "line": 27
+    },
+    {
+      "label": "C04 §二",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "二、理論是探測器，不是判決書",
+      "line": 27
+    },
+    {
+      "label": "C01 §六",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "heading": "六、他的\"怎麼看清事物\"——兩個可複用的認知招式",
+      "line": 72
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "修養與知識：生活如何被抽離為學問",
+      "line": 82
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "十六、遺傳×環境，與民國青年黨",
+      "line": 98
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "修養與知識：生活如何被抽離為學問",
+      "line": 82
+    },
+    {
+      "label": "C04 §三",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "三、組織資源：不可再生，所以\"進步\"就是揮霍",
+      "line": 35
+    },
+    {
+      "label": "C04 §三",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "三、組織資源：不可再生，所以\"進步\"就是揮霍",
+      "line": 35
+    },
+    {
+      "label": "C02 §一",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "一、秩序的產生：保護、供養與仲裁",
+      "line": 11
+    },
+    {
+      "label": "C02 §二",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "二、幾個高識別度的判斷（連推理鏈）",
+      "line": 19
+    },
+    {
+      "label": "C02 §五",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "五、資金流版的興衰判斷（與全球資本主義簇呼應）",
+      "line": 44
+    },
+    {
+      "label": "C05 §二",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "二、資金流／全球資本主義定位（已提升入核心）",
+      "line": 19
+    },
+    {
+      "label": "C03 §八",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "八、瓦房店化：技術退化的完整因果鏈（照鏈條講，不要只丟詞）",
+      "line": 95
+    },
+    {
+      "label": "C03 §二",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "二、\"韭菜\"：可反覆汲取的人格—市場—時間三層結構",
+      "line": 21
+    },
+    {
+      "label": "C03 §三",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "三、互害博弈：不是愚昧，是短期理性",
+      "line": 33
+    },
+    {
+      "label": "C03 §四",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "四、人格是怎麼被制度做出來的：關係網、告密、教育",
+      "line": 52
+    },
+    {
+      "label": "C03 §五",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "五、三種可以點名的人格類型（驗屍式，不是罵人）",
+      "line": 67
+    },
+    {
+      "label": "C04 §七",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "七、末人（史後之人）：診斷連着例證",
+      "line": 75
+    },
+    {
+      "label": "C04 §九",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "九、大洪水：完整機理 + 紙幣類比",
+      "line": 86
+    },
+    {
+      "label": "C04 §十",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "十、守先待後：處方、正反例、運作機制、邊界",
+      "line": 94
+    },
+    {
+      "label": "C04 §四",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "四、種子庫怎麼運作：黑匣子、重稅、壓縮膠囊",
+      "line": 48
+    },
+    {
+      "label": "C04 §五",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "五、秩序是長出來的：封建、羅馬法、普通法",
+      "line": 56
+    },
+    {
+      "label": "C04 §六",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "六、拆名詞的示範：絕對主義",
+      "line": 64
+    },
+    {
+      "label": "C02「禮樂的成熟、解體與國家的產生」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "禮樂的成熟、解體與國家的產生",
+      "line": 74
+    },
+    {
+      "label": "C04 §六",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "六、拆名詞的示範：絕對主義",
+      "line": 64
+    },
+    {
+      "label": "C02 §二",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "二、幾個高識別度的判斷（連推理鏈）",
+      "line": 19
+    },
+    {
+      "label": "C02 §十",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "十、文字、技術與傳播路線",
+      "line": 266
+    },
+    {
+      "label": "C07 §一",
+      "path": "references/clusters/c07-nation-invention.md",
+      "heading": "一、四種民族主義：先查它在拆誰、保誰",
+      "line": 7
+    },
+    {
+      "label": "C02 §六",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "六、齊魯晉鄭楚：憲制位置先於名稱",
+      "line": 231
+    },
+    {
+      "label": "C06 §十",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "十、幾條可直接調用的定性",
+      "line": 94
+    },
+    {
+      "label": "C05 §十五",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "十五、唯物主義的道統建構：道統是政治行爲，不是哲學",
+      "line": 92
+    },
+    {
+      "label": "C07 §一",
+      "path": "references/clusters/c07-nation-invention.md",
+      "heading": "一、四種民族主義：先查它在拆誰、保誰",
+      "line": 7
+    },
+    {
+      "label": "C07 §三",
+      "path": "references/clusters/c07-nation-invention.md",
+      "heading": "三、書面評傳對照：發明者被敘事反制",
+      "line": 23
+    },
+    {
+      "label": "C03 §五",
+      "path": "references/clusters/c03-wadi-psychology.md",
+      "heading": "五、三種可以點名的人格類型（驗屍式，不是罵人）",
+      "line": 67
+    },
+    {
+      "label": "C06 §三",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "三、生態位定名法（他給人下的不是評語，是分類）",
+      "line": 34
+    },
+    {
+      "label": "C06 §三",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "三、生態位定名法（他給人下的不是評語，是分類）",
+      "line": 34
+    },
+    {
+      "label": "C06 §一",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "一、他寫一個人的固定順序（照這個走）",
+      "line": 11
+    },
+    {
+      "label": "C02「修養與知識」",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "修養與知識：生活如何被抽離為學問",
+      "line": 82
+    },
+    {
+      "label": "C02 §八",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "八、秩序的來源是一個武裝集團加一筆交易",
+      "line": 249
+    },
+    {
+      "label": "C06 §六",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "六、班底與交易：任何政權先看這兩樣",
+      "line": 64
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "十六、遺傳×環境，與民國青年黨",
+      "line": 98
+    },
+    {
+      "label": "C06 §六",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "六、班底與交易：任何政權先看這兩樣",
+      "line": 64
+    },
+    {
+      "label": "C08 §六",
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "heading": "六、逆淘汰定律（這一簇最可複用的一條機制）",
+      "line": 51
+    },
+    {
+      "label": "C05 §十二",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "十二、認知戰的本質：欺騙是軟弱的形式",
+      "line": 74
+    },
+    {
+      "label": "C08 §八",
+      "path": "references/clusters/c08-minguo-wenyan.md",
+      "heading": "八、主權、福利與武力（札記裏最硬的一段）",
+      "line": 64
+    },
+    {
+      "label": "C02 §三",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "三、民族認同與福利的判斷",
+      "line": 29
+    },
+    {
+      "label": "C02 §八",
+      "path": "references/clusters/c02-premodern-order.md",
+      "heading": "八、秩序的來源是一個武裝集團加一筆交易",
+      "line": 249
+    },
+    {
+      "label": "C06 §五",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "五、評價座標：對**本邦**的淨損益，不是對\"中國\"的功過",
+      "line": 52
+    },
+    {
+      "label": "C06 §二",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "二、這一簇獨有的三條判斷（識別度最高）",
+      "line": 19
+    },
+    {
+      "label": "C06 §十一",
+      "path": "references/clusters/c06-figures.md",
+      "heading": "十一、兩個語域的風格差別（務必分清）",
+      "line": 100
+    },
+    {
+      "label": "C05 §十六",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "heading": "十六、遺傳×環境，與民國青年黨",
+      "line": 98
+    },
+    {
+      "label": "C01 §二",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "heading": "二、招式的成段示範（連推理鏈一起，照着這個骨架走）",
+      "line": 17
+    },
+    {
+      "label": "C01 §七",
+      "path": "references/clusters/c01-ayi-life-advice.md",
+      "heading": "七、行動先於知識：反規劃的動作鏈（此簇的\"怎麼辦\"總出口）",
+      "line": 80
+    },
+    {
+      "label": "C04 §十",
+      "path": "references/clusters/c04-civilization-theory.md",
+      "heading": "十、守先待後：處方、正反例、運作機制、邊界",
+      "line": 94
+    }
+  ],
+  "unexpanded_details": [
+    "不存在隨感：C01 §六支持外部認知與反內省，未展開這個名目。",
+    "理論梯子、審美篩選：C05 §十六支持訓練天花板，不支持連帶把這兩項標作同一節。",
+    "技術員與書記員、文筆與學究氣：C06 §三有水蜘蛛與價值界分類，未完整展開這些夾在中間的定判。",
+    "近代領袖與費厄潑賴、博雅教育次序：現有C02/C06未完整展開。",
+    "第八節部分名目未在C01/C04逐項展開；保留內容，將指引限定為生活問題與保種題材。"
+  ],
+  "unexpanded_policy": "保留原框架文字；移除或縮窄錯掛的整段標註，不藉引用位置複核新增原書蒸餾或聲稱缺項已核驗。",
+  "voice_change": "刪除整段原文摘錄；保留措辭、節奏、類比、對偶、意象與情感的歸納，以及必要的短詞例。",
+  "removed_quote_sha256": "c2f49690bc71fab9c2ff58bffd6ad8fbf9d7d2d6d766dc6fddc06855c856db1b",
+  "link_format": "標註採C編號加節次；八個reference-style連結集中保存現有檔名，避免重複長路徑。"
+}

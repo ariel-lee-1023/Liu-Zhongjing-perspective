@@ -1,23 +1,31 @@
 {
   "schema_version": 1,
-  "scope": "source-grounded cultivation distillation within existing frameworks, B-family literary sample, and deeper C02 arguments",
+  "scope": "framework citation placement against current C01-C08 modules and removal of the full voice excerpt",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
-    "outcome": "pass_for_declared_editorial_scope",
-    "new_source_groups": 5,
-    "revisited_source_groups": [
-      "J07"
-    ],
-    "inherited_source_groups": 33,
+    "outcome": "pass_for_declared_reference_routing_scope_with_unexpanded_details",
+    "new_source_groups": 0,
+    "raw_sources_reopened": false,
     "reviewed_all_core_claims": false,
-    "review": "cultivation-2026-10-31/source-review.json",
-    "coverage": "cultivation-2026-10-31/reading-coverage.json",
+    "review": "framework-routing-2026-10-31/routing.json",
+    "previous_distillation": {
+      "outcome": "pass_for_declared_editorial_scope",
+      "new_source_groups": 5,
+      "revisited_source_groups": [
+        "J07"
+      ],
+      "inherited_source_groups": 33,
+      "reviewed_all_core_claims": false,
+      "review": "cultivation-2026-10-31/source-review.json",
+      "coverage": "cultivation-2026-10-31/reading-coverage.json",
+      "independent_reviewer": false
+    },
     "independent_reviewer": false
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "cultivation-2026-10-31/checks.json"
+    "record": "framework-routing-2026-10-31/checks.json"
   },
   "recognition": {
     "outcome": "not_run",
@@ -34,8 +42,8 @@
     "references/clusters/c06-figures.md": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
     "references/clusters/c07-nation-invention.md": "sha256:4438467f69a44533b2e005e827f5040dd7a29f0561e925bbb4f7e2acc550cc44",
     "references/clusters/c08-minguo-wenyan.md": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e",
-    "references/frameworks.md": "sha256:5871b4dc99192f5eea5872f81bdcba5cc81f74020770b6380442ae464a3604aa",
-    "references/voice.md": "sha256:f8816c921ed73cc65ba5ec3a69fddc14d3dd49011358dbb6c50a379dfeec5257"
+    "references/frameworks.md": "sha256:adfe6ccd25b07f032e94f7a2aa866e94ad4cce9133ea43a00963117e305fe149",
+    "references/voice.md": "sha256:935a7afcf30979eb41fc52b3788eb3f40f821c3268fc27c7a09ca102560b3c8f"
   },
   "package": {
     "outcome": "fail_existing_layout",
@@ -52,8 +60,8 @@
       "S3"
     ],
     "new_failed_checks": [],
-    "before": "cultivation-2026-10-31/package-before.json",
-    "after": "cultivation-2026-10-31/package-after.json"
+    "before": "framework-routing-2026-10-31/package-before.json",
+    "after": "framework-routing-2026-10-31/package-after.json"
   },
-  "previous_validation": "cultivation-2026-10-31/validation-before.json"
+  "previous_validation": "framework-routing-2026-10-31/validation-before.json"
 }
