@@ -1,0 +1,199 @@
+{
+  "outcome": "pass",
+  "checks": [
+    {
+      "check": "editorial_draft_moved:classics-and-historiography.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "editorial_draft_preserved_except_links:classics-and-historiography.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "editorial_draft_moved:state-and-social-structure.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "editorial_draft_preserved_except_links:state-and-social-structure.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "eight_clusters_no_supplement_folder",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "active_and_relocated_links",
+      "ok": true,
+      "detail": {
+        "checked": 77,
+        "missing": []
+      }
+    },
+    {
+      "check": "runtime_has_no_editorial_draft_or_audit_dependency",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "source_ids_map_to_33_existing_groups",
+      "ok": true,
+      "detail": [
+        "H01",
+        "H02",
+        "H03",
+        "H04",
+        "H05",
+        "H06",
+        "H07",
+        "H08",
+        "H09",
+        "H10",
+        "H11",
+        "H12",
+        "H14",
+        "H15",
+        "H16",
+        "J01",
+        "J02",
+        "J03",
+        "J04",
+        "J05",
+        "J06",
+        "J07",
+        "J08",
+        "J09",
+        "J10",
+        "J11",
+        "J12",
+        "J13",
+        "J14",
+        "J15",
+        "J16",
+        "J17",
+        "J18"
+      ]
+    },
+    {
+      "check": "original_source_span_fingerprints",
+      "ok": true,
+      "detail": {
+        "reverified_groups": 33,
+        "semantic_review": "correction.json; same editor, not independent"
+      }
+    },
+    {
+      "check": "c02_no_added_instructional_scaffolding",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "core_persona_body_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "readme_opening_unchanged",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/frameworks.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/voice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c05-geopolitics-capital-and-class.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c08-minguo-wenyan.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c04-civilization-theory.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c03-wadi-psychology.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c06-figures.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c01-ayi-life-advice.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "reference_preserved:references/clusters/c07-nation-invention.md",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "user_agents_preserved",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "only_scoped_existing_files_changed",
+      "ok": true,
+      "detail": [
+        "README.md",
+        "SKILL.md",
+        "transworld-identity/scope.md",
+        "transworld-identity/provenance.md",
+        "transworld-identity/validation.json",
+        "transworld-identity/books-2026-10-31/report.md",
+        "references/clusters/c02-premodern-order.md",
+        "references/history/classics-and-historiography.md",
+        "references/history/state-and-social-structure.md"
+      ]
+    },
+    {
+      "check": "json_valid",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "runtime_hash_manifest_current",
+      "ok": true,
+      "detail": null
+    },
+    {
+      "check": "package_failures_unchanged",
+      "ok": true,
+      "detail": [
+        "C1",
+        "C1b",
+        "C2",
+        "C6",
+        "S1",
+        "S2",
+        "S3"
+      ]
+    },
+    {
+      "check": "no_raw_source_files",
+      "ok": true,
+      "detail": null
+    }
+  ],
+  "scope": "source fingerprints, current routes, relocation and preservation; not behavioral acceptance"
+}

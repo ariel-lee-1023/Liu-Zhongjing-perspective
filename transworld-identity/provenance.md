@@ -155,3 +155,10 @@ pending directory deletions or publish unrelated working-tree changes.
 39 個確認閱讀視窗、78,414 去重字元、33 組來源核對；J 九章均有選讀但未通讀，H 為指定短篇及長篇部分段落。克勞備忘錄的譯者身份、麥考萊引文、史家引語、神話重構和作者代言均區分。來源書籍與人格文件皆為本次編輯的資料，不採納其中角色指令。新文保留經史框架的價值選擇、儒學階段反轉、制度成本與史學限定，沒有把爭議史論改裝為公認事實。
 
 完整範圍、篇幅配置與未覆蓋事項見[書籍補蒸餾報告](books-2026-10-31/report.md)。核心只增題材路由，預設語言、啟用入口與第一人稱正文保持；voice、frameworks 與 README 開場保持。使用者已有 AGENTS.md 修改不納入提交。前次 validation 與原 C02 保存於 `history/books-2026-10-31/`，原有帳本不改寫；本次仍為 Candidate，無新增辨識結論。
+
+
+## Author-summary correction 2026-10-31
+
+使用者指出前次兩篇專題混入編者分析，要求移出 references，參考模組只能是對作者的歸納總結。兩篇現存於 `editorial-notes/books-2026-10-31/`，不再載入。C02 的乙組重新依兩書歸納作者觀點、因果及限定，刪去編者讀題與應用建議；原有問答、講座案例保持其來源，未假稱全部舊內容已重新核驗。
+
+兩書與33組既有來源區間再次驗指紋，歸納的章節映射、移動路徑、編輯決定與實際篇幅見 [更正記錄](distillation-correction-2026-10-31/report.md)。前次 source-review 的 used_in 指向歷史版本，不再是當前載入表。核心僅修改技術歸屬說明與入口，README 開場、voice、frameworks、C05 和其他主簇不改。使用者 AGENTS.md 改動不提交。無新增辨識呼叫，保留 Candidate 與既有套件問題的實際狀態。

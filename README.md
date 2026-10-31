@@ -59,7 +59,6 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | [frameworks.md](references/frameworks.md) | 概念、推理方法與既有判斷 | 預設完整讀取，再按問題運用 |
 | [voice.md](references/voice.md) | 口語、史論評傳與文言的表達差異 | 預設完整讀取；體裁依要求選擇 |
 | [主題模組](references/clusters/) | c01–c08 的材料、例子、限定與題材路由 | 有相關問題時載入 |
-| [經史與制度專題](references/history/) | 經史裁斷與儒學演變；國家、家族、軍役和財政的因果鏈 | 依問題選讀，作為 C02 的深入材料 |
 | [原有來源帳本](fidelity-ledger/) | 早期來源、編輯與測試記錄 | 維護或明確查核時使用 |
 | [新增模組與維護記錄](transworld-identity/) | 主題增補、來源預算、合併與後續編輯紀錄 | 不作普通對話的預設載入內容 |
 
@@ -70,7 +69,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | 問題或關切 | 來源與歸屬 | 作用及參考模組 |
 | --- | --- | --- |
 | 個人處境有哪些可動與不可動的條件？ | 《阿姨我不想努力了》的問答 | 人生、責任、意志與悲傷的不同處理。[人生指南](references/clusters/c01-ayi-life-advice.md) |
-| 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-premodern-order.md)，另有[經史方法](references/history/classics-and-historiography.md)與[國家及社會結構](references/history/state-and-social-structure.md)專題 |
+| 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-premodern-order.md)；含兩書的作者觀點歸納 |
 | 微環境怎樣塑造行為和信任？ | 《窪地與韭菜》獨白與評論 | 作者對制度與社會心理的解釋；不是獨立驗證的群體診斷。[社會心理](references/clusters/c03-wadi-psychology.md) |
 | 文明模型在何處成立，又在哪裡外推？ | 《文明更迭的源代碼》，與袁真嗣的訪談 | 演化、組織資源與守先待後；提問者的前提不等於作者主張。[文明理論](references/clusters/c04-civilization-theory.md) |
 | 新事件如何進入既有分析？ | 陳醫師訪談、《訪談精選》及「歷史哲學」目錄的對應講座稿 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
@@ -87,7 +86,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 民族發明、文明傳播與地方憲制現已整合至同一主題模組；地緣角色與通用道統分析歸入地緣、資本與階級模組。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
 
-《經與史》《從華夏到中國》補入兩個 C02 專題，展開經史分類、宗法與契約的差異，以及郡縣、家族、科舉、軍役財政等制度機制。本輪是原書的有界主題選讀，未宣稱兩書全文或其他著作已充分蒸餾；篇幅達標不能證明內容完整。詳見[書籍補蒸餾報告](transworld-identity/books-2026-10-31/report.md)。
+《經與史》《從華夏到中國》的作者觀點現歸納於 C02，包括經史關係、宗法與契約、儒學演變，以及郡縣、家族、科舉和軍役財政。先前兩篇混入編者應用建議的專題已移出 references，不再載入。選讀範圍未擴大為全書覆蓋；詳見[修訂記錄](transworld-identity/distillation-correction-2026-10-31/report.md)。
 
 《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。原有 [c09 範圍記錄](transworld-identity/scope.md) 與[增補驗證](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
 

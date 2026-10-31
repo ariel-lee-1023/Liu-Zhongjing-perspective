@@ -1,6 +1,6 @@
 # 國家擴張、社會重組與制度成本
 
-本篇承接 [C02：前近代秩序](../clusters/c02-premodern-order.md)，用於郡縣、家族、士族科舉、軍役財政及制度移植。經史分類、法統與史料立場見 [經史方法](classics-and-historiography.md)；民族建構與地方憲制見 [C07](../clusters/c07-nation-invention.md)。以下保留《經與史》《從華夏到中國》中作者的因果解釋與強烈取捨，不能當作無爭議史實。跨章整理的推理步驟是編輯重構；來源代碼只對應這裡列出的閱讀範圍。
+本篇承接 [C02：前近代秩序](../../../references/clusters/c02-premodern-order.md)，用於郡縣、家族、士族科舉、軍役財政及制度移植。經史分類、法統與史料立場見 [經史方法](classics-and-historiography.md)；民族建構與地方憲制見 [C07](../../../references/clusters/c07-nation-invention.md)。以下保留《經與史》《從華夏到中國》中作者的因果解釋與強烈取捨，不能當作無爭議史實。跨章整理的推理步驟是編輯重構；來源代碼只對應這裡列出的閱讀範圍。
 
 ## 一、郡縣不是一紙行政設計，而是例外地位的擴張
 

@@ -1,0 +1,257 @@
+{
+  "scope": "依使用者要求移出兩篇編輯專題，C02改為作者觀點歸納",
+  "base_commit": "dfc359601c8874894c70165098852107b28d5b69",
+  "relocations": [
+    {
+      "from": "references/history/classics-and-historiography.md",
+      "to": "transworld-identity/editorial-notes/books-2026-10-31/classics-and-historiography.md",
+      "before_sha256": "2cb0d346cdfd45d0efafd11d1da992536f665b3c30a1d7c11cf6abeca555f3f2",
+      "after_sha256": "9944aec88527c75ac35b0c781fcf421789fd934af6796685da18341d65efc79c",
+      "text_preserved_except": "relative links to clusters repaired for new directory",
+      "runtime_dependency": false
+    },
+    {
+      "from": "references/history/state-and-social-structure.md",
+      "to": "transworld-identity/editorial-notes/books-2026-10-31/state-and-social-structure.md",
+      "before_sha256": "027cca8159874e9a2498e4cb8e86e8f71a3fb8459f16e72be1f51e7d96d8b031",
+      "after_sha256": "4bafce74bbad7ca16abda1b6fdb40f5a443cd4b0d0cb61703a90cf9640c8866a",
+      "text_preserved_except": "relative links to clusters repaired for new directory",
+      "runtime_dependency": false
+    }
+  ],
+  "source_review": {
+    "outcome": "pass_for_declared_editorial_scope",
+    "evidence": "../books-2026-10-31/source-review.json",
+    "coverage": "../books-2026-10-31/reading-coverage.json",
+    "source_files_and_spans_reverified": true,
+    "source_files": 2,
+    "reextracted_items": 28,
+    "reused_source_groups": 33,
+    "new_source_groups": 0,
+    "reviewer": "same authoring agent; no independent review",
+    "all_core_claims_reviewed": false,
+    "no_expansion_of_full_book_coverage": true,
+    "sections": [
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "經是價值尺度，史是依經作出的裁斷",
+        "source_ids": [
+          "H01",
+          "J02"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "巫史、德性與周禮的節制",
+        "source_ids": [
+          "J03",
+          "J04",
+          "J05"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "宗法封建與契約封建的分別",
+        "source_ids": [
+          "J05",
+          "J06"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "游士與啟蒙：修養變成待售知識",
+        "source_ids": [
+          "J07"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "儒士、法吏與儒化家族的興起",
+        "source_ids": [
+          "J08",
+          "J09"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "儒家跨時期所保守的兩件事",
+        "source_ids": [
+          "H06"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "郡縣、軍功與群眾解放",
+        "source_ids": [
+          "H02",
+          "H03",
+          "J18"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "賓師淪為私屬",
+        "source_ids": [
+          "H04"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "蠻族、士族、部落與軍戶",
+        "source_ids": [
+          "H05",
+          "J10",
+          "J11"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "科舉、士紳與社會的獨立性",
+        "source_ids": [
+          "J12",
+          "J14",
+          "J15"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "藩鎮、專賣與地方防衛",
+        "source_ids": [
+          "J13"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "宋代黨爭與稅役成本",
+        "source_ids": [
+          "H05",
+          "J14"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "寶鈔體制與階級位置",
+        "source_ids": [
+          "H06",
+          "H12"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "海地與拉美：國體不及民情",
+        "source_ids": [
+          "H07",
+          "H08"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "法統、繼承與能夠承受的失敗",
+        "source_ids": [
+          "H09",
+          "H10",
+          "H11",
+          "H15"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "財政、地方組織與世界秩序",
+        "source_ids": [
+          "H14",
+          "H16",
+          "J16",
+          "J17"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      },
+      {
+        "runtime_file": "references/clusters/c02-premodern-order.md",
+        "heading": "保存種子與歷史的邊界",
+        "source_ids": [
+          "J01",
+          "J02"
+        ],
+        "claim_type": "author_position_summary",
+        "decision": "由原書歸納作者論述，刪除編者新增的提問流程、現代應用建議與教學性擴展。"
+      }
+    ]
+  },
+  "claim_dispositions": [
+    {
+      "material": "作者的概念、歷史判斷、論證與原文限定",
+      "decision": "重新對原書歸納入C02，不將前次專題當作來源"
+    },
+    {
+      "material": "實際讀題時、應用時、現代情況檢查清單等編者延伸",
+      "decision": "不納入C02；僅隨兩篇原稿保存在編輯筆記"
+    },
+    {
+      "material": "C02舊寄主復現、複用提示與projection編輯紀錄",
+      "decision": "前兩者改為描述作者表達和比較方式；後者移出執行內容，本記錄保存移除原因"
+    },
+    {
+      "material": "C02原有問答、歷史引述及講座案例",
+      "decision": "保留；不宣稱本次重新核驗所有舊引述"
+    },
+    {
+      "material": "SKILL載入表、README當前使用說明",
+      "decision": "刪除兩專題入口，指向C02；核心技術說明明確區分作者歸納與編者新增內容"
+    },
+    {
+      "material": "前次來源、閱讀與評測結果",
+      "decision": "保留歷史範圍；前次報告僅修正移動後的兩個連結"
+    }
+  ],
+  "measurements": {
+    "estimator": "CJK U3400–9fff + 0.35 × other Unicode characters; not model tokenizer",
+    "before_c02": {
+      "characters": 6482,
+      "cjk_characters": 5069,
+      "estimated_tokens": 5564
+    },
+    "after_c02": {
+      "characters": 12362,
+      "cjk_characters": 9924,
+      "estimated_tokens": 10777
+    },
+    "previous_c02_and_two_supplements_total": 15718,
+    "allocation": "按使用者對reference內容的要求合回既有C02，保留同來源的因果與限定；不再為符合前次每篇6000規劃上限而另設編者專題。八主簇維持不變，篇幅不作完整性證明。"
+  },
+  "recognition": {
+    "outcome": "not_run",
+    "calls_used": 0,
+    "reason": "No configured PERSONA_API_KEY; changed runtime remains Candidate."
+  }
+}

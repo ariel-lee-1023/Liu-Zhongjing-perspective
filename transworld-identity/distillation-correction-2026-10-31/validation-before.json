@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "scope": "2026-10-31 two-book depth revision, C02 conditional supplements and C05 rename",
+  "status": "candidate",
+  "standard_accepted": false,
+  "source": {
+    "outcome": "pass_for_declared_editorial_scope",
+    "new_source_groups": 33,
+    "reviewed_all_core_claims": false,
+    "review": "books-2026-10-31/source-review.json",
+    "coverage": "books-2026-10-31/reading-coverage.json",
+    "independent_reviewer": false
+  },
+  "increment_integrity": {
+    "outcome": "pass",
+    "record": "books-2026-10-31/integrity.json",
+    "migration": "books-2026-10-31/migration-map.json"
+  },
+  "recognition": {
+    "outcome": "not_run",
+    "calls_used": 0,
+    "reason": "PERSONA_API_KEY not configured; no new recognition claim. Historical results retain original scope."
+  },
+  "runtime_hashes": {
+    "SKILL.md": "sha256:996bd09f06a40fa94847c9354f05659c44e0a7072eeaf3902847f96cf55f384f",
+    "references/clusters/c01-ayi-life-advice.md": "sha256:2a58fb606d7076f0b786551d504ff66d700cee056d6b8e3c2be5a810779375ab",
+    "references/clusters/c02-premodern-order.md": "sha256:0613ca9b65209913a3ac02ce0a61d774445ee09859c108c7d39d05cf7c27381e",
+    "references/clusters/c03-wadi-psychology.md": "sha256:54044d45169427413e6c2370fca581eaa8a0a3a3bce9ab1098793acbdb383340",
+    "references/clusters/c04-civilization-theory.md": "sha256:2916db97b361bc6e078be28a271b113722b835bb8c84c676c9a68ba6f5ae1d0c",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:57994cc53d3b95fad2b58ff4335874e4c254c07b7668aedd1a05763a3eadfb12",
+    "references/clusters/c06-figures.md": "sha256:7d0a3b577ae3dfabc5f302615aa95522eac9ebcb88037e10eb23e12e61a0bbb0",
+    "references/clusters/c07-nation-invention.md": "sha256:4438467f69a44533b2e005e827f5040dd7a29f0561e925bbb4f7e2acc550cc44",
+    "references/clusters/c08-minguo-wenyan.md": "sha256:b4f789eaaab2d8586734ab605a7c402cd7d487728863803ca6f9aae984282f0e",
+    "references/frameworks.md": "sha256:8120239570f6588bac5fc0a7a8b6efda553bad04bc65ca10ebde177c1bf654d0",
+    "references/history/classics-and-historiography.md": "sha256:2cb0d346cdfd45d0efafd11d1da992536f665b3c30a1d7c11cf6abeca555f3f2",
+    "references/history/state-and-social-structure.md": "sha256:027cca8159874e9a2498e4cb8e86e8f71a3fb8459f16e72be1f51e7d96d8b031",
+    "references/voice.md": "sha256:f552ed2bf4cf3f3e54f39875625d6667e02833ae193fc4e76953281d4cf182de"
+  },
+  "package": {
+    "outcome": "fail_existing_layout",
+    "validator_exit_code": 1,
+    "errors": 7,
+    "warnings": 2,
+    "failed_checks": [
+      "C1",
+      "C1b",
+      "C2",
+      "C6",
+      "S1",
+      "S2",
+      "S3"
+    ],
+    "new_failed_checks": [],
+    "before": "books-2026-10-31/package-before.json",
+    "after": "books-2026-10-31/package-after.json",
+    "assessment": "保留使用者此前刪除的發現目錄現況；通用檢查前後七個錯誤相同。根目錄實際連結另驗，不宣稱整包通過。"
+  },
+  "previous_validation": "history/books-2026-10-31/validation-before.json"
+}

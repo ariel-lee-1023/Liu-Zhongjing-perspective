@@ -11,8 +11,8 @@
 ## 實際改動
 
 - C05 改為 [c05-geopolitics-capital-and-class.md](../../references/clusters/c05-geopolitics-capital-and-class.md)。正文按位元組保存；入口名稱同步為「地緣、資本與階級」。舊報告的原檔名保留其歷史意義，對應見[遷移表](migration-map.json)。
-- 新增 [經史方法、正統與歷史裁斷](../../references/history/classics-and-historiography.md)：經史與認知梯子、歷史意義、巫德職分、周禮規則、宗法與契約、游士知識市場、儒學階段、史家位置、法統與代際承諾、保存的代價。
-- 新增 [國家擴張、社會重組與制度成本](../../references/history/state-and-social-structure.md)：郡縣監護、軍功與動員、賓客私屬、家族復起、部落軍戶、科舉投資、藩鎮防衛、宋代稅役、鹽鈔、海地與拉美比較、改革財政及國際保護的成本。
+- 新增 [經史方法、正統與歷史裁斷](../editorial-notes/books-2026-10-31/classics-and-historiography.md)：經史與認知梯子、歷史意義、巫德職分、周禮規則、宗法與契約、游士知識市場、儒學階段、史家位置、法統與代際承諾、保存的代價。
+- 新增 [國家擴張、社會重組與制度成本](../editorial-notes/books-2026-10-31/state-and-social-structure.md)：郡縣監護、軍功與動員、賓客私屬、家族復起、部落軍戶、科舉投資、藩鎮防衛、宋代稅役、鹽鈔、海地與拉美比較、改革財政及國際保護的成本。
 - [C02](../../references/clusters/c02-premodern-order.md) 增加專題入口及模型適用限定。八個主簇仍為 c01–c08，兩篇專題按問題選讀；不新增 C09，不把兩書強行塞入主簇剩餘篇幅。
 
 新增內容保留會改變結論的張力：個人解放可以伴隨集中，儒化家族可以修復社會，經學家族也可以替帝國復起提供方案，科舉的個人機會可以伴隨地方人才流失，較富裕的國家可以有較脆弱的自保基礎。作者對兩希價值、憲制高下、游士和法統的尖刻取捨仍在；編輯限定與作者原判分開。
