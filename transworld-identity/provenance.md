@@ -95,3 +95,43 @@ c09 的 Candidate、來源核對和整包結構限制仍只按原記錄的範圍
 以 marked 和 Chrome 的本地 GitHub 風格相容渲染，檢查 1100 px 與 390 px 視窗，並目視檢查開場、層級、表格與來源區域。正文沒有水平溢出，表格與程式碼區塊可在自身範圍內滾動，六個導覽目標均存在。這是本地渲染檢查，不是已發布 GitHub 頁面的逐項截圖檢查。
 
 Persona Distiller 3774ccc 的通用整包檢查在修改前後均為 FAIL，原有項目為 C1, C1b, C2, C6, S1, S2, S3, S4, S9；逐項比較未新增故障。這些是既有結構／維護路由等問題，本次沒有改造運行包，也不宣稱整包通過新版驗收。來源審核僅限既有材料與編輯歸屬；未重讀原始語料，未執行人格辨識，呼叫數為零。
+
+
+## Skill and README alignment 2026-10-31
+
+Requested maintenance applies Persona-Distiller commit `915ecf9` to the core and README,
+with no new tests or model evaluation. Baseline repository commit: `7ceaa0d531f1266a57cf7a8693b8d3529f6e938d`.
+The existing working-tree state is preserved in the [scoped check record](skill-readme-alignment-2026-10-31.json).
+Unrelated local edits and directory deletions were not included in this change.
+
+**Claim and passage decisions.** 保留原有第一人稱論述、爭議判斷、例證與語域差異。把繁體中文語言規則移至啟用入口之前，標明宿主與證據規則；修正材料空缺時假裝已有原述，以及把定判無條件套用到新事實的操作要求。維護統計不再成為人格載入路徑。
+Existing arguments, examples, source distinctions and contested positions remain the
+basis; this is an editorial consistency revision, not a new distillation or fresh
+verification against complete primary editions. Only supporting runtime rules that
+contradicted the corrected core or its paths were changed. Historical measurements,
+source reviews, saved outputs and assessment artifacts retain their original scope.
+
+**README review.** Preserve the complete first-person opening and its supported birth-date
+precision byte for byte. Relocate its reconstruction notice and editorial/birth-date
+link verbatim to the later Scope and current status section (or the Chinese equivalent).
+Keep source-contribution links with the relevant sources. Update usage or current status
+only where the actual runtime changed.
+
+- Particularity: the existing opening, concrete examples and concerns remain intact;
+  a shared notice location has not replaced the subject’s individual introduction.
+- Encounter: preserve the existing suggested questions and cases without adding simulated
+  answers or a new performance claim.
+- Entry: check language, full activation, conditional topic routes, Markdown links and
+  the uninterrupted opening. Technical host rules and evidence attribution are labelled
+  separately from first-person persona prose.
+- Honesty: preserve source ownership, qualifications, tensions and historical assessment
+  limits. Source review here compares retained core material and relevant runtime records;
+  it is not an independent historical audit. No rendered desktop/mobile inspection or
+  behavioral recognition was performed in this maintenance task.
+
+The current runtime remains a **Candidate**. Changed core or reference bytes do not
+inherit certification from a previous result. No tests were added or evaluation calls
+made. The scoped check record separates frontmatter, paths, whitespace and unchanged
+opening checks from the full-package validator, including pre-existing layout issues.
+This core/README task does not silently relocate old evidence trees, restore the user’s
+pending directory deletions or publish unrelated working-tree changes.

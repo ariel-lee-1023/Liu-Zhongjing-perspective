@@ -1,0 +1,176 @@
+{
+  "date": "2026-10-31",
+  "task": "Core and README consistency alignment; preserve existing content; no new tests",
+  "tool_revision": "915ecf9671b3a172433c8c0e3306b2e1c19f988b",
+  "baseline_commit": "7ceaa0d531f1266a57cf7a8693b8d3529f6e938d",
+  "pre_existing_working_tree": [
+    " M AGENTS.md"
+  ],
+  "changed_files": [
+    {
+      "path": "README.md",
+      "before_sha256": "ee066958a92428b647dfc990eb850532f6c598936f57b024a0fd0a0b34208b7c",
+      "after_sha256": "18f1e2a38ee6f4be3f502e460ee29021ec6fffdb35fe9d26bfac3e7f42a1adf4"
+    },
+    {
+      "path": "SKILL.md",
+      "before_sha256": "08286a8e5c2f30ea619d2e134a942027832c0618e8a2988dc18309faf5831dad",
+      "after_sha256": "985941289bd6ace0d096f9fb8d7952438bb5a4f79d9f90579f6607e52fd04ea2"
+    },
+    {
+      "path": "references/frameworks.md",
+      "before_sha256": "a7964612f504a37f0542fb5874580ca40d80de09fa8896be66ea79fd49dfe5fa",
+      "after_sha256": "b6ea89306628d01561251c12c15089f7149056b37b07a6594470a31dca1071ba"
+    },
+    {
+      "path": "references/voice.md",
+      "before_sha256": "458afc0b144dca18e23ae771950c107ee3c5ca5abee033a949d62ee4f6ba51e6",
+      "after_sha256": "f552ed2bf4cf3f3e54f39875625d6667e02833ae193fc4e76953281d4cf182de"
+    },
+    {
+      "path": "transworld-identity/provenance.md",
+      "before_sha256": "b66982745169525d5e1868bf1a224c78cbb20d49126246ccf3cfee6b152ebf6a",
+      "after_sha256": "5f2dedaabc4af31309c3f83394c6abae43140c584c9dc440e1d192eaea2f757b"
+    }
+  ],
+  "checks": {
+    "frontmatter": "pass",
+    "whitespace": "pass",
+    "language_before_activation": "pass",
+    "complete_core_voice_framework_activation": "editorially reviewed",
+    "first_person_persona_body": "editorially reviewed, not certified by pronoun counts",
+    "implementation_and_attribution_labels": "editorially reviewed",
+    "readme_introduction_bytes": "unchanged",
+    "readme_notice_bytes": "unchanged, relocated with its source links",
+    "readme_notice_location": "範圍與目前狀態",
+    "local_markdown_links_checked": 46,
+    "new_broken_markdown_links": [],
+    "pre_existing_broken_markdown_links": [],
+    "rendered_layout": "not run"
+  },
+  "package_validation": {
+    "passed": false,
+    "failures": [
+      {
+        "check": "S1",
+        "level": "error",
+        "ok": false,
+        "detail": "expected exactly one .agents/skills/<name>/SKILL.md; found 0",
+        "effective_level": "error"
+      },
+      {
+        "check": "S2",
+        "level": "error",
+        "ok": false,
+        "detail": "missing .agents/skills/<name>/SKILL.md",
+        "effective_level": "error"
+      },
+      {
+        "check": "S3",
+        "level": "error",
+        "ok": false,
+        "detail": "need references/ with voice.md and frameworks.md",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1",
+        "level": "error",
+        "ok": false,
+        "detail": "frontmatter needs non-empty name and description",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1b",
+        "level": "error",
+        "ok": false,
+        "detail": "frontmatter name '<missing>' must match skill directory '<skill-name>'",
+        "effective_level": "error"
+      },
+      {
+        "check": "C2",
+        "level": "error",
+        "ok": false,
+        "detail": "description empty or contains audit/meta vocabulary: ",
+        "effective_level": "error"
+      },
+      {
+        "check": "C6",
+        "level": "error",
+        "ok": false,
+        "detail": "unresolved cluster citations: c01, c02, c03, c04, c05, c06, c07, c08, c09, c10, c11, c12",
+        "effective_level": "error"
+      }
+    ],
+    "baseline_failures": [
+      {
+        "check": "S9",
+        "level": "error",
+        "ok": false,
+        "detail": "hidden assessment route in runtime: references/voice.md; runtime link escapes runtime: fidelity-ledger/provenance.md",
+        "effective_level": "error"
+      },
+      {
+        "check": "S1",
+        "level": "error",
+        "ok": false,
+        "detail": "expected exactly one .agents/skills/<name>/SKILL.md; found 0",
+        "effective_level": "error"
+      },
+      {
+        "check": "S2",
+        "level": "error",
+        "ok": false,
+        "detail": "missing .agents/skills/<name>/SKILL.md",
+        "effective_level": "error"
+      },
+      {
+        "check": "S3",
+        "level": "error",
+        "ok": false,
+        "detail": "need references/ with voice.md and frameworks.md",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1",
+        "level": "error",
+        "ok": false,
+        "detail": "frontmatter needs non-empty name and description",
+        "effective_level": "error"
+      },
+      {
+        "check": "C1b",
+        "level": "error",
+        "ok": false,
+        "detail": "frontmatter name '<missing>' must match skill directory '<skill-name>'",
+        "effective_level": "error"
+      },
+      {
+        "check": "C2",
+        "level": "error",
+        "ok": false,
+        "detail": "description empty or contains audit/meta vocabulary: ",
+        "effective_level": "error"
+      },
+      {
+        "check": "C6",
+        "level": "error",
+        "ok": false,
+        "detail": "unresolved cluster citations: c01, c02, c03, c04, c05, c06, c07, c08, c09, c10, c11, c12",
+        "effective_level": "error"
+      }
+    ],
+    "scope": "Full-package layout issues are reported separately from the requested core/README edits; existing discovery deletions and legacy evidence trees are preserved."
+  },
+  "source_review": {
+    "scope": "Existing core text, linked runtime distinctions and relevant provenance; no new primary-edition research",
+    "decisions": "Retain substantive arguments, examples and tensions; correct narrative stance, attribution, conditional application and inconsistent host/reference instructions",
+    "independent_historical_audit": false
+  },
+  "recognition": {
+    "status": "not_run",
+    "calls": 0,
+    "tests_added": 0,
+    "historical_records": "unchanged; changed runtime inputs are not recertified",
+    "current_status": "candidate"
+  }
+}
