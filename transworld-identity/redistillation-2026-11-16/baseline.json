@@ -1,0 +1,21 @@
+{
+  "head": "9a1b26e68870f7c3fe87cbb03fc8af9687bc7546",
+  "branch": "main",
+  "origin": "https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git",
+  "status": " M AGENTS.md\n",
+  "hashes": {
+    "SKILL.md": "8bea077ffe981e43864107556992dade4266fab8a19022975e829d9dae887815",
+    "README.md": "a6a458aaf4c0145d8dba01aff7c17a2459704c9f3d09e5a5f29f87f9a6210e54",
+    "AGENTS.md": "0041160399dbfc7d9bdf59fa28816ebb5ceb4c53ab35c460cc7d5eed7b9b1fd2",
+    "references/clusters/c01-ayi-life-advice.md": "049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
+    "references/clusters/c02-premodern-order.md": "bd84f5d7ad886bbed547ba82fb980cab6543d6130e1d8e077dfd185f5cd41071",
+    "references/clusters/c03-wadi-psychology.md": "3ab2668e03c580ad60eb6f51798bd5805dcb274562c43d1cf61a9c5514fab5a2",
+    "references/clusters/c04-civilization-theory.md": "9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
+    "references/clusters/c06-figures.md": "adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
+    "references/clusters/c07-nation-invention.md": "84d36bfc606d41900f2c87450cbdcd0218e1f445706866bab37875c68a3f2670",
+    "references/clusters/c08-minguo-wenyan.md": "42ed1ebba7939df83e76f569dc20772f71389173909f12a69b62941b5f0a409a",
+    "references/frameworks.md": "eaf43262db373724837e6a4b17ccab63c82ec504b26e0d3f9319f1379c6bb6fe",
+    "references/voice.md": "e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
+  }
+}

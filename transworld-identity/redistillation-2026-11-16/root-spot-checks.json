@@ -1,0 +1,44 @@
+[
+  {
+    "source_id": "NI2026",
+    "start_line": 73,
+    "end_line": 79,
+    "characters": 1567,
+    "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d"
+  },
+  {
+    "source_id": "NI2026",
+    "start_line": 6860,
+    "end_line": 6872,
+    "characters": 3092,
+    "sha256": "2351554cd728125f4bef4f21106f7532ff8645b96cce7751f4994056e8c234a6"
+  },
+  {
+    "source_id": "EA2026",
+    "start_line": 8370,
+    "end_line": 8382,
+    "characters": 976,
+    "sha256": "be72e8059cea92bec665e335d608d5fa6c66bcb9d83d612a9c835aa14a5e2b48"
+  },
+  {
+    "source": "CA2026",
+    "start_line": 4648,
+    "end_line": 4667,
+    "characters": 1617,
+    "sha256": "8be1488d28b5a83c4a8b7ea07bb1882c6d3cae4a7c2dbf33252bb5da5f272872"
+  },
+  {
+    "source": "CA2026",
+    "start_line": 831,
+    "end_line": 845,
+    "characters": 998,
+    "sha256": "83338105eb404b5ca77c37430b717673827ecef3745630f2b41299bd73ab3536"
+  },
+  {
+    "source": "CA2026",
+    "start_line": 14543,
+    "end_line": 14543,
+    "characters": 308,
+    "sha256": "ad9d7c6a72a48bbe0282d0ba01af45dd1fca4b7730ab7ca23211428800b7aff6"
+  }
+]

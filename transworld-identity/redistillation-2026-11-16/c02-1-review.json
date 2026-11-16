@@ -1,0 +1,753 @@
+{
+  "schema_version": 1,
+  "module": "references/clusters/c02-1-mesopotamia.md",
+  "source": {
+    "id": "MES2026",
+    "filename": "美索不达米亚.md",
+    "title": "逆轉的文明史：美索不達米亞",
+    "author": "劉仲敬",
+    "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+    "bytes": 352198,
+    "lines": 1351,
+    "edition": "2022年6月初版一刷；所供為簡體轉錄，章題存在重字與OCR瑕疵。",
+    "dates": [
+      "2019-04-20",
+      "2019-05-20",
+      "2019-06-22"
+    ],
+    "attribution": "正文為講述及回答；編注、圖說、聽眾提問另列。"
+  },
+  "boundary": {
+    "max_reading_units": 36,
+    "max_characters_per_unit": 7000,
+    "ocr_pages": 0,
+    "external_research": false
+  },
+  "coverage": {
+    "reading_units": [
+      {
+        "start_line": 33,
+        "end_line": 67,
+        "characters": 3846,
+        "sha256": "8dc7fe4536f6ed463690f0390da12adbdf6b474e73642e1f7320c89e6393db21"
+      },
+      {
+        "start_line": 85,
+        "end_line": 119,
+        "characters": 3370,
+        "sha256": "4780b8cb0dde580d0e088788ff0b64ca9f82be4f3e1190fc13664517d0c92fac"
+      },
+      {
+        "start_line": 167,
+        "end_line": 195,
+        "characters": 4061,
+        "sha256": "a6964aa309e896e67e86e77a5098bac2e31b4460ac0e1b486b34ae7a8cc8c204"
+      },
+      {
+        "start_line": 228,
+        "end_line": 244,
+        "characters": 1710,
+        "sha256": "f1a64441ccc16a8c26ab3eee6eca5618c321a5b08b786251fd68dc765130aacf"
+      },
+      {
+        "start_line": 266,
+        "end_line": 290,
+        "characters": 1615,
+        "sha256": "0de89298b5b87e4f7333eb1ef3fef8d221213b21543dbe3f80376f17f18d85b7"
+      },
+      {
+        "start_line": 312,
+        "end_line": 354,
+        "characters": 3143,
+        "sha256": "132132024bdf594656fc1100d27d9d6ba0ec7dc3a49e932014ce9e03bf0b9864"
+      },
+      {
+        "start_line": 364,
+        "end_line": 436,
+        "characters": 4227,
+        "sha256": "37f674c3f1b96b6b34d46e949827f8d365dd2f520fa92b3bb570947a3871abc4"
+      },
+      {
+        "start_line": 491,
+        "end_line": 537,
+        "characters": 6985,
+        "sha256": "2ac4b793b78d5332a1e184da6660294c2f9cd508bbc4f6a260789bc833228bae"
+      },
+      {
+        "start_line": 539,
+        "end_line": 569,
+        "characters": 4138,
+        "sha256": "dc4679db9688c635f69a17fe43672675dcfcb70a54f4483dd0abea6a68f75846"
+      },
+      {
+        "start_line": 587,
+        "end_line": 635,
+        "characters": 5251,
+        "sha256": "5d1f8dd867e8bed9f4ac96fc2a41b3786bb3d8fdc2f3125a938a41945aa482bf"
+      },
+      {
+        "start_line": 649,
+        "end_line": 695,
+        "characters": 6473,
+        "sha256": "2a825100d73279913baf6b7e4fe8a6640999c600267f569b3ac32d1646ad8dd8"
+      },
+      {
+        "start_line": 926,
+        "end_line": 982,
+        "characters": 4919,
+        "sha256": "104e1dedd94a97899e4c050abfcf03362939bec8a52400d6b122e58c258c6a28"
+      },
+      {
+        "start_line": 984,
+        "end_line": 1026,
+        "characters": 4565,
+        "sha256": "0467f04782a3d8309ef6bdbe3174b7183a4ace612007d4d234bb9ffffa9cd632"
+      },
+      {
+        "start_line": 1028,
+        "end_line": 1048,
+        "characters": 3179,
+        "sha256": "12909ace7b2e2f452416feaabf0af1030218260a63444e814dcced2778f42b4c"
+      },
+      {
+        "start_line": 1050,
+        "end_line": 1072,
+        "characters": 4018,
+        "sha256": "bb76cca70beb2d7d4eb333aade8707e60e81bedf98cf8d42b4109051414ef890"
+      },
+      {
+        "start_line": 1074,
+        "end_line": 1108,
+        "characters": 5548,
+        "sha256": "9a9718d59a5248a9007a3716469e75a04bf83020b55d76126668661ac3640baa"
+      },
+      {
+        "start_line": 1110,
+        "end_line": 1144,
+        "characters": 4449,
+        "sha256": "fc0d1421f2b7a6ece252db2df9a983d1b9a7b6d17778149ef760af325fcf51e4"
+      },
+      {
+        "start_line": 1166,
+        "end_line": 1226,
+        "characters": 3474,
+        "sha256": "e2e68f70c243ef6ea8427d8eccfd1321ac673e3678bad4f642e449fb6c6a9b46"
+      },
+      {
+        "start_line": 1234,
+        "end_line": 1298,
+        "characters": 2972,
+        "sha256": "edfbe0d19afbf02bfb399f83e329fee773a28c247198759c2b421e14fd3a4d15"
+      },
+      {
+        "start_line": 1316,
+        "end_line": 1332,
+        "characters": 834,
+        "sha256": "721839dd027686fd25831326927494687c663541524512140473f2a46e95655c"
+      },
+      {
+        "start_line": 706,
+        "end_line": 732,
+        "characters": 2347,
+        "sha256": "c6616f3633023e32b5f4e5e48b5af509df15f20af126d198885eadbdb1e46e0a"
+      },
+      {
+        "start_line": 740,
+        "end_line": 764,
+        "characters": 2477,
+        "sha256": "e7d2992dbc298709928bc99c894f9409ea0ea5f3fd51ddeb6e5d15d6403b2bdb"
+      },
+      {
+        "start_line": 778,
+        "end_line": 808,
+        "characters": 2144,
+        "sha256": "1886b47e4c46565bb180865eab09c3db7165376f6cb2e481eccdc858bf740a25"
+      },
+      {
+        "start_line": 842,
+        "end_line": 880,
+        "characters": 3068,
+        "sha256": "b7a7e50353896484395a26483e477f01191ca01b91aa36fb991809353eaa90ae"
+      },
+      {
+        "start_line": 1338,
+        "end_line": 1351,
+        "characters": 525,
+        "sha256": "565f0228310a15509e1b2c7bf1dec4820e64c1dcada8ac547def36c32dcfcc11"
+      },
+      {
+        "start_line": 521,
+        "end_line": 537,
+        "characters": 3166,
+        "sha256": "95eda3c3335efa719c9484a3aeab26d9914f77adea2dd6944d83a6dd87670527"
+      },
+      {
+        "start_line": 1,
+        "end_line": 7,
+        "characters": 225,
+        "sha256": "a87c9d55ed0ceacf0dff871fc17a8afbc5202c0ede5ab7c7a01ef3152b8874c8"
+      }
+    ],
+    "unit_count": 27,
+    "unique_characters": 89563,
+    "cumulative_characters": 92729,
+    "method": "全檔短行及章題盤點；三講與三組問答有界選讀。曾有工具輸出截斷，521–537、539–569、587–635已重讀；重疊去重計算。",
+    "not_exhaustive": true
+  },
+  "records": [
+    {
+      "id": "MES26-01",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講〈蘇美文化的起源〉L53–63；問答5、6、8，L266–286；第二講〈高地與低地的環境差異〉L491–509",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-01",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "文明分類須保留第一代、代際、旁系與共同祖先，不把獨立文明當同齡單位。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "第一代文明與後繼文明的不同起點。"
+      ],
+      "exceptions": [
+        "文明譜系只能大致描繪；多條傳播鏈尚無精確定位。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-02",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講L53–63、85–93；第二講神廟與分配L539–569、627–635；問答2，L716–722；第三講問答13，L1238–1240",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-02",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "神廟在測量、開墾、工具分配、倉儲與仲裁中形成權力；剩餘分配不能窮盡後來所有精英。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "組織技術與勞動動員能開拓新土地。"
+      ],
+      "exceptions": [
+        "開墾本身不是文明墮落，惡性競爭才是轉折。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-03",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講L55–63；第二講殖民與混合L521–537、563–569",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-03",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "殖民格局可與族群混合、階級流動並存，不能從近代人口比例倒推早期低地。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "統治與被統治者的資源、人口基礎不同。"
+      ],
+      "exceptions": [
+        "低地人口組成不確定，雕塑面貌不能成為本輪獨立人口統計。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-04",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講文字與史詩L109–119、167–195；問答9、19，L288–290、352–354",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-04",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "倉庫速記、祭司象徵和其他紀錄匯成文字；泥板擴大書寫，未必創造文字本身。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "史詩收件者能辨讀文字的內部推論。"
+      ],
+      "exceptions": [
+        "識字階級不等於近代知識分子；傳播前體屬推測。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-05",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講L85–107、183–195；問答14、21、31，L316–326、364–370、420–422；第二講問答8，L750–758",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-05",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "文明傳播有陸海通道、模仿和移民接力，文化伊朗化不等於血統替換。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "相鄰學習或少量攜帶者即可擴散技術。"
+      ],
+      "exceptions": [
+        "稻米來源有不同程度推測；已述航路之外仍無證據。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-06",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第二講神廟祭典與會盟L649–677；第一講問答17、22、28，L340–342、372–374、406–408",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-06",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "神廟祭典展示技術與分配能力，城邦諸神會議表達會盟、貿易與地位。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "早期政治宗教經濟未分化。"
+      ],
+      "exceptions": [
+        "霸權不等於全盤行政統一，主神不等於一神教。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-07",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第二講水利與洪水L679–693；問答6，L740–742；第三講L926–938；問答27，L1316–1318",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-07",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "洪水後水利從局部排水走向上游分洪，城邦密集使以鄰為壑引發交涉與工程升級。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "可用土地、人口及技術約束變動。"
+      ],
+      "exceptions": [
+        "豐饒濕地不等於高人口承載；開墾與生態壓力同時存在。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-08",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講〈恩西和盧伽爾〉、〈盧伽爾的形成與自發秩序〉L940–964",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-08",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "恩西與盧伽爾來自神廟及民間要人不同權威；反覆辦事使微小分工固化。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "初始條件與習慣形成依賴。"
+      ],
+      "exceptions": [
+        "修鐘寓言是機制類比，不是每一城邦的起源證據。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-09",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講史詩與會議L966–982；第一講問答2，L238–244；第二講問答1，L706–714",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-09",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "長老與壯丁依出錢、流血取得不同分量；廣域民族認同不同於廣場城邦民主。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "誰實際承擔財政和戰爭責任。"
+      ],
+      "exceptions": [
+        "上下院是比較語彙，多國體系不保證每個政體共和。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-10",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講L167–173、388–404；第三講L984–1002",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-10",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "霸權交替不等於城市消失；跨城統帥與總督可收走外交軍權而保留地方自治機構。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "征服分層與不同機構的權力來源。"
+      ],
+      "exceptions": [
+        "兩河帝國不能直接等同秦制，埃及也不是全無外來交流。",
+        "沙隆稱號來源不明；其與跨城邦戰爭、超常動員的關聯屬依多國體系所作合理推論。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-11",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第二講L587–595；問答22，L842–848；第三講L1004–1024、1238–1240",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-11",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "資源界限下，摧毀水渠和神廟的社會性戰爭破壞再生能力，軍事進步可與社會衰退並存。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "可開發空間縮小及破壞手段互相仿效。"
+      ],
+      "exceptions": [
+        "早期與晚期軍國主義的程度不一樣；收藏不等於維持創作社會。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-12",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講問答23，L378–380；第三講L1016–1024；問答5，L1192–1198",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-12",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "邊區可以吸收中心技術而不受同等壟斷約束，創新與持續傳承仍需額外條件。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "小共同體和多元競爭容納技術試驗。"
+      ],
+      "exceptions": [
+        "馬鐙細節在回答中承認未仔細研究。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-13",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講文字與文化、後續征服L1038–1072",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-13",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "人口延續不保證古典文化延續，精英供養資源和認同需要可同時枯竭；後起首都另有外部力量基礎。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "語言、教育和政治權威的關係改變。"
+      ],
+      "exceptions": [
+        "沒有將文化消失寫成人口滅絕；具體年代表述未做獨立核實。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-14",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講三種居民L1074–1088",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-14",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "部落法統與受承認權利不同於祖先故事，教團可保有仲裁與動員，進城不自動失去組織。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "奧斯曼時期後續伊拉克的社會分類。"
+      ],
+      "exceptions": [
+        "族群、教派與居住地不代替組織能力的證據。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-15",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講伊拉克與約旦L1090–1108",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-15",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "中央化王室培養的技術和軍事階層可能反叛；伊拉克與約旦政策差異也受原有部落力量制約。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "王室教育、外部保護及既有社會結構。"
+      ],
+      "exceptions": [
+        "不是君主個人聰明與否的充分解釋。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-16",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講教團、庫德與東亞比較L1110–1144",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-16",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "選票數、仲裁網絡與可作戰武力是三種能力，取消黨國不能平均分配結社能力。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "2019年對伊拉克教團、庫德和原黨國人口的比較。"
+      ],
+      "exceptions": [
+        "原述職位、數量、預測非2026年事實；不同對象須有相應條件。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-17",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第二講問答16、24，L804–806、854–858；第三講問答19、22，L1270–1276、1290–1292",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-17",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "文明循環是有限樣本的經驗模型，允許其他結構；個人偶然與較大壓力分開。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "對文明模型與反事實追問的回答。"
+      ],
+      "exceptions": [
+        "不能升為普世必然；模型隨新材料修訂。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-18",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第三講問答8–10、14，L1212–1226、1242–1248",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-18",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "習慣法成文化可提示階段，但司法仍被動具體；長老仲裁不等同近代律師。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "早期法典、仲裁與社會結構比較。"
+      ],
+      "exceptions": [
+        "兩河家庭婚姻證據不足，不硬套西周宗法。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    },
+    {
+      "id": "MES26-19",
+      "source": "MES2026:《逆轉的文明史：美索不達米亞》",
+      "locator": "第一講考古段L33–49，問答33–34，L430–436；第二講問答4，L726–732",
+      "attribution": "劉仲敬講述／回答的歸納，與主持人、圖說及編注區分。",
+      "group_id": "MES2026-19",
+      "situation": "2019年世界憲制史三次講座及延伸問答；2022年出版整理本。",
+      "audience": "有基本歷史知識的聽眾與讀者。",
+      "available_information": "所供Markdown及記錄的正文選讀，沒有音訊、原始考古報告或外部史學覆核。",
+      "constraints": "轉錄／OCR與編輯介入；同一段的重讀不增加獨立支持。",
+      "observation": "考古研究方向受政治保護與資源影響，資訊脈絡不等於財寶；部分早期問題只能留下空白。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "考古實踐、書面敘事與文物破壞。"
+      ],
+      "exceptions": [
+        "沒有獨立核實所有考古斷言；原始錄音與底本未查。"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c02-1-mesopotamia.md"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "依指定原文重新蒸餾，保留條件與不確定性，舊MES證據仍另存。"
+      }
+    }
+  ],
+  "semantic_review": {
+    "reviewer": "authoring assistant",
+    "independent_reviewer": false,
+    "outcome": "pass_for_declared_source_scope",
+    "direct_stance": true,
+    "reasoning_preserved": true,
+    "conditions_and_exceptions_preserved": true,
+    "speaker_attribution_preserved": true,
+    "unsupported_host_methods_added": false,
+    "notes": [
+      "逐節與已讀來源對照；正文直接表述觀點，不仿寫作者新講話。",
+      "保留第一講稻米起源的不同推測與文字同源的證據層級。",
+      "第599行歐貝德結束與埃利都、洪水先後的說法，與649–695及926–938存在年序張力；不採用這個孤立年序，也未用新敘述偽裝為已解決。",
+      "省略表型推算的精確人口比例、未核古人類年代表與非必要現代職位。"
+    ],
+    "cross_review_correction": "依第二位編輯對原文L984–1002的回讀，明列沙隆稱號來源不清；起源機制為比較推論，非確定史實。"
+  },
+  "legacy_mapping": [
+    {
+      "from": "C07 §五–六／MES01–MES06",
+      "to": "C02-1 §二–十三",
+      "decision": "重新選讀、擴展機制並限定譜系推測"
+    },
+    {
+      "from": "C07 §十／MES07–MES08",
+      "to": "C02-1 §十四–十六",
+      "decision": "重新核三種居民、教團、部落與能力差異"
+    },
+    {
+      "from": "C07 MES09",
+      "to": "C02-1 §十七",
+      "decision": "保留材料不足與模型可修訂的明示例外"
+    }
+  ],
+  "limitations": [
+    "不是全書逐段閱讀。",
+    "不是獨立史學、考古學或語言學驗證。",
+    "沒有做新的機器辨識評測。"
+  ],
+  "module_sha256": "340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+}

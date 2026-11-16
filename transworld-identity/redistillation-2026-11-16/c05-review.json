@@ -1,0 +1,2465 @@
+{
+  "schema_version": 1,
+  "module": "C05",
+  "status": "complete_bounded_source_redistillation",
+  "run_date": "2026-11-16",
+  "reviewer": "Codex c05_affairs，機器輔助來源蒸餾與自審；非獨立學術/法律/醫學/軍事驗證",
+  "source": {
+    "id": "CA2026",
+    "path": "source-local:劉仲敬論Current Affairs.md",
+    "title": "劉仲敬論Current Affairs",
+    "sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+    "bytes": 4758562,
+    "characters": 1883512,
+    "lines": 27162,
+    "article_count": 85,
+    "identity": "85篇有article-NNN及PDF頁碼錨點的合輯；包含訪談396–417若干集及跨期專題，並非一篇單次講座。",
+    "attribution": "問答正文與本人講述為支持材料；前置內容概要/金句/提問者敘事/編者注不直接作本人證據。",
+    "source_quality": "原文有OCR/轉錄異體與缺字（例如口被作又）、錯置人名或年代風險；正文以忠實轉述為主，未獨立校音或核查原PDF。"
+  },
+  "chronology": {
+    "latest_self_dated_year": {
+      "year": 2026,
+      "article": 42,
+      "line": 14543,
+      "basis": "受訪者答語明說因為現在是2026年；不是檔案修改時間。"
+    },
+    "latest_explicit_full_date_found": {
+      "date": "2026-08-13",
+      "article": 15,
+      "line": 5424,
+      "attribution": "主持人問題引用推文/節目日期",
+      "limitation": "不能據此指定該集錄製日、發表日或整個合輯最新發表日。"
+    },
+    "other_confirmed_date": {
+      "date": "2020-04-30",
+      "article": 27,
+      "line": 9455,
+      "attribution": "問題正文開頭明示當天日期"
+    },
+    "topic_time_only": [
+      "第41篇以2021年諾獎為話題，非確切發表日。",
+      "第34篇依2020選舉後及未來2022中選推定語境，未補確切日期。"
+    ],
+    "recommendation_for_source_index": "合輯含明示2026年語境的訪談；多篇未標逐篇發表日期。"
+  },
+  "scope": {
+    "requested": "從指定合輯重新蒸餾當代地緣政治、資本、制度、階級與技術；保存舊來源支持與歷史定位。",
+    "bounded": true,
+    "comprehensive": false,
+    "all_articles_inventoried": true,
+    "inventory_articles": [
+      {
+        "line": 93,
+        "title": "刘仲敬访谈417"
+      },
+      {
+        "line": 642,
+        "title": "刘仲敬访谈416"
+      },
+      {
+        "line": 1085,
+        "title": "刘仲敬访谈415"
+      },
+      {
+        "line": 1461,
+        "title": "刘仲敬访谈413"
+      },
+      {
+        "line": 1749,
+        "title": "刘仲敬访谈412"
+      },
+      {
+        "line": 2081,
+        "title": "刘仲敬访谈411"
+      },
+      {
+        "line": 2505,
+        "title": "刘仲敬论著作权"
+      },
+      {
+        "line": 2782,
+        "title": "刘仲敬访谈410"
+      },
+      {
+        "line": 3084,
+        "title": "刘仲敬访谈409"
+      },
+      {
+        "line": 3458,
+        "title": "刘仲敬论诸夏的历史发明"
+      },
+      {
+        "line": 4004,
+        "title": "刘仲敬访谈408"
+      },
+      {
+        "line": 4244,
+        "title": "刘仲敬访谈407"
+      },
+      {
+        "line": 4565,
+        "title": "刘仲敬访谈406"
+      },
+      {
+        "line": 4940,
+        "title": "刘仲敬访谈404"
+      },
+      {
+        "line": 5354,
+        "title": "刘仲敬访谈405"
+      },
+      {
+        "line": 5664,
+        "title": "刘仲敬论1848年原则"
+      },
+      {
+        "line": 5970,
+        "title": "刘仲敬访谈403"
+      },
+      {
+        "line": 6298,
+        "title": "刘仲敬再论统战与匪谍"
+      },
+      {
+        "line": 6616,
+        "title": "刘仲敬论道金斯与知识分子的本质"
+      },
+      {
+        "line": 7063,
+        "title": "刘仲敬论文明秩序与组织资源"
+      },
+      {
+        "line": 7341,
+        "title": "刘仲敬论金正恩发明朝鲜民族"
+      },
+      {
+        "line": 7709,
+        "title": "刘仲敬访谈401"
+      },
+      {
+        "line": 8037,
+        "title": "刘仲敬论民国第三大党中国青年党"
+      },
+      {
+        "line": 8456,
+        "title": "刘仲敬访谈400：论美国出生公民权与全球移民政策"
+      },
+      {
+        "line": 8782,
+        "title": "刘仲敬论人权问题"
+      },
+      {
+        "line": 9064,
+        "title": "刘仲敬访谈399"
+      },
+      {
+        "line": 9386,
+        "title": "刘仲敬论唯物主义的道统建构"
+      },
+      {
+        "line": 9749,
+        "title": "刘仲敬访谈论汉字的起源与演化"
+      },
+      {
+        "line": 9945,
+        "title": "刘仲敬论全球资本主义"
+      },
+      {
+        "line": 10294,
+        "title": "刘仲敬论民进党与台湾本土化"
+      },
+      {
+        "line": 10628,
+        "title": "刘仲敬论包工头体制与国际资本主义的联动机制"
+      },
+      {
+        "line": 11171,
+        "title": "刘仲敬访谈398：论美伊和平协议等"
+      },
+      {
+        "line": 11572,
+        "title": "刘仲敬论最优生育率"
+      },
+      {
+        "line": 11943,
+        "title": "刘仲敬论1929年大萧条与美国金融军事帝国体系的形成和演变"
+      },
+      {
+        "line": 12319,
+        "title": "刘仲敬入门第二讲：通古今之变"
+      },
+      {
+        "line": 12697,
+        "title": "刘仲敬论人与机器人的共存"
+      },
+      {
+        "line": 12991,
+        "title": "刘仲敬论支纳粹的起源"
+      },
+      {
+        "line": 13355,
+        "title": "刘仲敬访谈397：论欧美的反移民政策"
+      },
+      {
+        "line": 13719,
+        "title": "刘仲敬论“AI 浪潮”"
+      },
+      {
+        "line": 13922,
+        "title": "刘仲敬论意大利民族与国语的形成及对台湾语言政策的启示"
+      },
+      {
+        "line": 14130,
+        "title": "刘仲敬论2021年诺贝尔经济学奖与自然实验法"
+      },
+      {
+        "line": 14262,
+        "title": "刘仲敬访谈396：论中美太空竞赛"
+      },
+      {
+        "line": 14553,
+        "title": "刘仲敬论田中奏折与整全性世界观"
+      },
+      {
+        "line": 14983,
+        "title": "刘仲敬论核扩散、美国战略、以及AI发展"
+      },
+      {
+        "line": 15283,
+        "title": "刘仲敬论华为“韬定律”"
+      },
+      {
+        "line": 15476,
+        "title": "阿拉伯之春概念来源与1848年革命"
+      },
+      {
+        "line": 15596,
+        "title": "刘仲敬论孟加拉与做题家"
+      },
+      {
+        "line": 16016,
+        "title": "刘仲敬论罗马与迦太基"
+      },
+      {
+        "line": 16130,
+        "title": "刘仲敬论马克思主义的起源"
+      },
+      {
+        "line": 16362,
+        "title": "刘仲敬论移民海外的心理准备与大学入学舞弊事件"
+      },
+      {
+        "line": 16650,
+        "title": "刘仲敬论汉服与中医"
+      },
+      {
+        "line": 16980,
+        "title": "刘仲敬论海外华人政治共同体的前世今生"
+      },
+      {
+        "line": 17344,
+        "title": "刘仲敬论学术与言论及其与现实政治的关系"
+      },
+      {
+        "line": 17658,
+        "title": "刘仲敬论“中华文明几千年一脉相承”的建构神话"
+      },
+      {
+        "line": 17848,
+        "title": "刘仲敬论脱支与阶级斗争"
+      },
+      {
+        "line": 18428,
+        "title": "刘仲敬论家庭模式与生育率"
+      },
+      {
+        "line": 18662,
+        "title": "刘仲敬论汉朝与明朝的秩序来源"
+      },
+      {
+        "line": 19004,
+        "title": "刘仲敬论殖民主义秩序的衰落"
+      },
+      {
+        "line": 19378,
+        "title": "刘仲敬论匪学要义"
+      },
+      {
+        "line": 19468,
+        "title": "刘仲敬论缠足的起源与演化"
+      },
+      {
+        "line": 19674,
+        "title": "刘仲敬论中国历史上清流概念的起源与演变"
+      },
+      {
+        "line": 19890,
+        "title": "刘仲敬论阶级地位变化与社交朋友圈的处理"
+      },
+      {
+        "line": 20026,
+        "title": "刘仲敬论沦陷区人口问题与普职比政策"
+      },
+      {
+        "line": 20274,
+        "title": "刘仲敬论近代民族的神话建构与真实共同体的特性"
+      },
+      {
+        "line": 20432,
+        "title": "刘仲敬论美国之音的起源"
+      },
+      {
+        "line": 20656,
+        "title": "刘仲敬论吴越白区党对台渗透"
+      },
+      {
+        "line": 20834,
+        "title": "刘仲敬论妈宝与渣男"
+      },
+      {
+        "line": 21060,
+        "title": "刘仲敬论华夏文明、五胡乱华与台湾政治前景"
+      },
+      {
+        "line": 21558,
+        "title": "刘仲敬论政治庇护与武装斗争"
+      },
+      {
+        "line": 21984,
+        "title": "刘仲敬论东亚大一统的历史轮回"
+      },
+      {
+        "line": 22288,
+        "title": "刘仲敬论罗马帝国宪法演变"
+      },
+      {
+        "line": 22564,
+        "title": "刘仲敬论技术进展、长生不老技术与文明衰亡"
+      },
+      {
+        "line": 22834,
+        "title": "刘仲敬论第三波民主化理论及国家建构与社会演化"
+      },
+      {
+        "line": 23292,
+        "title": "刘仲敬论改革开放：美国的和平演变计划与逆向经营输血工程"
+      },
+      {
+        "line": 23574,
+        "title": "刘仲敬论白区党之组织从属性与红区路线斗争辐射机制"
+      },
+      {
+        "line": 24092,
+        "title": "刘仲敬論認同的生成"
+      },
+      {
+        "line": 24236,
+        "title": "新春秋時代-民國的五條可能路徑"
+      },
+      {
+        "line": 24402,
+        "title": "刘仲敬论失败的楚国军阀岳飞和湖湘国父钟相"
+      },
+      {
+        "line": 24964,
+        "title": "刘仲敬论中国概念的历史演变与内亚秩序输出"
+      },
+      {
+        "line": 25470,
+        "title": "刘仲敬论上等人的自由和文明的本质"
+      },
+      {
+        "line": 25646,
+        "title": "刘仲敬论毛泽东未竟的反殖民大业"
+      },
+      {
+        "line": 26074,
+        "title": "刘仲敬论帝国博弈环境下的社会性格演变"
+      },
+      {
+        "line": 26168,
+        "title": "刘仲敬论二十世纪中国知识分子的政治意识"
+      },
+      {
+        "line": 26286,
+        "title": "刘仲敬论阶级固化与社会流动的历史演变"
+      },
+      {
+        "line": 26704,
+        "title": "刘仲敬论阶级上升与吃子孙饭"
+      }
+    ],
+    "max_windows": 80,
+    "max_chars_per_window": 5000,
+    "actual_window_count": 68,
+    "actual_max_window_chars": 4993,
+    "retrieved_characters_with_repeats": 220035,
+    "unique_retrieved_lines_including_inventory": 2880,
+    "unique_substantive_lines": 2730,
+    "unique_substantive_characters": 200437,
+    "substantive_character_fraction": 0.10641663020994822,
+    "articles_with_substantive_windows": [
+      {
+        "article": 1,
+        "title": "刘仲敬访谈417",
+        "windows": 4
+      },
+      {
+        "article": 2,
+        "title": "刘仲敬访谈416",
+        "windows": 3
+      },
+      {
+        "article": 7,
+        "title": "刘仲敬论著作权",
+        "windows": 1
+      },
+      {
+        "article": 12,
+        "title": "刘仲敬访谈407",
+        "windows": 3
+      },
+      {
+        "article": 13,
+        "title": "刘仲敬访谈406",
+        "windows": 2
+      },
+      {
+        "article": 15,
+        "title": "刘仲敬访谈405",
+        "windows": 1
+      },
+      {
+        "article": 23,
+        "title": "刘仲敬论民国第三大党中国青年党",
+        "windows": 12
+      },
+      {
+        "article": 24,
+        "title": "刘仲敬访谈400：论美国出生公民权与全球移民政策",
+        "windows": 3
+      },
+      {
+        "article": 27,
+        "title": "刘仲敬论唯物主义的道统建构",
+        "windows": 1
+      },
+      {
+        "article": 29,
+        "title": "刘仲敬论全球资本主义",
+        "windows": 4
+      },
+      {
+        "article": 31,
+        "title": "刘仲敬论包工头体制与国际资本主义的联动机制",
+        "windows": 1
+      },
+      {
+        "article": 33,
+        "title": "刘仲敬论最优生育率",
+        "windows": 5
+      },
+      {
+        "article": 34,
+        "title": "刘仲敬论1929年大萧条与美国金融军事帝国体系的形成和演变",
+        "windows": 4
+      },
+      {
+        "article": 35,
+        "title": "刘仲敬入门第二讲：通古今之变",
+        "windows": 1
+      },
+      {
+        "article": 36,
+        "title": "刘仲敬论人与机器人的共存",
+        "windows": 1
+      },
+      {
+        "article": 38,
+        "title": "刘仲敬访谈397：论欧美的反移民政策",
+        "windows": 1
+      },
+      {
+        "article": 39,
+        "title": "刘仲敬论“AI 浪潮”",
+        "windows": 2
+      },
+      {
+        "article": 41,
+        "title": "刘仲敬论2021年诺贝尔经济学奖与自然实验法",
+        "windows": 2
+      },
+      {
+        "article": 42,
+        "title": "刘仲敬访谈396：论中美太空竞赛",
+        "windows": 3
+      },
+      {
+        "article": 44,
+        "title": "刘仲敬论核扩散、美国战略、以及AI发展",
+        "windows": 2
+      },
+      {
+        "article": 53,
+        "title": "刘仲敬论学术与言论及其与现实政治的关系",
+        "windows": 1
+      },
+      {
+        "article": 55,
+        "title": "刘仲敬论脱支与阶级斗争",
+        "windows": 3
+      },
+      {
+        "article": 66,
+        "title": "刘仲敬论吴越白区党对台渗透",
+        "windows": 1
+      },
+      {
+        "article": 72,
+        "title": "刘仲敬论技术进展、长生不老技术与文明衰亡",
+        "windows": 1
+      },
+      {
+        "article": 73,
+        "title": "刘仲敬论第三波民主化理论及国家建构与社会演化",
+        "windows": 2
+      },
+      {
+        "article": 75,
+        "title": "刘仲敬论白区党之组织从属性与红区路线斗争辐射机制",
+        "windows": 1
+      },
+      {
+        "article": 85,
+        "title": "刘仲敬论阶级上升与吃子孙饭",
+        "windows": 2
+      }
+    ],
+    "budget_note": "章節盤點和關鍵詞檢索用於選樣，不等於完整逐字閱讀；未用主題重複或複合記錄虛增獨立來源。"
+  },
+  "actual_reading_windows": [
+    {
+      "start_line": 10014,
+      "end_line": 10051,
+      "characters": 2743,
+      "sha256": "80a4f98a098bf2dd8ef43bda8f2fea2dbffdb76b2655910fcd8f99e77e7a4421"
+    },
+    {
+      "start_line": 10052,
+      "end_line": 10100,
+      "characters": 4426,
+      "sha256": "04b503953f9d0a2e1d1dcf6ced96400e7d1d59d88be843073084ada7cfb492dd"
+    },
+    {
+      "start_line": 10101,
+      "end_line": 10140,
+      "characters": 3819,
+      "sha256": "d59af09a5df75d1ade6c300461880b4879e2ab98252c81caf6c350f6a4e60112"
+    },
+    {
+      "start_line": 10206,
+      "end_line": 10255,
+      "characters": 4935,
+      "sha256": "e0f03613e1f54d98a6a750ebc98d41afa6821d6ade2fc90350396184ccdadbf6"
+    },
+    {
+      "start_line": 12009,
+      "end_line": 12055,
+      "characters": 4537,
+      "sha256": "00370a47cd63b946f170b3b24060a499863c28fbd845cac6ef65ce0bb45aaf1e"
+    },
+    {
+      "start_line": 12057,
+      "end_line": 12103,
+      "characters": 3989,
+      "sha256": "2b820050266445b83dc7178d0d949ee550c91fe4c3bbe9c5d289a92cace30fe5"
+    },
+    {
+      "start_line": 12243,
+      "end_line": 12290,
+      "characters": 4993,
+      "sha256": "cf94dfad4dcb2e147fa9f5f543b05ae55531aa9996bba50ce7d5a89d9157a168"
+    },
+    {
+      "start_line": 12027,
+      "end_line": 12080,
+      "characters": 4802,
+      "sha256": "73066fc34dfbd22353c456a74b3d92a18f62cbd0c79e2e1db014e80390d6b95d"
+    },
+    {
+      "start_line": 10695,
+      "end_line": 10762,
+      "characters": 4835,
+      "sha256": "dd9eb5e69c11baed77435b29e935e727e3ace16a759b335a733cecf166922345"
+    },
+    {
+      "start_line": 735,
+      "end_line": 796,
+      "characters": 4205,
+      "sha256": "eab3e266ec370f087a5faa7edcce38f0eb8106c31a69d21b8b6909771e7d4c66"
+    },
+    {
+      "start_line": 831,
+      "end_line": 885,
+      "characters": 3378,
+      "sha256": "14317dd9c41b605a56b02f11f1e6d556b32adcfb147d0e33a8c2abe081b760aa"
+    },
+    {
+      "start_line": 442,
+      "end_line": 475,
+      "characters": 1243,
+      "sha256": "2555601713395a6be3f2adc52ee16d739be20557b65fcbdb6bb79ab321c51079"
+    },
+    {
+      "start_line": 4517,
+      "end_line": 4563,
+      "characters": 2591,
+      "sha256": "2be833ad7786799dab81303b37dc180168cce26a85d31ba1585945c003035e12"
+    },
+    {
+      "start_line": 4648,
+      "end_line": 4713,
+      "characters": 4704,
+      "sha256": "6b4c57e55c16353699744e2a669e7aef54fa7ffa15d5c115b94456982b79bb7e"
+    },
+    {
+      "start_line": 13762,
+      "end_line": 13825,
+      "characters": 4621,
+      "sha256": "09de15662913c29b73df6897852a91a6ae1395d82b50f7350e7be990fd45941d"
+    },
+    {
+      "start_line": 14168,
+      "end_line": 14229,
+      "characters": 4798,
+      "sha256": "32f115aece2b2f09f8731b478461d733fa977246e841ffc7e29d97e26c0c6c19"
+    },
+    {
+      "start_line": 13826,
+      "end_line": 13883,
+      "characters": 4774,
+      "sha256": "9d3f9f24e654758fb4f8e19940c85b74e0975a47abf65f8826b0f9651632a14f"
+    },
+    {
+      "start_line": 14230,
+      "end_line": 14260,
+      "characters": 2415,
+      "sha256": "bd58893d8d78823866446a615a97af8fd544e5e3928efb4efd3fca85c34a2772"
+    },
+    {
+      "start_line": 17352,
+      "end_line": 17411,
+      "characters": 4842,
+      "sha256": "a948b900278d6aa1d1b751613877f105a0767e5d788e408818c72eb2f5e994db"
+    },
+    {
+      "start_line": 17856,
+      "end_line": 17930,
+      "characters": 4504,
+      "sha256": "05eb53c05c462438837cafadaccbf454434c536132958af4c9e8cfbbd3dc8122"
+    },
+    {
+      "start_line": 18002,
+      "end_line": 18065,
+      "characters": 3998,
+      "sha256": "fee18b5a609a8a5268a456cd4c313c41854c815fe51cb3ca2ee5010810375165"
+    },
+    {
+      "start_line": 11595,
+      "end_line": 11690,
+      "characters": 4849,
+      "sha256": "fb150256144997b93ada0625defb0663d58218ffac997cf3052bbd0b3f038db5"
+    },
+    {
+      "start_line": 11697,
+      "end_line": 11754,
+      "characters": 4630,
+      "sha256": "37ab3732d2718c41b2cc0f2a25d671ca862c9cf682fae180f71732e934c69589"
+    },
+    {
+      "start_line": 11817,
+      "end_line": 11872,
+      "characters": 4790,
+      "sha256": "3b8e5b63b0346e7aff1f40a9a36ca3db77118eb2967a8a62e311c60a4437040e"
+    },
+    {
+      "start_line": 11903,
+      "end_line": 11941,
+      "characters": 2614,
+      "sha256": "1f4f6c06d5de0ffe2fdb7e8c85b2fd4929a3c0ce9cc245aa1bdc9f897d3748a1"
+    },
+    {
+      "start_line": 20700,
+      "end_line": 20753,
+      "characters": 4846,
+      "sha256": "3d7db0682b6418e4c8cf575849e179d402685b3d8904d1ee6c25d5f418f3a9ca"
+    },
+    {
+      "start_line": 26712,
+      "end_line": 26775,
+      "characters": 3872,
+      "sha256": "b431c940fd2e49f4f53a3ba79f98d9a6985f1c25d1b280a27cf53ac4f03a92db"
+    },
+    {
+      "start_line": 9451,
+      "end_line": 9510,
+      "characters": 4047,
+      "sha256": "4046db71f8df5a2011307da398a80c8a5b0341522fc7bf7186a1eb62c374413d"
+    },
+    {
+      "start_line": 8092,
+      "end_line": 8151,
+      "characters": 4989,
+      "sha256": "0340a9cd668f0c5ac01afb509c48d56372501dd124423e12727194e7fb5ea10d"
+    },
+    {
+      "start_line": 8328,
+      "end_line": 8391,
+      "characters": 4952,
+      "sha256": "9676e1d76a6d75ff0d17c671e12c5272f952626d410cd42f4137464acb5ee964"
+    },
+    {
+      "start_line": 8740,
+      "end_line": 8780,
+      "characters": 3670,
+      "sha256": "bed7c6ac8a6915a9eb2c74c9e5f9d84462f1dc00326b200ba2570aed34e8cc3b"
+    },
+    {
+      "start_line": 22842,
+      "end_line": 22910,
+      "characters": 4191,
+      "sha256": "4213073fbc0ed50ef08cc0a481ad621dccb2c10a673d8426cc8f78d16c820330"
+    },
+    {
+      "start_line": 23000,
+      "end_line": 23065,
+      "characters": 3864,
+      "sha256": "40919484d77ef6213a83a1a3f743701634706b8e3bc2de210993d5f7d70096c3"
+    },
+    {
+      "start_line": 8310,
+      "end_line": 8326,
+      "characters": 1627,
+      "sha256": "4be26595f2624f08b7d757ef5d604a72f98216d5a0c1a78c383258ffc2fa2db2"
+    },
+    {
+      "start_line": 8410,
+      "end_line": 8438,
+      "characters": 2388,
+      "sha256": "1a1187b24183d788d3b0ad641b05995f8ea9038568d1c49dcb652539a48558d0"
+    },
+    {
+      "start_line": 8514,
+      "end_line": 8568,
+      "characters": 4638,
+      "sha256": "6b7a0a2a7bc10cab9251db31dcc5248bc36d1f56849c1f84b995268ee1589109"
+    },
+    {
+      "start_line": 13433,
+      "end_line": 13486,
+      "characters": 4760,
+      "sha256": "b8b2158437df2ec4fdf36547d9679078c87d3c290abf26c00753d5c3ac9183b5"
+    },
+    {
+      "start_line": 8600,
+      "end_line": 8653,
+      "characters": 4881,
+      "sha256": "847499565320ca9e968a176eb00f2f923814d86af28efac556140a12ee8c5f70"
+    },
+    {
+      "start_line": 15037,
+      "end_line": 15092,
+      "characters": 4926,
+      "sha256": "70232a57b451c55d886d7a39d121b65af2df10dfcced22c04b1417645fb3748d"
+    },
+    {
+      "start_line": 15093,
+      "end_line": 15138,
+      "characters": 4943,
+      "sha256": "13b7ae103a9fe6bd25faeec1677c9d747f1a1984a1102d877be8742234c4b49d"
+    },
+    {
+      "start_line": 14421,
+      "end_line": 14472,
+      "characters": 4893,
+      "sha256": "0e6344148d8cde5df619b83347395835e0c9e431299c449fea23655751bdce6c"
+    },
+    {
+      "start_line": 12765,
+      "end_line": 12826,
+      "characters": 4869,
+      "sha256": "d5d3a5f868bc2dd546ae692cf760b309e4abaf1b88bdb4d1ff4715b97d6106b4"
+    },
+    {
+      "start_line": 22572,
+      "end_line": 22637,
+      "characters": 4834,
+      "sha256": "9e75f968428af0d3bbdfe429026b596e92a39fff8bc6e1b84268374c5c3f8f06"
+    },
+    {
+      "start_line": 23582,
+      "end_line": 23645,
+      "characters": 3965,
+      "sha256": "5714b267a97e8a93ce1862407889060c007ae4688954c2fcadb3bc1a26462dae"
+    },
+    {
+      "start_line": 18214,
+      "end_line": 18267,
+      "characters": 3401,
+      "sha256": "cac5b224c210851ddc6e0cfd41b2dc6398c977f5c310ed80d5e43d7dd1bf7ee3"
+    },
+    {
+      "start_line": 2574,
+      "end_line": 2630,
+      "characters": 4470,
+      "sha256": "914b51e0198081ad9f0ccfcf2a2c3070121f90efb04bbf4e62082684dddc307d"
+    },
+    {
+      "start_line": 12399,
+      "end_line": 12464,
+      "characters": 4980,
+      "sha256": "f6ec8493161b33e52605d82cbc82c7b5f34a0e3d4b766c5173b02ca6e8fc9114"
+    },
+    {
+      "start_line": 11719,
+      "end_line": 11733,
+      "characters": 1060,
+      "sha256": "998674f99be86df85bda5581aa172d4d94b7d71b222808bddc5672a56a32b7cd"
+    },
+    {
+      "start_line": 26776,
+      "end_line": 26820,
+      "characters": 1870,
+      "sha256": "e765466e05ca33359452bc38dfefa23935d0f669736f1ba717e459b941dc70c3"
+    },
+    {
+      "start_line": 4371,
+      "end_line": 4400,
+      "characters": 1643,
+      "sha256": "88241c66e9a6bb88b4fe716ca11a7ae154882b9b3b7402185ccf358232b47970"
+    },
+    {
+      "start_line": 5416,
+      "end_line": 5426,
+      "characters": 795,
+      "sha256": "a94fd9673b4ba5c5579969dbee629f41944d26e7cb50367d1e81ea80fb19e033"
+    },
+    {
+      "start_line": 14535,
+      "end_line": 14545,
+      "characters": 903,
+      "sha256": "48bc40649b410452d979906dec7cfb68a50186ed4afe0d44f04583042d7fbe8f"
+    },
+    {
+      "start_line": 1,
+      "end_line": 150,
+      "characters": 4415,
+      "sha256": "c5c9a804aac6204e13c608b9171c374c02f73f1b6d06e6d4899b536d3fd83b57",
+      "logging_note": "Initial actual inventory read was L1–150, includes TOC and beginning of first article; retrospectively corrected from L1–92.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 181,
+      "end_line": 219,
+      "characters": 1545,
+      "sha256": "e12d392b64b171a3d758e80f846d605eac195b108b88e1b8c5d9b051935b92bb",
+      "logging_note": "initial substantive source read before helper log; retrospectively logged exact range"
+    },
+    {
+      "start_line": 570,
+      "end_line": 638,
+      "characters": 2441,
+      "sha256": "3ff48397f87f4c1fd8645089f906d638ca7e03ff4fdf35cfc63cd59d663f5b14",
+      "logging_note": "initial substantive source read before helper log; retrospectively logged exact range"
+    },
+    {
+      "start_line": 1,
+      "end_line": 92,
+      "characters": 3023,
+      "sha256": "f7196ffd4a14476505456f61ae2e50e08d3d01acf7b57fe0a11fcf9d592717ba",
+      "logging_note": "Repeated direct inventory read during final date audit.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 4371,
+      "end_line": 4400,
+      "characters": 1643,
+      "sha256": "88241c66e9a6bb88b4fe716ca11a7ae154882b9b3b7402185ccf358232b47970",
+      "logging_note": "Direct read before helper repeat; kept as actual duplicate retrieval.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8314,
+      "end_line": 8314,
+      "characters": 373,
+      "sha256": "0b038d17508c678b613cc4c35d474539e2c1e580779b1695050af825ee8a9c6c",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8322,
+      "end_line": 8322,
+      "characters": 189,
+      "sha256": "ca8f0cf50e111d6a4d67c4741b2333b1ecc20859d051ff7e0588c30c978043a3",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8324,
+      "end_line": 8324,
+      "characters": 198,
+      "sha256": "baa423881aed8d12fcd03384e93f8606002df15c0a082c796c3a6987904d8655",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8348,
+      "end_line": 8348,
+      "characters": 325,
+      "sha256": "68e228822cb58c15021b4751af0c722d2875057dccfd4c803b67510712ac6dd2",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8350,
+      "end_line": 8350,
+      "characters": 69,
+      "sha256": "578baa780701f1aecd43d27081ebbc1cb713c7026fe64e3fdbabefdae52602e3",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8356,
+      "end_line": 8356,
+      "characters": 190,
+      "sha256": "c2d7e59a32e50be0d4263d66bf841ec45697304169c8120e8d699133e7363a23",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8358,
+      "end_line": 8358,
+      "characters": 202,
+      "sha256": "8b08e89e8db0fa244be9c075beb662b01aab5488c9450f4be4656e1f85385b7a",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8360,
+      "end_line": 8360,
+      "characters": 187,
+      "sha256": "011fa922f8e94cf7c7cb30cf6de32868ff1b960556ef192a20e54e0a03ba4564",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 4648,
+      "end_line": 4667,
+      "characters": 1617,
+      "sha256": "8be1488d28b5a83c4a8b7ea07bb1882c6d3cae4a7c2dbf33252bb5da5f272872",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    },
+    {
+      "start_line": 831,
+      "end_line": 845,
+      "characters": 998,
+      "sha256": "83338105eb404b5ca77c37430b717673827ecef3745630f2b41299bd73ab3536",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    },
+    {
+      "start_line": 14543,
+      "end_line": 14543,
+      "characters": 308,
+      "sha256": "ad9d7c6a72a48bbe0282d0ba01af45dd1fca4b7730ab7ca23211428800b7aff6",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    }
+  ],
+  "discovery_searches": [
+    "Entire-file anchored chapter/date/topic search; article inventory of all85 entries, no full source content read",
+    "Broad date-keyword search accidentally returned truncated output; only narrow numbered hits subsequently used for date verification",
+    "Raw searching, inherited C05 reads, and headings-only inventory are not substantive full-book coverage"
+  ],
+  "retrieval_caveats": [
+    "One multiwindow response truncated around L12009–12103; missing middle re-read as L12027–12080",
+    "One multiwindow response truncated around L11719; re-read L11719–11733",
+    "Unlogged initial substantive reads L181–219 andL570–638 were logged retrospectively with exact source hashes",
+    "L8260–8370 direct filter printed eight matching lines only; recorded as eight actual line windows. Other date-keyword search snippets are discovery only, not substantive source windows."
+  ],
+  "evidence": {
+    "schema_version": 1,
+    "records": [
+      {
+        "id": "CA01",
+        "source": "CA2026: 刘仲敬入门第二讲：通古今之变",
+        "locator": "第35篇 / L12399–12464",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-035",
+        "source_groups": [
+          "CA2026-article-035"
+        ],
+        "situation": "入門第二講解釋歷史結構與改變道路的節點，並處理朝鮮戰爭是否可避免。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "遠東戰後重組、蘇聯援助與中共既有義務，及水利工藝與財政的例子。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "結構模型能被修正；先前選擇限定後續可行集合，檔案細節必須接到財政與憲制。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "已有義務與路徑須納入行為者選項"
+        ],
+        "exceptions": [
+          "新模型可以替代舊模型；不是以結構免除實證修正"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "一、格局、節點與提問者假定的自由",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA02",
+        "source": "CA2026: 刘仲敬访谈417",
+        "locator": "第1篇 / L181–219、442–475",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-001",
+        "source_groups": [
+          "CA2026-article-001"
+        ],
+        "situation": "訪談417討論國企、地方利益和中央計劃體制。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "不同征服路線、企業層級、遷入地與原駐地共同供養的歷史。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "人事中央集權不等於財政整合；地方福利差異與恩蔭網絡延續。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "保留各地企業、幹部與財源的不同來歷"
+        ],
+        "exceptions": [
+          "總體農工剝奪關係不因此消失；不能用局部差異否認總體權力"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二、中央政策之下，仍有不同的地方財政與恩蔭集團",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA03",
+        "source": "CA2026: 刘仲敬论全球资本主义",
+        "locator": "第29篇 / L10014–10140、10206–10255",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-029",
+        "source_groups": [
+          "CA2026-article-029"
+        ],
+        "situation": "全球資本主義專題從左右標籤轉向資本與勞動再生。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "南非農場主與祖魯部落、迦太基生產奴隸、英國特許公司與共產體制的比較。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "流動資本可外部化幼年老年與後代成本，長期經濟依賴非現金共同關係。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "短期利潤與跨代再生必須分開"
+        ],
+        "exceptions": [
+          "資本在英國本地可嵌入封建秩序；相對共產主義也可能建構"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "三、全球資本主義：只購買勞動力的中間一段",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA04",
+        "source": "CA2026: 刘仲敬论全球资本主义",
+        "locator": "第29篇 / L10052–10140、10206–10255",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-029",
+        "source_groups": [
+          "CA2026-article-029"
+        ],
+        "situation": "延續全球資本專題，比較繁榮高峰與長期存續。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "羅馬小農、迦太基莊園、海地多米尼加、荷蘭臺灣與傳教士。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "短期最富的一方可能在長期更脆弱；相同地理容許不同分岔。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "人口、家庭、戰爭責任與外部市場依賴相關"
+        ],
+        "exceptions": [
+          "晚期羅馬改變自身結構；臺灣反事實只是可能路線"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "四、成功的時間線：羅馬、迦太基與海地",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA05",
+        "source": "CA2026: 刘仲敬论1929年大萧条与美国金融军事帝国体系的形成和演变",
+        "locator": "第34篇 / L12009–12103、12243–12290",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-034",
+        "source_groups": [
+          "CA2026-article-034"
+        ],
+        "situation": "大蕭條與金融軍事帝國專題回看戰債，再推演2020年選舉後政策。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "一戰債務循環、戰時國家干預、美元輸出和2022年中選尚未發生的語境。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "局部家計合理性可以破壞整體債務循環；逆差、廉價消費、本土重建和帝國能力有取捨。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "原述的2022/2024/2025/2028相關內容是當時預測"
+        ],
+        "exceptions": [
+          "沒有獨立核驗預測是否應驗；來源時點以內容推定，不補確切錄製日"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "五、美元、戰爭與世界經濟不是三件分開的事",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA06",
+        "source": "CA2026: 刘仲敬论包工头体制与国际资本主义的联动机制",
+        "locator": "第31篇 / L10695–10762",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-031",
+        "source_groups": [
+          "CA2026-article-031"
+        ],
+        "situation": "包工頭專題由提問者講述半導體補貼經驗，引出制度來源。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "國企設備磨損、地下地方服務、地方與中央再分配的例子。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "外包補足正式體制不能運轉之處，同時把維修、人才和長期成本後推。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "國家重點項目與一般項目不同；維護責任和升遷利益不一致"
+        ],
+        "exceptions": [
+          "農民工獲得工作是真實的短期改善；提問者成本數據不歸作劉的親歷"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "六、包工頭：正式制度不能運轉時留下的補丁",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA07",
+        "source": "CA2026: 刘仲敬访谈406；刘仲敬访谈417",
+        "locator": "第13篇；第1篇 / L4648–4713；L570–638",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-013",
+        "source_groups": [
+          "CA2026-article-013",
+          "CA2026-article-001"
+        ],
+        "situation": "訪談406談技術封鎖與AI；訪談417比較美歐日中創新機構。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "成熟與未鎖定技術、資料規模、材料工藝、風險資本和專業自治。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "封鎖提高成本但未必阻止本地路線；可用產品不等於持續探索制度。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "不同集數與技術成熟程度不能平均"
+        ],
+        "exceptions": [
+          "406保留本地路線可能；417限制中國持續創新領先，二者不是單句斷言"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "七、技術可以流通，不等於制度可以持續領先",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA08",
+        "source": "CA2026: 刘仲敬论“AI 浪潮”",
+        "locator": "第39篇 / L13762–13883",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-039",
+        "source_groups": [
+          "CA2026-article-039"
+        ],
+        "situation": "AI浪潮專題用個人測試和官方史料分類討論資訊品質。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "甲寅派被拼成中共早期派系、官方匪類標籤、新產業規則尚未形成。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "資訊效率增加，使材料鑑別和制度語境更稀缺；新邊疆同時有利益與傷害。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "技術史和爭議史料的污染程度不同"
+        ],
+        "exceptions": [
+          "明確承認AI節省時間；個人試用不是當代所有模型的性能基準"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "八、AI的信息效率、材料污染與新邊疆",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA09",
+        "source": "CA2026: 刘仲敬论人与机器人的共存；刘仲敬论技术进展、长生不老技术与文明衰亡",
+        "locator": "第36篇；第72篇 / L12765–12826；L22572–22637",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-036",
+        "source_groups": [
+          "CA2026-article-036",
+          "CA2026-article-072"
+        ],
+        "situation": "機器人專題談專用設備；不老技術專題作豐裕與風險的思想實驗。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "固定工序、家庭清潔與照護成本，及假定自然死亡消失的情境。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "實用機器不必像人；豐裕與延壽不必使冒險能力增強。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "價格、成功率與不老都按未來設想保存"
+        ],
+        "exceptions": [
+          "機械照護進步不能直接等於情感與社區關係被替代"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "九、機器人的經濟形態，與長生不老的風險想像",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA10",
+        "source": "CA2026: 刘仲敬访谈400：论美国出生公民权与全球移民政策",
+        "locator": "第24篇 / L8600–8653",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-024",
+        "source_groups": [
+          "CA2026-article-024"
+        ],
+        "situation": "訪談400以出生公民權爭議比較政策成果、司法職權與基本盤動員。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "法院作為法團、行政擴權、難以成功的提案仍可引發政治收益。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "法律失敗與政治成功可並存；機構利益不等於抽象左右偏好。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "提案人是否以達成政策為目標必須區分"
+        ],
+        "exceptions": [
+          "不把所有失敗提案都算陰謀；不構成現行美國法律敘述"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十、基本盤、法院與一項提案真正要取得的成果",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA11",
+        "source": "CA2026: 刘仲敬访谈400：论美国出生公民权与全球移民政策；刘仲敬访谈397：论欧美的反移民政策；刘仲敬访谈407",
+        "locator": "第24篇；第38篇；第12篇 / L8514–8568；L13433–13486；L4385–4399",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-024",
+        "source_groups": [
+          "CA2026-article-024",
+          "CA2026-article-038",
+          "CA2026-article-012"
+        ],
+        "situation": "出生公民權、歐洲反移民與全球化退潮三場問答的分層比較。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "屬地與血統、帝國不同臣民身份及資本人才勞動力流動配套。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "同一移民標籤下的歷史法律關係不同；削減一種流通會改變其他收益。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "殖民身份、直接與間接統治、時期均需保留"
+        ],
+        "exceptions": [
+          "不是簽證或國籍法律意見；有疑似年代錯置的Freetown細節不採用"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十一、移民、公民資格與不可抹平的歷史身份",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA12",
+        "source": "CA2026: 刘仲敬访谈400：论美国出生公民权与全球移民政策",
+        "locator": "第24篇 / L8740–8780",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-024",
+        "source_groups": [
+          "CA2026-article-024"
+        ],
+        "situation": "訪談400轉入公共服務失靈後的團體互助與自下而上重組。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "私人醫生、教育、教會、義工及無力加入團體者。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "實際功能分散而名號持續，民間團體以責任與正當性取代部分國家承諾。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "需要支付金錢、時間與組織成本"
+        ],
+        "exceptions": [
+          "不是人人受益，沒有支持團體的人可能留在惡化服務中"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十二、福利國家的「神聖羅馬帝國化」與再封建化",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA13",
+        "source": "CA2026: 刘仲敬访谈407；刘仲敬访谈416",
+        "locator": "第12篇；第2篇 / L4517–4563；L735–796、831–885",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-012",
+        "source_groups": [
+          "CA2026-article-012",
+          "CA2026-article-002"
+        ],
+        "situation": "訪談407問北約與勒龐；訪談416問土耳其第二外交與泛突厥責任。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "英法德利益分化、兩輪投票、土耳其體制內外力量與財政。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "聯盟名號可持續而功能分散；次級外交可抬價但未必承擔無限責任。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "低成本聲援與全面重建社會的成本不同"
+        ],
+        "exceptions": [
+          "後人也可能低估北約殘留作用；勒龐選舉判斷依當時條件"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十三、北約、土耳其與名義聯盟之下的不同成本",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA14",
+        "source": "CA2026: 刘仲敬访谈416；刘仲敬论脱支与阶级斗争",
+        "locator": "第2篇；第55篇 / L735–796、831–885；L17856–17930",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-002",
+        "source_groups": [
+          "CA2026-article-002",
+          "CA2026-article-055"
+        ],
+        "situation": "土耳其網絡衝突與脫支階級專題分別處理信用耗損、統戰效果與文宣失控。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "軍事欺敵需要大部分資訊可信，外包下層可能追求不同收益。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "一時欺騙得利可能犧牲長期信用；辱罵可把中立者推向對方。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "以政治目標衡量資訊行動，不能只看熱鬧或受騙人數"
+        ],
+        "exceptions": [
+          "來源承認軍事欺敵用途；不沿用舊稿所有欺騙必然無效式泛化"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十四、認知戰：信用、組織紀律與把中立者推向哪一邊",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA15",
+        "source": "CA2026: 刘仲敬论白区党之组织从属性与红区路线斗争辐射机制；刘仲敬论吴越白区党对台渗透",
+        "locator": "第75篇；第66篇 / L23582–23645；L20700–20753",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-075",
+        "source_groups": [
+          "CA2026-article-075",
+          "CA2026-article-066"
+        ],
+        "situation": "白區從屬專題與臺灣滲透問答比較路線權、金流及組織資源。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "洪承疇與朝廷、遠東共和國緩衝、商業外圍與秘密組織的例子。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "受中央路線影響不等於具有平行中央；金錢與組織能力是不同資源。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "必須辨認真正的人事與存亡決定權"
+        ],
+        "exceptions": [
+          "具體派系人名仍是原述指控，未獨立驗證，也不能外推個人定性"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十五、白區黨、外圍與真正的決策中心",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA16",
+        "source": "CA2026: 刘仲敬论民国第三大党中国青年党",
+        "locator": "第23篇 / L8328–8391、8410–8438",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-023",
+        "source_groups": [
+          "CA2026-article-023"
+        ],
+        "situation": "青年黨專題把組織的初始設計放入軍閥、地方豪強與成員生命週期。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "四川與其他地區青年黨、臺灣流亡根基、政黨供養責任、梁啟超與袁世凱蔡鍔。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "共同口號會在不同資源環境長成不同政黨；統一議會兩難在民初具體權力配置中成立。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "成員結婚養家與撫卹需要持續資源；五年是修辭非精確期限"
+        ],
+        "exceptions": [
+          "袁蔡各提供一半的判斷有原文8350–8360支持，不能泛化所有政治制度"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十六、政黨的根基：初始理念、演化環境與供養責任",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA17",
+        "source": "CA2026: 刘仲敬论第三波民主化理论及国家建构与社会演化",
+        "locator": "第73篇 / L22842–22910、23000–23065",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-073",
+        "source_groups": [
+          "CA2026-article-073"
+        ],
+        "situation": "第三波專題反省推翻強人、國家建構與社會演化的差別。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "明示假想部落故事、country/nation、人口窗口及歷史小機緣。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "政權替換不足以證成治理；強人殺戮可代表無力；事後存續不能證明一切早已必然。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "國家建構成本和共同體再生不同"
+        ],
+        "exceptions": [
+          "明說自己的現在看法與十年前不同；不是一貫不變或永遠反民主"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十七、第三波民主化：倒台、建國與社會存續要分開",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA18",
+        "source": "CA2026: 刘仲敬访谈396：论中美太空竞赛；刘仲敬论核扩散、美国战略、以及AI发展",
+        "locator": "第42篇；第44篇 / L14421–14472；L15037–15138",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-042",
+        "source_groups": [
+          "CA2026-article-042",
+          "CA2026-article-044"
+        ],
+        "situation": "訪談396談任務與戰力；核擴散專題談限制與延緩的政策意義。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "弱勢戰略、防守與奪地差異，核壟斷破裂後的政治標準。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "造成傷害不等於取得占領能力；延緩風險有價值但不等於永久解決。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "區分任務、能力、政治信任與時間尺度"
+        ],
+        "exceptions": [
+          "原文具體局勢與年限未獨立驗證；不轉述技術性軍事或核製作內容"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十八、軍事與核政策：阻止失敗不等於取得勝利",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA19",
+        "source": "CA2026: 刘仲敬论脱支与阶级斗争",
+        "locator": "第55篇 / L17856–17930、18002–18065",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-055",
+        "source_groups": [
+          "CA2026-article-055"
+        ],
+        "situation": "脫支階級專題從工會與知識分子轉入煽動責任和自身階級。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "貝洛小說、劉德華楊麗娟對照、1990年代網絡文學青年自述。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "同一口號背後利益與本能不同，分析者也有自己的可靠性坡度。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "話術風險與承諾責任不對稱"
+        ],
+        "exceptions": [
+          "貝洛是小說案例；自述不意味事先設計領袖路線；跨階級判斷承認誤差"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "十九、階級本能不是兩三個意識形態標籤",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA20",
+        "source": "CA2026: 刘仲敬论阶级上升与吃子孙饭；刘仲敬论脱支与阶级斗争；刘仲敬论民国第三大党中国青年党",
+        "locator": "第85篇；第55篇；第23篇 / L26712–26775；L18214–18267；L8310–8326",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-085",
+        "source_groups": [
+          "CA2026-article-085",
+          "CA2026-article-055",
+          "CA2026-article-023"
+        ],
+        "situation": "階級上升與吃子孫飯、脫支階級及青年黨的遺傳環境討論。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "部落與文明、長期行業積累、權力反覆收割及姚明式身體天花板類比。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "文明保護跨代積累；預支後代與當期升遷可並行；遺傳和教育兩種極端均不成立。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "具體結果須看每個人的環境與經歷"
+        ],
+        "exceptions": [
+          "不能以來源生物比喻推定群體智力或讀者命運；暴力動員段不轉成操作規範"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十、階級上升、積累與「吃子孫飯」",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA21",
+        "source": "CA2026: 刘仲敬论最优生育率",
+        "locator": "第33篇 / L11657–11690、11697–11754、11817–11872、11903–11941",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-033",
+        "source_groups": [
+          "CA2026-article-033"
+        ],
+        "situation": "最優生育率專題比較核心家庭、主幹家庭、部落教區和多妻家庭。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "養育成本、父權分擔、北歐法律支持與大家庭的現實缺陷。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "最優不是最大；少中間共同體會提高家庭成本，但部分政策可有限改善。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "個別家長後代多不等於全社會生育率高"
+        ],
+        "exceptions": [
+          "原文明說多妻總體效果仍疑；現實家庭不必完美；醫學生物比例未核"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十一、生育率：家庭之外還有誰承擔責任",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA22",
+        "source": "CA2026: 刘仲敬论吴越白区党对台渗透",
+        "locator": "第66篇 / L20700–20753",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-066",
+        "source_groups": [
+          "CA2026-article-066"
+        ],
+        "situation": "吳越白區篇先處理人格養成和挫折後的改變，再轉政治資源。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "騎馬年齡類比、政治人物退殼或長出新能力、洋蔥與母親核心。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "保護與風險責任時序錯配可削弱承受力；強悍與依賴核心可並存。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "同一篇題目不代表段落全是滲透；保留原問答轉題"
+        ],
+        "exceptions": [
+          "原文明確保留人物改變可能；不是鼓勵兒童創傷或年齡醫學定論"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十二、試煉、脆弱核心與變化的可能",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA23",
+        "source": "CA2026: 刘仲敬论2021年诺贝尔经济学奖与自然实验法；刘仲敬论学术与言论及其与现实政治的关系",
+        "locator": "第41篇；第53篇 / L14168–14260；L17352–17411",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-041",
+        "source_groups": [
+          "CA2026-article-041",
+          "CA2026-article-053"
+        ],
+        "situation": "2021年諾獎自然實驗問答與學術言論專題。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "最低工資、統計層次、自承先有直覺、坐月子類比及專業行會。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "變數與模型選擇含判斷，卻不使所有判斷等值；法團權利同時保護技藝與既得利益。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "原述自承偏見不能被抹掉"
+        ],
+        "exceptions": [
+          "坐月子不是醫療指引；行會既有功能又有成本，不壓成純善或純壟斷"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十三、學術模型、行會保護與知識的代價",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA24",
+        "source": "CA2026: 刘仲敬论著作权；刘仲敬论唯物主义的道统建构",
+        "locator": "第7篇；第27篇 / L2574–2630；L9451–9510",
+        "attribution": "劉仲敬受訪答語或講述正文的忠實轉述；不將提問者敘事、篇前摘要和編者注作本人新證據。",
+        "group_id": "CA2026-article-007",
+        "source_groups": [
+          "CA2026-article-007",
+          "CA2026-article-027"
+        ],
+        "situation": "著作權與2020年4月30日哲學訪談分別處理收入制度與正統建構。",
+        "audience": "當場主持人、提問聽眾與相關訪談/專題讀者；不是本輪使用者的私人處境。",
+        "available_information": "贊助人、報刊連載、跨國版稅受戰爭阻斷；宋儒、蘇聯與中世紀異端。",
+        "constraints": "只依此合輯實讀片段；未獨立查證歷史、法律、醫學或當代事件。保留原述時點和問題條件，不以2026年編輯時間代替錄製日。",
+        "observation": "文化形式依供養關係，思想道統依後來政治正統選取祖先，不由相似字句自然成立。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "版稅依購買力和支付秩序；整體思想不可用孤句歸類"
+        ],
+        "exceptions": [
+          "純理論一致性與哲學史譜系不同；道統日期有問者明示而非猜測"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十四、著作權、道統與知識分子的供養關係",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留直接判斷、案例、因果與限制；歸屬、來源年代與非操作性邊界另行明示。"
+        }
+      },
+      {
+        "id": "CA-L01",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§二",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l01",
+        "situation": "舊C05已收錄的全球資金流與世界經濟位置；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "資金流改道改變結構位置；新CA03–05另有實讀支持，但舊具體措辭不算重核。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      },
+      {
+        "id": "CA-L02",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§四／H05，《劉仲敬論波蘭民族構建》P121",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l02",
+        "situation": "舊C05已收錄的普魯士波蘭的地緣接力；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "保留既有H05來源標記；此輪CA2026無對應已核段落。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      },
+      {
+        "id": "CA-L03",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§十四",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l03",
+        "situation": "舊C05已收錄的華盛頓實作與假知識新鮮感；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "保留能辦事與只帶來愉悅的知識區別；未回讀舊原始稿。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      },
+      {
+        "id": "CA-L04",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§十一",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l04",
+        "situation": "舊C05已收錄的娛樂刺激頻譜；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "保留活動範圍與刺激承受的類比，不把其變成心理測試。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      },
+      {
+        "id": "CA-L05",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§一，訪談057／2019",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l05",
+        "situation": "舊C05已收錄的高技術移民與下一代位置；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "保留2019年提問條件，不推斷現實個人祖先與基因。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      },
+      {
+        "id": "CA-L06",
+        "source": "本輪前C05歷史模組；非CA2026新增核查",
+        "locator": "舊§十三／2021新疆棉",
+        "attribution": "承接既有劉仲敬觀點蒸餾，不宣稱此輪重讀其原始來源。",
+        "group_id": "legacy-c05-ca-l06",
+        "situation": "舊C05已收錄的人權話語與成本競爭；本輪為保存歷史證據而單獨列入承接節。",
+        "audience": "原訪談或講座讀者；此輪維護者須看承接限制。",
+        "available_information": "本輪可讀舊C05與其中已有的來源指標，沒有此項新的原始段落確認。",
+        "constraints": "來源支持繼承而非重新確證；不計入新覆蓋、獨立重複或新認可。",
+        "observation": "本輪未以CA2026第25篇重新確認；保留歷史模組歸屬與數據年代限制。",
+        "claim_type": "editorial_synthesis",
+        "conditions": [
+          "限於舊稿提供的來源歸屬與原述情境"
+        ],
+        "exceptions": [
+          "不得以本次編輯推高歷史證據等級"
+        ],
+        "conflicts": [],
+        "runtime_support": [
+          "references/clusters/c05-geopolitics-capital-and-class.md"
+        ],
+        "runtime_section": "二十五、承接舊 C05 的來源內容",
+        "curation": {
+          "decision": "contextualize",
+          "reason": "保留歷史來源而明確標出本輪未重新確認。"
+        }
+      }
+    ]
+  },
+  "source_checks": [
+    {
+      "id": "CA01",
+      "runtime_section": "一、格局、節點與提問者假定的自由",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "已有義務與路徑須納入行為者選項",
+        "新模型可以替代舊模型；不是以結構免除實證修正"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA02",
+      "runtime_section": "二、中央政策之下，仍有不同的地方財政與恩蔭集團",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "保留各地企業、幹部與財源的不同來歷",
+        "總體農工剝奪關係不因此消失；不能用局部差異否認總體權力"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA03",
+      "runtime_section": "三、全球資本主義：只購買勞動力的中間一段",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "短期利潤與跨代再生必須分開",
+        "資本在英國本地可嵌入封建秩序；相對共產主義也可能建構"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA04",
+      "runtime_section": "四、成功的時間線：羅馬、迦太基與海地",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "人口、家庭、戰爭責任與外部市場依賴相關",
+        "晚期羅馬改變自身結構；臺灣反事實只是可能路線"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA05",
+      "runtime_section": "五、美元、戰爭與世界經濟不是三件分開的事",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "原述的2022/2024/2025/2028相關內容是當時預測",
+        "沒有獨立核驗預測是否應驗；來源時點以內容推定，不補確切錄製日"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA06",
+      "runtime_section": "六、包工頭：正式制度不能運轉時留下的補丁",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "國家重點項目與一般項目不同；維護責任和升遷利益不一致",
+        "農民工獲得工作是真實的短期改善；提問者成本數據不歸作劉的親歷"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA07",
+      "runtime_section": "七、技術可以流通，不等於制度可以持續領先",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "不同集數與技術成熟程度不能平均",
+        "406保留本地路線可能；417限制中國持續創新領先，二者不是單句斷言"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA08",
+      "runtime_section": "八、AI的信息效率、材料污染與新邊疆",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "技術史和爭議史料的污染程度不同",
+        "明確承認AI節省時間；個人試用不是當代所有模型的性能基準"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA09",
+      "runtime_section": "九、機器人的經濟形態，與長生不老的風險想像",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "價格、成功率與不老都按未來設想保存",
+        "機械照護進步不能直接等於情感與社區關係被替代"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA10",
+      "runtime_section": "十、基本盤、法院與一項提案真正要取得的成果",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "提案人是否以達成政策為目標必須區分",
+        "不把所有失敗提案都算陰謀；不構成現行美國法律敘述"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA11",
+      "runtime_section": "十一、移民、公民資格與不可抹平的歷史身份",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "殖民身份、直接與間接統治、時期均需保留",
+        "不是簽證或國籍法律意見；有疑似年代錯置的Freetown細節不採用"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA12",
+      "runtime_section": "十二、福利國家的「神聖羅馬帝國化」與再封建化",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "需要支付金錢、時間與組織成本",
+        "不是人人受益，沒有支持團體的人可能留在惡化服務中"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA13",
+      "runtime_section": "十三、北約、土耳其與名義聯盟之下的不同成本",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "低成本聲援與全面重建社會的成本不同",
+        "後人也可能低估北約殘留作用；勒龐選舉判斷依當時條件"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA14",
+      "runtime_section": "十四、認知戰：信用、組織紀律與把中立者推向哪一邊",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "以政治目標衡量資訊行動，不能只看熱鬧或受騙人數",
+        "來源承認軍事欺敵用途；不沿用舊稿所有欺騙必然無效式泛化"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA15",
+      "runtime_section": "十五、白區黨、外圍與真正的決策中心",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "必須辨認真正的人事與存亡決定權",
+        "具體派系人名仍是原述指控，未獨立驗證，也不能外推個人定性"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA16",
+      "runtime_section": "十六、政黨的根基：初始理念、演化環境與供養責任",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "成員結婚養家與撫卹需要持續資源；五年是修辭非精確期限",
+        "袁蔡各提供一半的判斷有原文8350–8360支持，不能泛化所有政治制度"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA17",
+      "runtime_section": "十七、第三波民主化：倒台、建國與社會存續要分開",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "國家建構成本和共同體再生不同",
+        "明說自己的現在看法與十年前不同；不是一貫不變或永遠反民主"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA18",
+      "runtime_section": "十八、軍事與核政策：阻止失敗不等於取得勝利",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "區分任務、能力、政治信任與時間尺度",
+        "原文具體局勢與年限未獨立驗證；不轉述技術性軍事或核製作內容"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA19",
+      "runtime_section": "十九、階級本能不是兩三個意識形態標籤",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "話術風險與承諾責任不對稱",
+        "貝洛是小說案例；自述不意味事先設計領袖路線；跨階級判斷承認誤差"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA20",
+      "runtime_section": "二十、階級上升、積累與「吃子孫飯」",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "具體結果須看每個人的環境與經歷",
+        "不能以來源生物比喻推定群體智力或讀者命運；暴力動員段不轉成操作規範"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA21",
+      "runtime_section": "二十一、生育率：家庭之外還有誰承擔責任",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "個別家長後代多不等於全社會生育率高",
+        "原文明說多妻總體效果仍疑；現實家庭不必完美；醫學生物比例未核"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA22",
+      "runtime_section": "二十二、試煉、脆弱核心與變化的可能",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "同一篇題目不代表段落全是滲透；保留原問答轉題",
+        "原文明確保留人物改變可能；不是鼓勵兒童創傷或年齡醫學定論"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA23",
+      "runtime_section": "二十三、學術模型、行會保護與知識的代價",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "原述自承偏見不能被抹掉",
+        "坐月子不是醫療指引；行會既有功能又有成本，不壓成純善或純壟斷"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA24",
+      "runtime_section": "二十四、著作權、道統與知識分子的供養關係",
+      "assessment": "supported_in_declared_source_window",
+      "condition_or_exception_preserved": [
+        "版稅依購買力和支付秩序；整體思想不可用孤句歸類",
+        "純理論一致性與哲學史譜系不同；道統日期有問者明示而非猜測"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L01",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L02",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L03",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L04",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L05",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    },
+    {
+      "id": "CA-L06",
+      "runtime_section": "二十五、承接舊 C05 的來源內容",
+      "assessment": "inherited_not_reverified",
+      "condition_or_exception_preserved": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "external_fact_check": false
+    }
+  ],
+  "source_tensions": [
+    {
+      "ids": [
+        "CA07"
+      ],
+      "issue": "訪談406保留自主AI技術路線，417批評持續領先制度。",
+      "resolution": "保留可用產品、技術輸入、自治標準與探索金融不同層次，不裁成一條總結。"
+    },
+    {
+      "ids": [
+        "CA09",
+        "CA21"
+      ],
+      "issue": "專用機器人減輕照護樂觀，家庭共同體不可只靠專業服務。",
+      "resolution": "機械性勞動節約與情感/成本/責任關係分層。"
+    },
+    {
+      "ids": [
+        "CA14"
+      ],
+      "issue": "舊C05欺騙是軟弱的強公式，新答語承認軍事欺敵用途。",
+      "resolution": "信用與政治目標限定；不繼承成功認知戰必然篩出更強內核公式。"
+    },
+    {
+      "ids": [
+        "CA17"
+      ],
+      "issue": "本人明說對第三波的評價與十年前不同。",
+      "resolution": "保存觀點隨時間變化，不改寫成一貫不變。"
+    },
+    {
+      "ids": [
+        "CA21"
+      ],
+      "issue": "舊稿生育率不是政策問題且多妻生育率最高過度確定。",
+      "resolution": "保留北歐支持可有限提高及多妻社會總體仍疑。"
+    }
+  ],
+  "direct_prose_semantic_review": {
+    "performed": true,
+    "reviewed_runtime_sections": [
+      "一、格局、節點與提問者假定的自由",
+      "二、中央政策之下，仍有不同的地方財政與恩蔭集團",
+      "三、全球資本主義：只購買勞動力的中間一段",
+      "四、成功的時間線：羅馬、迦太基與海地",
+      "五、美元、戰爭與世界經濟不是三件分開的事",
+      "六、包工頭：正式制度不能運轉時留下的補丁",
+      "七、技術可以流通，不等於制度可以持續領先",
+      "八、AI的信息效率、材料污染與新邊疆",
+      "九、機器人的經濟形態，與長生不老的風險想像",
+      "十、基本盤、法院與一項提案真正要取得的成果",
+      "十一、移民、公民資格與不可抹平的歷史身份",
+      "十二、福利國家的「神聖羅馬帝國化」與再封建化",
+      "十三、北約、土耳其與名義聯盟之下的不同成本",
+      "十四、認知戰：信用、組織紀律與把中立者推向哪一邊",
+      "十五、白區黨、外圍與真正的決策中心",
+      "十六、政黨的根基：初始理念、演化環境與供養責任",
+      "十七、第三波民主化：倒台、建國與社會存續要分開",
+      "十八、軍事與核政策：阻止失敗不等於取得勝利",
+      "十九、階級本能不是兩三個意識形態標籤",
+      "二十、階級上升、積累與「吃子孫飯」",
+      "二十一、生育率：家庭之外還有誰承擔責任",
+      "二十二、試煉、脆弱核心與變化的可能",
+      "二十三、學術模型、行會保護與知識的代價",
+      "二十四、著作權、道統與知識分子的供養關係",
+      "二十五、承接舊 C05 的來源內容",
+      "出處標記"
+    ],
+    "assessment": "正文以判斷、案例和機制直接陳述；來源說明、日期與必要歸屬區分不冒充本人指令。沒有將蒸餾者的處理流程寫成人格操作步驟。",
+    "checks": [
+      "未採作者認為/他說式逐段講解。",
+      "主文每一實質節有CA證據ID、篇號及行號；承接節分開標CA-L。",
+      "跨篇歸納標成editorial_synthesis，沒有新情境應用假歸本人。",
+      "具體條件、例外、相反張力和自己可靠性限制保留。",
+      "主持人半導體成本案例、2026-08-13日期、小說情節未冒充受訪者親歷事實。",
+      "舊強斷言不因重寫自動加強；使用限制和未核醫療法律數據以編輯歸屬說明承擔。"
+    ],
+    "remaining_limitations": [
+      "直接陳述保留來源的爭議歷史政治解釋，並不證成真實性。",
+      "全篇仍為機器蒸餾；沒有新的人工親讀辨認或盲評性能結果。"
+    ]
+  },
+  "excluded_or_not_operationalized": [
+    {
+      "locator": "第85篇L26776–26820",
+      "issue": "來源含對政治對手直接暴力動員與投名狀式處方。",
+      "decision": "不轉成運行人格對使用者的指令；保留積累、收割、低信任等分析脈絡，暴力內容僅留此來源邊界記錄。"
+    },
+    {
+      "locator": "第39、44篇若干思想實驗",
+      "issue": "AI傷人與核擴散的傷害性細節",
+      "decision": "只保留技術新邊疆風險與政策延緩邏輯，不給戰術/製作步驟。"
+    },
+    {
+      "locator": "第38篇L13433–13486",
+      "issue": "Freetown相關敘事有明顯年代混置風險。",
+      "decision": "不採具體建城時間及人物，保留帝國不同身份的比較。"
+    },
+    {
+      "locator": "第33、36、72、41篇",
+      "issue": "生物、醫療、延壽成功率及坐月子類比",
+      "decision": "不當臨床結論或當前商品規格；必要情境保留為原述推演。"
+    },
+    {
+      "locator": "舊C05§十二",
+      "issue": "廚師/死忠供養與成功認知戰篩出硬核等未在新檔實讀段重新確認。",
+      "decision": "存舊repo歷史，不繼承為新CA來源支持；跨ref需移除或改為新§十四信用條件。"
+    }
+  ],
+  "old_module": {
+    "path": "repository:references/clusters/c05-geopolitics-capital-and-class.md",
+    "sha256": "c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
+    "claims_map": [
+      {
+        "old_section": "一、時事分析",
+        "new_support": "CA01／CA-L05",
+        "disposition": "結構節點重新蒸餾；057移民保留為明標歷史承接。"
+      },
+      {
+        "old_section": "二、資金流",
+        "new_support": "CA03–05／CA-L01",
+        "disposition": "再生與資本制度由新檔支持；資金流舊語境另標承接。"
+      },
+      {
+        "old_section": "三、反新",
+        "new_support": "CA08–09",
+        "disposition": "從AI實驗及不老條件重新核讀；去掉未核80/20比例。"
+      },
+      {
+        "old_section": "四、對比案例",
+        "new_support": "CA04／CA-L02",
+        "disposition": "海地、羅馬與臺灣新核；普魯士波蘭H05歷史保留。"
+      },
+      {
+        "old_section": "五、AI與諾獎",
+        "new_support": "CA08／CA23",
+        "disposition": "兩題皆新核，保留資料污染與自承直覺。"
+      },
+      {
+        "old_section": "六、家庭生育",
+        "new_support": "CA21",
+        "disposition": "修正舊一概不是政策問題與多妻最高率的過度確定；新稿保留政策可有限提高及總體仍疑。飲食生物學未核不移作新斷言。"
+      },
+      {
+        "old_section": "七、階級生態位",
+        "new_support": "CA19–20",
+        "disposition": "新檔重新蒸餾，保護積累與跨代成本保留。"
+      },
+      {
+        "old_section": "八、自身階級",
+        "new_support": "CA19",
+        "disposition": "新核自述和判斷可靠性坡度。"
+      },
+      {
+        "old_section": "九、煽動責任",
+        "new_support": "CA19",
+        "disposition": "新核小說與影星例子，標出小說性質。"
+      },
+      {
+        "old_section": "十、早期試煉",
+        "new_support": "CA22",
+        "disposition": "新核；保留變化可能及非醫療類比邊界。"
+      },
+      {
+        "old_section": "十一、娛樂頻譜",
+        "new_support": "CA-L04",
+        "disposition": "承接舊來源，未聲稱新核。"
+      },
+      {
+        "old_section": "十二、認知戰",
+        "new_support": "CA14；舊較強公式存歷史",
+        "disposition": "新稿按信用、軍事欺敵與政治目的重寫。廚師分蛋糕/死忠供養、成功認知戰必篩出強內核及革命後必更殘酷等，未在新來源實讀範圍找到同一論證，不硬繼承；原repo歷史仍保留。"
+      },
+      {
+        "old_section": "十三、新疆棉人權",
+        "new_support": "CA-L06",
+        "disposition": "承接舊稿，CA2026第25篇只完成主題盤點而未詳讀。"
+      },
+      {
+        "old_section": "十四、真假知識",
+        "new_support": "CA-L03",
+        "disposition": "承接舊稿，避免假報新來源覆蓋。"
+      },
+      {
+        "old_section": "十五、唯物道統",
+        "new_support": "CA24",
+        "disposition": "新核2020-04-30答語，H06歷史定位可保留但不作第二個獨立樣本。"
+      },
+      {
+        "old_section": "十六、遺傳環境與青年黨",
+        "new_support": "CA16／CA20",
+        "disposition": "新核環境天花板、撫卹養家、五年、袁蔡各半；五年非精確規律。"
+      },
+      {
+        "old_section": "十七、第三波",
+        "new_support": "CA17",
+        "disposition": "新核看法變動、思想實驗和存續機緣；H07若保留不算獨立新證據。"
+      },
+      {
+        "old_section": "十八、索引",
+        "new_support": "新§一至二十四與整體路由",
+        "disposition": "改為完整具體主題節；未讀全部85篇不宣稱全合輯索引覆蓋。"
+      },
+      {
+        "old_section": "十九、文風統計/定位",
+        "new_support": "voice與本輪維護材料",
+        "disposition": "舊A2/A3語域差異保留指向voice；未重新計算舊統計、不冒充新版本性能。"
+      }
+    ],
+    "preserved_legacy_ids": [
+      "CA-L01",
+      "CA-L02",
+      "CA-L03",
+      "CA-L04",
+      "CA-L05",
+      "CA-L06"
+    ],
+    "routing": {
+      "frameworks_16_education": "新§二十／CA20，姚明例子的源行8314在實讀範圍內，但正文以瓶頸條件表述。",
+      "frameworks_16_party": "新§十六／CA16；袁世凱蔡鍔兩半在8350–8360實讀確認。",
+      "frameworks_12_cognition": "新§十四／CA14；舊成功認知戰篩內核不再掛此節。",
+      "frameworks_15_genealogy": "新§二十四／CA24。",
+      "frameworks_2_capital": "新§三–五／CA03–05及§二十五CA-L01。"
+    }
+  },
+  "output": {
+    "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "sha256": "b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948",
+    "characters": 14364,
+    "lines": 241,
+    "new_evidence_records": 24,
+    "inherited_records": 6,
+    "language": "繁體中文"
+  },
+  "validation": {
+    "reading_window_hashes_verified": true,
+    "every_numeric_runtime_locator_within_logged_reads": true,
+    "source_schema_validation": "passed all applicable required fields, types, minLength/minItems, const and enum constraints of evidence.schema.json using local explicit checks; jsonschema library unavailable",
+    "package_validation": "parent integration required; child only authored scratch module/review",
+    "bounded_recognition": "not run by child; no new assessment-model calls",
+    "read_only_target_repo": true
+  }
+}

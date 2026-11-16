@@ -1,0 +1,2696 @@
+{
+  "schema_version": 1,
+  "review_scope": "C07-1 only: source-bounded redistillation, semantic editorial review, no fresh recognition evaluation",
+  "module": {
+    "path": "references/clusters/c07-1-nation-invention-world-history.md",
+    "repository_target": "references/clusters/c07-1-nation-invention-world-history.md",
+    "sha256": "df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c",
+    "characters": 12024,
+    "language": "繁體中文"
+  },
+  "source_identity": {
+    "id": "NI2026",
+    "path": "source-local:民族發明學的世界史.md",
+    "file_name": "民族發明學的世界史.md",
+    "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+    "bytes": 2549671,
+    "characters": 1075637,
+    "line_count": 11170,
+    "format": "User-supplied Markdown concatenation of three books; internal EPUB headings and editorial notes retained.",
+    "component_titles": [
+      "叛逆的巴爾幹：從希臘主義的解體到斯拉夫主義的崩潰",
+      "歐洲的感性邊疆：德意志語言民族主義如何抵制法蘭西理性主義",
+      "中東的裂痕：泛阿拉伯主義的流產和大英帝國的遺產"
+    ],
+    "authorship": "劉仲敬主講；明鏡新聞網「劉仲敬思想」講座整理，編者加注、年表及圖像。",
+    "source_attribution_checked_at": [
+      "L11–57",
+      "L3385–3431",
+      "L8006–8033"
+    ],
+    "bibliographic_limit": "沒有獨立核定每冊出版版本、年份及全部節目日期。"
+  },
+  "bounded_reading": {
+    "limit_windows": 70,
+    "limit_characters_per_window": 5000,
+    "actual_units": 63,
+    "attempted_helper_windows": 61,
+    "initial_direct_read_reconstructed_units": 2,
+    "units_all_within_raw_character_cap": true,
+    "fully_credited_units": 59,
+    "unique_credited_lines": 994,
+    "unique_credited_characters": 171627,
+    "unique_credited_chinese_characters": 130563,
+    "selection_plan": "先完整盤點三分部三十篇（含附錄），每篇選足以呈現不同機制的主文，再對分類、重複論證與特殊反例作有界補讀。優先保留本書獨有案例，非逐頁通讀。",
+    "truncation_accounting": "第一組多窗回傳部分截斷：W03–W06 不計完整閱讀，實際採用段落另於 W60、W09、W10、W11 重讀。原先完整顯示的 L11–94 按兩個不超過5000原始字元的單位記錄；此處沒有新增閱讀主張。",
+    "discovery_only_not_evidence": "全書標題清單、關鍵詞搜尋和段落前綴索引用於導航；截斷的搜尋/索引不計完整選讀。L1943 已在 W61 補成實質閱讀。",
+    "windows": [
+      {
+        "start_line": 95,
+        "end_line": 105,
+        "characters": 3161,
+        "sha256": "2d1a221b92a0f5ff2e05a4715ae7970d96484a432cb31018f8822b4d42b03d4f",
+        "window_id": "W01",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 167,
+        "end_line": 182,
+        "characters": 3102,
+        "sha256": "4e87a03ac836d7795977f588d51ff69484f1fee92d7f752e415e34a11626ff1a",
+        "window_id": "W02",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 625,
+        "end_line": 639,
+        "characters": 3292,
+        "sha256": "f3429fd690530bd42492d383df243a3717d14556a386367499b5d2ef6b3f8b1c",
+        "window_id": "W03",
+        "read_status": "partial_or_not_visible_due_to_aggregate_output_truncation",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": false,
+        "note": "Not credited as fully read. Relevant content reread in W60, W09, W10, W11 respectively."
+      },
+      {
+        "start_line": 681,
+        "end_line": 694,
+        "characters": 3165,
+        "sha256": "6f753d56dc2cb3318c32187b389b1bb02d46086bfc165864e492276a12c04348",
+        "window_id": "W04",
+        "read_status": "partial_or_not_visible_due_to_aggregate_output_truncation",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": false,
+        "note": "Not credited as fully read. Relevant content reread in W60, W09, W10, W11 respectively."
+      },
+      {
+        "start_line": 937,
+        "end_line": 951,
+        "characters": 3284,
+        "sha256": "8c31f171256e64f1f6f362fef9614c51dc2a95c64dd17dc953cfa2a891bb6687",
+        "window_id": "W05",
+        "read_status": "partial_or_not_visible_due_to_aggregate_output_truncation",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": false,
+        "note": "Not credited as fully read. Relevant content reread in W60, W09, W10, W11 respectively."
+      },
+      {
+        "start_line": 993,
+        "end_line": 1009,
+        "characters": 3272,
+        "sha256": "09be43c7fe7f505794f32563f267bd6410171c948bd0c8351611e6a99a9b6f68",
+        "window_id": "W06",
+        "read_status": "partial_or_not_visible_due_to_aggregate_output_truncation",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": false,
+        "note": "Not credited as fully read. Relevant content reread in W60, W09, W10, W11 respectively."
+      },
+      {
+        "start_line": 1205,
+        "end_line": 1220,
+        "characters": 3321,
+        "sha256": "e0009fb9d73fa2fc352fff0ee697fce92cf9978cd9942b53f1f532325d642f36",
+        "window_id": "W07",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1261,
+        "end_line": 1270,
+        "characters": 3227,
+        "sha256": "3c9122790b9e069982c971e4a0013b38199c09f019b77ed0a1329a920cb3c350",
+        "window_id": "W08",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 681,
+        "end_line": 694,
+        "characters": 3165,
+        "sha256": "6f753d56dc2cb3318c32187b389b1bb02d46086bfc165864e492276a12c04348",
+        "window_id": "W09",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 937,
+        "end_line": 951,
+        "characters": 3284,
+        "sha256": "8c31f171256e64f1f6f362fef9614c51dc2a95c64dd17dc953cfa2a891bb6687",
+        "window_id": "W10",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 993,
+        "end_line": 1009,
+        "characters": 3272,
+        "sha256": "09be43c7fe7f505794f32563f267bd6410171c948bd0c8351611e6a99a9b6f68",
+        "window_id": "W11",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1570,
+        "end_line": 1582,
+        "characters": 2332,
+        "sha256": "5b1a3ab7aa8ba05f24106eb58237b2d202b00688c61e6d923f932abd9199b468",
+        "window_id": "W12",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1628,
+        "end_line": 1637,
+        "characters": 1886,
+        "sha256": "b629fc83eafd45d68235d816b9a5fe5e84515e4ce1b56fd218141b049c9e0d3a",
+        "window_id": "W13",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1862,
+        "end_line": 1875,
+        "characters": 2265,
+        "sha256": "0843739580260d3ce6ce4d19947227cd08744bc6bfe5e050430dfce01f546158",
+        "window_id": "W14",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1920,
+        "end_line": 1929,
+        "characters": 2167,
+        "sha256": "8c640a67add61dc8640408602cbe67aa77ecc4d6967fae3358a5243319333c4e",
+        "window_id": "W15",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2111,
+        "end_line": 2128,
+        "characters": 2922,
+        "sha256": "fa609bd776b3647b1b2ce9caab85e00c804eae8257ae6c57b889570dd55a78d1",
+        "window_id": "W16",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2363,
+        "end_line": 2375,
+        "characters": 2900,
+        "sha256": "3f4dc971c69a26af3d24cfe6a3c4fd5c7152c6119774cba001909b3185b0325f",
+        "window_id": "W17",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2573,
+        "end_line": 2582,
+        "characters": 2972,
+        "sha256": "baaabd0d7e26987becdd0797fbca7ee99fb856d316adf9df293257a1ddf127f8",
+        "window_id": "W18",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2870,
+        "end_line": 2879,
+        "characters": 2909,
+        "sha256": "afd676434a785d9f0d5969695a23c3a65163f3451538069636c86719d302c8cb",
+        "window_id": "W19",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 3190,
+        "end_line": 3202,
+        "characters": 2881,
+        "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce",
+        "window_id": "W20",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 3450,
+        "end_line": 3461,
+        "characters": 2951,
+        "sha256": "7689596e503b4913c586ea56e0fe53fb4afe71763f1bb307c342aa4be8d3d93f",
+        "window_id": "W21",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2900,
+        "end_line": 2909,
+        "characters": 3576,
+        "sha256": "eddcc210e604b0adca66f71c54e30db3f715755afa76256a1bd61166baf27c22",
+        "window_id": "W22",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4025,
+        "end_line": 4046,
+        "characters": 2721,
+        "sha256": "c856bdf05e7c49afe207f1f2a9f9d5c12cf15864d29260377cb0a67ed1c54e6d",
+        "window_id": "W23",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4100,
+        "end_line": 4118,
+        "characters": 2837,
+        "sha256": "89204e7174d58c355a5185d5d8b712a6a061445be1ce4e5a4fcee26ba086ae01",
+        "window_id": "W24",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4515,
+        "end_line": 4537,
+        "characters": 2923,
+        "sha256": "42072160c5213fc5fb5c87152efe4c16383cfc7b6a0f06938959a14a071ec350",
+        "window_id": "W25",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4895,
+        "end_line": 4914,
+        "characters": 2859,
+        "sha256": "6c81ebb036a986875eada3691d5f95f97a0a4d98082a02027239f3bdec508516",
+        "window_id": "W26",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 5450,
+        "end_line": 5459,
+        "characters": 2714,
+        "sha256": "0769a3b00ca1d26021ef43127bf18716e3b9023cc48d361d738bf43581f943e3",
+        "window_id": "W27",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 5460,
+        "end_line": 5467,
+        "characters": 2262,
+        "sha256": "83556ad55732a691c2a293f155a1bda8478736a5af5d06b2ca68092f046d6a7a",
+        "window_id": "W28",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4600,
+        "end_line": 4611,
+        "characters": 2296,
+        "sha256": "d5f5c88905f444cacae2c5ebb5f81ace9bf05f8b5cbb671242d3ed3a019f2bb7",
+        "window_id": "W29",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 4950,
+        "end_line": 4958,
+        "characters": 2035,
+        "sha256": "c0d8a2d3996f802497490280e7e5dcf48dc796f4ed6f9c0fe9b48ed261f8e10e",
+        "window_id": "W30",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 5940,
+        "end_line": 5955,
+        "characters": 2997,
+        "sha256": "b4391ba70540d9975b9a62dd12c481b6328d04272ccbb299c78349421aab05d4",
+        "window_id": "W31",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 6343,
+        "end_line": 6362,
+        "characters": 3093,
+        "sha256": "fa4fdd7e1247a4712107135554107981309b66fdbb46c3c1882a8d2f323fa0a5",
+        "window_id": "W32",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 6785,
+        "end_line": 6805,
+        "characters": 2688,
+        "sha256": "e232f4d2cd7abb26fc67beb5bffddd80385a947f454119d291292bff176ba56c",
+        "window_id": "W33",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 5992,
+        "end_line": 6003,
+        "characters": 2686,
+        "sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "window_id": "W34",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 6415,
+        "end_line": 6438,
+        "characters": 2684,
+        "sha256": "6d9e25afb7792b9005b00f2884c0083f97ee5186fbefbeee9e02d70f26b9d6c5",
+        "window_id": "W35",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 6860,
+        "end_line": 6877,
+        "characters": 3583,
+        "sha256": "efdf74defcb2ef11ae683c2cae049e13bc1314b3110f674c188ebe331f52c2ea",
+        "window_id": "W36",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 6878,
+        "end_line": 6889,
+        "characters": 2359,
+        "sha256": "ef71bd8c6a25992aa3bd9979ab8b80d0e2331a854f9daa59dd36d834634096af",
+        "window_id": "W37",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 7252,
+        "end_line": 7261,
+        "characters": 2452,
+        "sha256": "595139487eddcfb1c732a003348faebd73038ab0751502f0516753eb48d6268c",
+        "window_id": "W38",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 7620,
+        "end_line": 7629,
+        "characters": 2481,
+        "sha256": "3d8015e82c6a064d10f0baa3d783b5952781bedc578a689f96a9b176e97eaa7a",
+        "window_id": "W39",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 7674,
+        "end_line": 7689,
+        "characters": 3530,
+        "sha256": "0a551ab3ed1b397ef91d322082bde08b93fd656db4010d3f6af0ea561976d0d8",
+        "window_id": "W40",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 8118,
+        "end_line": 8141,
+        "characters": 3941,
+        "sha256": "71c0e697463e17cc8fd38971d9e36feec7bc74b7bcb43d8f86b12c11d589385f",
+        "window_id": "W41",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 8530,
+        "end_line": 8552,
+        "characters": 3675,
+        "sha256": "e22a573aea83fd6280224b7cec3156e751669d088d99ce9cc08780038b010755",
+        "window_id": "W42",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 8900,
+        "end_line": 8923,
+        "characters": 3610,
+        "sha256": "e4de79e62a9c53b5e7cc5fae5c50b6c8c3ff3499933b3b999d40e6e6dbf01103",
+        "window_id": "W43",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 9290,
+        "end_line": 9309,
+        "characters": 3071,
+        "sha256": "77883de4ffc014be92648bc9d5a2ec425f3a6aad1652d560bb1d6df90572694e",
+        "window_id": "W44",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 9600,
+        "end_line": 9631,
+        "characters": 3597,
+        "sha256": "2c160c9e827783193a59991acd5a68216add215cb0baea5d79d8ebdfd3fb6e25",
+        "window_id": "W45",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 9632,
+        "end_line": 9645,
+        "characters": 2738,
+        "sha256": "e9181f69c7ae4b7aa94bc5519a08c16b87ddf7a971a96b2081cd306a2b7bb3c1",
+        "window_id": "W46",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 9890,
+        "end_line": 9902,
+        "characters": 3466,
+        "sha256": "151c64c4431c5a01c44e0d5dc27a63b973e4512efd38f7680370d1accfdd93ac",
+        "window_id": "W47",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 10172,
+        "end_line": 10197,
+        "characters": 3889,
+        "sha256": "fd8858f46a5be47a97d4b7333a7b48083370a145e1f6f694f5d9c60a6690cd71",
+        "window_id": "W48",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 10543,
+        "end_line": 10560,
+        "characters": 3804,
+        "sha256": "dcf180a2b0a3b8717a16a35e36d0797c337d04fff243ff05cb46cf67f5d51b6d",
+        "window_id": "W49",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 10859,
+        "end_line": 10870,
+        "characters": 2853,
+        "sha256": "a9d345af62d8c81ee76130f8f637056e9f1e47c0cfc8b321a05a71f1253df142",
+        "window_id": "W50",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 10893,
+        "end_line": 10908,
+        "characters": 3984,
+        "sha256": "a987e1226c0edf271d7ba64d2b17589d70f36c0ce225a335c496aa47eccb5b57",
+        "window_id": "W51",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 3385,
+        "end_line": 3431,
+        "characters": 1432,
+        "sha256": "3d387ac167e8a45fc86c5b731806a2a544aeadfe7e983eccbece43a036144507",
+        "window_id": "W52",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 8006,
+        "end_line": 8033,
+        "characters": 767,
+        "sha256": "d3eea1e54eaec741c8f11daa50c77f456fca169b7c28da71d0f1f8bd8b0cdbb9",
+        "window_id": "W53",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2146,
+        "end_line": 2156,
+        "characters": 2446,
+        "sha256": "dbdb2be19851dede2519a63ddd2a2b3d62941899be93040033152e98a70ce11e",
+        "window_id": "W54",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2411,
+        "end_line": 2424,
+        "characters": 3603,
+        "sha256": "dd7d0b92b6dbeb61fd5cdee31db4432d293efffd3ba440a57584838b40432d18",
+        "window_id": "W55",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 2910,
+        "end_line": 2919,
+        "characters": 2855,
+        "sha256": "e48f3571491842f8e9ea14c1f4dee0d45cfa2c8c136755628117a8840932fe66",
+        "window_id": "W56",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 9951,
+        "end_line": 9966,
+        "characters": 3797,
+        "sha256": "7087a13813928ba84d6c2ef24faf92f0c21bb3b489bbe9ff3597228bc3c48efd",
+        "window_id": "W57",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 10234,
+        "end_line": 10251,
+        "characters": 3762,
+        "sha256": "638cec2ff3acb3a99ed3ddf6e5c6bec8158f611979c82d6db9be4fcb0c1a3ff3",
+        "window_id": "W58",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 8034,
+        "end_line": 8045,
+        "characters": 2445,
+        "sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "window_id": "W59",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 626,
+        "end_line": 637,
+        "characters": 2550,
+        "sha256": "5deb0c2ef8e96c218faccc8f744cbaa8adc8dcd5ec9f3c6353fd5b9d4f0a5e43",
+        "window_id": "W60",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 1943,
+        "end_line": 1948,
+        "characters": 1093,
+        "sha256": "8de0faadd5447a2128f57bd5ec066c2b1b4b59e57fb3154a9b9f511ffe126ef7",
+        "window_id": "W61",
+        "read_status": "observed_full",
+        "read_method": "line-bounded source extraction; HTML anchor markup omitted only from display",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 11,
+        "end_line": 87,
+        "characters": 4511,
+        "sha256": "c765fc2221b0fe9f58c96e005ce0f2ebd532abc8e925bb25146552f8f567f899",
+        "read_status": "observed_full",
+        "read_method": "initial direct sed L11–94; reconstructed bounded unit",
+        "window_id": "I01",
+        "coverage_credit": true
+      },
+      {
+        "start_line": 88,
+        "end_line": 94,
+        "characters": 2245,
+        "sha256": "99bd1857a602e2b594c1dcc5afa9980afc813a5caff4418940d7f8a585f3fd0c",
+        "read_status": "observed_full",
+        "read_method": "initial direct sed L11–94; reconstructed bounded unit",
+        "window_id": "I02",
+        "coverage_credit": true
+      }
+    ],
+    "chapters": [
+      {
+        "part": "巴爾幹",
+        "heading": "一希臘「薛丁格」的鄂圖曼主義",
+        "chapter_heading_line": 57,
+        "next_chapter_boundary_line": 606,
+        "substantive_read_ranges": [
+          [
+            57,
+            105
+          ],
+          [
+            167,
+            182
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI02",
+          "NI03"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "二羅馬尼亞希臘主義的叛逆子孫",
+        "chapter_heading_line": 607,
+        "next_chapter_boundary_line": 922,
+        "substantive_read_ranges": [
+          [
+            626,
+            637
+          ],
+          [
+            681,
+            694
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI04"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "三保加利亞「漢兒學得胡兒語，卻向城頭罵漢人」",
+        "chapter_heading_line": 923,
+        "next_chapter_boundary_line": 1188,
+        "substantive_read_ranges": [
+          [
+            937,
+            951
+          ],
+          [
+            993,
+            1009
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI05"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "四馬其頓一個希臘，兩種表述",
+        "chapter_heading_line": 1189,
+        "next_chapter_boundary_line": 1545,
+        "substantive_read_ranges": [
+          [
+            1205,
+            1220
+          ],
+          [
+            1261,
+            1270
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI06"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "五塞爾維亞「五族共和」的殘山剩水",
+        "chapter_heading_line": 1546,
+        "next_chapter_boundary_line": 1838,
+        "substantive_read_ranges": [
+          [
+            1570,
+            1582
+          ],
+          [
+            1628,
+            1637
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI07"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "六波士尼亞從「三族共和」到「六族共和」",
+        "chapter_heading_line": 1839,
+        "next_chapter_boundary_line": 2096,
+        "substantive_read_ranges": [
+          [
+            1862,
+            1875
+          ],
+          [
+            1920,
+            1929
+          ],
+          [
+            1943,
+            1948
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI08"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "七蒙特內哥羅歐洲「黑龍會」的孤兒",
+        "chapter_heading_line": 2097,
+        "next_chapter_boundary_line": 2328,
+        "substantive_read_ranges": [
+          [
+            2111,
+            2128
+          ],
+          [
+            2146,
+            2156
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI09"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "八阿爾巴尼亞突厥聯邦主義的無奈發明",
+        "chapter_heading_line": 2329,
+        "next_chapter_boundary_line": 2534,
+        "substantive_read_ranges": [
+          [
+            2363,
+            2375
+          ],
+          [
+            2411,
+            2424
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI10"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "九克羅埃西亞反革命的民族發明",
+        "chapter_heading_line": 2535,
+        "next_chapter_boundary_line": 2835,
+        "substantive_read_ranges": [
+          [
+            2573,
+            2582
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI11"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "十斯洛維尼亞赫爾德的民俗學與「龍牙武士」遺產",
+        "chapter_heading_line": 2836,
+        "next_chapter_boundary_line": 3164,
+        "substantive_read_ranges": [
+          [
+            2870,
+            2879
+          ],
+          [
+            2900,
+            2919
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI12"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "巴爾幹",
+        "heading": "附錄從封建體系到民族國家以中印邊境衝突為例",
+        "chapter_heading_line": 3165,
+        "next_chapter_boundary_line": 3413,
+        "substantive_read_ranges": [
+          [
+            3190,
+            3202
+          ],
+          [
+            3385,
+            3413
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI31"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "一普魯士軍國主義與新教自由主義",
+        "chapter_heading_line": 3414,
+        "next_chapter_boundary_line": 4006,
+        "substantive_read_ranges": [
+          [
+            3414,
+            3431
+          ],
+          [
+            3450,
+            3461
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI13"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "二烏克蘭民族發明與克里米亞問題",
+        "chapter_heading_line": 4007,
+        "next_chapter_boundary_line": 4475,
+        "substantive_read_ranges": [
+          [
+            4025,
+            4046
+          ],
+          [
+            4100,
+            4118
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI01"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "三波羅的海民族發明與歐洲的文明邊疆",
+        "chapter_heading_line": 4476,
+        "next_chapter_boundary_line": 4862,
+        "substantive_read_ranges": [
+          [
+            4515,
+            4537
+          ],
+          [
+            4600,
+            4611
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI14"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "四芬蘭歷史語言與民族發明",
+        "chapter_heading_line": 4863,
+        "next_chapter_boundary_line": 5413,
+        "substantive_read_ranges": [
+          [
+            4895,
+            4914
+          ],
+          [
+            4950,
+            4958
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI15"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "五捷克奧匈帝國「勤王黨人」的萬里長征",
+        "chapter_heading_line": 5414,
+        "next_chapter_boundary_line": 5899,
+        "substantive_read_ranges": [
+          [
+            5450,
+            5467
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI16"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "六斯洛伐克匈牙利「舒昂黨人」的寄居蟹",
+        "chapter_heading_line": 5900,
+        "next_chapter_boundary_line": 6308,
+        "substantive_read_ranges": [
+          [
+            5940,
+            5955
+          ],
+          [
+            5992,
+            6003
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI17"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "七匈牙利從「拉法葉」到「佛朗哥」",
+        "chapter_heading_line": 6309,
+        "next_chapter_boundary_line": 6767,
+        "substantive_read_ranges": [
+          [
+            6343,
+            6362
+          ],
+          [
+            6415,
+            6438
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI18"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "八波蘭帝國超民族主義和文化泛民族主義的剋星",
+        "chapter_heading_line": 6768,
+        "next_chapter_boundary_line": 7229,
+        "substantive_read_ranges": [
+          [
+            6785,
+            6805
+          ],
+          [
+            6860,
+            6889
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI02",
+          "NI19"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "附錄（１）加泰隆尼亞遲到的民族發明",
+        "chapter_heading_line": 7230,
+        "next_chapter_boundary_line": 7597,
+        "substantive_read_ranges": [
+          [
+            7252,
+            7261
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI20"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東歐",
+        "heading": "附錄（２）烏拉圭從地區到民族的意外發明",
+        "chapter_heading_line": 7598,
+        "next_chapter_boundary_line": 8017,
+        "substantive_read_ranges": [
+          [
+            7620,
+            7629
+          ],
+          [
+            7674,
+            7689
+          ],
+          [
+            8006,
+            8017
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI21"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "一庫德人族群、民族與國家",
+        "chapter_heading_line": 8018,
+        "next_chapter_boundary_line": 8482,
+        "substantive_read_ranges": [
+          [
+            8018,
+            8045
+          ],
+          [
+            8118,
+            8141
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI22"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "二黎巴嫩東方基督教會的共同體結構",
+        "chapter_heading_line": 8483,
+        "next_chapter_boundary_line": 8846,
+        "substantive_read_ranges": [
+          [
+            8530,
+            8552
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI23"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "三敘利亞文化泛民族主義的流產試管嬰兒",
+        "chapter_heading_line": 8847,
+        "next_chapter_boundary_line": 9253,
+        "substantive_read_ranges": [
+          [
+            8900,
+            8923
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI24"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "四伊拉克「三民主義」未能統一阿拉伯國以後",
+        "chapter_heading_line": 9254,
+        "next_chapter_boundary_line": 9561,
+        "substantive_read_ranges": [
+          [
+            9290,
+            9309
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI25"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "五科威特部族傳統和泛阿拉伯主義的邊界衝突",
+        "chapter_heading_line": 9562,
+        "next_chapter_boundary_line": 9850,
+        "substantive_read_ranges": [
+          [
+            9600,
+            9645
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI26"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "六阿拉伯聯合大公國英國經驗主義留給伊斯蘭的孵化器",
+        "chapter_heading_line": 9851,
+        "next_chapter_boundary_line": 10127,
+        "substantive_read_ranges": [
+          [
+            9890,
+            9902
+          ],
+          [
+            9951,
+            9966
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI27"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "七巴林書院、酋長與王國，習慣法、沙利亞與成文法",
+        "chapter_heading_line": 10128,
+        "next_chapter_boundary_line": 10454,
+        "substantive_read_ranges": [
+          [
+            10172,
+            10197
+          ],
+          [
+            10234,
+            10251
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI28"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "八桑吉巴伊斯蘭「香港」的窮途末路",
+        "chapter_heading_line": 10455,
+        "next_chapter_boundary_line": 10798,
+        "substantive_read_ranges": [
+          [
+            10543,
+            10560
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI29"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      },
+      {
+        "part": "中東",
+        "heading": "附錄愛爾蘭大眾民主與民族發明",
+        "chapter_heading_line": 10799,
+        "next_chapter_boundary_line": 11170,
+        "substantive_read_ranges": [
+          [
+            10859,
+            10870
+          ],
+          [
+            10893,
+            10908
+          ]
+        ],
+        "supporting_evidence_ids": [
+          "NI30"
+        ],
+        "coverage": "bounded substantive selection; not exhaustive chapter reading"
+      }
+    ],
+    "parts_with_substantive_reading": 3,
+    "chapters_with_substantive_reading": 30
+  },
+  "records": [
+    {
+      "id": "NI01",
+      "source": "NI2026",
+      "locator": "L4025–4046；L4100–4118",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.烏克蘭",
+      "situation": "烏克蘭與哥薩克前史、克里米亞問題的講座論述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中烏克蘭：族群、政權、國家與民族的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "族群差異、有效統治、外交國家地位與後來國史的承繼安排分屬不同層次，不能由一個成立年包辦。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "民族認同須有政治上的自我區分；國家地位另涉及承認與交涉。"
+      ],
+      "exceptions": [
+        "早期同地政權不因此已有今日民族邊界；有效統治不等於外交承認。"
+      ],
+      "conflicts": [
+        "古代政體被現代民族史承接，屬後設譜系，不是古人已持有現代國民意識的證據。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §1"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 4025,
+          "end_line": 4046,
+          "characters": 2721,
+          "sha256": "c856bdf05e7c49afe207f1f2a9f9d5c12cf15864d29260377cb0a67ed1c54e6d"
+        },
+        {
+          "start_line": 4100,
+          "end_line": 4118,
+          "characters": 2837,
+          "sha256": "89204e7174d58c355a5185d5d8b712a6a061445be1ce4e5a4fcee26ba086ae01"
+        }
+      ]
+    },
+    {
+      "id": "NI02",
+      "source": "NI2026",
+      "locator": "L73–79；L6860–6889",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.classification-and-imperial-conversion",
+      "situation": "希臘篇起首與波蘭篇分類總結的互相對讀",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中希臘、波蘭：分類與帝國轉型的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "希臘三模式與波蘭四分類的層級不同：小民族內含國民自決與語言動員；帝國保全和文化圈擴張另有不同的政治主體。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分類依形成機制及自我治理資格，不按語言是否真實。"
+      ],
+      "exceptions": [
+        "三與四不是兩份互不相容的窮盡列表；文化親近不自動產生共同國家。"
+      ],
+      "conflicts": [
+        "「假民族」是來源的規範性政治判斷，不冒充中性的學術共識。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §2",
+        "references/clusters/c07-1-nation-invention-world-history.md §12"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 73,
+          "end_line": 79,
+          "characters": 1567,
+          "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d"
+        },
+        {
+          "start_line": 6860,
+          "end_line": 6889,
+          "characters": 5942,
+          "sha256": "90a34415a20d464525452395c19eafa77bfe291e2cf40e6fcc8fb06da5b5501d"
+        }
+      ]
+    },
+    {
+      "id": "NI03",
+      "source": "NI2026",
+      "locator": "L75–77；L95–105；L167–182",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.希臘",
+      "situation": "希臘主義由帝國繼承到地方國家，與英俄介入的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中希臘：帝國遺產、地方分流與外援的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "共同復國名義會被分別出錢出兵的地方政權分拆；保護國的黨派、海權和對手變化又會重排援助。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地方已有自身武力與外援；原帝國繼承方案所需資源超過中心能力。"
+      ],
+      "exceptions": [
+        "同一民族名號可以跨越不同國家計畫；外援不是永久不變的文明親疏。"
+      ],
+      "conflicts": [
+        "與 NI04、NI05 共享希臘文化圈分裂母題，不算三份獨立證明。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §3"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 75,
+          "end_line": 77,
+          "characters": 545,
+          "sha256": "62c62df1a97c5fa5010748ba30f49de66db5da61159c5e8a353ca6c886c3ebb7"
+        },
+        {
+          "start_line": 95,
+          "end_line": 105,
+          "characters": 3161,
+          "sha256": "2d1a221b92a0f5ff2e05a4715ae7970d96484a432cb31018f8822b4d42b03d4f"
+        },
+        {
+          "start_line": 167,
+          "end_line": 182,
+          "characters": 3102,
+          "sha256": "4e87a03ac836d7795977f588d51ff69484f1fee92d7f752e415e34a11626ff1a"
+        }
+      ]
+    },
+    {
+      "id": "NI04",
+      "source": "NI2026",
+      "locator": "L628–637；L681–694",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.羅馬尼亞",
+      "situation": "多瑙兩公國、法納爾精英與希臘革命的關係",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中羅馬尼亞：交錯精英的分流的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "追究責任、占領重整及流亡改變精英的政治歸屬；同一家族可被後來不同國史分別編為民族英雄。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "原有跨地區文化與政治網絡；政治中心更替及流亡造成分化。"
+      ],
+      "exceptions": [
+        "不能把今日國籍倒投成革命初期已有的民族邊界。"
+      ],
+      "conflicts": [
+        "共享文化圈的譜系不抹去後來形成的政治分歧。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §3",
+        "references/clusters/c07-1-nation-invention-world-history.md §4"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 628,
+          "end_line": 637,
+          "characters": 2445,
+          "sha256": "4b17fcd6c2180e211bff793489b7794bd13fcd5db1fd238892fe1532d86e14ca"
+        },
+        {
+          "start_line": 681,
+          "end_line": 694,
+          "characters": 3165,
+          "sha256": "6f753d56dc2cb3318c32187b389b1bb02d46086bfc165864e492276a12c04348"
+        }
+      ]
+    },
+    {
+      "id": "NI05",
+      "source": "NI2026",
+      "locator": "L993–1009",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.保加利亞",
+      "situation": "保加利亞文化與政治組織從希臘共同網絡分出的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中保加利亞：教會、學校、口語與海外動員的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "爭奪既有教會學校失敗後另辦機構，口語和民謠補充文學，教育與海外社區接續動員，鎮壓報導反向固定新民族名稱。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "有可持續的教育教會機構、流亡社區及軍事動員管道。"
+      ],
+      "exceptions": [
+        "不是任何地方口語都會擊敗通用語；文化整理不等於建國已完成。"
+      ],
+      "conflicts": [
+        "受害者的公共命名機制與 NI22 同類，不能當作作者之外的獨立驗證。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §3",
+        "references/clusters/c07-1-nation-invention-world-history.md §4"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 993,
+          "end_line": 1009,
+          "characters": 3272,
+          "sha256": "09be43c7fe7f505794f32563f267bd6410171c948bd0c8351611e6a99a9b6f68"
+        }
+      ]
+    },
+    {
+      "id": "NI06",
+      "source": "NI2026",
+      "locator": "L1205–1220；L1261–1270",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.馬其頓",
+      "situation": "馬其頓地理名稱、保加利亞政治與革命組織的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中馬其頓：標籤、組織和國家的衝突的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "地理名詞可先被大民族運動使用而後被另一國史收編；接受國界的政府與以收復境外領土為使命的組織可能反目。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "革命組織須維持自身使命，並依賴特定避難基地與地方支持。"
+      ],
+      "exceptions": [
+        "同樣暴力不證明相同目標；跨國革命組織的可移動性不同於地方民族組織。"
+      ],
+      "conflicts": [
+        "後出國史中的同名不證明早期活動已有相同政治歸屬。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §5"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 1205,
+          "end_line": 1220,
+          "characters": 3321,
+          "sha256": "e0009fb9d73fa2fc352fff0ee697fce92cf9978cd9942b53f1f532325d642f36"
+        },
+        {
+          "start_line": 1261,
+          "end_line": 1270,
+          "characters": 3227,
+          "sha256": "3c9122790b9e069982c971e4a0013b38199c09f019b77ed0a1329a920cb3c350"
+        }
+      ]
+    },
+    {
+      "id": "NI07",
+      "source": "NI2026",
+      "locator": "L1570–1582；L1628–1637",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.塞爾維亞",
+      "situation": "塞爾維亞自治、南斯拉夫與泛斯拉夫方案的比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中塞爾維亞：政治起點與文化邊界的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "共享反對者不會消除不同帝國制度遺產；南斯拉夫聯盟、大塞爾維亞與泛斯拉夫目標有不同中心。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "各地方保有不同宗教、政治精英與組織起點。"
+      ],
+      "exceptions": [
+        "文化親緣不等於接受同一中心統治。"
+      ],
+      "conflicts": [
+        "和 NI08 同屬南斯拉夫重組的相鄰敘事，不能作跨來源獨立互證。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §6"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 1570,
+          "end_line": 1582,
+          "characters": 2332,
+          "sha256": "5b1a3ab7aa8ba05f24106eb58237b2d202b00688c61e6d923f932abd9199b468"
+        },
+        {
+          "start_line": 1628,
+          "end_line": 1637,
+          "characters": 1886,
+          "sha256": "b629fc83eafd45d68235d816b9a5fe5e84515e4ce1b56fd218141b049c9e0d3a"
+        }
+      ]
+    },
+    {
+      "id": "NI08",
+      "source": "NI2026",
+      "locator": "L1862–1875；L1920–1929；L1943–1947",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.波士尼亞",
+      "situation": "波士尼亞穆斯林、三族到六族共和與南斯拉夫憲制的講述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中波士尼亞：帝國保護與憲法主體的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "舊帝國的保護退出後，需要新的民族名號與政治機構以取得表達資格；共同體的劃分又改變多數少數比例及中央、本地的政治機會。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "帝國保護不能延續；席位與權利分配按被承認的共同體進行。"
+      ],
+      "exceptions": [
+        "支持帝國可以出於少數安全；選擇較大或較小認同不是單憑真誠虛偽可解釋。"
+      ],
+      "conflicts": [
+        "來源以諸夏比較說明比例效應；正文保留結構，不沿用假定人口數。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §6"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 1862,
+          "end_line": 1875,
+          "characters": 2265,
+          "sha256": "0843739580260d3ce6ce4d19947227cd08744bc6bfe5e050430dfce01f546158"
+        },
+        {
+          "start_line": 1920,
+          "end_line": 1929,
+          "characters": 2167,
+          "sha256": "8c640a67add61dc8640408602cbe67aa77ecc4d6967fae3358a5243319333c4e"
+        },
+        {
+          "start_line": 1943,
+          "end_line": 1947,
+          "characters": 1092,
+          "sha256": "3cf9886a8fbfe032be8d658d1e3901904a4fcb20812ab6e7eb97a68a91666a3d"
+        }
+      ]
+    },
+    {
+      "id": "NI09",
+      "source": "NI2026",
+      "locator": "L2111–2128；L2146–2156",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.蒙特內哥羅",
+      "situation": "小規模精英進入俄國宮廷並運用共同宗教使命的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中蒙特內哥羅：小國和保護國互相利用的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "弱者能將強國的榮譽感和使命轉成資源；宮廷網絡又影響保護國的想像，構成雙向交換。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地方精英有可進入保護國的長期網絡與可用的共同語彙。"
+      ],
+      "exceptions": [
+        "保護國不必完全接受小國目標；有外援不等於完全受控制。"
+      ],
+      "conflicts": [
+        "不把個別家系傳說或泛化血統推論當成新事實證明。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §7"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 2111,
+          "end_line": 2128,
+          "characters": 2922,
+          "sha256": "fa609bd776b3647b1b2ce9caab85e00c804eae8257ae6c57b889570dd55a78d1"
+        },
+        {
+          "start_line": 2146,
+          "end_line": 2156,
+          "characters": 2446,
+          "sha256": "dbdb2be19851dede2519a63ddd2a2b3d62941899be93040033152e98a70ce11e"
+        }
+      ]
+    },
+    {
+      "id": "NI10",
+      "source": "NI2026",
+      "locator": "L2363–2375；L2411–2424",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.阿爾巴尼亞",
+      "situation": "聯邦派、新軍、地方民兵與巴爾幹戰爭的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中阿爾巴尼亞：帝國出口關閉後的選擇的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "中央軍財集中壓縮地方權利；聯邦出路失敗且外部保護不可得時，民族發明成為避免被鄰國驅逐的替代方案。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地方原可在帝國內爭權；政變、戰爭和保護人退出先後改變選項。"
+      ],
+      "exceptions": [
+        "獨立不必是早已普遍存在的願望；原穆斯林身分不自動決定民族立場。"
+      ],
+      "conflicts": [
+        "同屬失去帝國出路母題，但保留本案的軍財支柱與迫切外交條件。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §7"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 2363,
+          "end_line": 2375,
+          "characters": 2900,
+          "sha256": "3f4dc971c69a26af3d24cfe6a3c4fd5c7152c6119774cba001909b3185b0325f"
+        },
+        {
+          "start_line": 2411,
+          "end_line": 2424,
+          "characters": 3603,
+          "sha256": "dd7d0b92b6dbeb61fd5cdee31db4432d293efffd3ba440a57584838b40432d18"
+        }
+      ]
+    },
+    {
+      "id": "NI11",
+      "source": "NI2026",
+      "locator": "L2573–2582",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.克羅埃西亞",
+      "situation": "拿破崙時期合併不同沿海內陸地方及其後續",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中克羅埃西亞：短期行政的長期教育遺產的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "行政教育把不同傳統暫時放入同一容器；軍隊撤出後，新精英仍能用留下的學校與語言資源形成運動。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "行政體系須實際培養新的精英及傳播載體。"
+      ],
+      "exceptions": [
+        "短期統治者的政治意圖與後世民族運動目標不必相同。"
+      ],
+      "conflicts": [
+        "不由短期占領本身推論任何地方必然形成民族。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §8"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 2573,
+          "end_line": 2582,
+          "characters": 2972,
+          "sha256": "baaabd0d7e26987becdd0797fbca7ee99fb856d316adf9df293257a1ddf127f8"
+        }
+      ]
+    },
+    {
+      "id": "NI12",
+      "source": "NI2026",
+      "locator": "L2870–2879；L2900–2919",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.斯洛維尼亞",
+      "situation": "赫爾德式鄉土情感、反伊利里亞統一與帝國領地權利的敘述",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中斯洛維尼亞：保守浪漫主義與地方權利的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "民俗、童年語言與鄉土依戀可構成保守派反統一的資源，既有領地權利和行政差異又維持其邊界。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "有地方語言的文化整理與可承載差異的制度位置。"
+      ],
+      "exceptions": [
+        "民族發明不只屬共和派；共同反對一個中心不代表接受另一個近鄰中心。"
+      ],
+      "conflicts": [
+        "與捷克芬蘭共享文化工作機制，不算另外的作者之外證據。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §8"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 2870,
+          "end_line": 2879,
+          "characters": 2909,
+          "sha256": "afd676434a785d9f0d5969695a23c3a65163f3451538069636c86719d302c8cb"
+        },
+        {
+          "start_line": 2900,
+          "end_line": 2919,
+          "characters": 6431,
+          "sha256": "153eedbdf20c07416efba791082f6a0b07a9af13df2ffae8a14aad1a75ec68cf"
+        }
+      ]
+    },
+    {
+      "id": "NI13",
+      "source": "NI2026",
+      "locator": "L3450–3461",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.普魯士",
+      "situation": "北方新教強權接力與普魯士吸納流亡人口的比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中普魯士：地緣位置與有條件的寬容的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "前一強權衰退留下軍事保護位置，地理與實力使普魯士得以承接；信仰寬容和開墾權與保衛四戰之地的義務相連。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地緣機會與軍事人力需要並存。"
+      ],
+      "exceptions": [
+        "優良政策不足保證其他小邦同樣崛起；某時期寬容不代表全時期自由。"
+      ],
+      "conflicts": [
+        "避開口述中可疑年代與專名細節，保留所選段的因果層次。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §9"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 3450,
+          "end_line": 3461,
+          "characters": 2951,
+          "sha256": "7689596e503b4913c586ea56e0fe53fb4afe71763f1bb307c342aa4be8d3d93f"
+        }
+      ]
+    },
+    {
+      "id": "NI14",
+      "source": "NI2026",
+      "locator": "L4515–4537；L4600–4611",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.波羅的海",
+      "situation": "東方、拉丁及北方武裝教團的組織比較與俄國同化",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中波羅的海：教會結構與階級選擇的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "不同教會與武力配置形成不同自治基礎；從效忠君主轉向俄語同化後，地方小民族與泛日耳曼方案競爭。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "原有精英與地方居民的生存空間因語言同化而收縮。"
+      ],
+      "exceptions": [
+        "共同宗教不等於相同制度；泛文化認同會增加境外解放義務。"
+      ],
+      "conflicts": [
+        "教會三類是來源的比較框架，不作所有教團均完全符合的窮盡史實。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §1",
+        "references/clusters/c07-1-nation-invention-world-history.md §2",
+        "references/clusters/c07-1-nation-invention-world-history.md §9"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 4515,
+          "end_line": 4537,
+          "characters": 2923,
+          "sha256": "42072160c5213fc5fb5c87152efe4c16383cfc7b6a0f06938959a14a071ec350"
+        },
+        {
+          "start_line": 4600,
+          "end_line": 4611,
+          "characters": 2296,
+          "sha256": "d5f5c88905f444cacae2c5ebb5f81ace9bf05f8b5cbb671242d3ed3a019f2bb7"
+        }
+      ]
+    },
+    {
+      "id": "NI15",
+      "source": "NI2026",
+      "locator": "L4895–4914；L4950–4958",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.芬蘭",
+      "situation": "芬蘭大公國、文化作品及書中轉引的語言運動者信件",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中芬蘭：政治容器、語言復活與策略分歧的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "已有有界政治與地方精英後，文化整理復活語彙和共同記憶；教育準備與效忠保自治，是不同的存續策略。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "政治容器及原有制度存在；語言工作有代際傳播條件。"
+      ],
+      "exceptions": [
+        "文化復活不是從零創造語言；未立即反抗不能證明沒有地方利益。"
+      ],
+      "conflicts": [
+        "轉引信件屬信件作者，不改作劉仲敬的原話；正文只歸納講述對策略的比較。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §10"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 4895,
+          "end_line": 4914,
+          "characters": 2859,
+          "sha256": "6c81ebb036a986875eada3691d5f95f97a0a4d98082a02027239f3bdec508516"
+        },
+        {
+          "start_line": 4950,
+          "end_line": 4958,
+          "characters": 2035,
+          "sha256": "c0d8a2d3996f802497490280e7e5dcf48dc796f4ed6f9c0fe9b48ed261f8e10e"
+        }
+      ]
+    },
+    {
+      "id": "NI16",
+      "source": "NI2026",
+      "locator": "L5450–5467",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.捷克",
+      "situation": "德語布拉格精英反法語優勢時蒐集鄉土材料及其後世",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中捷克：文化作品與政治用途的時間差的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "文化保存、編書博物館、教育讀者及新一代動員跨越不同時間，後代可以把前代反法語的材料轉向反德語。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "出版與教育具有延遲；新一代有改用材料的政治機會。"
+      ],
+      "exceptions": [
+        "詞典或故事集完成不等於民族已建成；原支持者不必預見後續用途。"
+      ],
+      "conflicts": [
+        "與舊 N02 同一機制，本輪以新合輯段落重建，不能計兩份獨立證據。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §10"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 5450,
+          "end_line": 5467,
+          "characters": 4976,
+          "sha256": "596b32a5d19188a8b61950b25f312628647fcaac4dedc5c13080d617f0493fd1"
+        }
+      ]
+    },
+    {
+      "id": "NI17",
+      "source": "NI2026",
+      "locator": "L5940–5955；L5992–6003",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.斯洛伐克",
+      "situation": "匈牙利議會、地方神父農民動員及維也納差別承認",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中斯洛伐克：階級資格與民族代表權的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "有既有合法選舉資格的地主議會未必代表基層，沒有舊資格的地方組織仍可代表實際利益；既成貴族武裝左右帝國承認的報酬。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "階級與語言區隔重疊，帝國需在不同盟友間分配支持。"
+      ],
+      "exceptions": [
+        "反革命陣營不保證平等獎勵；合法性與組織代表性不是同一問題。"
+      ],
+      "conflicts": [
+        "不把階級與民族二擇一；兩條分化在本案相交。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §11",
+        "references/clusters/c07-1-nation-invention-world-history.md §12"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 5940,
+          "end_line": 5955,
+          "characters": 2997,
+          "sha256": "b4391ba70540d9975b9a62dd12c481b6328d04272ccbb299c78349421aab05d4"
+        },
+        {
+          "start_line": 5992,
+          "end_line": 6003,
+          "characters": 2686,
+          "sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b"
+        }
+      ]
+    },
+    {
+      "id": "NI18",
+      "source": "NI2026",
+      "locator": "L6343–6362；L6415–6438",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.匈牙利",
+      "situation": "自由派擴權主張、教權及地方民族動員、武裝左右兩翼",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中匈牙利：普選偏好反轉與武力的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "擴大選舉權可能增加教權派和地方民族力量，使自由派改變原有偏好；紙面選票又不足代替保衛政權的軍事支柱。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "新增選民由已有宗教民族組織動員；中間派失去可靠武力。"
+      ],
+      "exceptions": [
+        "自由派的自我描述不預定其對普選和地方退出的態度。"
+      ],
+      "conflicts": [
+        "不由本例推出普選必敗或軍事集中普遍可取。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §11"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 6343,
+          "end_line": 6362,
+          "characters": 3093,
+          "sha256": "fa4fdd7e1247a4712107135554107981309b66fdbb46c3c1882a8d2f323fa0a5"
+        },
+        {
+          "start_line": 6415,
+          "end_line": 6438,
+          "characters": 2684,
+          "sha256": "6d9e25afb7792b9005b00f2884c0083f97ee5186fbefbeee9e02d70f26b9d6c5"
+        }
+      ]
+    },
+    {
+      "id": "NI19",
+      "source": "NI2026",
+      "locator": "L6785–6805；L6860–6889",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.classification-and-imperial-conversion",
+      "situation": "自由否決權、改革派與沙皇下差等地方權利的比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中波蘭：舊自由、軍事競爭和帝國民族化的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "舊自由的維護與集中議會軍權的改革各有成本；君主臣屬轉成主體民族統治，可能降低周邊原有特權。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "鄰國常備軍與絕對主義改變舊制度的外部條件；帝國外圍本有差等權利。"
+      ],
+      "exceptions": [
+        "改革者與舊自由支持者不是愛國賣國二分；平等名義可以降低一方實際地位。"
+      ],
+      "conflicts": [
+        "與 NI02 共用同一分類段落，屬交叉使用，非獨立證據。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §11",
+        "references/clusters/c07-1-nation-invention-world-history.md §12"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 6785,
+          "end_line": 6805,
+          "characters": 2688,
+          "sha256": "e232f4d2cd7abb26fc67beb5bffddd80385a947f454119d291292bff176ba56c"
+        },
+        {
+          "start_line": 6860,
+          "end_line": 6889,
+          "characters": 5942,
+          "sha256": "90a34415a20d464525452395c19eafa77bfe291e2cf40e6fcc8fb06da5b5501d"
+        }
+      ]
+    },
+    {
+      "id": "NI20",
+      "source": "NI2026",
+      "locator": "L7252–7261",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.加泰隆尼亞",
+      "situation": "加泰隆尼亞獨立與民主化的講座討論",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中加泰隆尼亞：民主的人民邊界的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "投票不能自行確定誰共同接受多數；地方自治改善權利，仍未必消除對人民範圍的爭議。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "各政治集團對共同接受同一多數缺乏一致認定。"
+      ],
+      "exceptions": [
+        "民主化不等於先把既有國界永久封存；權限多少不能包辦全部爭議。"
+      ],
+      "conflicts": [
+        "是當時講述的政治解釋，不更新今日公投或法律狀況。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §13"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 7252,
+          "end_line": 7261,
+          "characters": 2452,
+          "sha256": "595139487eddcfb1c732a003348faebd73038ab0751502f0516753eb48d6268c"
+        }
+      ]
+    },
+    {
+      "id": "NI21",
+      "source": "NI2026",
+      "locator": "L7620–7629；L7674–7689",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.烏拉圭",
+      "situation": "河口地區的殖民經濟、阿根廷巴西英國與後設國史",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中烏拉圭：國家先於民族與緩衝條件的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "外部制衡與本地自治先促成緩衝國家，之後才整理小國英雄國史；敗選者保有權力位置有助降低武力翻盤。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "遠方海權有通商穩定利益、近鄰制衡、本地有組織，且憲制容納失敗方。"
+      ],
+      "exceptions": [
+        "建國後仍可內戰；先有民族才有國家並非唯一路徑。"
+      ],
+      "conflicts": [
+        "不保留來源中年代與機構組成的疑似混雜；本輪未獨立核實制度史細節。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §13"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 7620,
+          "end_line": 7629,
+          "characters": 2481,
+          "sha256": "3d8015e82c6a064d10f0baa3d783b5952781bedc578a689f96a9b176e97eaa7a"
+        },
+        {
+          "start_line": 7674,
+          "end_line": 7689,
+          "characters": 3530,
+          "sha256": "0a551ab3ed1b397ef91d322082bde08b93fd656db4010d3f6af0ea561976d0d8"
+        }
+      ]
+    },
+    {
+      "id": "NI22",
+      "source": "NI2026",
+      "locator": "L8034–8045；L8118–8141",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.庫德",
+      "situation": "2017 年庫德公投語境與現代國家同化的回顧",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中庫德：同化反彈與公共命名的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "中央同化干預原地方生活，激發反向民族發明；支持和反對獨立的報導共同固定庫德作為政治主體的名稱。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "語言司法教育等原有權利被改變，且事件獲持續公共報導。"
+      ],
+      "exceptions": [
+        "認同鞏固不等於外交法律建國成功；族群、控制與承認可走不同進程。"
+      ],
+      "conflicts": [
+        "公投及局勢只屬當時語境，不能直接套為當前庫德地位。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §1",
+        "references/clusters/c07-1-nation-invention-world-history.md §4",
+        "references/clusters/c07-1-nation-invention-world-history.md §14"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 8034,
+          "end_line": 8045,
+          "characters": 2445,
+          "sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11"
+        },
+        {
+          "start_line": 8118,
+          "end_line": 8141,
+          "characters": 3941,
+          "sha256": "71c0e697463e17cc8fd38971d9e36feec7bc74b7bcb43d8f86b12c11d589385f"
+        }
+      ]
+    },
+    {
+      "id": "NI23",
+      "source": "NI2026",
+      "locator": "L8530–8552",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.黎巴嫩",
+      "situation": "東方教會與山地武裝基督徒的組織比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中黎巴嫩：政治與社會自治的區別的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "失去軍政自主者仍可保存教團司法教育和社區秩序，山地武裝群體又提供不同於平原被保護者的政治關係。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "教團能維持內部規範和組織；是否承擔軍政保衛構成另一層差別。"
+      ],
+      "exceptions": [
+        "貧窮、宗教或農業居住不直接決定組織分類；同一宗教可有不同軍政地位。"
+      ],
+      "conflicts": [
+        "保留來源「費拉」的有界政治軍事用法，不當作對整個宗教人群的無條件評判。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §15"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 8530,
+          "end_line": 8552,
+          "characters": 3675,
+          "sha256": "e22a573aea83fd6280224b7cec3156e751669d088d99ce9cc08780038b010755"
+        }
+      ]
+    },
+    {
+      "id": "NI24",
+      "source": "NI2026",
+      "locator": "L8900–8923",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.敘利亞",
+      "situation": "阿拉伯基督徒文化精英、穆斯林與戰時酋長武力",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中敘利亞：泛阿拉伯與泛伊斯蘭的排除結構的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "語言高於宗教與宗教高於語言會讓不同精英取得核心地位；有外援軍隊的酋長不必交權給文化理論家。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "文化圈理想須依賴有自己王朝領地利益的現實武力。"
+      ],
+      "exceptions": [
+        "共同反帝國不足保證建國後主體相容；若干地方政權不等於泛民族統一。"
+      ],
+      "conflicts": [
+        "不把教徒身份本身當成固定政治態度，而保留各方案的利益與排除機制。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §2",
+        "references/clusters/c07-1-nation-invention-world-history.md §16"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 8900,
+          "end_line": 8923,
+          "characters": 3610,
+          "sha256": "e4de79e62a9c53b5e7cc5fae5c50b6c8c3ff3499933b3b999d40e6e6dbf01103"
+        }
+      ]
+    },
+    {
+      "id": "NI25",
+      "source": "NI2026",
+      "locator": "L9290–9309",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.伊拉克",
+      "situation": "伊拉克敘利亞議會政黨與泛阿拉伯革命運動的比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中伊拉克：本地選民與境外統一的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "本地納稅選民偏好保境安民，使臨時邊界長出認同；革命統一尋求議會外武力和財政集中，又侵蝕地方組織。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "既有地方制度持續運作，統一事業需額外財政軍事成本。"
+      ],
+      "exceptions": [
+        "大民族理想不等同普通選民利益；文化同文不保證願意共同付費。"
+      ],
+      "conflicts": [
+        "不將中東當時政黨地位沿用為現在事實。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §16"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 9290,
+          "end_line": 9309,
+          "characters": 3071,
+          "sha256": "77883de4ffc014be92648bc9d5a2ec425f3a6aad1652d560bb1d6df90572694e"
+        }
+      ]
+    },
+    {
+      "id": "NI26",
+      "source": "NI2026",
+      "locator": "L9600–9645",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.科威特",
+      "situation": "酋長家族、收養、部落法統、科威特與南伊拉克的比較",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中科威特：政治部落與公共機構的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "部落可由政治加入和法統承接形成；保護使地方組織延續，但企業公益能力仍不同於法庭武力協商結合的政治自治。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "有持續保護與組織成長空間，且公共機構能互相接合。"
+      ],
+      "exceptions": [
+        "生物血緣不是唯一途徑；經商成功或外援本身不足成立自治國家。"
+      ],
+      "conflicts": [
+        "不保留未核實祖先血緣的特定判定；用政治繼承與譜系敘事差別表達來源機制。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §2",
+        "references/clusters/c07-1-nation-invention-world-history.md §17"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 9600,
+          "end_line": 9645,
+          "characters": 6335,
+          "sha256": "15bde16205a7cfd995885518861c5fbfcd54c91d831a2d41320fc3ff6e963a79"
+        }
+      ]
+    },
+    {
+      "id": "NI27",
+      "source": "NI2026",
+      "locator": "L9890–9902；L9951–9966",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.阿聯酋",
+      "situation": "海灣小邦、英國航線據點與退出保護後的聯邦",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中阿聯酋：保護安排與聯邦協商的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "分別訂立的保護安排留下多元習慣法，退出保護後由既有酋長權利協商組合；不加入與先後加入顯示聯邦並非中央先取消地方。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "海權所需據點可與地方保留權利交換；各邦須達成可接受的憲制協議。"
+      ],
+      "exceptions": [
+        "外部保護不保證所有地方長出相同政治能力；聯邦名義不替代真實協商。"
+      ],
+      "conflicts": [
+        "只保留來源敘述的制度邏輯，不補造條約法律效力結論。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §1",
+        "references/clusters/c07-1-nation-invention-world-history.md §17"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 9890,
+          "end_line": 9902,
+          "characters": 3466,
+          "sha256": "151c64c4431c5a01c44e0d5dc27a63b973e4512efd38f7680370d1accfdd93ac"
+        },
+        {
+          "start_line": 9951,
+          "end_line": 9966,
+          "characters": 3797,
+          "sha256": "7087a13813928ba84d6c2ef24faf92f0c21bb3b489bbe9ff3597228bc3c48efd"
+        }
+      ]
+    },
+    {
+      "id": "NI28",
+      "source": "NI2026",
+      "locator": "L10172–10197；L10234–10251",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.巴林",
+      "situation": "諮詢委員會、混合法庭與不同教法習慣法社區",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中巴林：多元傳統需要共同協調的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "地方傳統各自保存仍可能缺乏危機協調；跨社區議事和法庭把武力爭執轉入可重複程序，促成整體利益意識。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "協調機構可持續辦事並獲相關地方力量參與。"
+      ],
+      "exceptions": [
+        "保留傳統不等於政治結構已完整；共同機構與地方自由可有相互需要。"
+      ],
+      "conflicts": [
+        "不將傳統自治浪漫化為不需組織任何公共權力。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §17"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 10172,
+          "end_line": 10197,
+          "characters": 3889,
+          "sha256": "fd8858f46a5be47a97d4b7333a7b48083370a145e1f6f694f5d9c60a6690cd71"
+        },
+        {
+          "start_line": 10234,
+          "end_line": 10251,
+          "characters": 3762,
+          "sha256": "638cec2ff3acb3a99ed3ddf6e5c6bec8158f611979c82d6db9be4fcb0c1a3ff3"
+        }
+      ]
+    },
+    {
+      "id": "NI29",
+      "source": "NI2026",
+      "locator": "L10543–10560",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.桑吉巴",
+      "situation": "印度洋港口、奴隸貿易後的人口結構與同大陸的聯合",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中桑吉巴：海洋譜系、人口與不對稱聯合的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "海洋教法商業網絡形成政治組織；擴張貿易改變人口，與大陸的懸殊聯合又使名義財政自治承受資源轉移壓力。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "人口結構已改變，中央財政危機與地方保護不足共同作用。"
+      ],
+      "exceptions": [
+        "港口繁榮與聯邦名號不保證自治延續；香港並置只是比較，不等於歷史完全相同。"
+      ],
+      "conflicts": [
+        "不沿用來源內未核實的飢荒年份和死傷數；不把經濟因果轉成對奴隸制度的價值贊成。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §18"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 10543,
+          "end_line": 10560,
+          "characters": 3804,
+          "sha256": "dcf180a2b0a3b8717a16a35e36d0797c337d04fff243ff05cb46cf67f5d51b6d"
+        }
+      ]
+    },
+    {
+      "id": "NI30",
+      "source": "NI2026",
+      "locator": "L10859–10870；L10893–10908",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.愛爾蘭",
+      "situation": "宗教改革反宗教改革、島內基層與歐陸精英、擴大選舉資格",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中愛爾蘭：教團基層、在外精英與民主的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "教團維持教育家庭與骨幹，新教和天主教上層在地化不同；資格擴大後，上層代言不再自然涵蓋全部，多數安全與人民邊界一起成問題。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "兩套基層組織持續存在，精英與政治組織分布不同，新增選民改變代表關係。"
+      ],
+      "exceptions": [
+        "宗教分歧不只是神學；共同國籍不足保證接受敗選。"
+      ],
+      "conflicts": [
+        "避開來源前後可疑的合併年代敘述，僅保留所選段支持的組織機制。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §15"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 10859,
+          "end_line": 10870,
+          "characters": 2853,
+          "sha256": "a9d345af62d8c81ee76130f8f637056e9f1e47c0cfc8b321a05a71f1253df142"
+        },
+        {
+          "start_line": 10893,
+          "end_line": 10908,
+          "characters": 3984,
+          "sha256": "a987e1226c0edf271d7ba64d2b17589d70f36c0ce225a335c496aa47eccb5b57"
+        }
+      ]
+    },
+    {
+      "id": "NI31",
+      "source": "NI2026",
+      "locator": "L3190–3202",
+      "attribution": "劉仲敬講座正文的編輯歸納；不是逐字引文。編者年表、圖說、註釋、主持人話語及他人轉引不另算其本人陳述。",
+      "group_id": "NI2026.中印邊境",
+      "situation": "2017 年中印邊境講座回顧封建、宗藩、宗教與通商關係",
+      "audience": "明鏡新聞網「劉仲敬思想」公開講座受眾及合編本讀者；已核節目表為 2017–2018 年，中東各篇未逐一核定節目日。",
+      "available_information": "本輪已讀合輯中中印邊境：多層權利轉成排他主權的上述具體段落；只核對供稿如何表達，未做獨立史實核驗。",
+      "constraints": "口述整理包含修辭、類比與代理人物盤算；政治現在時須限於原講座。主文與編者材料的歸屬分開。",
+      "observation": "前近代保護地租朝貢通商等分層權利，可分屬不同中心；改為唯一主權與直接統治，本身更動利益分配並產生衝突。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "原有多方承認、程度不同的具體權利，現代國家要求單一排他控制。"
+      ],
+      "exceptions": [
+        "保護義務不自動等於完整領土主權；多元不等於毫無規則。"
+      ],
+      "conflicts": [
+        "是來源的歷史解釋，不作今日邊界法律認定。"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-1-nation-invention-world-history.md §19"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "保留所選來源段落的因果與條件，刪除重複口語、未核定的可疑細節和操作式仿寫提示；不把來源觀點標成獨立史學定論。"
+      },
+      "selected_ranges": [
+        {
+          "start_line": 3190,
+          "end_line": 3202,
+          "characters": 2881,
+          "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce"
+        }
+      ]
+    }
+  ],
+  "legacy_carryover": [
+    {
+      "id": "N04",
+      "source": "Historical original C07 / Italian nation-language interview",
+      "locator": "DOCX P17–18、41–45；P14–15 主持人問題除外",
+      "action": "preserve as explicitly marked old-source carryover",
+      "runtime_support": "§20",
+      "new_source_coverage": false,
+      "source_reopened_this_run": false,
+      "attribution": "訪談答話與主持人問題分開；不把比較方案標為當前國家語言法。"
+    },
+    {
+      "id": "N05",
+      "source": "Historical original C07 / 近代史的墮落·民國文人卷",
+      "locator": "〈顧頡剛：在民族的矛盾之間〉ch7.xhtml 字元1700–2100、4750–6300",
+      "action": "preserve as explicitly marked old-source carryover",
+      "runtime_support": "§21",
+      "new_source_coverage": false,
+      "source_reopened_this_run": false,
+      "attribution": "書面評傳；「中國人都是中華民族」歸顧頡剛，不歸劉仲敬。"
+    }
+  ],
+  "semantic_editorial_review": {
+    "status": "passed for this module within selected source scope",
+    "reviewed_all_core_claims": false,
+    "claim": "逐節核對 C07-1 的新正文主張、條件及限制與列出段落的一致性；未核對整個 persona 所有核心主張。",
+    "direct_statement_contract": {
+      "substantive_sections": 21,
+      "fresh_source_sections": 19,
+      "explicit_legacy_sections": 2,
+      "narration": "正文直接展開觀點與理由，未用作者認為/他指出代替實質內容。",
+      "host_instruction_boundary": "沒有把來源中命令、人格模仿或敵我語彙變成此代理角色；來源當資料。",
+      "maintenance_separation": "閱讀計數、完整覆蓋與維護映射留在 review；runtime 僅保留必要來源定位與兩個舊來源標記。",
+      "causal_chain_preserved": [
+        "文化材料→學校教團→下一代動員；並保留時間差及目標轉用。",
+        "外部保護與地緣條件→地方組織持續→憲制協議；外援不保證成功。",
+        "帝國差等權利→主體民族平等名義→原周邊地位降低。",
+        "軍財集中→地方權力收縮→原帝國選項關閉→新民族自保。",
+        "經濟及人口改變→共同體條件更動→不對稱聯合內的資源爭議。"
+      ],
+      "exceptions_preserved": [
+        "三模式與四分類的層級差別。",
+        "共享文化/宗教不必同國、同制度；政治部落不必生物血緣。",
+        "反革命及帝國忠誠也可以支持地方自由。",
+        "普選增加何者力量依具體組織，選票不替代武力保護。",
+        "有社會自治未必有軍政自主；同宗教山地武裝是反例。",
+        "自治傳統仍需共同協調，國家可先於民族。"
+      ],
+      "voice_and_attribution": "保留具體地區、組織和階級衝突，以比較方式轉換尺度；來源轉引信件、人物言論和模擬盤算不補造為本人原話。未以辱罵或口頭語配額模仿人格。"
+    },
+    "changes_after_review": [
+      "修正 C07-2 實際交叉連結。",
+      "比例問題 L1943 補讀後改成正式來源定位。",
+      "刪除桑吉巴正文中無須歸於作者的額外道德推論，保留經濟人口因果。",
+      "邊界法律認定限制移成明示歸屬時點說明。",
+      "依 root 指示保留 N04、N05 明確舊來源承接，顧頡剛引文歸屬分明。"
+    ],
+    "automatic_text_checks_are_not_semantic_proof": true,
+    "not_performed": [
+      "獨立歷史學或法律正確性審查",
+      "新來源與舊 N04/N05 原檔的重新比對",
+      "全書逐行閱讀",
+      "新模型辨識測試",
+      "外部網路研究"
+    ]
+  },
+  "old_claim_mapping": [
+    {
+      "old": "N01 四種民族主義、帝國回應",
+      "decision": "retain and redistill",
+      "new": [
+        "NI02",
+        "NI19"
+      ],
+      "reason": "新書提供希臘三模式與波蘭小民族內部分類，明示層級及規範判準。"
+    },
+    {
+      "old": "N02 捷克文化保存與教育時差",
+      "decision": "retain and redistill",
+      "new": [
+        "NI16"
+      ],
+      "reason": "保留完整代際鏈與前後目標變化，以新合輯的已讀段落定位。"
+    },
+    {
+      "old": "N03 匈牙利自由派與地方民族衝突",
+      "decision": "retain and expand",
+      "new": [
+        "NI17",
+        "NI18",
+        "NI19"
+      ],
+      "reason": "補充選舉偏好、階級資格、帝國承認及軍事條件。"
+    },
+    {
+      "old": "N04 意大利民族國語及台灣語言方案",
+      "decision": "retain as old-source carryover",
+      "new": [
+        "N04"
+      ],
+      "reason": "世界史新合輯不替代舊訪談；保留語言非必要前提的例外，不計新覆蓋。"
+    },
+    {
+      "old": "N05 顧頡剛的研究與戰時國族主張",
+      "decision": "retain as old-source carryover",
+      "new": [
+        "N05"
+      ],
+      "reason": "保持書面評傳的民族發明語境，人物原話歸屬不混淆；不計新覆蓋。"
+    },
+    {
+      "old": "EA01–EA13 東亞地方史、上海、滿洲、吳越",
+      "decision": "move",
+      "target": "C07-2 / c07-2-reversed-east-asian-history.md",
+      "reason": "由平行子任務以逆轉的東亞史重新蒸餾；此子任務不驗證新模組完整承接。"
+    },
+    {
+      "old": "MES01–MES09 兩河文明、城邦、教團部落",
+      "decision": "move",
+      "target": "C02-1 / c02-1-mesopotamia.md",
+      "reason": "由平行子任務重新蒸餾；此子任務不宣稱已驗證新模組。"
+    },
+    {
+      "old": "舊第十一節 如何講出這些關係、提示句與使用指令",
+      "decision": "remove from substantive C07-1; retain historical artifact for audit",
+      "reason": "角色表達規則與來源主文分開；本模組採直接陳述，不複製操作式仿寫指令。"
+    }
+  ],
+  "limitations": [
+    "三十篇均有實質選讀，但每篇為部分段落，不能宣稱全書窮盡覆蓋。",
+    "三本屬同一作者相近時期講座；章間重述不提高獨立證據數。",
+    "完整來源本體未重排、未修訂；若原檔改變，行號應以哈希與篇名重定位。",
+    "口述中的可疑年代、人口、血緣和死亡數未外部核驗，本稿避免其不必要的精確斷言。",
+    "N04/N05 僅承接既有庫的有效觀點與定位，未重開原檔。",
+    "根模組、cross-reference、全包驗證與 bounded recognition 由主代理整合，本子任務未執行。"
+  ],
+  "source_artifacts_policy": "完整來源與節選不複製進 repository；本 review 只含來源身分、行號、哈希、蒸餾觀察和檢查範圍。"
+}

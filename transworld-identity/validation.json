@@ -1,57 +1,74 @@
 {
   "schema_version": 1,
-  "scope": "explicit root-layout validation and repair of three relative runtime links; previous direct-prose source scope retained",
+  "scope": "2026-11-16 four-source bounded redistillation, C02/C07 split and current routing; historical evidence retains original scope",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
     "outcome": "pass_for_declared_editorial_scope",
-    "new_source_groups": 0,
-    "raw_sources_reopened": false,
+    "new_source_groups": 103,
+    "legacy_C05_groups": 6,
+    "preserved_historical_records": 22,
+    "raw_sources_reopened": true,
     "reviewed_all_core_claims": false,
-    "review": "direct-prose-2026-10-31/review.json",
-    "independent_reviewer": false,
-    "previous_source_check": "direct-prose-2026-10-31/validation-before.json#/source"
+    "whole_persona_source_gate": "incomplete_outside_requested_increment",
+    "independent_expert_review": false,
+    "review": "redistillation-2026-11-16/source-review.json",
+    "source_integrity": "redistillation-2026-11-16/source-integrity.json",
+    "reading_units": 233,
+    "reading_unit_limit": 256,
+    "full_books_read": false
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "validation-repair-2026-10-31/checks.json"
+    "record": "redistillation-2026-11-16/checks.json",
+    "C02_2_body_unchanged": true,
+    "unrelated_AGENTS_preserved": true
   },
   "recognition": {
     "outcome": "not_run",
     "calls_used": 0,
-    "reason": "Only three relative runtime links changed. No new source review or recognition run; previous evidence retains its original scope."
+    "call_ceiling_for_new_standard_run": 8,
+    "reason": "No configured authorized model endpoint; no PERSONA_API_KEY available. Prepared cases/profile are not an executed assessment. Changed runtime does not inherit previous recognition results.",
+    "readiness": "redistillation-2026-11-16/recognition-preparation/readiness.json",
+    "provider_usage": null
   },
   "runtime_hashes": {
-    "SKILL.md": "sha256:8bea077ffe981e43864107556992dade4266fab8a19022975e829d9dae887815",
+    "SKILL.md": "sha256:9c97014df2964941d25674ab29d923a3c211d3302e82850eb24d3f76b6bc80d0",
     "references/clusters/c01-ayi-life-advice.md": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
-    "references/clusters/c02-premodern-order.md": "sha256:bd84f5d7ad886bbed547ba82fb980cab6543d6130e1d8e077dfd185f5cd41071",
-    "references/clusters/c03-wadi-psychology.md": "sha256:3ab2668e03c580ad60eb6f51798bd5805dcb274562c43d1cf61a9c5514fab5a2",
+    "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4",
+    "references/clusters/c02-2-premodern-order.md": "sha256:b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
+    "references/clusters/c03-wadi-psychology.md": "sha256:127d70b349c6e249fb84c3427a3c5d3bc7ea1e436abe50a9b68099839537cf00",
     "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
-    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:c4c8ca721066f801be77bf0968ed5cf1bd0f5bfa681429adc9e79487b8f624f2",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948",
     "references/clusters/c06-figures.md": "sha256:adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
-    "references/clusters/c07-nation-invention.md": "sha256:84d36bfc606d41900f2c87450cbdcd0218e1f445706866bab37875c68a3f2670",
-    "references/clusters/c08-minguo-wenyan.md": "sha256:42ed1ebba7939df83e76f569dc20772f71389173909f12a69b62941b5f0a409a",
-    "references/frameworks.md": "sha256:eaf43262db373724837e6a4b17ccab63c82ec504b26e0d3f9319f1379c6bb6fe",
+    "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c",
+    "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735",
+    "references/clusters/c08-minguo-wenyan.md": "sha256:0778df6093bff92ccdd6fbb84426d66e84b6ecc6f3177d9b37c5afbf88226d45",
+    "references/frameworks.md": "sha256:931117008d59e4ae0e3f7766183789dd2332190d7e30972a1e1e0f5bb616183b",
     "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
   },
   "package": {
-    "outcome": "pass_explicit_root_layout",
-    "layout": "root",
-    "validator_exit_code": 0,
+    "outcome": "pass",
+    "layouts": [
+      "root",
+      "discovery"
+    ],
+    "validator_exit_codes": [
+      0,
+      0
+    ],
     "errors": 0,
-    "warnings": 1,
-    "failed_checks": [],
+    "warnings_per_layout": 1,
     "warning_checks": [
       "S4: optional episodic.md absent"
     ],
     "skipped_checks": [
       "C3: no language-specific heading anchors supplied"
     ],
-    "validator": "validation-repair-2026-10-31/validator.json",
-    "before": "validation-repair-2026-10-31/package-before.json",
-    "after": "validation-repair-2026-10-31/package-after.json",
-    "default_discovery_layout_passed": false,
+    "root_record": "redistillation-2026-11-16/package-root.json",
+    "discovery_record": "redistillation-2026-11-16/package-discovery.json",
+    "default_discovery_layout_passed": true,
     "research_release_check_run": false
   },
-  "previous_validation": "validation-repair-2026-10-31/validation-before.json"
+  "previous_validation": "history/redistillation-2026-11-16/transworld-identity/validation.json"
 }

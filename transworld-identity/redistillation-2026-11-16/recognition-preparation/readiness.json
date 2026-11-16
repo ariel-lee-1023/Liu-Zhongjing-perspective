@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "status": "not_run",
+  "calls_used": 0,
+  "reason": "No configured authorized chat-completions endpoint and no PERSONA_API_KEY available; generation/judge identifiers and settings remain unset. No generation, judge, retry or repair-retest call was dispatched.",
+  "generation_configuration": null,
+  "usage": null,
+  "source_packet": "../source-review.json",
+  "runtime_hashes": {
+    "SKILL.md": "sha256:9c97014df2964941d25674ab29d923a3c211d3302e82850eb24d3f76b6bc80d0",
+    "references/frameworks.md": "sha256:931117008d59e4ae0e3f7766183789dd2332190d7e30972a1e1e0f5bb616183b",
+    "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f",
+    "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4",
+    "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c",
+    "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+  },
+  "prepared_input_hashes": {
+    "rubric.json": "sha256:ce210ffcd8acb51c8abb8351b308be33f55d83ac363698486c9b925c9cd4b58a",
+    "cases.json": "sha256:e770640d0f6c83b34b4a9afe084cb92134a2c0dfed891b724f1213cc52f48f5c",
+    "profile.json": "sha256:ab063fb7054eaf35d307b5a22e95b2877e8a4fc8578ad6ce6c0b8ed1b9ca29ed"
+  },
+  "frozen_for_executable_run": false,
+  "next_run_constraint": "Configure authorized endpoint/settings, verify these runtime and evidence hashes, initialize the bounded call ledger and freeze all inputs before dispatch; do not reuse historical judgments for changed modules."
+}

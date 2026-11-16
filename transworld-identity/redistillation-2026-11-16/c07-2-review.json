@@ -1,0 +1,2378 @@
+{
+  "schema_version": 1,
+  "module": "references/clusters/c07-2-reversed-east-asian-history.md",
+  "source_id": "EA2026",
+  "summary": "重新盤點並有界選讀指定東亞史合輯，生成20節直接陳述模組和29組情境化主題證據；不是全文、史學專家審定或機器人格辨識。",
+  "reviewer": "Codex source-distillation subagent c07_east；同一編輯者的來源／敘述審閱，非獨立歷史審核。",
+  "reviewed_all_core_claims": false,
+  "scope": "本輪新C07-2正文與來源表；未重新檢驗整個人格核心。",
+  "source": {
+    "name": "逆轉的東亞史.md",
+    "sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+    "bytes": 2292635,
+    "characters": 797392,
+    "line_count": 8669,
+    "identity": "使用者提供的五組《逆轉的東亞史》Markdown合輯，明鏡「劉仲敬思想」講座整理本。",
+    "period": "2018–2020年講座；本次讀到的滿洲版權頁為八旗文化2021年6月二版一刷，2019年曾以另一書名出版；不把該出版資訊擴張到全部分部。",
+    "attribution": "講述正文：劉仲敬；編輯說明、注釋、圖說另屬編輯層；轉引文獻不作本次直接檔案閱讀；後記自述不轉成生成者的個人記憶。"
+  },
+  "source_boundary": {
+    "max_reading_units": 70,
+    "max_characters_per_unit": 5000,
+    "unit_definition": "一個連續Markdown行範圍，最多5000字元（較5000中文字上限更嚴）；搜尋及標題盤點僅作定位，不作未實讀正文的支持。",
+    "ocr_pages": 0,
+    "external_research": false,
+    "raw_source_copied_to_deliverable": false
+  },
+  "coverage": {
+    "reading_units_dispatched": 67,
+    "full_response_reading_units": 65,
+    "truncated_then_reread_units": 2,
+    "characters_dispatched": 122660,
+    "unique_characters_in_confirmed_windows": 117754,
+    "unique_lines_in_confirmed_windows": 1386,
+    "source_character_fraction": 0.147674,
+    "chapter_count": 42,
+    "all_chapter_openings_read": true,
+    "afterword_read": true,
+    "full_book_read": false,
+    "chapter_inventory": [
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 1,
+        "heading": "一、东南亚原住民与内亚殖民者",
+        "start_line": 47,
+        "read_window_ids": [
+          "EA-R06",
+          "EA-R67"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 2,
+        "heading": "二、爱国主义与帝国主义的斗争",
+        "start_line": 266,
+        "read_window_ids": [
+          "EA-R07"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 3,
+        "heading": "三、拜占庭主义统治时期的吴越土豪与国际 关系",
+        "start_line": 489,
+        "read_window_ids": [
+          "EA-R03"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 4,
+        "heading": "四、从中世到近世",
+        "start_line": 629,
+        "read_window_ids": [
+          "EA-R04"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 5,
+        "heading": "五、寺院的衰退和士大夫的兴起",
+        "start_line": 802,
+        "read_window_ids": [
+          "EA-R05"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 6,
+        "heading": "六、内亚衰微时代的士大夫与海盗贸易者",
+        "start_line": 950,
+        "read_window_ids": [
+          "EA-R08"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 7,
+        "heading": "七、哥伦布时代的条约体系与诸夏联盟",
+        "start_line": 1157,
+        "read_window_ids": [
+          "EA-R09"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 8,
+        "heading": "八、诸夏联盟的灭亡与反恐战争的开始",
+        "start_line": 1348,
+        "read_window_ids": [
+          "EA-R10"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 9,
+        "heading": "九、内亚、东亚和东南亚的交叉路口",
+        "start_line": 1494,
+        "read_window_ids": [
+          "EA-R11"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 10,
+        "heading": "十、邦国与帝国",
+        "start_line": 1725,
+        "read_window_ids": [
+          "EA-R12"
+        ]
+      },
+      {
+        "part": "吳越／江淮",
+        "chapter_number_in_part": 11,
+        "heading": "十一、内亚衰微时代",
+        "start_line": 1892,
+        "read_window_ids": [
+          "EA-R13"
+        ]
+      },
+      {
+        "part": "巴蜀／夜郎／滇",
+        "chapter_number_in_part": 1,
+        "heading": "一、古老文明与近代民族",
+        "start_line": 2133,
+        "read_window_ids": [
+          "EA-R14"
+        ]
+      },
+      {
+        "part": "巴蜀／夜郎／滇",
+        "chapter_number_in_part": 2,
+        "heading": "二、种族、邦国和民族国家的源流",
+        "start_line": 2494,
+        "read_window_ids": [
+          "EA-R15"
+        ]
+      },
+      {
+        "part": "巴蜀／夜郎／滇",
+        "chapter_number_in_part": 3,
+        "heading": "三、百濮联合酋长国的前世今生",
+        "start_line": 2728,
+        "read_window_ids": [
+          "EA-R16"
+        ]
+      },
+      {
+        "part": "巴蜀／夜郎／滇",
+        "chapter_number_in_part": 4,
+        "heading": "四、东南亚的中流砥柱",
+        "start_line": 2993,
+        "read_window_ids": [
+          "EA-R17"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 1,
+        "heading": "一、内亚面对 东亚的最前线和输液管",
+        "start_line": 3299,
+        "read_window_ids": [
+          "EA-R18"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 2,
+        "heading": "二、从封建主义到民族主义",
+        "start_line": 3539,
+        "read_window_ids": [
+          "EA-R19"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 3,
+        "heading": "三、帝国没落与民族复兴",
+        "start_line": 3733,
+        "read_window_ids": [
+          "EA-R20"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 4,
+        "heading": "四、内亚衰微时代的反恐建国斗争",
+        "start_line": 3970,
+        "read_window_ids": [
+          "EA-R21"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 5,
+        "heading": "五、东北亚的边疆",
+        "start_line": 4279,
+        "read_window_ids": [
+          "EA-R22"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 6,
+        "heading": "六、帝国诅咒和民族构建",
+        "start_line": 4472,
+        "read_window_ids": [
+          "EA-R23"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 7,
+        "heading": "七、新旧殖民主义与民族复兴",
+        "start_line": 4665,
+        "read_window_ids": [
+          "EA-R24"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 8,
+        "heading": "八、东北亚和东亚的缓冲国",
+        "start_line": 4873,
+        "read_window_ids": [
+          "EA-R25"
+        ]
+      },
+      {
+        "part": "晉／燕／齊",
+        "chapter_number_in_part": 9,
+        "heading": "九、王国、藩镇与行省",
+        "start_line": 5086,
+        "read_window_ids": [
+          "EA-R26"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 1,
+        "heading": "一、原住民的迁入和拓殖",
+        "start_line": 5318,
+        "read_window_ids": [
+          "EA-R27"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 2,
+        "heading": "二、上海自由市初期的外交和宪制",
+        "start_line": 5449,
+        "read_window_ids": [
+          "EA-R28"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 3,
+        "heading": "三、上海自由市黄金时代的宗主权、司法统 治和附则立法权",
+        "start_line": 5638,
+        "read_window_ids": [
+          "EA-R29"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 4,
+        "heading": "四、上海自由市的法治、领土和主权者",
+        "start_line": 5763,
+        "read_window_ids": [
+          "EA-R30"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 5,
+        "heading": "五、上海自由市的南非化和南越化（上）",
+        "start_line": 5879,
+        "read_window_ids": [
+          "EA-R31"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 6,
+        "heading": "六、上海自由市的南非化和南越化（中）",
+        "start_line": 6068,
+        "read_window_ids": [
+          "EA-R32"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 7,
+        "heading": "七、上海自由市的南非化和南越化（下）",
+        "start_line": 6245,
+        "read_window_ids": [
+          "EA-R33"
+        ]
+      },
+      {
+        "part": "上海",
+        "chapter_number_in_part": 8,
+        "heading": "八、上海行政国家的夭折和恐怖主义的兴起",
+        "start_line": 6416,
+        "read_window_ids": [
+          "EA-R34"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 1,
+        "heading": "一、东北亚的核心",
+        "start_line": 6726,
+        "read_window_ids": [
+          "EA-R35"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 2,
+        "heading": "二、内亚的新大陆",
+        "start_line": 6907,
+        "read_window_ids": [
+          "EA-R36"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 3,
+        "heading": "三、东北亚、东亚和内亚的三角斗争",
+        "start_line": 7138,
+        "read_window_ids": [
+          "EA-R37"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 4,
+        "heading": "四、内亚的衰微和东北亚的崛起",
+        "start_line": 7344,
+        "read_window_ids": [
+          "EA-R38"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 5,
+        "heading": "五、殖民主义与逆向殖民主义",
+        "start_line": 7532,
+        "read_window_ids": [
+          "EA-R39"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 6,
+        "heading": "六、清帝国时期的宪制、技术与意识形态",
+        "start_line": 7699,
+        "read_window_ids": [
+          "EA-R40"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 7,
+        "heading": "七、帝国体系与条约体系下的自组织",
+        "start_line": 7873,
+        "read_window_ids": [
+          "EA-R41"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 8,
+        "heading": "八、行政国家的产生与发展",
+        "start_line": 8034,
+        "read_window_ids": [
+          "EA-R42"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 9,
+        "heading": "九、正统主义对决协和主义",
+        "start_line": 8222,
+        "read_window_ids": [
+          "EA-R43"
+        ]
+      },
+      {
+        "part": "滿洲",
+        "chapter_number_in_part": 10,
+        "heading": "十、满洲堡垒的陷落及反恐战争的余波",
+        "start_line": 8415,
+        "read_window_ids": [
+          "EA-R44"
+        ]
+      }
+    ],
+    "reading_windows": [
+      {
+        "start_line": 47,
+        "end_line": 76,
+        "characters": 2039,
+        "sha256": "fa0230c0639a9fc3afabc25d6e91227ae63f053fed971f4c4dde055c06b1a85f",
+        "reading_unit_id": "EA-R01",
+        "text_received_in_full": false,
+        "note": "首次合併工具輸出被截斷；同範圍稍後重讀，不計新獨立證據。"
+      },
+      {
+        "start_line": 266,
+        "end_line": 287,
+        "characters": 1822,
+        "sha256": "f06fc92ccc0d628aa208affc3d017a9c3d2a8b53702673b64caf42c87876f4e7",
+        "reading_unit_id": "EA-R02",
+        "text_received_in_full": false,
+        "note": "首次合併工具輸出被截斷；同範圍稍後重讀，不計新獨立證據。"
+      },
+      {
+        "start_line": 489,
+        "end_line": 516,
+        "characters": 2006,
+        "sha256": "392f54840c1dac126bdba4686007d172b62248bf15e7007abd0d4f3f3db42f2e",
+        "reading_unit_id": "EA-R03",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 629,
+        "end_line": 650,
+        "characters": 1802,
+        "sha256": "e737abdfab75b73458bb6c7d7d45be0c4de5f180dbb2a798fd573667fd05ae0a",
+        "reading_unit_id": "EA-R04",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 802,
+        "end_line": 823,
+        "characters": 2088,
+        "sha256": "e8d0465b46da4f1f9214480f99ed48a6337feea23a347eb0d702d5bfea40cb2e",
+        "reading_unit_id": "EA-R05",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 47,
+        "end_line": 76,
+        "characters": 2039,
+        "sha256": "fa0230c0639a9fc3afabc25d6e91227ae63f053fed971f4c4dde055c06b1a85f",
+        "reading_unit_id": "EA-R06",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 266,
+        "end_line": 287,
+        "characters": 1822,
+        "sha256": "f06fc92ccc0d628aa208affc3d017a9c3d2a8b53702673b64caf42c87876f4e7",
+        "reading_unit_id": "EA-R07",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 950,
+        "end_line": 973,
+        "characters": 1914,
+        "sha256": "53fcc15413536366dc6ed519a9337ede18658a7de537e71fa62a9e84ce9b03f9",
+        "reading_unit_id": "EA-R08",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1157,
+        "end_line": 1174,
+        "characters": 1663,
+        "sha256": "991abf1224ded8b4c6d59425dc75942cef1ef2cf6766fb0d3162c01320d143d8",
+        "reading_unit_id": "EA-R09",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1348,
+        "end_line": 1367,
+        "characters": 1706,
+        "sha256": "ecb211f55d8322872bfbc2b97f5204680d675692b5e5d122b27ba2ab003dcf74",
+        "reading_unit_id": "EA-R10",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1494,
+        "end_line": 1517,
+        "characters": 1898,
+        "sha256": "fc2c3093fab8dd8194ff9c16733ff5effa797158ca0929c7f761d8503893e72a",
+        "reading_unit_id": "EA-R11",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1725,
+        "end_line": 1744,
+        "characters": 1704,
+        "sha256": "b27568b36b76cfe4c893383a243a3f686087c3b76504d35e4be7625109f08127",
+        "reading_unit_id": "EA-R12",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1892,
+        "end_line": 1915,
+        "characters": 1894,
+        "sha256": "91fec00d6abae647b36fa0fd975fb611510460b7f5ded507415a816a18038416",
+        "reading_unit_id": "EA-R13",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2133,
+        "end_line": 2154,
+        "characters": 2117,
+        "sha256": "4fcfb2c510671ec46a22912060d929b80c602a10f5c158c1f822e21f12f9e53f",
+        "reading_unit_id": "EA-R14",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2494,
+        "end_line": 2515,
+        "characters": 2076,
+        "sha256": "c19390adc46a8dd5a555659ad494eb941b173cdfbfa30481b9a05ef8d362e4e8",
+        "reading_unit_id": "EA-R15",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2728,
+        "end_line": 2751,
+        "characters": 2146,
+        "sha256": "9deb93f72806d32a130b86f7c9fceb288f9f9b63a2aa357e18f5c43b4b8c77b7",
+        "reading_unit_id": "EA-R16",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2993,
+        "end_line": 3020,
+        "characters": 2233,
+        "sha256": "9b3ba96114956031ccf7de7d70ccd469fe13b81bd2b9047fa6cd88b6da74c8c7",
+        "reading_unit_id": "EA-R17",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 3299,
+        "end_line": 3320,
+        "characters": 1755,
+        "sha256": "c4e0d83c2716c89b37cd3a442e2b402a6187b89ff50553ec54ea3d385c7458e9",
+        "reading_unit_id": "EA-R18",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 3539,
+        "end_line": 3558,
+        "characters": 1671,
+        "sha256": "5deb6e418a57fb2edee7c38aa8d2bcccc186f293b3e99a011b310718f1628522",
+        "reading_unit_id": "EA-R19",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 3733,
+        "end_line": 3754,
+        "characters": 1696,
+        "sha256": "7d5f2936b402bdc1d282aa9a8a186ed322618c93e1e448b27b7c5f4ff47fc4d0",
+        "reading_unit_id": "EA-R20",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 3970,
+        "end_line": 3989,
+        "characters": 1567,
+        "sha256": "d03888eed80160aeb2be139cee122ca02edfe3f5df8406e3f9b5f290bcfb745b",
+        "reading_unit_id": "EA-R21",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 4279,
+        "end_line": 4298,
+        "characters": 1446,
+        "sha256": "0b80536e8218354d8862aa90157b0f0475fb43dd2a679f18454271a90e48a926",
+        "reading_unit_id": "EA-R22",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 4472,
+        "end_line": 4489,
+        "characters": 1632,
+        "sha256": "12d1df09696effcaf63a6133629a32ba5054a7ac2ccc59c3c5fd0c17a1c36f9f",
+        "reading_unit_id": "EA-R23",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 4665,
+        "end_line": 4684,
+        "characters": 1758,
+        "sha256": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "reading_unit_id": "EA-R24",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 4873,
+        "end_line": 4888,
+        "characters": 1716,
+        "sha256": "c669939729bf7d1f0385a691493a081b19acb8591c83f3b534464ccb0dd7deee",
+        "reading_unit_id": "EA-R25",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5086,
+        "end_line": 5103,
+        "characters": 1619,
+        "sha256": "ef0633f21e8bbdefbb3c329002c23dbbe7ddfa7c80206d4281a31da498615e31",
+        "reading_unit_id": "EA-R26",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5318,
+        "end_line": 5331,
+        "characters": 1735,
+        "sha256": "c93c79fa8efa04627431861cff4e9534323cb091ca355b0a2c319b1f4d86cc81",
+        "reading_unit_id": "EA-R27",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5449,
+        "end_line": 5470,
+        "characters": 1767,
+        "sha256": "80d6a64607d658152af23d6d4fc1ab75d738233baf58a2cd8800c2df6b0d7e1b",
+        "reading_unit_id": "EA-R28",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5638,
+        "end_line": 5657,
+        "characters": 1819,
+        "sha256": "21682b39345d9de58a6b0dfb4a033179d58d5e96468d50324f8ec0be4a21cb74",
+        "reading_unit_id": "EA-R29",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5763,
+        "end_line": 5778,
+        "characters": 1585,
+        "sha256": "829a762a5cbcf9c5236d41bd57df6d8254df15d2e4fec7ccc2472cc803a2b587",
+        "reading_unit_id": "EA-R30",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5879,
+        "end_line": 5900,
+        "characters": 1759,
+        "sha256": "46042bb59ba055faf68d142285ca33e599b11b81599e5527c4593e423461f70a",
+        "reading_unit_id": "EA-R31",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6068,
+        "end_line": 6091,
+        "characters": 2194,
+        "sha256": "d3e0c2ab58c4602aa1ae90482ec7f9068ec576d1313d0ece1fcec92e1a1439f5",
+        "reading_unit_id": "EA-R32",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6245,
+        "end_line": 6264,
+        "characters": 1708,
+        "sha256": "6ea2b1bf02defcacb9c4080e0cde6dc21e0db744ba35a5a6fcb9104046a99f4c",
+        "reading_unit_id": "EA-R33",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6416,
+        "end_line": 6443,
+        "characters": 2597,
+        "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+        "reading_unit_id": "EA-R34",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6726,
+        "end_line": 6749,
+        "characters": 1755,
+        "sha256": "da6c04d92d77e9b32deec88d66d364070136b8282532c8f634f2785e93c55b9a",
+        "reading_unit_id": "EA-R35",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6907,
+        "end_line": 6928,
+        "characters": 1760,
+        "sha256": "d2f0902a33d23b7ec062360fa0d686d9961cad4079ad3c4a0cb5a7b2d2f0d517",
+        "reading_unit_id": "EA-R36",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7138,
+        "end_line": 7153,
+        "characters": 1701,
+        "sha256": "89d9515fe926dbe06057e309a283d24820fce18765b40392f38ca07fbccdd944",
+        "reading_unit_id": "EA-R37",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7344,
+        "end_line": 7369,
+        "characters": 1871,
+        "sha256": "da4ac04ff88383c84988cc8cfddea1f856544a7a753841890d702b72b25f084d",
+        "reading_unit_id": "EA-R38",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7532,
+        "end_line": 7557,
+        "characters": 1773,
+        "sha256": "2d8d89cded5f624f1828bbb2c5f9cf6442fa5b0e6d570fdfc0a690a4bbd3aae7",
+        "reading_unit_id": "EA-R39",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7699,
+        "end_line": 7714,
+        "characters": 1557,
+        "sha256": "bbcec1df293f9e91f464e87dccea02a22159a1ef02288a7b2bd6d6bb8b5ca614",
+        "reading_unit_id": "EA-R40",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7873,
+        "end_line": 7892,
+        "characters": 1603,
+        "sha256": "33e2c20bc0c94f152fad7701bb578631c35c361fa9a575d6480c444e638325de",
+        "reading_unit_id": "EA-R41",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8034,
+        "end_line": 8053,
+        "characters": 1697,
+        "sha256": "427905b96a454e2495a7eae0728d6b9fe4d8990d2747de99127ee74e97468e94",
+        "reading_unit_id": "EA-R42",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8222,
+        "end_line": 8240,
+        "characters": 1800,
+        "sha256": "e18e16929d451319976fe0be23e4838b1f38a71fe5035aa19ddbe8bffa6a0f09",
+        "reading_unit_id": "EA-R43",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8415,
+        "end_line": 8434,
+        "characters": 1615,
+        "sha256": "1cfbc6120ea0911b0ab34bdfa032a8822be15c67769d765a1fa581dd9a17162e",
+        "reading_unit_id": "EA-R44",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8633,
+        "end_line": 8658,
+        "characters": 2192,
+        "sha256": "9b7ed70e85e3586e0e74d3c7321ddaf645f9d13c0ec71062e17d834fa9744c73",
+        "reading_unit_id": "EA-R45",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 850,
+        "end_line": 869,
+        "characters": 2318,
+        "sha256": "0a33c0322938250baa6668e8185db3d722de79d4daf7abced18156e10a59ce7c",
+        "reading_unit_id": "EA-R46",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1190,
+        "end_line": 1206,
+        "characters": 1841,
+        "sha256": "ffe5836394a2315cfa2eeb3fd9d368891652b57edaed533a6202b7f70893b790",
+        "reading_unit_id": "EA-R47",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2188,
+        "end_line": 2206,
+        "characters": 1914,
+        "sha256": "532364696d69ed665a8f84af804a9fbe5fbed7c11614182151d5ad6373e205b9",
+        "reading_unit_id": "EA-R48",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2575,
+        "end_line": 2593,
+        "characters": 1803,
+        "sha256": "af82d9522cb2aa8c91d1392909ab9b8fcd0bf98a846fa9ddfa73b68c17ee6be8",
+        "reading_unit_id": "EA-R49",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2253,
+        "end_line": 2272,
+        "characters": 1705,
+        "sha256": "e999981ae96f3953cf08e7d401a9362d40ab7e65062d57194739ce0bc513d0aa",
+        "reading_unit_id": "EA-R50",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 2810,
+        "end_line": 2827,
+        "characters": 1747,
+        "sha256": "63169036b938bbbd77bd881079aecb56b58b9bbae3b8722ef0580c4e4d8824a0",
+        "reading_unit_id": "EA-R51",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 3129,
+        "end_line": 3152,
+        "characters": 1677,
+        "sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+        "reading_unit_id": "EA-R52",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 4066,
+        "end_line": 4087,
+        "characters": 1928,
+        "sha256": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+        "reading_unit_id": "EA-R53",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5184,
+        "end_line": 5217,
+        "characters": 1973,
+        "sha256": "164ffcd1cc593712c0c401a7b88bb685ed508c5b1d7db5e35cc324c7aadb2319",
+        "reading_unit_id": "EA-R54",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1207,
+        "end_line": 1216,
+        "characters": 1387,
+        "sha256": "cbe61d5ba7a366d4312cb7be3016b1ae7f67d3c96ed2ee958c38136d5dfa9a7a",
+        "reading_unit_id": "EA-R55",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5666,
+        "end_line": 5687,
+        "characters": 2373,
+        "sha256": "1ba5a480d360e0bdd93132669ac0b6dcf432e3a74535f1db1e3a08e93491a5a9",
+        "reading_unit_id": "EA-R56",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6154,
+        "end_line": 6175,
+        "characters": 1837,
+        "sha256": "01b51ecf4e5398294181f54d6cd536ab8163460387efd3912d42ec959d131b4b",
+        "reading_unit_id": "EA-R57",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 7386,
+        "end_line": 7411,
+        "characters": 2516,
+        "sha256": "f79b165056145b498fdabce597d0793de9f37cc08d61d2aefc146fde81a6c456",
+        "reading_unit_id": "EA-R58",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8280,
+        "end_line": 8297,
+        "characters": 1625,
+        "sha256": "9f92571e8e075809de867c15faaa825b274219c4d27680eaad3b27ff30b01bab",
+        "reading_unit_id": "EA-R59",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8318,
+        "end_line": 8343,
+        "characters": 2271,
+        "sha256": "84a6f8e05a24309ea786fb38e8eec47bcbc0c53077bf89383629b8146a13e1e8",
+        "reading_unit_id": "EA-R60",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8370,
+        "end_line": 8400,
+        "characters": 2490,
+        "sha256": "a771c9b5058ef5cf6c76968e6a11b6b0d04bc836c7994f2eb2199ac9841b2e42",
+        "reading_unit_id": "EA-R61",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6176,
+        "end_line": 6189,
+        "characters": 1572,
+        "sha256": "e9cccd902236c57596f16482aceb5cb7f44fd5c83d1ea9124aaea01b86eeb8ac",
+        "reading_unit_id": "EA-R62",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5690,
+        "end_line": 5701,
+        "characters": 1545,
+        "sha256": "c62cbeb0995b1a0f8a6832c467752cd47ed6a751cd8acb879e429be06f28a6bb",
+        "reading_unit_id": "EA-R63",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 6190,
+        "end_line": 6203,
+        "characters": 1583,
+        "sha256": "0f91a032dd436167901edf360a91c6b620503cb3b39d45a1bf48de74d1a9df2f",
+        "reading_unit_id": "EA-R64",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 5702,
+        "end_line": 5715,
+        "characters": 1822,
+        "sha256": "16c02bc2c7cb56f82f1af6b093f49189ec56b2727f0aeebeea4d081d68301524",
+        "reading_unit_id": "EA-R65",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 8659,
+        "end_line": 8669,
+        "characters": 647,
+        "sha256": "28c57067880cfd80570d0f4d0871903a4a0f5461c68c8bd656ad79aa769f4f7c",
+        "reading_unit_id": "EA-R66",
+        "text_received_in_full": true
+      },
+      {
+        "start_line": 1,
+        "end_line": 66,
+        "characters": 1769,
+        "sha256": "7a8ae51862d6c4cfca9a77707689db2b5042aab89d959db579a21a1a6cb44a07",
+        "reading_unit_id": "EA-R67",
+        "text_received_in_full": true
+      }
+    ],
+    "auxiliary_checks": "一次源行8388–8400的行號／注釋分界短預覽，僅核對正文截止點；不新增論點或覆蓋宣稱。"
+  },
+  "records": [
+    {
+      "id": "EA26-01",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "巴蜀1 L2133–2154；巴蜀2 L2575–2593",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-01",
+      "situation": "人類延續與文明輸入：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "人類定居與能維持公共工程、武力和統治的文明是兩回事；同源符號與時間先後未必能分辨直接征服和代理傳播。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "文明採講座開篇明示的工作定義",
+        "年代、器物和傳播者分別辨認"
+      ],
+      "exceptions": [
+        "現有材料可能無法辨明傳播者的血統或直接／間接統治"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#一、文明地圖不等於後來的國家地圖",
+        "references/clusters/c07-2-reversed-east-asian-history.md#二、名稱、血緣與制度不能互相代證"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-02",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "巴蜀4 L2993–3020；燕5 L4279–4298；滿洲1 L6726–6749",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-02",
+      "situation": "遠東區域的時間性：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "內亞、東南亞、東北亞與東亞四分法可以再粗分；東北亞的獨立性有中古以後的形成過程，日本也跨越不同文化層次。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分類對應特定時期及傳播鏈"
+      ],
+      "exceptions": [
+        "後出區域不能當成史前固定國界"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#一、文明地圖不等於後來的國家地圖"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-03",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "巴蜀2 L2494–2515",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-03",
+      "situation": "民族建構的自治判準：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "共同體能否自我治理是民族建構判準；族源和邦國的連續性可降低阻力，但不構成必要或充分條件。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "比較政治共同體的實際自我治理",
+        "人口與歷史前體一致性只作便利條件"
+      ],
+      "exceptions": [
+        "瑞士、美國來源多元；阿爾巴尼亞、保加利亞譜系牽強而仍可成立"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#三、民族建構的判準是共同體能否自我治理"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-04",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "吳越1 L47–76；吳越2 L266–287",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-04",
+      "situation": "吳越的山海郡縣與家庭徵發：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "高產平原同時較易被征服，山海留有逃離空間；秦的婚姻整頓涉及戶主、賦稅、兵役的可登記性，官署名義不等於均勻控制。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分平原、山地和海路",
+        "區分地方生活方式與徵發技術"
+      ],
+      "exceptions": [
+        "行政名目不能單獨證明實際控制"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#四、吳越的三種社會：山、海與郡縣"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-05",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "江淮9 L1494–1517；10 L1725–1744；11 L1892–1915",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-05",
+      "situation": "江淮通道與復國法統：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "水網限制內亞軍事優勢；上游通道的失守改變地方選擇；南唐在交通轉移外又負擔恢復帝國的合法性目標。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地形對技術的可用性不同",
+        "交通資源與法統承諾同時作用"
+      ],
+      "exceptions": [
+        "王琳的正統信念和私怨仍有作用，不以地理一因取消"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#八、江淮：道路改向與法統野心的雙重風險"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-06",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "吳越3 L489–516；4 L629–650",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-06",
+      "situation": "豪族、流亡軍團與海上教團：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "孫氏政權依豪族和部曲開拓聯盟，南朝依一波波難民軍事集團補充；濱海宗教與海商互相支持，同名宗教不必有同樣組織。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "辨別實際保護、耕作和作戰關係",
+        "注意流亡上層是否仍能得到補充"
+      ],
+      "exceptions": [
+        "豪族可跨血緣吸納；官名不直接等於組織實力"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#五、豪族、流亡朝廷與海上教團的不同根基"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-07",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "吳越5 L802–823、850–869；6 L950–973",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-07",
+      "situation": "寺院技術與士紳收編：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "寺院引進多季稻、海塘和橋梁技術，官府後來接連推廣；士紳接管資源並主持公益，同時增加了地方對官府的依賴。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區別最初引入與後來擴大推廣",
+        "把技術、財源和組織自主連在一起"
+      ],
+      "exceptions": [
+        "士紳確有公益作用；南宋寺院仍有特權，不是一收編便消失"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#六、寺院的工程與士大夫的接管"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-08",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "吳越7 L1157–1174、1190–1216；8 L1348–1367",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-08",
+      "situation": "條約、公局與富裕的政治不足：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "內陸與海商應對征服方式不同；條約保護下公局從出資形成代表和監督，富裕精英卻可能依附外部保護而不建立本地政治責任。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "海禁、土地沒收的實際效果分開",
+        "財政出資要接上誰辦事與誰監督"
+      ],
+      "exceptions": [
+        "局部財富重建不等於原階級原樣恢復",
+        "財富與建國能力不是同一能力"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#七、條約保護怎樣轉成地方財政，財富又為何不等於建國"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-09",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "巴蜀1 L2188–2206、2253–2272；2 L2575–2593",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-09",
+      "situation": "巴蜀的交通與兩本盛衰帳：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "青海道和蜀身毒道連接內亞與南方；地方商業繁榮和帝國糧倉盛世可能反向，諸葛政權雖追復國仍依開放通道。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分地方共同體與帝國徵收者的利益",
+        "宗教與政治中心的關係保留推測措辭"
+      ],
+      "exceptions": [
+        "墓葬相似不直接等於所有人口同一血統"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#九、巴蜀：糧倉的盛世與商路的盛世不是同一件事"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-10",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "晉1 L3299–3320；2 L3539–3558",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-10",
+      "situation": "晉的文明通道與名稱問題：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "晉是內亞進入東亞的前線；文獻出現漢字名稱不等於人群及制度此前不存在，翻譯可能壓縮與遮蔽語源。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分語文記錄與事物存在",
+        "比較中條山、太行山口與後來省界"
+      ],
+      "exceptions": [
+        "原文語源細節未另做語言學證明"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#二、名稱、血緣與制度不能互相代證",
+        "references/clusters/c07-2-reversed-east-asian-history.md#十一、晉：自由組織、輸入通道與近代的社區凝結核"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-11",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "晉3 L3733–3754；4 L3970–3989",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-11",
+      "situation": "郡縣與地方武力的不同待遇：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "胡漢分野與組織地位相連；宋、金、蒙古對土豪提供不同的獨立程度，中央財政還可能侵蝕名義封建權利。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "把戰鬥力放在權利、土地、組織關係中解釋"
+      ],
+      "exceptions": [
+        "同源人群可因制度選擇而得不同政治名稱",
+        "封建爵位不保證實際獨立"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十一、晉：自由組織、輸入通道與近代的社區凝結核"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-12",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "燕6 L4472–4489；7 L4665–4684",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-12",
+      "situation": "燕地中介與三份帳：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "地方豪族可在更換外來保護者時爭取中介利益；金征服的主要收益、軍事負擔、政治權利分別落在不同集團。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分金皇室、燕地豪族與滿洲武士"
+      ],
+      "exceptions": [
+        "勝利與原有武士失勢可以同時發生"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十二、燕與齊：中介的收益與同省不同方向"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-13",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "夜郎3 L2728–2751、2810–2827",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-13",
+      "situation": "夜郎動員及征服後的制度變化：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "銅鼓聯結祭司、長老和武士；蒙古體制可吸納領主，征服完成後卻可能從內部發動去封建化，形成新的反抗。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "戰爭動員依賴既有宗教與封建關係",
+        "文化改名可能有保存習俗的政治用途"
+      ],
+      "exceptions": [
+        "征服者曾保護地方不表示之後不會收權"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十、夜郎與滇：地方保護、征服後的變質與外交時機"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-14",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "齊8 L4873–4888；9 L5086–5103",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-14",
+      "situation": "齊魯通道與擬制家族：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "膠東處在東北亞與東亞聯繫的變動邊界；地方大族可透過收容流民和改姓形成擬制親緣及習慣法。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "地域關係須看時期與交通",
+        "家族組織和實際血緣分開"
+      ],
+      "exceptions": [
+        "名門共同姓氏不必證明全部成員同一祖先"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#二、名稱、血緣與制度不能互相代證",
+        "references/clusters/c07-2-reversed-east-asian-history.md#十二、燕與齊：中介的收益與同省不同方向"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-15",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滇4 L3129–3152",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-15",
+      "situation": "滇的干涉與孤立時機：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "蔡鍔限制干涉以保聯盟，唐繼堯過度擴張，後繼者在新威脅成長時轉為孤立；錯誤是外交政策時機錯置。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "對外威脅強弱與自身資源不同時，政策須有不同判斷"
+      ],
+      "exceptions": [
+        "不把反帝國勝利推成永久正當性；不把孤立或干涉升為無條件規則"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十、夜郎與滇：地方保護、征服後的變質與外交時機"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-16",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "晉4 L4066–4087",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-16",
+      "situation": "閻錫山的社區凝結核：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "軍國民教育把新軍、地方學校與預備軍官接起來；兵源本土化改變認同，對殉職巡撫的體面葬禮區分政治敵我與勇氣。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "教育同時傳播知識與組織動員能力",
+        "地方認同落到軍隊和公共事務"
+      ],
+      "exceptions": [
+        "沒有將對台灣的當時預測更新為今天的事實"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十一、晉：自由組織、輸入通道與近代的社區凝結核"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-17",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "齊9 L5184–5217",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-17",
+      "situation": "齊地的輿論查帳與海運：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "開港使沿海形成與內陸不同的經濟政治方向；聯莊會、外地報刊與共同審稅結合成新的地方動員。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "不同資產階級有不同交通與保護網絡"
+      ],
+      "exceptions": [
+        "同省同為地主不表示有同樣政治能力"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十二、燕與齊：中介的收益與同省不同方向"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-18",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "上海1 L5318–5331；2 L5449–5470；3 L5638–5657",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-18",
+      "situation": "上海由委員會到政治共同體：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "兩個上海須分開；業主按需要建立互不統屬委員會，軍事防衛推動更集中的政治財政機構。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "土地章程是持續發展中的契約",
+        "從具體職能與出資辨認制度生長"
+      ],
+      "exceptions": [
+        "早期沒有完整政府藍圖；不能倒推後來功能"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十三、上海：先有辦事團體，再有憲制中心"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-19",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "上海3 L5666–5687、5690–5715；4 L5763–5778",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-19",
+      "situation": "上海習慣法、多元司法和權力結構：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "長期實踐、承認和先例支撐權力；宗主、司法、附則行政交錯，多個法庭提供競爭也造成摩擦。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "婚姻例子是講解類比",
+        "管轄及判例地位按具體制度關係處理"
+      ],
+      "exceptions": [
+        "原文保留某些跨地域判例拘束力未澄清",
+        "編輯說明不把沉默概括為普遍法律同意"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十三、上海：先有辦事團體，再有憲制中心",
+        "references/clusters/c07-2-reversed-east-asian-history.md#十四、多元司法、附則與有限的外交主體"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-20",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "上海5 L5879–5900；3 L5690–5701",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-20",
+      "situation": "條約中立及外交依附：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "自行行使戰爭和平權的政治體與依擔保維持中立者不同；外部保護節省成本，也限制自主外交。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "使用講座特定的主權與中立分析",
+        "安全取決於能力與擔保的實際履行"
+      ],
+      "exceptions": [
+        "不是當代國際法意見；禮儀名稱不等於實際能力"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十四、多元司法、附則與有限的外交主體"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-21",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "上海6 L6068–6091；8 L6416–6443",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-上海自治吸納與總體戰",
+      "situation": "南非化與共同體吸納：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "邊界擴張快於共同治理習慣，可能引出少數自由和大眾參與的衝突；問題不是膚色本身。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "人口、自治習慣與政治權利範圍的變化一起看"
+      ],
+      "exceptions": [
+        "賴比瑞亞例子區分政治習慣與膚色",
+        "排斥多數以維持少數自由也可能摧毀自由"
+      ],
+      "conflicts": [
+        "EA26-22"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十五、上海的失敗：吸納、代表、保護與總體戰"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      },
+      "conflict_resolution": "不同任務或層次的條件性張力，保留兩端。上海區分無共同責任的快速擴張與總體戰下公民權擴大；滿洲區分行政整合的國家能力與自治受侵蝕的代價。"
+    },
+    {
+      "id": "EA26-22",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "上海6 L6154–6203；7 L6245–6264；8 L6416–6443",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。末章書內轉引的工部局紀錄仍屬轉引，未另讀檔案。",
+      "group_id": "EA2026-上海自治吸納與總體戰",
+      "situation": "滲透、代表權與總體戰：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "流亡身分與財政依附可製造受操控代理人；組織名稱不保證代表性；上海須同時解決外交、行政安全和全民政治資格。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "個別間諜指控只按講座歸屬保存",
+        "需要總體戰時政治資格必須回應共同犧牲"
+      ],
+      "exceptions": [
+        "反對敵方教義不等於有獨立經濟來源",
+        "全歸移民或普選均漏掉外交與保護機制"
+      ],
+      "conflicts": [
+        "EA26-21"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十五、上海的失敗：吸納、代表、保護與總體戰"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      },
+      "conflict_resolution": "不同任務或層次的條件性張力，保留兩端。上海區分無共同責任的快速擴張與總體戰下公民權擴大；滿洲區分行政整合的國家能力與自治受侵蝕的代價。"
+    },
+    {
+      "id": "EA26-23",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲2 L6907–6928；3 L7138–7153；4 L7344–7369、7386–7411；5 L7532–7557",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-23",
+      "situation": "滿洲開拓、便宜錢與武士失權：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "地方工匠與開拓者積累社會力量；征服財庫使君主繞開原議事者，擴張收入可伴隨武士權利與本土產業損失。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "比較收入控制者、負擔者與議事權",
+        "羅馬、英國類比用於權力平衡"
+      ],
+      "exceptions": [
+        "宮廷繁榮不代表本土繁榮",
+        "百分比分紅為講解比喻"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十六、滿洲：宮廷的光輝不能替開拓者記帳",
+        "references/clusters/c07-2-reversed-east-asian-history.md#十七、征服的便宜錢怎樣摧毀原有議事權"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-24",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲6 L7699–7714；7 L7873–7892",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-24",
+      "situation": "封建滿洲的屬人性與技術根基：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "努爾哈赤動員依既有聯盟產業；移民與本地身分按政治歸屬及團體形成，島嶼與大陸戰爭環境影響地方元氣。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分別考察聯盟地位、技術與戰爭投入"
+      ],
+      "exceptions": [
+        "八旗並未包含所有部族；滿漢單一血統界線不足以描述"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十六、滿洲：宮廷的光輝不能替開拓者記帳",
+        "references/clusters/c07-2-reversed-east-asian-history.md#十八、從屬人的滿洲，到行政國家與國族的滿洲"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-25",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲8 L8034–8053；9 L8222–8240、8280–8297",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-滿洲行政與地方權利",
+      "situation": "行政整合與國族形成：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "行政國家以財政軍備需要整合交錯領地，再與自治團體形成新國族；近代正統和協和路線不等於古已有之。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "封建屬人關係與近代連續領土的任務不同"
+      ],
+      "exceptions": [
+        "需要行政能力不意味其所有干預都有利於自治"
+      ],
+      "conflicts": [
+        "EA26-27",
+        "EA26-28"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十八、從屬人的滿洲，到行政國家與國族的滿洲"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      },
+      "conflict_resolution": "不同任務或層次的條件性張力，保留兩端。上海區分無共同責任的快速擴張與總體戰下公民權擴大；滿洲區分行政整合的國家能力與自治受侵蝕的代價。"
+    },
+    {
+      "id": "EA26-26",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲10 L8415–8434",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-theme-26",
+      "situation": "保安會、議會與軍政關係：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "原有議會邀地方有動員能力者組成保安會，支持行政與軍事機構；同樣書面制度能否維持須看地方合作。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "區分選舉、地方支持、軍權與行政權"
+      ],
+      "exceptions": [
+        "其他邦國同形制度可能因軍政議會相爭失敗"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十八、從屬人的滿洲，到行政國家與國族的滿洲"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    },
+    {
+      "id": "EA26-27",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲9 L8222–8240、8280–8297、8318–8343",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-滿洲行政與地方權利",
+      "situation": "協和正統妥協與自治派反抗：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "日裔居民可成為本地利益保護者；共同威脅促成正統與協和妥協，自治派仍反對官員侵入其團體。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "效忠從落地利益和組織判斷",
+        "政體名稱改變不能取消地方權利爭議"
+      ],
+      "exceptions": [
+        "支持建國者可因政府干預成為反對派"
+      ],
+      "conflicts": [
+        "EA26-25"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#十九、協和、正統與自治：國家建設不等於地方自由"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      },
+      "conflict_resolution": "不同任務或層次的條件性張力，保留兩端。上海區分無共同責任的快速擴張與總體戰下公民權擴大；滿洲區分行政整合的國家能力與自治受侵蝕的代價。"
+    },
+    {
+      "id": "EA26-28",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲9 L8370–8394",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。",
+      "group_id": "EA2026-滿洲行政與地方權利",
+      "situation": "統制經濟的隱蔽缺陷：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "新開拓與外資技術輸入遮蔽制度問題；行政國家和產業聯合會可聯手擠壓地方，未來財閥病是反事實而非既成史實。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "分辨私有財產和成本核算與地方權力分布",
+        "短期成長與長期社會再生分開"
+      ],
+      "exceptions": [
+        "未取消私產不等於沒有地方壓迫",
+        "國亡後的民族神話會隱去自身缺陷"
+      ],
+      "conflicts": [
+        "EA26-25"
+      ],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#二十、統制經濟的光與影，以及沒有政治後裔的技術精英"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      },
+      "conflict_resolution": "不同任務或層次的條件性張力，保留兩端。上海區分無共同責任的快速擴張與總體戰下公民權擴大；滿洲區分行政整合的國家能力與自治受侵蝕的代價。"
+    },
+    {
+      "id": "EA26-29",
+      "source": "EA2026：劉仲敬《逆轉的東亞史》使用者提供Markdown合輯",
+      "locator": "滿洲後記 L8633–8659",
+      "attribution": "劉仲敬講述正文；編者圖說與注釋不獨立作支持。後記為講述者的自述與回憶，未作本人記憶重演。",
+      "group_id": "EA2026-theme-29",
+      "situation": "後記自述與技術精英的政治後裔：在地方史講座中對照制度來源、利益承擔者與歷史分岔。",
+      "audience": "明鏡「劉仲敬思想」節目的歷史與政治議題聽眾；出版編輯本讀者。",
+      "available_information": "2018–2020年講述時援引的史書、考古材料、制度比較和當時政治類比，限本次列明的原文選讀。",
+      "constraints": "來源為整理過的口述講座Markdown，含編者注釋、圖說、引文及轉錄問題；未核對錄音、原版頁圖、考古報告或檔案。",
+      "observation": "以自身新疆社區與見聞連結滿洲技術人員外調、階層下沉和無法延續政治共同體的命運。",
+      "claim_type": "editorial_synthesis",
+      "conditions": [
+        "明示自述歸屬",
+        "把技能延續與政治保護、後代位置分開"
+      ],
+      "exceptions": [
+        "未另行核實家系、個人見聞或反事實發展前景"
+      ],
+      "conflicts": [],
+      "runtime_support": [
+        "references/clusters/c07-2-reversed-east-asian-history.md#二十、統制經濟的光與影，以及沒有政治後裔的技術精英"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "以原文支持的因果、對象與條件直接蒸餾，保留反例或資料層級，不把來源觀點提升為獨立史實認證。"
+      }
+    }
+  ],
+  "source_checks": [
+    {
+      "claim": "人類定居與能維持公共工程、武力和統治的文明是兩回事；同源符號與時間先後未必能分辨直接征服和代理傳播。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "文明採講座開篇明示的工作定義",
+        "年代、器物和傳播者分別辨認",
+        "現有材料可能無法辨明傳播者的血統或直接／間接統治"
+      ],
+      "evidence_ids": [
+        "EA26-01"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "內亞、東南亞、東北亞與東亞四分法可以再粗分；東北亞的獨立性有中古以後的形成過程，日本也跨越不同文化層次。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "分類對應特定時期及傳播鏈",
+        "後出區域不能當成史前固定國界"
+      ],
+      "evidence_ids": [
+        "EA26-02"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "共同體能否自我治理是民族建構判準；族源和邦國的連續性可降低阻力，但不構成必要或充分條件。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "比較政治共同體的實際自我治理",
+        "人口與歷史前體一致性只作便利條件",
+        "瑞士、美國來源多元；阿爾巴尼亞、保加利亞譜系牽強而仍可成立"
+      ],
+      "evidence_ids": [
+        "EA26-03"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "高產平原同時較易被征服，山海留有逃離空間；秦的婚姻整頓涉及戶主、賦稅、兵役的可登記性，官署名義不等於均勻控制。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "區分平原、山地和海路",
+        "區分地方生活方式與徵發技術",
+        "行政名目不能單獨證明實際控制"
+      ],
+      "evidence_ids": [
+        "EA26-04"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "水網限制內亞軍事優勢；上游通道的失守改變地方選擇；南唐在交通轉移外又負擔恢復帝國的合法性目標。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "地形對技術的可用性不同",
+        "交通資源與法統承諾同時作用",
+        "王琳的正統信念和私怨仍有作用，不以地理一因取消"
+      ],
+      "evidence_ids": [
+        "EA26-05"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "孫氏政權依豪族和部曲開拓聯盟，南朝依一波波難民軍事集團補充；濱海宗教與海商互相支持，同名宗教不必有同樣組織。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "辨別實際保護、耕作和作戰關係",
+        "注意流亡上層是否仍能得到補充",
+        "豪族可跨血緣吸納；官名不直接等於組織實力"
+      ],
+      "evidence_ids": [
+        "EA26-06"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "寺院引進多季稻、海塘和橋梁技術，官府後來接連推廣；士紳接管資源並主持公益，同時增加了地方對官府的依賴。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "區別最初引入與後來擴大推廣",
+        "把技術、財源和組織自主連在一起",
+        "士紳確有公益作用；南宋寺院仍有特權，不是一收編便消失"
+      ],
+      "evidence_ids": [
+        "EA26-07"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "內陸與海商應對征服方式不同；條約保護下公局從出資形成代表和監督，富裕精英卻可能依附外部保護而不建立本地政治責任。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "海禁、土地沒收的實際效果分開",
+        "財政出資要接上誰辦事與誰監督",
+        "局部財富重建不等於原階級原樣恢復",
+        "財富與建國能力不是同一能力"
+      ],
+      "evidence_ids": [
+        "EA26-08"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "青海道和蜀身毒道連接內亞與南方；地方商業繁榮和帝國糧倉盛世可能反向，諸葛政權雖追復國仍依開放通道。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "分地方共同體與帝國徵收者的利益",
+        "宗教與政治中心的關係保留推測措辭",
+        "墓葬相似不直接等於所有人口同一血統"
+      ],
+      "evidence_ids": [
+        "EA26-09"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "晉是內亞進入東亞的前線；文獻出現漢字名稱不等於人群及制度此前不存在，翻譯可能壓縮與遮蔽語源。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "區分語文記錄與事物存在",
+        "比較中條山、太行山口與後來省界",
+        "原文語源細節未另做語言學證明"
+      ],
+      "evidence_ids": [
+        "EA26-10"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "胡漢分野與組織地位相連；宋、金、蒙古對土豪提供不同的獨立程度，中央財政還可能侵蝕名義封建權利。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "把戰鬥力放在權利、土地、組織關係中解釋",
+        "同源人群可因制度選擇而得不同政治名稱",
+        "封建爵位不保證實際獨立"
+      ],
+      "evidence_ids": [
+        "EA26-11"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "地方豪族可在更換外來保護者時爭取中介利益；金征服的主要收益、軍事負擔、政治權利分別落在不同集團。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "區分金皇室、燕地豪族與滿洲武士",
+        "勝利與原有武士失勢可以同時發生"
+      ],
+      "evidence_ids": [
+        "EA26-12"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "銅鼓聯結祭司、長老和武士；蒙古體制可吸納領主，征服完成後卻可能從內部發動去封建化，形成新的反抗。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "戰爭動員依賴既有宗教與封建關係",
+        "文化改名可能有保存習俗的政治用途",
+        "征服者曾保護地方不表示之後不會收權"
+      ],
+      "evidence_ids": [
+        "EA26-13"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "膠東處在東北亞與東亞聯繫的變動邊界；地方大族可透過收容流民和改姓形成擬制親緣及習慣法。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "地域關係須看時期與交通",
+        "家族組織和實際血緣分開",
+        "名門共同姓氏不必證明全部成員同一祖先"
+      ],
+      "evidence_ids": [
+        "EA26-14"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "蔡鍔限制干涉以保聯盟，唐繼堯過度擴張，後繼者在新威脅成長時轉為孤立；錯誤是外交政策時機錯置。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "對外威脅強弱與自身資源不同時，政策須有不同判斷",
+        "不把反帝國勝利推成永久正當性；不把孤立或干涉升為無條件規則"
+      ],
+      "evidence_ids": [
+        "EA26-15"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "軍國民教育把新軍、地方學校與預備軍官接起來；兵源本土化改變認同，對殉職巡撫的體面葬禮區分政治敵我與勇氣。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "教育同時傳播知識與組織動員能力",
+        "地方認同落到軍隊和公共事務",
+        "沒有將對台灣的當時預測更新為今天的事實"
+      ],
+      "evidence_ids": [
+        "EA26-16"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "開港使沿海形成與內陸不同的經濟政治方向；聯莊會、外地報刊與共同審稅結合成新的地方動員。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "不同資產階級有不同交通與保護網絡",
+        "同省同為地主不表示有同樣政治能力"
+      ],
+      "evidence_ids": [
+        "EA26-17"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "兩個上海須分開；業主按需要建立互不統屬委員會，軍事防衛推動更集中的政治財政機構。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "土地章程是持續發展中的契約",
+        "從具體職能與出資辨認制度生長",
+        "早期沒有完整政府藍圖；不能倒推後來功能"
+      ],
+      "evidence_ids": [
+        "EA26-18"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "長期實踐、承認和先例支撐權力；宗主、司法、附則行政交錯，多個法庭提供競爭也造成摩擦。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "婚姻例子是講解類比",
+        "管轄及判例地位按具體制度關係處理",
+        "原文保留某些跨地域判例拘束力未澄清",
+        "編輯說明不把沉默概括為普遍法律同意"
+      ],
+      "evidence_ids": [
+        "EA26-19"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "自行行使戰爭和平權的政治體與依擔保維持中立者不同；外部保護節省成本，也限制自主外交。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "使用講座特定的主權與中立分析",
+        "安全取決於能力與擔保的實際履行",
+        "不是當代國際法意見；禮儀名稱不等於實際能力"
+      ],
+      "evidence_ids": [
+        "EA26-20"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "邊界擴張快於共同治理習慣，可能引出少數自由和大眾參與的衝突；問題不是膚色本身。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "人口、自治習慣與政治權利範圍的變化一起看",
+        "賴比瑞亞例子區分政治習慣與膚色",
+        "排斥多數以維持少數自由也可能摧毀自由"
+      ],
+      "evidence_ids": [
+        "EA26-21"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "流亡身分與財政依附可製造受操控代理人；組織名稱不保證代表性；上海須同時解決外交、行政安全和全民政治資格。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "個別間諜指控只按講座歸屬保存",
+        "需要總體戰時政治資格必須回應共同犧牲",
+        "反對敵方教義不等於有獨立經濟來源",
+        "全歸移民或普選均漏掉外交與保護機制"
+      ],
+      "evidence_ids": [
+        "EA26-22"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "地方工匠與開拓者積累社會力量；征服財庫使君主繞開原議事者，擴張收入可伴隨武士權利與本土產業損失。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "比較收入控制者、負擔者與議事權",
+        "羅馬、英國類比用於權力平衡",
+        "宮廷繁榮不代表本土繁榮",
+        "百分比分紅為講解比喻"
+      ],
+      "evidence_ids": [
+        "EA26-23"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "努爾哈赤動員依既有聯盟產業；移民與本地身分按政治歸屬及團體形成，島嶼與大陸戰爭環境影響地方元氣。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "分別考察聯盟地位、技術與戰爭投入",
+        "八旗並未包含所有部族；滿漢單一血統界線不足以描述"
+      ],
+      "evidence_ids": [
+        "EA26-24"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "行政國家以財政軍備需要整合交錯領地，再與自治團體形成新國族；近代正統和協和路線不等於古已有之。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "封建屬人關係與近代連續領土的任務不同",
+        "需要行政能力不意味其所有干預都有利於自治"
+      ],
+      "evidence_ids": [
+        "EA26-25"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "原有議會邀地方有動員能力者組成保安會，支持行政與軍事機構；同樣書面制度能否維持須看地方合作。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "區分選舉、地方支持、軍權與行政權",
+        "其他邦國同形制度可能因軍政議會相爭失敗"
+      ],
+      "evidence_ids": [
+        "EA26-26"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "日裔居民可成為本地利益保護者；共同威脅促成正統與協和妥協，自治派仍反對官員侵入其團體。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "效忠從落地利益和組織判斷",
+        "政體名稱改變不能取消地方權利爭議",
+        "支持建國者可因政府干預成為反對派"
+      ],
+      "evidence_ids": [
+        "EA26-27"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "新開拓與外資技術輸入遮蔽制度問題；行政國家和產業聯合會可聯手擠壓地方，未來財閥病是反事實而非既成史實。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "分辨私有財產和成本核算與地方權力分布",
+        "短期成長與長期社會再生分開",
+        "未取消私產不等於沒有地方壓迫",
+        "國亡後的民族神話會隱去自身缺陷"
+      ],
+      "evidence_ids": [
+        "EA26-28"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "以自身新疆社區與見聞連結滿洲技術人員外調、階層下沉和無法延續政治共同體的命運。",
+      "outcome": "pass_for_inspected_source_scope",
+      "assessment": "已對照列明實讀窗口，正文保留原有因果與程度；來源歸屬說明另作標記。",
+      "condition_or_exception": [
+        "明示自述歸屬",
+        "把技能延續與政治保護、後代位置分開",
+        "未另行核實家系、個人見聞或反事實發展前景"
+      ],
+      "evidence_ids": [
+        "EA26-29"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    }
+  ],
+  "direct_statement_editorial_review": {
+    "outcome": "pass_for_this_module",
+    "reviewed_full_expository_body": true,
+    "direct_stance": "20節以文明、制度、組織、地區和條件為主詞，直接陳述支持的觀點，不寫作者相信／他指出／仿寫步驟。",
+    "preserved_reasoning": "保留通道—載體—地方權利、技術—財源—人口、征服財庫—原有議事權、全民動員—公民資格等因果鏈及具體案例。",
+    "preserved_exceptions": [
+      "文化同源不直接辨明征服者血統",
+      "族源一致只是民族建構便利條件",
+      "士紳確有公益作用，寺院仍留特權",
+      "滇的干涉／孤立按時機分判",
+      "上海吸納不足與過快擴張同時保留",
+      "行政國家能力與地方自治侵蝕同時保留",
+      "滿洲高成長不能掩蓋統制經濟缺陷"
+    ],
+    "editorial_separation": "資料層級、未獨立驗證、法律類比與自述歸屬放在明示來源說明，不偽作作者的方法或人格規則。",
+    "unsupported_additions": "移除把字音不足直接推成來源未明說的通用規則；未添加仿寫操作技巧、現代案例結論或新政策建議。",
+    "independent_reviewer": false
+  },
+  "old_claim_disposition": [
+    {
+      "old_location": "舊C07第四、七、八、九節及EA01–EA13",
+      "decision": "preserve_and_redistill",
+      "destination": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "reason": "東亞主題由本次實讀重建並增加各地方獨有案例；舊EA記錄保留原適用範圍，不覆寫。"
+    },
+    {
+      "old_location": "舊C07第一至三節N01–N05",
+      "decision": "outside_east_module",
+      "destination": "由root處理C07-1與人物模組／歷史快照",
+      "reason": "本任務不把其他世界史講座、顧頡剛書面評傳冒充新東亞史來源；不得因本模組不收錄而刪除歷史證據。"
+    },
+    {
+      "old_location": "舊C07第五、六、十節MES01–MES09",
+      "decision": "move_by_root",
+      "destination": "C02-1",
+      "reason": "兩河神廟城邦、伊拉克組織及限制屬另一本源文，東亞新模組不重複占位。"
+    },
+    {
+      "old_location": "舊C07第十一節表達及仿寫提示",
+      "decision": "not_reproduced_in_new_topic_body",
+      "destination": "既有voice或維護記錄由root處理",
+      "reason": "C07-2只收來源觀點與論證；不把編輯操作建議當作者知識庫。"
+    }
+  ],
+  "limitations": [
+    "42章與後記各有開篇實讀，另有主題回讀；其餘大量正文未讀，不能宣稱完整覆蓋全書論點。",
+    "史前族源、考古傳播、人口替換、語源與法律史主張未獲本次獨立專家驗證。",
+    "講述中的當代類比、個別間諜指控及歷史數字仍限原時段和原歸屬；沒有當前事實更新。",
+    "後記回憶與未亡國滿洲的反事實不構成獨立證實。",
+    "同一編輯者完成蒸餾和審閱，不代表獨立複核；零人格辨識呼叫。"
+  ],
+  "recognition_calls_used": 0,
+  "module_sha256": "6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735",
+  "supplemental_cross_review": {
+    "module": "references/clusters/c02-1-mesopotamia.md",
+    "module_sha256": "b1bb96cba7e552c05be238f68250f98ac61b25f34bc7bd1758c5dfd7baa528c7",
+    "source_name": "美索不达米亚.md",
+    "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+    "scope": "按root要求有限核查第八至十節及第十七節；只對指定來源窗口內命題作判斷，不檢驗這些節的其他來源依據。",
+    "max_reading_units": 5,
+    "max_characters_per_unit": 7000,
+    "actual_reading_units": 5,
+    "reading_windows": [
+      {
+        "start_line": 926,
+        "end_line": 950,
+        "characters": 2451,
+        "sha256": "3ea305ef465f9e801d6c078437b6ed721038cf56bc7dd6f3d31025494bc5ca5f"
+      },
+      {
+        "start_line": 951,
+        "end_line": 976,
+        "characters": 1896,
+        "sha256": "2fdae42d515a3458602579d74f750ddff9a504deb1d2e269b2aae51af342238a"
+      },
+      {
+        "start_line": 977,
+        "end_line": 1002,
+        "characters": 2360,
+        "sha256": "53326a511a415a72f69c8f1777db411027275791149055615836c0d37deb41e3"
+      },
+      {
+        "start_line": 1212,
+        "end_line": 1248,
+        "characters": 1541,
+        "sha256": "0d4ea1fc3e9af4ea3bd1f4372f20c6791205f351af3ee252f5b82d6930b59472"
+      },
+      {
+        "start_line": 1290,
+        "end_line": 1292,
+        "characters": 301,
+        "sha256": "f5092c716a8a92c2830ece6923668fade4adc557e3942b3f1ab6443b1840781b"
+      }
+    ],
+    "findings": [
+      {
+        "id": "EA-CROSS-MES-01",
+        "severity": "source_qualification",
+        "location": "第十節第二段",
+        "issue": "沙隆／Sarrum的起源段落省略原文「來源現在不清楚」「根據多國體系趨勢可以合理推論」，將特定比較重構寫成確定的制度生成過程。",
+        "source_locator": "第三講L984–1002，尤其「沙隆」稱號起源段",
+        "suggested_change": "在該段局部保留「稱號的確切來源不清；依城邦多國體系的演變，可推測它與跨城邦戰爭和超常動員有關」；後續權力分層可保留。"
+      }
+    ],
+    "confirmed": [
+      "第八節保留恩西與盧伽爾的不同來源、偶然分工、初期可逆與制度固定後難逆，未明顯扭曲。",
+      "第九節在指定史詩窗口內的出資者與流血者區分忠於原文，未把年齡詞直接當制度資格。",
+      "第十節總督與地方恩西、盧伽爾、長老機構分權、外交軍事權受限制的敘述有原文支持。",
+      "第十七節保留婚姻血緣材料不足、習慣法至成文法的階段性且司法局部、《烏爾納姆法典》彙編性及無近代專業律師，以及小樣本文明模式不成普世律等例外。"
+    ],
+    "not_reviewed": [
+      "第九節城邦／領土國家、媒體教育內容的另列來源",
+      "第十節阿卡德恢復、漢謨拉比及埃及的另列來源",
+      "第十七節征服者偶然死亡、模型修訂及考古政治的另列來源"
+    ],
+    "recognition_calls_used": 0,
+    "body_modified": false
+  }
+}

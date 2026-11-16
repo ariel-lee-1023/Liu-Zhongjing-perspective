@@ -1,0 +1,99 @@
+{
+  "outcome": "pass",
+  "scope": "structural integrity and declared editorial invariants; not behavioral recognition or historical verification",
+  "checks": [
+    {
+      "check": "preserve unrelated AGENTS.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C02-2 body unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged references/voice.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged references/clusters/c01-ayi-life-advice.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged references/clusters/c04-civilization-theory.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged references/clusters/c06-figures.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "core persona body unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "README first-person opening unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "single relative skill alias",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "exact ten current topic modules",
+      "passed": true,
+      "detail": [
+        "c01-ayi-life-advice.md",
+        "c02-1-mesopotamia.md",
+        "c02-2-premodern-order.md",
+        "c03-wadi-psychology.md",
+        "c04-civilization-theory.md",
+        "c05-geopolitics-capital-and-class.md",
+        "c06-figures.md",
+        "c07-1-nation-invention-world-history.md",
+        "c07-2-reversed-east-asian-history.md",
+        "c08-minguo-wenyan.md"
+      ]
+    },
+    {
+      "check": "current runtime and README local links",
+      "passed": true,
+      "detail": {
+        "checked": 80,
+        "broken": []
+      }
+    },
+    {
+      "check": "no obsolete current runtime file paths",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "evidence schema required types and constraints",
+      "passed": true,
+      "detail": {
+        "records": 131,
+        "errors": [],
+        "method": "recursive evaluator covering every assertion keyword in the supplied schema; no external jsonschema package"
+      }
+    },
+    {
+      "check": "unique evidence IDs",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "evidence runtime targets exist",
+      "passed": true,
+      "detail": []
+    }
+  ]
+}

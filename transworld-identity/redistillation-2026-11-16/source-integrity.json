@@ -1,0 +1,42 @@
+{
+  "outcome": "pass",
+  "method": "Recomputed SHA-256 of each exact raw line range, including markup and line endings; this confirms retrieval identity, not comprehension or historical accuracy.",
+  "sources": [
+    {
+      "source_id": "MES2026",
+      "file_name": "美索不达米亚.md",
+      "sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+      "units_checked": 32,
+      "unit_limit": 36,
+      "character_limit_per_unit": 7000,
+      "errors": []
+    },
+    {
+      "source_id": "NI2026",
+      "file_name": "民族發明學的世界史.md",
+      "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "units_checked": 65,
+      "unit_limit": 70,
+      "character_limit_per_unit": 5000,
+      "errors": []
+    },
+    {
+      "source_id": "EA2026",
+      "file_name": "逆轉的東亞史.md",
+      "sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "units_checked": 68,
+      "unit_limit": 70,
+      "character_limit_per_unit": 5000,
+      "errors": []
+    },
+    {
+      "source_id": "CA2026",
+      "file_name": "劉仲敬論Current Affairs.md",
+      "sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "units_checked": 68,
+      "unit_limit": 80,
+      "character_limit_per_unit": 5000,
+      "errors": []
+    }
+  ]
+}

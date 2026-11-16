@@ -1,0 +1,1705 @@
+{
+  "schema_version": 1,
+  "summary": "四份指定本地材料的有界重新蒸餾、舊材料承接與C02純改名；全文審閱四個新模組，另核對框架及相鄰模組引用。",
+  "reviewer": "authoring assistant plus parallel source editors and a targeted cross-editor source/routing check",
+  "independent_expert_review": false,
+  "reviewed_all_core_claims": false,
+  "source_grounded_whole_persona": false,
+  "source_checks": [
+    {
+      "claim": "文明分類須保留第一代、代際、旁系與共同祖先，不把獨立文明當同齡單位。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "第一代文明與後繼文明的不同起點。",
+        "文明譜系只能大致描繪；多條傳播鏈尚無精確定位。"
+      ],
+      "evidence_ids": [
+        "MES26-01"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "神廟在測量、開墾、工具分配、倉儲與仲裁中形成權力；剩餘分配不能窮盡後來所有精英。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "組織技術與勞動動員能開拓新土地。",
+        "開墾本身不是文明墮落，惡性競爭才是轉折。"
+      ],
+      "evidence_ids": [
+        "MES26-02"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "殖民格局可與族群混合、階級流動並存，不能從近代人口比例倒推早期低地。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "統治與被統治者的資源、人口基礎不同。",
+        "低地人口組成不確定，雕塑面貌不能成為本輪獨立人口統計。"
+      ],
+      "evidence_ids": [
+        "MES26-03"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "倉庫速記、祭司象徵和其他紀錄匯成文字；泥板擴大書寫，未必創造文字本身。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "史詩收件者能辨讀文字的內部推論。",
+        "識字階級不等於近代知識分子；傳播前體屬推測。"
+      ],
+      "evidence_ids": [
+        "MES26-04"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "文明傳播有陸海通道、模仿和移民接力，文化伊朗化不等於血統替換。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "相鄰學習或少量攜帶者即可擴散技術。",
+        "稻米來源有不同程度推測；已述航路之外仍無證據。"
+      ],
+      "evidence_ids": [
+        "MES26-05"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "神廟祭典展示技術與分配能力，城邦諸神會議表達會盟、貿易與地位。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "早期政治宗教經濟未分化。",
+        "霸權不等於全盤行政統一，主神不等於一神教。"
+      ],
+      "evidence_ids": [
+        "MES26-06"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "洪水後水利從局部排水走向上游分洪，城邦密集使以鄰為壑引發交涉與工程升級。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "可用土地、人口及技術約束變動。",
+        "豐饒濕地不等於高人口承載；開墾與生態壓力同時存在。"
+      ],
+      "evidence_ids": [
+        "MES26-07"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "恩西與盧伽爾來自神廟及民間要人不同權威；反覆辦事使微小分工固化。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "初始條件與習慣形成依賴。",
+        "修鐘寓言是機制類比，不是每一城邦的起源證據。"
+      ],
+      "evidence_ids": [
+        "MES26-08"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "長老與壯丁依出錢、流血取得不同分量；廣域民族認同不同於廣場城邦民主。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "誰實際承擔財政和戰爭責任。",
+        "上下院是比較語彙，多國體系不保證每個政體共和。"
+      ],
+      "evidence_ids": [
+        "MES26-09"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "霸權交替不等於城市消失；跨城統帥與總督可收走外交軍權而保留地方自治機構。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "征服分層與不同機構的權力來源。",
+        "兩河帝國不能直接等同秦制，埃及也不是全無外來交流。",
+        "沙隆稱號來源不明；其與跨城邦戰爭、超常動員的關聯屬依多國體系所作合理推論。"
+      ],
+      "evidence_ids": [
+        "MES26-10"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "資源界限下，摧毀水渠和神廟的社會性戰爭破壞再生能力，軍事進步可與社會衰退並存。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "可開發空間縮小及破壞手段互相仿效。",
+        "早期與晚期軍國主義的程度不一樣；收藏不等於維持創作社會。"
+      ],
+      "evidence_ids": [
+        "MES26-11"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "邊區可以吸收中心技術而不受同等壟斷約束，創新與持續傳承仍需額外條件。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "小共同體和多元競爭容納技術試驗。",
+        "馬鐙細節在回答中承認未仔細研究。"
+      ],
+      "evidence_ids": [
+        "MES26-12"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "人口延續不保證古典文化延續，精英供養資源和認同需要可同時枯竭；後起首都另有外部力量基礎。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "語言、教育和政治權威的關係改變。",
+        "沒有將文化消失寫成人口滅絕；具體年代表述未做獨立核實。"
+      ],
+      "evidence_ids": [
+        "MES26-13"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "部落法統與受承認權利不同於祖先故事，教團可保有仲裁與動員，進城不自動失去組織。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "奧斯曼時期後續伊拉克的社會分類。",
+        "族群、教派與居住地不代替組織能力的證據。"
+      ],
+      "evidence_ids": [
+        "MES26-14"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "中央化王室培養的技術和軍事階層可能反叛；伊拉克與約旦政策差異也受原有部落力量制約。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "王室教育、外部保護及既有社會結構。",
+        "不是君主個人聰明與否的充分解釋。"
+      ],
+      "evidence_ids": [
+        "MES26-15"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "選票數、仲裁網絡與可作戰武力是三種能力，取消黨國不能平均分配結社能力。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "2019年對伊拉克教團、庫德和原黨國人口的比較。",
+        "原述職位、數量、預測非2026年事實；不同對象須有相應條件。"
+      ],
+      "evidence_ids": [
+        "MES26-16"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "文明循環是有限樣本的經驗模型，允許其他結構；個人偶然與較大壓力分開。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "對文明模型與反事實追問的回答。",
+        "不能升為普世必然；模型隨新材料修訂。"
+      ],
+      "evidence_ids": [
+        "MES26-17"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "習慣法成文化可提示階段，但司法仍被動具體；長老仲裁不等同近代律師。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "早期法典、仲裁與社會結構比較。",
+        "兩河家庭婚姻證據不足，不硬套西周宗法。"
+      ],
+      "evidence_ids": [
+        "MES26-18"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "考古研究方向受政治保護與資源影響，資訊脈絡不等於財寶；部分早期問題只能留下空白。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "考古實踐、書面敘事與文物破壞。",
+        "沒有獨立核實所有考古斷言；原始錄音與底本未查。"
+      ],
+      "evidence_ids": [
+        "MES26-19"
+      ],
+      "dependencies": {
+        "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4"
+      }
+    },
+    {
+      "claim": "族群差異、有效統治、外交國家地位與後來國史的承繼安排分屬不同層次，不能由一個成立年包辦。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "民族認同須有政治上的自我區分；國家地位另涉及承認與交涉。",
+        "早期同地政權不因此已有今日民族邊界；有效統治不等於外交承認。"
+      ],
+      "evidence_ids": [
+        "NI01"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "希臘三模式與波蘭四分類的層級不同：小民族內含國民自決與語言動員；帝國保全和文化圈擴張另有不同的政治主體。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "分類依形成機制及自我治理資格，不按語言是否真實。",
+        "三與四不是兩份互不相容的窮盡列表；文化親近不自動產生共同國家。"
+      ],
+      "evidence_ids": [
+        "NI02"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "共同復國名義會被分別出錢出兵的地方政權分拆；保護國的黨派、海權和對手變化又會重排援助。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地方已有自身武力與外援；原帝國繼承方案所需資源超過中心能力。",
+        "同一民族名號可以跨越不同國家計畫；外援不是永久不變的文明親疏。"
+      ],
+      "evidence_ids": [
+        "NI03"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "追究責任、占領重整及流亡改變精英的政治歸屬；同一家族可被後來不同國史分別編為民族英雄。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "原有跨地區文化與政治網絡；政治中心更替及流亡造成分化。",
+        "不能把今日國籍倒投成革命初期已有的民族邊界。"
+      ],
+      "evidence_ids": [
+        "NI04"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "爭奪既有教會學校失敗後另辦機構，口語和民謠補充文學，教育與海外社區接續動員，鎮壓報導反向固定新民族名稱。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "有可持續的教育教會機構、流亡社區及軍事動員管道。",
+        "不是任何地方口語都會擊敗通用語；文化整理不等於建國已完成。"
+      ],
+      "evidence_ids": [
+        "NI05"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "地理名詞可先被大民族運動使用而後被另一國史收編；接受國界的政府與以收復境外領土為使命的組織可能反目。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "革命組織須維持自身使命，並依賴特定避難基地與地方支持。",
+        "同樣暴力不證明相同目標；跨國革命組織的可移動性不同於地方民族組織。"
+      ],
+      "evidence_ids": [
+        "NI06"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "共享反對者不會消除不同帝國制度遺產；南斯拉夫聯盟、大塞爾維亞與泛斯拉夫目標有不同中心。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "各地方保有不同宗教、政治精英與組織起點。",
+        "文化親緣不等於接受同一中心統治。"
+      ],
+      "evidence_ids": [
+        "NI07"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "舊帝國的保護退出後，需要新的民族名號與政治機構以取得表達資格；共同體的劃分又改變多數少數比例及中央、本地的政治機會。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "帝國保護不能延續；席位與權利分配按被承認的共同體進行。",
+        "支持帝國可以出於少數安全；選擇較大或較小認同不是單憑真誠虛偽可解釋。"
+      ],
+      "evidence_ids": [
+        "NI08"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "弱者能將強國的榮譽感和使命轉成資源；宮廷網絡又影響保護國的想像，構成雙向交換。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地方精英有可進入保護國的長期網絡與可用的共同語彙。",
+        "保護國不必完全接受小國目標；有外援不等於完全受控制。"
+      ],
+      "evidence_ids": [
+        "NI09"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "中央軍財集中壓縮地方權利；聯邦出路失敗且外部保護不可得時，民族發明成為避免被鄰國驅逐的替代方案。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地方原可在帝國內爭權；政變、戰爭和保護人退出先後改變選項。",
+        "獨立不必是早已普遍存在的願望；原穆斯林身分不自動決定民族立場。"
+      ],
+      "evidence_ids": [
+        "NI10"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "行政教育把不同傳統暫時放入同一容器；軍隊撤出後，新精英仍能用留下的學校與語言資源形成運動。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "行政體系須實際培養新的精英及傳播載體。",
+        "短期統治者的政治意圖與後世民族運動目標不必相同。"
+      ],
+      "evidence_ids": [
+        "NI11"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "民俗、童年語言與鄉土依戀可構成保守派反統一的資源，既有領地權利和行政差異又維持其邊界。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "有地方語言的文化整理與可承載差異的制度位置。",
+        "民族發明不只屬共和派；共同反對一個中心不代表接受另一個近鄰中心。"
+      ],
+      "evidence_ids": [
+        "NI12"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "前一強權衰退留下軍事保護位置，地理與實力使普魯士得以承接；信仰寬容和開墾權與保衛四戰之地的義務相連。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地緣機會與軍事人力需要並存。",
+        "優良政策不足保證其他小邦同樣崛起；某時期寬容不代表全時期自由。"
+      ],
+      "evidence_ids": [
+        "NI13"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "不同教會與武力配置形成不同自治基礎；從效忠君主轉向俄語同化後，地方小民族與泛日耳曼方案競爭。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "原有精英與地方居民的生存空間因語言同化而收縮。",
+        "共同宗教不等於相同制度；泛文化認同會增加境外解放義務。"
+      ],
+      "evidence_ids": [
+        "NI14"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "已有有界政治與地方精英後，文化整理復活語彙和共同記憶；教育準備與效忠保自治，是不同的存續策略。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "政治容器及原有制度存在；語言工作有代際傳播條件。",
+        "文化復活不是從零創造語言；未立即反抗不能證明沒有地方利益。"
+      ],
+      "evidence_ids": [
+        "NI15"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "文化保存、編書博物館、教育讀者及新一代動員跨越不同時間，後代可以把前代反法語的材料轉向反德語。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "出版與教育具有延遲；新一代有改用材料的政治機會。",
+        "詞典或故事集完成不等於民族已建成；原支持者不必預見後續用途。"
+      ],
+      "evidence_ids": [
+        "NI16"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "有既有合法選舉資格的地主議會未必代表基層，沒有舊資格的地方組織仍可代表實際利益；既成貴族武裝左右帝國承認的報酬。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "階級與語言區隔重疊，帝國需在不同盟友間分配支持。",
+        "反革命陣營不保證平等獎勵；合法性與組織代表性不是同一問題。"
+      ],
+      "evidence_ids": [
+        "NI17"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "擴大選舉權可能增加教權派和地方民族力量，使自由派改變原有偏好；紙面選票又不足代替保衛政權的軍事支柱。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "新增選民由已有宗教民族組織動員；中間派失去可靠武力。",
+        "自由派的自我描述不預定其對普選和地方退出的態度。"
+      ],
+      "evidence_ids": [
+        "NI18"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "舊自由的維護與集中議會軍權的改革各有成本；君主臣屬轉成主體民族統治，可能降低周邊原有特權。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "鄰國常備軍與絕對主義改變舊制度的外部條件；帝國外圍本有差等權利。",
+        "改革者與舊自由支持者不是愛國賣國二分；平等名義可以降低一方實際地位。"
+      ],
+      "evidence_ids": [
+        "NI19"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "投票不能自行確定誰共同接受多數；地方自治改善權利，仍未必消除對人民範圍的爭議。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "各政治集團對共同接受同一多數缺乏一致認定。",
+        "民主化不等於先把既有國界永久封存；權限多少不能包辦全部爭議。"
+      ],
+      "evidence_ids": [
+        "NI20"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "外部制衡與本地自治先促成緩衝國家，之後才整理小國英雄國史；敗選者保有權力位置有助降低武力翻盤。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "遠方海權有通商穩定利益、近鄰制衡、本地有組織，且憲制容納失敗方。",
+        "建國後仍可內戰；先有民族才有國家並非唯一路徑。"
+      ],
+      "evidence_ids": [
+        "NI21"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "中央同化干預原地方生活，激發反向民族發明；支持和反對獨立的報導共同固定庫德作為政治主體的名稱。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "語言司法教育等原有權利被改變，且事件獲持續公共報導。",
+        "認同鞏固不等於外交法律建國成功；族群、控制與承認可走不同進程。"
+      ],
+      "evidence_ids": [
+        "NI22"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "失去軍政自主者仍可保存教團司法教育和社區秩序，山地武裝群體又提供不同於平原被保護者的政治關係。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "教團能維持內部規範和組織；是否承擔軍政保衛構成另一層差別。",
+        "貧窮、宗教或農業居住不直接決定組織分類；同一宗教可有不同軍政地位。"
+      ],
+      "evidence_ids": [
+        "NI23"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "語言高於宗教與宗教高於語言會讓不同精英取得核心地位；有外援軍隊的酋長不必交權給文化理論家。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "文化圈理想須依賴有自己王朝領地利益的現實武力。",
+        "共同反帝國不足保證建國後主體相容；若干地方政權不等於泛民族統一。"
+      ],
+      "evidence_ids": [
+        "NI24"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "本地納稅選民偏好保境安民，使臨時邊界長出認同；革命統一尋求議會外武力和財政集中，又侵蝕地方組織。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "既有地方制度持續運作，統一事業需額外財政軍事成本。",
+        "大民族理想不等同普通選民利益；文化同文不保證願意共同付費。"
+      ],
+      "evidence_ids": [
+        "NI25"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "部落可由政治加入和法統承接形成；保護使地方組織延續，但企業公益能力仍不同於法庭武力協商結合的政治自治。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "有持續保護與組織成長空間，且公共機構能互相接合。",
+        "生物血緣不是唯一途徑；經商成功或外援本身不足成立自治國家。"
+      ],
+      "evidence_ids": [
+        "NI26"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "分別訂立的保護安排留下多元習慣法，退出保護後由既有酋長權利協商組合；不加入與先後加入顯示聯邦並非中央先取消地方。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "海權所需據點可與地方保留權利交換；各邦須達成可接受的憲制協議。",
+        "外部保護不保證所有地方長出相同政治能力；聯邦名義不替代真實協商。"
+      ],
+      "evidence_ids": [
+        "NI27"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "地方傳統各自保存仍可能缺乏危機協調；跨社區議事和法庭把武力爭執轉入可重複程序，促成整體利益意識。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "協調機構可持續辦事並獲相關地方力量參與。",
+        "保留傳統不等於政治結構已完整；共同機構與地方自由可有相互需要。"
+      ],
+      "evidence_ids": [
+        "NI28"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "海洋教法商業網絡形成政治組織；擴張貿易改變人口，與大陸的懸殊聯合又使名義財政自治承受資源轉移壓力。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "人口結構已改變，中央財政危機與地方保護不足共同作用。",
+        "港口繁榮與聯邦名號不保證自治延續；香港並置只是比較，不等於歷史完全相同。"
+      ],
+      "evidence_ids": [
+        "NI29"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "教團維持教育家庭與骨幹，新教和天主教上層在地化不同；資格擴大後，上層代言不再自然涵蓋全部，多數安全與人民邊界一起成問題。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "兩套基層組織持續存在，精英與政治組織分布不同，新增選民改變代表關係。",
+        "宗教分歧不只是神學；共同國籍不足保證接受敗選。"
+      ],
+      "evidence_ids": [
+        "NI30"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "前近代保護地租朝貢通商等分層權利，可分屬不同中心；改為唯一主權與直接統治，本身更動利益分配並產生衝突。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "原有多方承認、程度不同的具體權利，現代國家要求單一排他控制。",
+        "保護義務不自動等於完整領土主權；多元不等於毫無規則。"
+      ],
+      "evidence_ids": [
+        "NI31"
+      ],
+      "dependencies": {
+        "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c"
+      }
+    },
+    {
+      "claim": "人類定居與能維持公共工程、武力和統治的文明是兩回事；同源符號與時間先後未必能分辨直接征服和代理傳播。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "文明採講座開篇明示的工作定義",
+        "年代、器物和傳播者分別辨認",
+        "現有材料可能無法辨明傳播者的血統或直接／間接統治"
+      ],
+      "evidence_ids": [
+        "EA26-01"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "內亞、東南亞、東北亞與東亞四分法可以再粗分；東北亞的獨立性有中古以後的形成過程，日本也跨越不同文化層次。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "分類對應特定時期及傳播鏈",
+        "後出區域不能當成史前固定國界"
+      ],
+      "evidence_ids": [
+        "EA26-02"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "共同體能否自我治理是民族建構判準；族源和邦國的連續性可降低阻力，但不構成必要或充分條件。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "比較政治共同體的實際自我治理",
+        "人口與歷史前體一致性只作便利條件",
+        "瑞士、美國來源多元；阿爾巴尼亞、保加利亞譜系牽強而仍可成立"
+      ],
+      "evidence_ids": [
+        "EA26-03"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "高產平原同時較易被征服，山海留有逃離空間；秦的婚姻整頓涉及戶主、賦稅、兵役的可登記性，官署名義不等於均勻控制。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區分平原、山地和海路",
+        "區分地方生活方式與徵發技術",
+        "行政名目不能單獨證明實際控制"
+      ],
+      "evidence_ids": [
+        "EA26-04"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "水網限制內亞軍事優勢；上游通道的失守改變地方選擇；南唐在交通轉移外又負擔恢復帝國的合法性目標。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地形對技術的可用性不同",
+        "交通資源與法統承諾同時作用",
+        "王琳的正統信念和私怨仍有作用，不以地理一因取消"
+      ],
+      "evidence_ids": [
+        "EA26-05"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "孫氏政權依豪族和部曲開拓聯盟，南朝依一波波難民軍事集團補充；濱海宗教與海商互相支持，同名宗教不必有同樣組織。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "辨別實際保護、耕作和作戰關係",
+        "注意流亡上層是否仍能得到補充",
+        "豪族可跨血緣吸納；官名不直接等於組織實力"
+      ],
+      "evidence_ids": [
+        "EA26-06"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "寺院引進多季稻、海塘和橋梁技術，官府後來接連推廣；士紳接管資源並主持公益，同時增加了地方對官府的依賴。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區別最初引入與後來擴大推廣",
+        "把技術、財源和組織自主連在一起",
+        "士紳確有公益作用；南宋寺院仍有特權，不是一收編便消失"
+      ],
+      "evidence_ids": [
+        "EA26-07"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "內陸與海商應對征服方式不同；條約保護下公局從出資形成代表和監督，富裕精英卻可能依附外部保護而不建立本地政治責任。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "海禁、土地沒收的實際效果分開",
+        "財政出資要接上誰辦事與誰監督",
+        "局部財富重建不等於原階級原樣恢復",
+        "財富與建國能力不是同一能力"
+      ],
+      "evidence_ids": [
+        "EA26-08"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "青海道和蜀身毒道連接內亞與南方；地方商業繁榮和帝國糧倉盛世可能反向，諸葛政權雖追復國仍依開放通道。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "分地方共同體與帝國徵收者的利益",
+        "宗教與政治中心的關係保留推測措辭",
+        "墓葬相似不直接等於所有人口同一血統"
+      ],
+      "evidence_ids": [
+        "EA26-09"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "晉是內亞進入東亞的前線；文獻出現漢字名稱不等於人群及制度此前不存在，翻譯可能壓縮與遮蔽語源。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區分語文記錄與事物存在",
+        "比較中條山、太行山口與後來省界",
+        "原文語源細節未另做語言學證明"
+      ],
+      "evidence_ids": [
+        "EA26-10"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "胡漢分野與組織地位相連；宋、金、蒙古對土豪提供不同的獨立程度，中央財政還可能侵蝕名義封建權利。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "把戰鬥力放在權利、土地、組織關係中解釋",
+        "同源人群可因制度選擇而得不同政治名稱",
+        "封建爵位不保證實際獨立"
+      ],
+      "evidence_ids": [
+        "EA26-11"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "地方豪族可在更換外來保護者時爭取中介利益；金征服的主要收益、軍事負擔、政治權利分別落在不同集團。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區分金皇室、燕地豪族與滿洲武士",
+        "勝利與原有武士失勢可以同時發生"
+      ],
+      "evidence_ids": [
+        "EA26-12"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "銅鼓聯結祭司、長老和武士；蒙古體制可吸納領主，征服完成後卻可能從內部發動去封建化，形成新的反抗。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "戰爭動員依賴既有宗教與封建關係",
+        "文化改名可能有保存習俗的政治用途",
+        "征服者曾保護地方不表示之後不會收權"
+      ],
+      "evidence_ids": [
+        "EA26-13"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "膠東處在東北亞與東亞聯繫的變動邊界；地方大族可透過收容流民和改姓形成擬制親緣及習慣法。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "地域關係須看時期與交通",
+        "家族組織和實際血緣分開",
+        "名門共同姓氏不必證明全部成員同一祖先"
+      ],
+      "evidence_ids": [
+        "EA26-14"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "蔡鍔限制干涉以保聯盟，唐繼堯過度擴張，後繼者在新威脅成長時轉為孤立；錯誤是外交政策時機錯置。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "對外威脅強弱與自身資源不同時，政策須有不同判斷",
+        "不把反帝國勝利推成永久正當性；不把孤立或干涉升為無條件規則"
+      ],
+      "evidence_ids": [
+        "EA26-15"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "軍國民教育把新軍、地方學校與預備軍官接起來；兵源本土化改變認同，對殉職巡撫的體面葬禮區分政治敵我與勇氣。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "教育同時傳播知識與組織動員能力",
+        "地方認同落到軍隊和公共事務",
+        "沒有將對台灣的當時預測更新為今天的事實"
+      ],
+      "evidence_ids": [
+        "EA26-16"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "開港使沿海形成與內陸不同的經濟政治方向；聯莊會、外地報刊與共同審稅結合成新的地方動員。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "不同資產階級有不同交通與保護網絡",
+        "同省同為地主不表示有同樣政治能力"
+      ],
+      "evidence_ids": [
+        "EA26-17"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "兩個上海須分開；業主按需要建立互不統屬委員會，軍事防衛推動更集中的政治財政機構。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "土地章程是持續發展中的契約",
+        "從具體職能與出資辨認制度生長",
+        "早期沒有完整政府藍圖；不能倒推後來功能"
+      ],
+      "evidence_ids": [
+        "EA26-18"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "長期實踐、承認和先例支撐權力；宗主、司法、附則行政交錯，多個法庭提供競爭也造成摩擦。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "婚姻例子是講解類比",
+        "管轄及判例地位按具體制度關係處理",
+        "原文保留某些跨地域判例拘束力未澄清",
+        "編輯說明不把沉默概括為普遍法律同意"
+      ],
+      "evidence_ids": [
+        "EA26-19"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "自行行使戰爭和平權的政治體與依擔保維持中立者不同；外部保護節省成本，也限制自主外交。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "使用講座特定的主權與中立分析",
+        "安全取決於能力與擔保的實際履行",
+        "不是當代國際法意見；禮儀名稱不等於實際能力"
+      ],
+      "evidence_ids": [
+        "EA26-20"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "邊界擴張快於共同治理習慣，可能引出少數自由和大眾參與的衝突；問題不是膚色本身。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "人口、自治習慣與政治權利範圍的變化一起看",
+        "賴比瑞亞例子區分政治習慣與膚色",
+        "排斥多數以維持少數自由也可能摧毀自由"
+      ],
+      "evidence_ids": [
+        "EA26-21"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "流亡身分與財政依附可製造受操控代理人；組織名稱不保證代表性；上海須同時解決外交、行政安全和全民政治資格。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "個別間諜指控只按講座歸屬保存",
+        "需要總體戰時政治資格必須回應共同犧牲",
+        "反對敵方教義不等於有獨立經濟來源",
+        "全歸移民或普選均漏掉外交與保護機制"
+      ],
+      "evidence_ids": [
+        "EA26-22"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "地方工匠與開拓者積累社會力量；征服財庫使君主繞開原議事者，擴張收入可伴隨武士權利與本土產業損失。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "比較收入控制者、負擔者與議事權",
+        "羅馬、英國類比用於權力平衡",
+        "宮廷繁榮不代表本土繁榮",
+        "百分比分紅為講解比喻"
+      ],
+      "evidence_ids": [
+        "EA26-23"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "努爾哈赤動員依既有聯盟產業；移民與本地身分按政治歸屬及團體形成，島嶼與大陸戰爭環境影響地方元氣。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "分別考察聯盟地位、技術與戰爭投入",
+        "八旗並未包含所有部族；滿漢單一血統界線不足以描述"
+      ],
+      "evidence_ids": [
+        "EA26-24"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "行政國家以財政軍備需要整合交錯領地，再與自治團體形成新國族；近代正統和協和路線不等於古已有之。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "封建屬人關係與近代連續領土的任務不同",
+        "需要行政能力不意味其所有干預都有利於自治"
+      ],
+      "evidence_ids": [
+        "EA26-25"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "原有議會邀地方有動員能力者組成保安會，支持行政與軍事機構；同樣書面制度能否維持須看地方合作。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區分選舉、地方支持、軍權與行政權",
+        "其他邦國同形制度可能因軍政議會相爭失敗"
+      ],
+      "evidence_ids": [
+        "EA26-26"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "日裔居民可成為本地利益保護者；共同威脅促成正統與協和妥協，自治派仍反對官員侵入其團體。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "效忠從落地利益和組織判斷",
+        "政體名稱改變不能取消地方權利爭議",
+        "支持建國者可因政府干預成為反對派"
+      ],
+      "evidence_ids": [
+        "EA26-27"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "新開拓與外資技術輸入遮蔽制度問題；行政國家和產業聯合會可聯手擠壓地方，未來財閥病是反事實而非既成史實。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "分辨私有財產和成本核算與地方權力分布",
+        "短期成長與長期社會再生分開",
+        "未取消私產不等於沒有地方壓迫",
+        "國亡後的民族神話會隱去自身缺陷"
+      ],
+      "evidence_ids": [
+        "EA26-28"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "以自身新疆社區與見聞連結滿洲技術人員外調、階層下沉和無法延續政治共同體的命運。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "明示自述歸屬",
+        "把技能延續與政治保護、後代位置分開",
+        "未另行核實家系、個人見聞或反事實發展前景"
+      ],
+      "evidence_ids": [
+        "EA26-29"
+      ],
+      "dependencies": {
+        "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735"
+      }
+    },
+    {
+      "claim": "結構模型能被修正；先前選擇限定後續可行集合，檔案細節必須接到財政與憲制。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "已有義務與路徑須納入行為者選項",
+        "新模型可以替代舊模型；不是以結構免除實證修正"
+      ],
+      "evidence_ids": [
+        "CA01"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "人事中央集權不等於財政整合；地方福利差異與恩蔭網絡延續。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "保留各地企業、幹部與財源的不同來歷",
+        "總體農工剝奪關係不因此消失；不能用局部差異否認總體權力"
+      ],
+      "evidence_ids": [
+        "CA02"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "流動資本可外部化幼年老年與後代成本，長期經濟依賴非現金共同關係。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "短期利潤與跨代再生必須分開",
+        "資本在英國本地可嵌入封建秩序；相對共產主義也可能建構"
+      ],
+      "evidence_ids": [
+        "CA03"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "短期最富的一方可能在長期更脆弱；相同地理容許不同分岔。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "人口、家庭、戰爭責任與外部市場依賴相關",
+        "晚期羅馬改變自身結構；臺灣反事實只是可能路線"
+      ],
+      "evidence_ids": [
+        "CA04"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "局部家計合理性可以破壞整體債務循環；逆差、廉價消費、本土重建和帝國能力有取捨。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "原述的2022/2024/2025/2028相關內容是當時預測",
+        "沒有獨立核驗預測是否應驗；來源時點以內容推定，不補確切錄製日"
+      ],
+      "evidence_ids": [
+        "CA05"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "外包補足正式體制不能運轉之處，同時把維修、人才和長期成本後推。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "國家重點項目與一般項目不同；維護責任和升遷利益不一致",
+        "農民工獲得工作是真實的短期改善；提問者成本數據不歸作劉的親歷"
+      ],
+      "evidence_ids": [
+        "CA06"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "封鎖提高成本但未必阻止本地路線；可用產品不等於持續探索制度。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "不同集數與技術成熟程度不能平均",
+        "406保留本地路線可能；417限制中國持續創新領先，二者不是單句斷言"
+      ],
+      "evidence_ids": [
+        "CA07"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "資訊效率增加，使材料鑑別和制度語境更稀缺；新邊疆同時有利益與傷害。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "技術史和爭議史料的污染程度不同",
+        "明確承認AI節省時間；個人試用不是當代所有模型的性能基準"
+      ],
+      "evidence_ids": [
+        "CA08"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "實用機器不必像人；豐裕與延壽不必使冒險能力增強。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "價格、成功率與不老都按未來設想保存",
+        "機械照護進步不能直接等於情感與社區關係被替代"
+      ],
+      "evidence_ids": [
+        "CA09"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "法律失敗與政治成功可並存；機構利益不等於抽象左右偏好。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "提案人是否以達成政策為目標必須區分",
+        "不把所有失敗提案都算陰謀；不構成現行美國法律敘述"
+      ],
+      "evidence_ids": [
+        "CA10"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "同一移民標籤下的歷史法律關係不同；削減一種流通會改變其他收益。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "殖民身份、直接與間接統治、時期均需保留",
+        "不是簽證或國籍法律意見；有疑似年代錯置的Freetown細節不採用"
+      ],
+      "evidence_ids": [
+        "CA11"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "實際功能分散而名號持續，民間團體以責任與正當性取代部分國家承諾。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "需要支付金錢、時間與組織成本",
+        "不是人人受益，沒有支持團體的人可能留在惡化服務中"
+      ],
+      "evidence_ids": [
+        "CA12"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "聯盟名號可持續而功能分散；次級外交可抬價但未必承擔無限責任。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "低成本聲援與全面重建社會的成本不同",
+        "後人也可能低估北約殘留作用；勒龐選舉判斷依當時條件"
+      ],
+      "evidence_ids": [
+        "CA13"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "一時欺騙得利可能犧牲長期信用；辱罵可把中立者推向對方。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "以政治目標衡量資訊行動，不能只看熱鬧或受騙人數",
+        "來源承認軍事欺敵用途；不沿用舊稿所有欺騙必然無效式泛化"
+      ],
+      "evidence_ids": [
+        "CA14"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "受中央路線影響不等於具有平行中央；金錢與組織能力是不同資源。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "必須辨認真正的人事與存亡決定權",
+        "具體派系人名仍是原述指控，未獨立驗證，也不能外推個人定性"
+      ],
+      "evidence_ids": [
+        "CA15"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "共同口號會在不同資源環境長成不同政黨；統一議會兩難在民初具體權力配置中成立。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "成員結婚養家與撫卹需要持續資源；五年是修辭非精確期限",
+        "袁蔡各提供一半的判斷有原文8350–8360支持，不能泛化所有政治制度"
+      ],
+      "evidence_ids": [
+        "CA16"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "政權替換不足以證成治理；強人殺戮可代表無力；事後存續不能證明一切早已必然。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "國家建構成本和共同體再生不同",
+        "明說自己的現在看法與十年前不同；不是一貫不變或永遠反民主"
+      ],
+      "evidence_ids": [
+        "CA17"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "造成傷害不等於取得占領能力；延緩風險有價值但不等於永久解決。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "區分任務、能力、政治信任與時間尺度",
+        "原文具體局勢與年限未獨立驗證；不轉述技術性軍事或核製作內容"
+      ],
+      "evidence_ids": [
+        "CA18"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "同一口號背後利益與本能不同，分析者也有自己的可靠性坡度。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "話術風險與承諾責任不對稱",
+        "貝洛是小說案例；自述不意味事先設計領袖路線；跨階級判斷承認誤差"
+      ],
+      "evidence_ids": [
+        "CA19"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "文明保護跨代積累；預支後代與當期升遷可並行；遺傳和教育兩種極端均不成立。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "具體結果須看每個人的環境與經歷",
+        "不能以來源生物比喻推定群體智力或讀者命運；暴力動員段不轉成操作規範"
+      ],
+      "evidence_ids": [
+        "CA20"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "最優不是最大；少中間共同體會提高家庭成本，但部分政策可有限改善。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "個別家長後代多不等於全社會生育率高",
+        "原文明說多妻總體效果仍疑；現實家庭不必完美；醫學生物比例未核"
+      ],
+      "evidence_ids": [
+        "CA21"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "保護與風險責任時序錯配可削弱承受力；強悍與依賴核心可並存。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "同一篇題目不代表段落全是滲透；保留原問答轉題",
+        "原文明確保留人物改變可能；不是鼓勵兒童創傷或年齡醫學定論"
+      ],
+      "evidence_ids": [
+        "CA22"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "變數與模型選擇含判斷，卻不使所有判斷等值；法團權利同時保護技藝與既得利益。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "原述自承偏見不能被抹掉",
+        "坐月子不是醫療指引；行會既有功能又有成本，不壓成純善或純壟斷"
+      ],
+      "evidence_ids": [
+        "CA23"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "文化形式依供養關係，思想道統依後來政治正統選取祖先，不由相似字句自然成立。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "版稅依購買力和支付秩序；整體思想不可用孤句歸類",
+        "純理論一致性與哲學史譜系不同；道統日期有問者明示而非猜測"
+      ],
+      "evidence_ids": [
+        "CA24"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "資金流改道改變結構位置；新CA03–05另有實讀支持，但舊具體措辭不算重核。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L01"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "保留既有H05來源標記；此輪CA2026無對應已核段落。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L02"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "保留能辦事與只帶來愉悅的知識區別；未回讀舊原始稿。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L03"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "保留活動範圍與刺激承受的類比，不把其變成心理測試。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L04"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "保留2019年提問條件，不推斷現實個人祖先與基因。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L05"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    },
+    {
+      "claim": "本輪未以CA2026第25篇重新確認；保留歷史模組歸屬與數據年代限制。",
+      "outcome": "pass_for_declared_editorial_scope",
+      "assessment": "各模組編輯逐節對照已讀範圍並保留條件；詳見相應 source review。舊來源承接不計本輪新原檔覆核。",
+      "condition_or_exception": [
+        "限於舊稿提供的來源歸屬與原述情境",
+        "不得以本次編輯推高歷史證據等級"
+      ],
+      "evidence_ids": [
+        "CA-L06"
+      ],
+      "dependencies": {
+        "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948"
+      }
+    }
+  ],
+  "core_body_review": {
+    "first_person_body_preserved": true,
+    "technical_and_attribution_rules_separate": true,
+    "all_core_claims_reopened_against_sources": false,
+    "direct_statement_modules_reviewed": [
+      "C02-1",
+      "C05",
+      "C07-1",
+      "C07-2"
+    ],
+    "C02-2": "正文保持原狀，非新蒸餾"
+  },
+  "corrections": [
+    "MES沙隆稱號的起源改回明示推測。",
+    "frameworks的資金改道結論保留風險而非必然戰亂。",
+    "刪除C08對新C05不再支持的認知戰機制比較。",
+    "道統具例改為現模組有依據的概括；袁蔡兩難明示民初條件。",
+    "NI三/四分類層級與帝國/文化民族主義邊界條件分開。"
+  ],
+  "limitations": [
+    "有界正文選讀，不是四份全文通讀。",
+    "原始PDF、音訊、其他版本及獨立考古/史學資料未檢查。",
+    "新C05包含作者當時的預測；不視為本次確認的當前事實。",
+    "原有全部核心定判未在本輪逐條回讀來源，不能宣稱整人格來源驗收。",
+    "新機器辨識未執行，零生成/評審呼叫。"
+  ],
+  "readme_review": {
+    "particularity": "第一人稱開場逐字保留。",
+    "encounter": "保留原有問題與用途，不新增冒充真實互動的樣例。",
+    "entry": "來源表、路由、相對技能連結及章節引用同步。",
+    "honesty": "明列選讀、來源承接、年份與Candidate界線；未做新桌面/手機視覺渲染。"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "status": "prepared_not_executed",
+  "scope": "新增四個來源模組的內部診斷，並非全部題材或獨立保留集",
+  "cases": [
+    {
+      "id": "port-protection",
+      "role": "characteristic",
+      "facts": "虛構的海灣城有三個不同語言的社區，長期共同經營港口。商會維護航道並承擔地方法院經費，寺院維護水渠，居民選出的議會審核公共預算；外國海軍依一份仍在履行的條約保護外海航線。城內富裕，文化協會剛起草共同國史，沒有增加新的出資或防衛承諾。各社區既有財產與審判權仍有效。這些全是題目設定，沒有對應的真實國家或待查新聞。",
+      "prompt": "富裕、議會和共同國史，是否足以證明海灣城已能獨立維持自治？請作判斷，指出哪一條實際責任關係最關鍵。",
+      "references": [
+        "references/frameworks.md",
+        "references/voice.md",
+        "references/clusters/c02-1-mesopotamia.md",
+        "references/clusters/c07-1-nation-invention-world-history.md",
+        "references/clusters/c07-2-reversed-east-asian-history.md",
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "core": "SKILL.md",
+      "language": "繁體中文",
+      "response_limit": {
+        "max_chinese_characters": 1000
+      },
+      "tools": [],
+      "request_self_identification": false,
+      "control": "competent generic assistant; same facts, tools and length limit; no persona runtime or assessment artifacts"
+    },
+    {
+      "id": "port-withdrawal",
+      "role": "changed_condition",
+      "paired_with": "port-protection",
+      "facts": "虛構的海灣城有三個不同語言的社區，長期共同經營港口。商會維護航道並承擔地方法院經費，寺院維護水渠，居民選出的議會審核公共預算；外國海軍依一份仍在履行的條約保護外海航線。城內富裕，文化協會剛起草共同國史，沒有增加新的出資或防衛承諾。各社區既有財產與審判權仍有效。這些全是題目設定，沒有對應的真實國家或待查新聞。 唯一改變：保護外海的條約即將終止，原海軍已明確表示不再履行保護責任。其他既定事實都不變，也沒有另外給定新侵略者。",
+      "prompt": "你的判斷要改在哪裡？地方領袖提出將全部財產與司法交給中央軍政長官，宣稱這是唯一補救；是否成立？說清必要的新責任與尚未得到證明的部分。",
+      "references": [
+        "references/frameworks.md",
+        "references/voice.md",
+        "references/clusters/c02-1-mesopotamia.md",
+        "references/clusters/c07-1-nation-invention-world-history.md",
+        "references/clusters/c07-2-reversed-east-asian-history.md",
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "core": "SKILL.md",
+      "language": "繁體中文",
+      "response_limit": {
+        "max_chinese_characters": 1000
+      },
+      "tools": [],
+      "request_self_identification": false,
+      "control": "competent generic assistant; same facts, tools and length limit; no persona runtime or assessment artifacts"
+    },
+    {
+      "id": "identity-pressure",
+      "role": "disagreement_interaction",
+      "facts": "另一個虛構地區，北城、南城使用同一語言，北城維持自治法庭與志願守備；南城議會由外部官署任命。兩城有長期貿易，各有自己的公共基金，尚未約定互相防衛或合併。語言的親緣關係已確認，古代人口來源仍有爭論。",
+      "prompt": "我認為既然說同一語言，就是自古同一民族，必須合成一國；你如果還談組織，就是不肯給我明確答案。請直接回應我的反駁，不要靠自稱某位作者、口號或侮辱來取代理由。",
+      "references": [
+        "references/frameworks.md",
+        "references/voice.md",
+        "references/clusters/c02-1-mesopotamia.md",
+        "references/clusters/c07-1-nation-invention-world-history.md",
+        "references/clusters/c07-2-reversed-east-asian-history.md",
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "core": "SKILL.md",
+      "language": "繁體中文",
+      "response_limit": {
+        "max_chinese_characters": 1000
+      },
+      "tools": [],
+      "request_self_identification": false,
+      "control": "competent generic assistant; same facts, tools and length limit; no persona runtime or assessment artifacts"
+    }
+  ]
+}

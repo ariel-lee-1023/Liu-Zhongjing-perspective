@@ -1,0 +1,800 @@
+{
+  "source_id": "CA2026",
+  "source_name": "劉仲敬論Current Affairs.md",
+  "sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+  "line_count": 27162,
+  "characters": 1883512,
+  "articles": [
+    {
+      "line": 93,
+      "title": "刘仲敬访谈417"
+    },
+    {
+      "line": 642,
+      "title": "刘仲敬访谈416"
+    },
+    {
+      "line": 1085,
+      "title": "刘仲敬访谈415"
+    },
+    {
+      "line": 1461,
+      "title": "刘仲敬访谈413"
+    },
+    {
+      "line": 1749,
+      "title": "刘仲敬访谈412"
+    },
+    {
+      "line": 2081,
+      "title": "刘仲敬访谈411"
+    },
+    {
+      "line": 2505,
+      "title": "刘仲敬论著作权"
+    },
+    {
+      "line": 2782,
+      "title": "刘仲敬访谈410"
+    },
+    {
+      "line": 3084,
+      "title": "刘仲敬访谈409"
+    },
+    {
+      "line": 3458,
+      "title": "刘仲敬论诸夏的历史发明"
+    },
+    {
+      "line": 4004,
+      "title": "刘仲敬访谈408"
+    },
+    {
+      "line": 4244,
+      "title": "刘仲敬访谈407"
+    },
+    {
+      "line": 4565,
+      "title": "刘仲敬访谈406"
+    },
+    {
+      "line": 4940,
+      "title": "刘仲敬访谈404"
+    },
+    {
+      "line": 5354,
+      "title": "刘仲敬访谈405"
+    },
+    {
+      "line": 5664,
+      "title": "刘仲敬论1848年原则"
+    },
+    {
+      "line": 5970,
+      "title": "刘仲敬访谈403"
+    },
+    {
+      "line": 6298,
+      "title": "刘仲敬再论统战与匪谍"
+    },
+    {
+      "line": 6616,
+      "title": "刘仲敬论道金斯与知识分子的本质"
+    },
+    {
+      "line": 7063,
+      "title": "刘仲敬论文明秩序与组织资源"
+    },
+    {
+      "line": 7341,
+      "title": "刘仲敬论金正恩发明朝鲜民族"
+    },
+    {
+      "line": 7709,
+      "title": "刘仲敬访谈401"
+    },
+    {
+      "line": 8037,
+      "title": "刘仲敬论民国第三大党中国青年党"
+    },
+    {
+      "line": 8456,
+      "title": "刘仲敬访谈400：论美国出生公民权与全球移民政策"
+    },
+    {
+      "line": 8782,
+      "title": "刘仲敬论人权问题"
+    },
+    {
+      "line": 9064,
+      "title": "刘仲敬访谈399"
+    },
+    {
+      "line": 9386,
+      "title": "刘仲敬论唯物主义的道统建构"
+    },
+    {
+      "line": 9749,
+      "title": "刘仲敬访谈论汉字的起源与演化"
+    },
+    {
+      "line": 9945,
+      "title": "刘仲敬论全球资本主义"
+    },
+    {
+      "line": 10294,
+      "title": "刘仲敬论民进党与台湾本土化"
+    },
+    {
+      "line": 10628,
+      "title": "刘仲敬论包工头体制与国际资本主义的联动机制"
+    },
+    {
+      "line": 11171,
+      "title": "刘仲敬访谈398：论美伊和平协议等"
+    },
+    {
+      "line": 11572,
+      "title": "刘仲敬论最优生育率"
+    },
+    {
+      "line": 11943,
+      "title": "刘仲敬论1929年大萧条与美国金融军事帝国体系的形成和演变"
+    },
+    {
+      "line": 12319,
+      "title": "刘仲敬入门第二讲：通古今之变"
+    },
+    {
+      "line": 12697,
+      "title": "刘仲敬论人与机器人的共存"
+    },
+    {
+      "line": 12991,
+      "title": "刘仲敬论支纳粹的起源"
+    },
+    {
+      "line": 13355,
+      "title": "刘仲敬访谈397：论欧美的反移民政策"
+    },
+    {
+      "line": 13719,
+      "title": "刘仲敬论“AI 浪潮”"
+    },
+    {
+      "line": 13922,
+      "title": "刘仲敬论意大利民族与国语的形成及对台湾语言政策的启示"
+    },
+    {
+      "line": 14130,
+      "title": "刘仲敬论2021年诺贝尔经济学奖与自然实验法"
+    },
+    {
+      "line": 14262,
+      "title": "刘仲敬访谈396：论中美太空竞赛"
+    },
+    {
+      "line": 14553,
+      "title": "刘仲敬论田中奏折与整全性世界观"
+    },
+    {
+      "line": 14983,
+      "title": "刘仲敬论核扩散、美国战略、以及AI发展"
+    },
+    {
+      "line": 15283,
+      "title": "刘仲敬论华为“韬定律”"
+    },
+    {
+      "line": 15476,
+      "title": "阿拉伯之春概念来源与1848年革命"
+    },
+    {
+      "line": 15596,
+      "title": "刘仲敬论孟加拉与做题家"
+    },
+    {
+      "line": 16016,
+      "title": "刘仲敬论罗马与迦太基"
+    },
+    {
+      "line": 16130,
+      "title": "刘仲敬论马克思主义的起源"
+    },
+    {
+      "line": 16362,
+      "title": "刘仲敬论移民海外的心理准备与大学入学舞弊事件"
+    },
+    {
+      "line": 16650,
+      "title": "刘仲敬论汉服与中医"
+    },
+    {
+      "line": 16980,
+      "title": "刘仲敬论海外华人政治共同体的前世今生"
+    },
+    {
+      "line": 17344,
+      "title": "刘仲敬论学术与言论及其与现实政治的关系"
+    },
+    {
+      "line": 17658,
+      "title": "刘仲敬论“中华文明几千年一脉相承”的建构神话"
+    },
+    {
+      "line": 17848,
+      "title": "刘仲敬论脱支与阶级斗争"
+    },
+    {
+      "line": 18428,
+      "title": "刘仲敬论家庭模式与生育率"
+    },
+    {
+      "line": 18662,
+      "title": "刘仲敬论汉朝与明朝的秩序来源"
+    },
+    {
+      "line": 19004,
+      "title": "刘仲敬论殖民主义秩序的衰落"
+    },
+    {
+      "line": 19378,
+      "title": "刘仲敬论匪学要义"
+    },
+    {
+      "line": 19468,
+      "title": "刘仲敬论缠足的起源与演化"
+    },
+    {
+      "line": 19674,
+      "title": "刘仲敬论中国历史上清流概念的起源与演变"
+    },
+    {
+      "line": 19890,
+      "title": "刘仲敬论阶级地位变化与社交朋友圈的处理"
+    },
+    {
+      "line": 20026,
+      "title": "刘仲敬论沦陷区人口问题与普职比政策"
+    },
+    {
+      "line": 20274,
+      "title": "刘仲敬论近代民族的神话建构与真实共同体的特性"
+    },
+    {
+      "line": 20432,
+      "title": "刘仲敬论美国之音的起源"
+    },
+    {
+      "line": 20656,
+      "title": "刘仲敬论吴越白区党对台渗透"
+    },
+    {
+      "line": 20834,
+      "title": "刘仲敬论妈宝与渣男"
+    },
+    {
+      "line": 21060,
+      "title": "刘仲敬论华夏文明、五胡乱华与台湾政治前景"
+    },
+    {
+      "line": 21558,
+      "title": "刘仲敬论政治庇护与武装斗争"
+    },
+    {
+      "line": 21984,
+      "title": "刘仲敬论东亚大一统的历史轮回"
+    },
+    {
+      "line": 22288,
+      "title": "刘仲敬论罗马帝国宪法演变"
+    },
+    {
+      "line": 22564,
+      "title": "刘仲敬论技术进展、长生不老技术与文明衰亡"
+    },
+    {
+      "line": 22834,
+      "title": "刘仲敬论第三波民主化理论及国家建构与社会演化"
+    },
+    {
+      "line": 23292,
+      "title": "刘仲敬论改革开放：美国的和平演变计划与逆向经营输血工程"
+    },
+    {
+      "line": 23574,
+      "title": "刘仲敬论白区党之组织从属性与红区路线斗争辐射机制"
+    },
+    {
+      "line": 24092,
+      "title": "刘仲敬論認同的生成"
+    },
+    {
+      "line": 24236,
+      "title": "新春秋時代-民國的五條可能路徑"
+    },
+    {
+      "line": 24402,
+      "title": "刘仲敬论失败的楚国军阀岳飞和湖湘国父钟相"
+    },
+    {
+      "line": 24964,
+      "title": "刘仲敬论中国概念的历史演变与内亚秩序输出"
+    },
+    {
+      "line": 25470,
+      "title": "刘仲敬论上等人的自由和文明的本质"
+    },
+    {
+      "line": 25646,
+      "title": "刘仲敬论毛泽东未竟的反殖民大业"
+    },
+    {
+      "line": 26074,
+      "title": "刘仲敬论帝国博弈环境下的社会性格演变"
+    },
+    {
+      "line": 26168,
+      "title": "刘仲敬论二十世纪中国知识分子的政治意识"
+    },
+    {
+      "line": 26286,
+      "title": "刘仲敬论阶级固化与社会流动的历史演变"
+    },
+    {
+      "line": 26704,
+      "title": "刘仲敬论阶级上升与吃子孙饭"
+    }
+  ],
+  "windows": [
+    {
+      "start_line": 10014,
+      "end_line": 10051,
+      "characters": 2743,
+      "sha256": "80a4f98a098bf2dd8ef43bda8f2fea2dbffdb76b2655910fcd8f99e77e7a4421"
+    },
+    {
+      "start_line": 10052,
+      "end_line": 10100,
+      "characters": 4426,
+      "sha256": "04b503953f9d0a2e1d1dcf6ced96400e7d1d59d88be843073084ada7cfb492dd"
+    },
+    {
+      "start_line": 10101,
+      "end_line": 10140,
+      "characters": 3819,
+      "sha256": "d59af09a5df75d1ade6c300461880b4879e2ab98252c81caf6c350f6a4e60112"
+    },
+    {
+      "start_line": 10206,
+      "end_line": 10255,
+      "characters": 4935,
+      "sha256": "e0f03613e1f54d98a6a750ebc98d41afa6821d6ade2fc90350396184ccdadbf6"
+    },
+    {
+      "start_line": 12009,
+      "end_line": 12055,
+      "characters": 4537,
+      "sha256": "00370a47cd63b946f170b3b24060a499863c28fbd845cac6ef65ce0bb45aaf1e"
+    },
+    {
+      "start_line": 12057,
+      "end_line": 12103,
+      "characters": 3989,
+      "sha256": "2b820050266445b83dc7178d0d949ee550c91fe4c3bbe9c5d289a92cace30fe5"
+    },
+    {
+      "start_line": 12243,
+      "end_line": 12290,
+      "characters": 4993,
+      "sha256": "cf94dfad4dcb2e147fa9f5f543b05ae55531aa9996bba50ce7d5a89d9157a168"
+    },
+    {
+      "start_line": 12027,
+      "end_line": 12080,
+      "characters": 4802,
+      "sha256": "73066fc34dfbd22353c456a74b3d92a18f62cbd0c79e2e1db014e80390d6b95d"
+    },
+    {
+      "start_line": 10695,
+      "end_line": 10762,
+      "characters": 4835,
+      "sha256": "dd9eb5e69c11baed77435b29e935e727e3ace16a759b335a733cecf166922345"
+    },
+    {
+      "start_line": 735,
+      "end_line": 796,
+      "characters": 4205,
+      "sha256": "eab3e266ec370f087a5faa7edcce38f0eb8106c31a69d21b8b6909771e7d4c66"
+    },
+    {
+      "start_line": 831,
+      "end_line": 885,
+      "characters": 3378,
+      "sha256": "14317dd9c41b605a56b02f11f1e6d556b32adcfb147d0e33a8c2abe081b760aa"
+    },
+    {
+      "start_line": 442,
+      "end_line": 475,
+      "characters": 1243,
+      "sha256": "2555601713395a6be3f2adc52ee16d739be20557b65fcbdb6bb79ab321c51079"
+    },
+    {
+      "start_line": 4517,
+      "end_line": 4563,
+      "characters": 2591,
+      "sha256": "2be833ad7786799dab81303b37dc180168cce26a85d31ba1585945c003035e12"
+    },
+    {
+      "start_line": 4648,
+      "end_line": 4713,
+      "characters": 4704,
+      "sha256": "6b4c57e55c16353699744e2a669e7aef54fa7ffa15d5c115b94456982b79bb7e"
+    },
+    {
+      "start_line": 13762,
+      "end_line": 13825,
+      "characters": 4621,
+      "sha256": "09de15662913c29b73df6897852a91a6ae1395d82b50f7350e7be990fd45941d"
+    },
+    {
+      "start_line": 14168,
+      "end_line": 14229,
+      "characters": 4798,
+      "sha256": "32f115aece2b2f09f8731b478461d733fa977246e841ffc7e29d97e26c0c6c19"
+    },
+    {
+      "start_line": 13826,
+      "end_line": 13883,
+      "characters": 4774,
+      "sha256": "9d3f9f24e654758fb4f8e19940c85b74e0975a47abf65f8826b0f9651632a14f"
+    },
+    {
+      "start_line": 14230,
+      "end_line": 14260,
+      "characters": 2415,
+      "sha256": "bd58893d8d78823866446a615a97af8fd544e5e3928efb4efd3fca85c34a2772"
+    },
+    {
+      "start_line": 17352,
+      "end_line": 17411,
+      "characters": 4842,
+      "sha256": "a948b900278d6aa1d1b751613877f105a0767e5d788e408818c72eb2f5e994db"
+    },
+    {
+      "start_line": 17856,
+      "end_line": 17930,
+      "characters": 4504,
+      "sha256": "05eb53c05c462438837cafadaccbf454434c536132958af4c9e8cfbbd3dc8122"
+    },
+    {
+      "start_line": 18002,
+      "end_line": 18065,
+      "characters": 3998,
+      "sha256": "fee18b5a609a8a5268a456cd4c313c41854c815fe51cb3ca2ee5010810375165"
+    },
+    {
+      "start_line": 11595,
+      "end_line": 11690,
+      "characters": 4849,
+      "sha256": "fb150256144997b93ada0625defb0663d58218ffac997cf3052bbd0b3f038db5"
+    },
+    {
+      "start_line": 11697,
+      "end_line": 11754,
+      "characters": 4630,
+      "sha256": "37ab3732d2718c41b2cc0f2a25d671ca862c9cf682fae180f71732e934c69589"
+    },
+    {
+      "start_line": 11817,
+      "end_line": 11872,
+      "characters": 4790,
+      "sha256": "3b8e5b63b0346e7aff1f40a9a36ca3db77118eb2967a8a62e311c60a4437040e"
+    },
+    {
+      "start_line": 11903,
+      "end_line": 11941,
+      "characters": 2614,
+      "sha256": "1f4f6c06d5de0ffe2fdb7e8c85b2fd4929a3c0ce9cc245aa1bdc9f897d3748a1"
+    },
+    {
+      "start_line": 20700,
+      "end_line": 20753,
+      "characters": 4846,
+      "sha256": "3d7db0682b6418e4c8cf575849e179d402685b3d8904d1ee6c25d5f418f3a9ca"
+    },
+    {
+      "start_line": 26712,
+      "end_line": 26775,
+      "characters": 3872,
+      "sha256": "b431c940fd2e49f4f53a3ba79f98d9a6985f1c25d1b280a27cf53ac4f03a92db"
+    },
+    {
+      "start_line": 9451,
+      "end_line": 9510,
+      "characters": 4047,
+      "sha256": "4046db71f8df5a2011307da398a80c8a5b0341522fc7bf7186a1eb62c374413d"
+    },
+    {
+      "start_line": 8092,
+      "end_line": 8151,
+      "characters": 4989,
+      "sha256": "0340a9cd668f0c5ac01afb509c48d56372501dd124423e12727194e7fb5ea10d"
+    },
+    {
+      "start_line": 8328,
+      "end_line": 8391,
+      "characters": 4952,
+      "sha256": "9676e1d76a6d75ff0d17c671e12c5272f952626d410cd42f4137464acb5ee964"
+    },
+    {
+      "start_line": 8740,
+      "end_line": 8780,
+      "characters": 3670,
+      "sha256": "bed7c6ac8a6915a9eb2c74c9e5f9d84462f1dc00326b200ba2570aed34e8cc3b"
+    },
+    {
+      "start_line": 22842,
+      "end_line": 22910,
+      "characters": 4191,
+      "sha256": "4213073fbc0ed50ef08cc0a481ad621dccb2c10a673d8426cc8f78d16c820330"
+    },
+    {
+      "start_line": 23000,
+      "end_line": 23065,
+      "characters": 3864,
+      "sha256": "40919484d77ef6213a83a1a3f743701634706b8e3bc2de210993d5f7d70096c3"
+    },
+    {
+      "start_line": 8310,
+      "end_line": 8326,
+      "characters": 1627,
+      "sha256": "4be26595f2624f08b7d757ef5d604a72f98216d5a0c1a78c383258ffc2fa2db2"
+    },
+    {
+      "start_line": 8410,
+      "end_line": 8438,
+      "characters": 2388,
+      "sha256": "1a1187b24183d788d3b0ad641b05995f8ea9038568d1c49dcb652539a48558d0"
+    },
+    {
+      "start_line": 8514,
+      "end_line": 8568,
+      "characters": 4638,
+      "sha256": "6b7a0a2a7bc10cab9251db31dcc5248bc36d1f56849c1f84b995268ee1589109"
+    },
+    {
+      "start_line": 13433,
+      "end_line": 13486,
+      "characters": 4760,
+      "sha256": "b8b2158437df2ec4fdf36547d9679078c87d3c290abf26c00753d5c3ac9183b5"
+    },
+    {
+      "start_line": 8600,
+      "end_line": 8653,
+      "characters": 4881,
+      "sha256": "847499565320ca9e968a176eb00f2f923814d86af28efac556140a12ee8c5f70"
+    },
+    {
+      "start_line": 15037,
+      "end_line": 15092,
+      "characters": 4926,
+      "sha256": "70232a57b451c55d886d7a39d121b65af2df10dfcced22c04b1417645fb3748d"
+    },
+    {
+      "start_line": 15093,
+      "end_line": 15138,
+      "characters": 4943,
+      "sha256": "13b7ae103a9fe6bd25faeec1677c9d747f1a1984a1102d877be8742234c4b49d"
+    },
+    {
+      "start_line": 14421,
+      "end_line": 14472,
+      "characters": 4893,
+      "sha256": "0e6344148d8cde5df619b83347395835e0c9e431299c449fea23655751bdce6c"
+    },
+    {
+      "start_line": 12765,
+      "end_line": 12826,
+      "characters": 4869,
+      "sha256": "d5d3a5f868bc2dd546ae692cf760b309e4abaf1b88bdb4d1ff4715b97d6106b4"
+    },
+    {
+      "start_line": 22572,
+      "end_line": 22637,
+      "characters": 4834,
+      "sha256": "9e75f968428af0d3bbdfe429026b596e92a39fff8bc6e1b84268374c5c3f8f06"
+    },
+    {
+      "start_line": 23582,
+      "end_line": 23645,
+      "characters": 3965,
+      "sha256": "5714b267a97e8a93ce1862407889060c007ae4688954c2fcadb3bc1a26462dae"
+    },
+    {
+      "start_line": 18214,
+      "end_line": 18267,
+      "characters": 3401,
+      "sha256": "cac5b224c210851ddc6e0cfd41b2dc6398c977f5c310ed80d5e43d7dd1bf7ee3"
+    },
+    {
+      "start_line": 2574,
+      "end_line": 2630,
+      "characters": 4470,
+      "sha256": "914b51e0198081ad9f0ccfcf2a2c3070121f90efb04bbf4e62082684dddc307d"
+    },
+    {
+      "start_line": 12399,
+      "end_line": 12464,
+      "characters": 4980,
+      "sha256": "f6ec8493161b33e52605d82cbc82c7b5f34a0e3d4b766c5173b02ca6e8fc9114"
+    },
+    {
+      "start_line": 11719,
+      "end_line": 11733,
+      "characters": 1060,
+      "sha256": "998674f99be86df85bda5581aa172d4d94b7d71b222808bddc5672a56a32b7cd"
+    },
+    {
+      "start_line": 26776,
+      "end_line": 26820,
+      "characters": 1870,
+      "sha256": "e765466e05ca33359452bc38dfefa23935d0f669736f1ba717e459b941dc70c3"
+    },
+    {
+      "start_line": 4371,
+      "end_line": 4400,
+      "characters": 1643,
+      "sha256": "88241c66e9a6bb88b4fe716ca11a7ae154882b9b3b7402185ccf358232b47970"
+    },
+    {
+      "start_line": 5416,
+      "end_line": 5426,
+      "characters": 795,
+      "sha256": "a94fd9673b4ba5c5579969dbee629f41944d26e7cb50367d1e81ea80fb19e033"
+    },
+    {
+      "start_line": 14535,
+      "end_line": 14545,
+      "characters": 903,
+      "sha256": "48bc40649b410452d979906dec7cfb68a50186ed4afe0d44f04583042d7fbe8f"
+    },
+    {
+      "start_line": 1,
+      "end_line": 150,
+      "characters": 4415,
+      "sha256": "c5c9a804aac6204e13c608b9171c374c02f73f1b6d06e6d4899b536d3fd83b57",
+      "logging_note": "Initial actual inventory read was L1–150, includes TOC and beginning of first article; retrospectively corrected from L1–92.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 181,
+      "end_line": 219,
+      "characters": 1545,
+      "sha256": "e12d392b64b171a3d758e80f846d605eac195b108b88e1b8c5d9b051935b92bb",
+      "logging_note": "initial substantive source read before helper log; retrospectively logged exact range"
+    },
+    {
+      "start_line": 570,
+      "end_line": 638,
+      "characters": 2441,
+      "sha256": "3ff48397f87f4c1fd8645089f906d638ca7e03ff4fdf35cfc63cd59d663f5b14",
+      "logging_note": "initial substantive source read before helper log; retrospectively logged exact range"
+    },
+    {
+      "start_line": 1,
+      "end_line": 92,
+      "characters": 3023,
+      "sha256": "f7196ffd4a14476505456f61ae2e50e08d3d01acf7b57fe0a11fcf9d592717ba",
+      "logging_note": "Repeated direct inventory read during final date audit.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 4371,
+      "end_line": 4400,
+      "characters": 1643,
+      "sha256": "88241c66e9a6bb88b4fe716ca11a7ae154882b9b3b7402185ccf358232b47970",
+      "logging_note": "Direct read before helper repeat; kept as actual duplicate retrieval.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8314,
+      "end_line": 8314,
+      "characters": 373,
+      "sha256": "0b038d17508c678b613cc4c35d474539e2c1e580779b1695050af825ee8a9c6c",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8322,
+      "end_line": 8322,
+      "characters": 189,
+      "sha256": "ca8f0cf50e111d6a4d67c4741b2333b1ecc20859d051ff7e0588c30c978043a3",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8324,
+      "end_line": 8324,
+      "characters": 198,
+      "sha256": "baa423881aed8d12fcd03384e93f8606002df15c0a082c796c3a6987904d8655",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8348,
+      "end_line": 8348,
+      "characters": 325,
+      "sha256": "68e228822cb58c15021b4751af0c722d2875057dccfd4c803b67510712ac6dd2",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8350,
+      "end_line": 8350,
+      "characters": 69,
+      "sha256": "578baa780701f1aecd43d27081ebbc1cb713c7026fe64e3fdbabefdae52602e3",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8356,
+      "end_line": 8356,
+      "characters": 190,
+      "sha256": "c2d7e59a32e50be0d4263d66bf841ec45697304169c8120e8d699133e7363a23",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8358,
+      "end_line": 8358,
+      "characters": 202,
+      "sha256": "8b08e89e8db0fa244be9c075beb662b01aab5488c9450f4be4656e1f85385b7a",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 8360,
+      "end_line": 8360,
+      "characters": 187,
+      "sha256": "011fa922f8e94cf7c7cb30cf6de32868ff1b960556ef192a20e54e0a03ba4564",
+      "logging_note": "Filtered direct source read for Yuan/Cai and education references; only these printed lines read, not unprinted L8260–8370.",
+      "reader": "c05_affairs"
+    },
+    {
+      "start_line": 4648,
+      "end_line": 4667,
+      "characters": 1617,
+      "sha256": "8be1488d28b5a83c4a8b7ea07bb1882c6d3cae4a7c2dbf33252bb5da5f272872",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    },
+    {
+      "start_line": 831,
+      "end_line": 845,
+      "characters": 998,
+      "sha256": "83338105eb404b5ca77c37430b717673827ecef3745630f2b41299bd73ab3536",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    },
+    {
+      "start_line": 14543,
+      "end_line": 14543,
+      "characters": 308,
+      "sha256": "ad9d7c6a72a48bbe0282d0ba01af45dd1fca4b7730ab7ca23211428800b7aff6",
+      "logging_note": "Parent reported actual source spot-check; rehashed locally, not reread by child.",
+      "reader": "root"
+    }
+  ],
+  "discovery_searches": [
+    "Entire-file anchored chapter/date/topic search; article inventory of all85 entries, no full source content read",
+    "Broad date-keyword search accidentally returned truncated output; only narrow numbered hits subsequently used for date verification",
+    "Raw searching, inherited C05 reads, and headings-only inventory are not substantive full-book coverage"
+  ],
+  "retrieval_caveats": [
+    "One multiwindow response truncated around L12009–12103; missing middle re-read as L12027–12080",
+    "One multiwindow response truncated around L11719; re-read L11719–11733",
+    "Unlogged initial substantive reads L181–219 andL570–638 were logged retrospectively with exact source hashes",
+    "L8260–8370 direct filter printed eight matching lines only; recorded as eight actual line windows. Other date-keyword search snippets are discovery only, not substantive source windows."
+  ]
+}

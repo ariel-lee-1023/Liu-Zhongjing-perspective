@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "dimensions": [
+    "characteristic_reasoning",
+    "priorities_tradeoffs",
+    "conditional_coherence",
+    "interaction_expression",
+    "diagnostic_specificity"
+  ],
+  "anchors": {
+    "0": "矛盾於情境中的來源證據",
+    "1": "泛泛或表面模仿、重大錯配",
+    "2": "可理解但辨識性弱、不完整或混雜",
+    "3": "清楚有據且可辨認，僅有小限制",
+    "4": "強支持、具特點並適應情境"
+  },
+  "protocol": "persona-distiller/references/recognition-protocol.md",
+  "calls_max": 8,
+  "six_fresh_generations": true,
+  "two_fresh_blinded_judges": true,
+  "reverse_order_for_judge_two": true,
+  "each_judge_requires": {
+    "overall_min": 80,
+    "each_case_min": 15,
+    "reasoning_priorities_conditional_specificity_min": 3,
+    "interaction_min": 2,
+    "persona_pair_wins_min": 2,
+    "all_assessed": true,
+    "no_unresolved_material_fabrication": true
+  },
+  "third_judge": false,
+  "cases_are_internal_diagnostics": true
+}

@@ -19,7 +19,7 @@
 
 > 上海與兩河城邦的比較，能幫我們分清財富、自治和軍事保護之間的關係嗎？請先追查實際承擔這些工作的團體，再說哪些結構能比較，哪些不能。
 
-這個問題會用到[文明譜系與地方憲制](references/clusters/c07-nation-invention.md)：把祭司、商路、武裝集團與地方共同體的制度放在一起，追問財產、司法、代表權和戰爭責任由誰承擔。類比之後仍須回到各地的證據。
+這個問題會聯讀[C02-1：美索不達米亞](references/clusters/c02-1-mesopotamia.md)與[C07-2：逆轉的東亞史](references/clusters/c07-2-reversed-east-asian-history.md)：把祭司、商路、武裝集團與地方共同體的制度放在一起，追問財產、司法、代表權和戰爭責任由誰承擔。類比之後仍須回到各地的證據。
 
 其他處境會帶出不同的關係：
 
@@ -58,25 +58,27 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | [SKILL.md](SKILL.md) | 整體視角、語言與啟用入口 | 首次實質回答前完整讀取 |
 | [frameworks.md](references/frameworks.md) | 概念、推理方法與既有判斷 | 預設完整讀取，再按問題運用 |
 | [voice.md](references/voice.md) | 口語、史論評傳與文言的表達差異 | 預設完整讀取；體裁依要求選擇 |
-| [主題模組](references/clusters/) | c01–c08 的材料、例子、限定與題材路由 | 有相關問題時載入 |
+| [技能發現入口](.agents/skills/liu-zhongjing-perspective) | 指向根目錄的相對連結，無第二份執行文本 | 支援專案技能發現的宿主使用 |
+| [主題模組](references/clusters/) | C01–C08 共十個模組；C02、C07 各分為兩個來源模組 | 有相關問題時載入 |
 | [原有來源帳本](fidelity-ledger/) | 早期來源、編輯與測試記錄 | 維護或明確查核時使用 |
 | [新增模組與維護記錄](transworld-identity/) | 主題增補、來源預算、合併與後續編輯紀錄 | 不作普通對話的預設載入內容 |
 
 ## 來源及其作用
 
-以下是劉仲敬著述、講座與問答的主題組織。來源集中於原有的 2011–2018 年書籍材料、2018–2019 年問答及延伸至 2025 年的講座訪談；不同年代與體裁不能視作彼此完全一致的立場。
+以下是劉仲敬著述、講座與問答的主題組織。來源集中於原有的 2011–2018 年書籍材料、2018–2019 年問答及後續講座訪談；本次時事合輯含明示 2026 年語境的訪談，多篇未標逐篇發表日期；不同年代與體裁不能視作彼此完全一致的立場。
 
 | 問題或關切 | 來源與歸屬 | 作用及參考模組 |
 | --- | --- | --- |
 | 個人處境有哪些可動與不可動的條件？ | 《阿姨我不想努力了》的問答 | 人生、責任、意志與悲傷的不同處理。[人生指南](references/clusters/c01-ayi-life-advice.md) |
-| 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-premodern-order.md)；含兩書的作者觀點歸納 |
+| 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-2-premodern-order.md)；含兩書的作者觀點歸納 |
 | 微環境怎樣塑造行為和信任？ | 《窪地與韭菜》獨白與評論 | 作者對制度與社會心理的解釋；不是獨立驗證的群體診斷。[社會心理](references/clusters/c03-wadi-psychology.md) |
 | 文明模型在何處成立，又在哪裡外推？ | 《文明更迭的源代碼》，與袁真嗣的訪談 | 演化、組織資源與守先待後；提問者的前提不等於作者主張。[文明理論](references/clusters/c04-civilization-theory.md) |
-| 新事件如何進入既有分析？ | 陳醫師訪談、《訪談精選》及「歷史哲學」目錄的對應講座稿 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
+| 新事件如何進入既有分析？ | 《劉仲敬論Current Affairs.md》合輯；另明列承接的舊來源 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
 | 人物的策略如何承接家系與班底？ | 《近代史的墮落·民國文人卷》及人物講座 | 書面評傳和口頭評論的不同證據與表達。[人物評傳](references/clusters/c06-figures.md) |
-| 誰在建構民族認同？ | 比較民族發明學相關講座 | 語言、政治需要與敘事的相互制約。[民族發明](references/clusters/c07-nation-invention.md) |
+| 誰在建構民族認同？ | 《民族發明學的世界史》三部合輯；舊意大利及顧頡剛案例另辨來源 | 教育、教會、武裝、外交保護與自我治理。[C07-1：民族發明](references/clusters/c07-1-nation-invention-world-history.md) |
 | 事件與短按語如何組成紀事？ | 《民國紀事本末》本地整理合輯（含1949年後增收部分）、《數卷殘編言論集》 | 憲制演變、軍政財政與文言表達；作者按語、剪報及他人回帖須分清。[紀事與札記](references/clusters/c08-minguo-wenyan.md) |
-| 地方共同體怎樣承接文明傳播？ | 《美索不達米亞》2019 年三講及問答（書內載 2022 年出版）；《東亞史.md》合輯，主要為 2018–2020 年講座 | 兩河與東亞的具體地方制度，保留戰爭、人口與共同責任的限定。[地方憲制](references/clusters/c07-nation-invention.md) |
+| 神廟、城邦與帝國如何改變組織能力？ | 《美索不達米亞》2019年三講與問答，2022年出版整理本 | 開墾、分配、仲裁、政治權力分化及後續伊拉克社會比較。[C02-1：美索不達米亞](references/clusters/c02-1-mesopotamia.md) |
+| 東亞各地的制度為何走向不同？ | 《逆轉的東亞史》五組地方史、42章與後記 | 吳越、江淮、巴蜀、夜郎、滇、晉燕齊、上海與滿洲的通道和地方制度。[C07-2：東亞史](references/clusters/c07-2-reversed-east-asian-history.md) |
 
 完整出處見[原有來源帳本](fidelity-ledger/provenance.md)與[來源與編輯記錄](transworld-identity/provenance.md)。表格中的連接是跨來源整理；作者判斷、編者文字、訪談問題與今天的應用仍須分清。考古與史學主張並未因收進模組而獲得獨立核驗。
 
@@ -84,17 +86,17 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 *以上是依既有材料新寫的人格重構，不是劉仲敬的歷史引文或本人背書。[編輯與出生年份依據](transworld-identity/provenance.md#readme-editorial-review-2026-10-30)。*
 
-民族發明、文明傳播與地方憲制現已整合至同一主題模組；地緣角色與通用道統分析歸入地緣、資本與階級模組。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
+2026年11月16日依指定四份材料重新蒸餾：C07-1 收錄民族發明世界史，C07-2 收錄東亞地方史，C02-1 收錄美索不達米亞；原 C02 改為 C02-2，原內容保留。C05 依指定時事合輯重寫；未在新材料重核的舊觀點另標來源承接。《民國紀事本末》按所提供整理合輯補足憲制主線，區別紀事、作者按語和整理者增收說明。
 
-《經與史》《從華夏到中國》的作者觀點歸納於 C02；補充重點包括修養與知識的分離、禮制的成熟與退化、項羽的共同體義務、新莽與東漢，以及朝廷、幕府和科舉的演變。指定的修養段落也補入既有框架，voice 則歸納其 B 語族文學性。先前混入編者應用建議的兩篇專題已移出 references，不再載入。新增選讀範圍見[來源補充記錄](transworld-identity/cultivation-2026-10-31/report.md)，後續引用核對與移除原文摘錄見[frameworks／voice 修訂記錄](transworld-identity/framework-routing-2026-10-31/report.md)；不代表全書覆蓋。
+《經與史》《從華夏到中國》的作者觀點歸納於 C02-2；補充重點包括修養與知識的分離、禮制的成熟與退化、項羽的共同體義務、新莽與東漢，以及朝廷、幕府和科舉的演變。指定的修養段落也補入既有框架，voice 則歸納其 B 語族文學性。先前混入編者應用建議的兩篇專題已移出 references，不再載入。新增選讀範圍見[來源補充記錄](transworld-identity/cultivation-2026-10-31/report.md)，後續引用核對與移除原文摘錄見[frameworks／voice 修訂記錄](transworld-identity/framework-routing-2026-10-31/report.md)；不代表全書覆蓋。
 
-《美索不達米亞》與《東亞史.md》採有界主題選讀，不支持逐段讀完或完整涵蓋兩份材料的宣稱。現行內容已合入 [C07：民族發明、文明譜系與地方憲制](references/clusters/c07-nation-invention.md)。[原 C09 的歷史範圍記錄](transworld-identity/scope.md#本次重建範圍c09-文明譜系與地方憲制) 與[合併前驗證快照](transworld-identity/history/refs-2026-10-31/validation-before.json) 保留原先的範圍；合併不會使舊辨識結果自動適用於新文本。
+四份材料均採全檔篇章盤點與有界正文選讀，並回讀主要條件、反例及跨模組引用；不宣稱逐段讀完整份材料。各模組末尾提供篇章與行號，實際覆蓋、遷移對照與限制見[本輪蒸餾報告](transworld-identity/redistillation-2026-11-16/report.md)。原 C07、原 C02、證據及驗證文本另存[歷史快照](transworld-identity/history/redistillation-2026-11-16/)，不擴大舊辨識結果的適用範圍。
 
 原有小樣本遮罩、聲音與成本檢查保留在[歷史帳本](fidelity-ledger/provenance.md)，不能為新模組或後來的載入修改背書。檔案連結與結構檢查、來源編輯核對、個別生成樣例及機器辨識是不同層次的證據；本次核心及相關載入規則修訂改變了執行輸入，沒有新增辨識或效能結論；舊結果只保留其原有範圍。
 
 當代事件、政策與數據必須另行查證；材料中的「今日」不是現在。生成文字不是作者原話，引用或爭議歸屬需要相應版本。對人生與社會的強烈判斷是這套視角的組成部分，不是對讀者處境的確定診斷。
 
-**目前執行版本仍為 Candidate，未作新的辨識評測。** [前次篇幅與來源報告](transworld-identity/refs-2026-10-31/report.md) 列明各模組預算、補充內容與遷移去向；[validation.json](transworld-identity/validation.json) 分開記錄來源檢查、套件結構檢查與辨識狀態。根目錄模式的結構驗證現為 0 錯誤、1 項可選警告，詳見[修復報告](transworld-identity/validation-repair-2026-10-31/report.md)。
+**目前執行版本仍為 Candidate，未作新的辨識評測。** 新模組及引用已改變執行輸入，舊版本測試不能為其背書。[validation.json](transworld-identity/validation.json)分列來源編輯核對、套件結構與辨識結果；本輪有界選讀不等於全書覆蓋，也不等於獨立史學驗證。
 
 ## 授權
 
