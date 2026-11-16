@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scope": "2026-11-16 C05 four-source extension and all original allocation lower bounds; previous local implementation included in publication.",
+  "scope": "2026-11-16 core/refs synchronization and English C05 rename; prior source-extension checks retain their declared scope.",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
@@ -29,14 +29,16 @@
     "legacy_C05_groups_reverified_in_supplied_files": [
       "CA-L03",
       "CA-L04"
-    ]
+    ],
+    "core_sync_review": "core-sync-2026-11-16/review.json"
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "source-extension-2026-11-16/checks.json",
-    "C02_2_body_unchanged": true,
-    "unrelated_AGENTS_preserved": true,
-    "unchanged_other_runtime": true
+    "record": "core-sync-2026-11-16/review.json",
+    "C05_body_unchanged": true,
+    "all_other_reference_bodies_unchanged": true,
+    "frameworks_only_link_change": true,
+    "unrelated_AGENTS_preserved": true
   },
   "recognition": {
     "outcome": "not_run",
@@ -44,22 +46,24 @@
     "call_ceiling_for_new_standard_run": 8,
     "reason": "No configured authorized model endpoint or PERSONA_API_KEY available. Zero new calls. Earlier prepared cases/profile and prior recognition do not assess this revised runtime.",
     "readiness": "redistillation-2026-11-16/recognition-preparation/readiness.json",
-    "provider_usage": null
+    "provider_usage": null,
+    "readiness_scope": "Historical preparation for a prior runtime, not executable approval of these changed inputs; frozen cases retained unchanged.",
+    "current_inputs_prepared": false
   },
   "runtime_hashes": {
-    "SKILL.md": "sha256:9c97014df2964941d25674ab29d923a3c211d3302e82850eb24d3f76b6bc80d0",
+    "SKILL.md": "sha256:6b12283e6a168f4c3af5fd2fb8c8dd19e4426eddde2a92d7cc48015717aabbe7",
     "references/clusters/c01-ayi-life-advice.md": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
     "references/clusters/c02-1-mesopotamia.md": "sha256:493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
     "references/clusters/c02-2-premodern-order.md": "sha256:b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
     "references/clusters/c03-wadi-psychology.md": "sha256:127d70b349c6e249fb84c3427a3c5d3bc7ea1e436abe50a9b68099839537cf00",
     "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
-    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
     "references/clusters/c06-figures.md": "sha256:adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
     "references/clusters/c07-1-nation-invention-world-history.md": "sha256:4283b8482114c0d3bf2d73f9a8a3851c151afa42be088283f8260a9e30ab685e",
     "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:e188b7e83abeced3616ce633a359d7af55510e95034718a9d49f06a22f5e13e7",
     "references/clusters/c08-minguo-wenyan.md": "sha256:0778df6093bff92ccdd6fbb84426d66e84b6ecc6f3177d9b37c5afbf88226d45",
-    "references/frameworks.md": "sha256:931117008d59e4ae0e3f7766183789dd2332190d7e30972a1e1e0f5bb616183b",
-    "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
+    "references/frameworks.md": "sha256:d0b48c2c88659af20e136efc4b2712cdb766bd1e955aa8759f796a73065b6c80",
+    "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f",
+    "references/clusters/c05-current-affairs-capital-institutions-and-class.md": "sha256:ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a"
   },
   "package": {
     "outcome": "pass",
@@ -79,12 +83,12 @@
     "skipped_checks": [
       "C3: no language-specific heading anchors supplied"
     ],
-    "root_record": "source-extension-2026-11-16/package-root.json",
-    "discovery_record": "source-extension-2026-11-16/package-discovery.json",
+    "root_record": "core-sync-2026-11-16/package-root.json",
+    "discovery_record": "core-sync-2026-11-16/package-discovery.json",
     "default_discovery_layout_passed": true,
     "research_release_check_run": false
   },
-  "previous_validation": "history/source-extension-2026-11-16/transworld-identity/validation.json",
+  "previous_validation": "core-sync-2026-11-16/validation-before.json",
   "content_allocation": {
     "status": "adopted_editorial_allocation",
     "record": "source-allocation-2026-11-16/allocation.json",
@@ -101,6 +105,7 @@
       "source-extension-2026-11-16/package-discovery.json"
     ],
     "all_original_unit_lower_bounds_met": true,
-    "C05_new_source_plan": "source-extension-2026-11-16/c05-source-increment-plan.json"
+    "C05_new_source_plan": "source-extension-2026-11-16/c05-source-increment-plan.json",
+    "path_migration": "core-sync-2026-11-16/review.json"
   }
 }

@@ -73,7 +73,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-2-premodern-order.md)；含兩書的作者觀點歸納 |
 | 微環境怎樣塑造行為和信任？ | 《窪地與韭菜》獨白與評論 | 作者對制度與社會心理的解釋；不是獨立驗證的群體診斷。[社會心理](references/clusters/c03-wadi-psychology.md) |
 | 文明模型在何處成立，又在哪裡外推？ | 《文明更迭的源代碼》，與袁真嗣的訪談 | 演化、組織資源與守先待後；提問者的前提不等於作者主張。[文明理論](references/clusters/c04-civilization-theory.md) |
-| 新事件如何進入既有分析？ | 《劉仲敬論Current Affairs.md》合輯，新增教育答問及娛樂、知識與虛無感、認知戰四份文件；另明列承接的舊來源 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
+| 新事件如何進入既有分析？ | 《劉仲敬論Current Affairs.md》合輯，新增教育答問及娛樂、知識與虛無感、認知戰四份文件；另明列承接的舊來源 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[時事、資本、制度與階級](references/clusters/c05-current-affairs-capital-institutions-and-class.md) |
 | 人物的策略如何承接家系與班底？ | 《近代史的墮落·民國文人卷》及人物講座 | 書面評傳和口頭評論的不同證據與表達。[人物評傳](references/clusters/c06-figures.md) |
 | 誰在建構民族認同？ | 《民族發明學的世界史》三部合輯；舊意大利及顧頡剛案例另辨來源 | 教育、教會、武裝、外交保護與自我治理。[C07-1：民族發明](references/clusters/c07-1-nation-invention-world-history.md) |
 | 事件與短按語如何組成紀事？ | 《民國紀事本末》本地整理合輯（含1949年後增收部分）、《數卷殘編言論集》 | 憲制演變、軍政財政與文言表達；作者按語、剪報及他人回帖須分清。[紀事與札記](references/clusters/c08-minguo-wenyan.md) |

@@ -1,0 +1,108 @@
+{
+  "scope": "Requested SKILL/ref synchronization and C05 English filename migration; no new source acquisition or full-core reconstruction.",
+  "baseline_commit": "2eb331711967d2766311168c93ac75b9f89c7db5",
+  "source_boundary": "Existing current core, refs and completed four-document source reviews; zero new original source reading, zero OCR.",
+  "filename_policy": "clusters filenames remain English; retain c05 technical identifier.",
+  "path_migration": {
+    "old": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "new": "references/clusters/c05-current-affairs-capital-institutions-and-class.md",
+    "body_sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+    "body_unchanged": true,
+    "historical_records": "Prior dated reviews, measurements, frozen allocations/cases and history retain their original paths/hashes. This mapping resolves C05 to its current location; it does not certify old content hashes against revised content.",
+    "prior_runtime_commit": "2eb331711967d2766311168c93ac75b9f89c7db5"
+  },
+  "changes": [
+    {
+      "location": "SKILL.md / 我怎麼讀一個問題 / 改革與方案",
+      "decision": "contextualize",
+      "reason": "Resource cost is retained; a blanket equation of deliberate action with waste would suppress practical feedback, capability development and bounded improvement.",
+      "support": [
+        "references/clusters/c05-current-affairs-capital-institutions-and-class.md#十三、知識的回饋與虛無感",
+        "source-extension-2026-11-16/c05-cross-review.json"
+      ],
+      "evidence_ids": [
+        "KNW26-A01",
+        "KNW26-A04",
+        "KNW26-A05"
+      ]
+    },
+    {
+      "location": "SKILL.md / 我不讓步的東西 / 結構處境",
+      "decision": "contextualize",
+      "reason": "Retain refusal to invent a comforting escape, but distinguish established constraints from ancestry/class inference and a changeable pre-practice stage.",
+      "support": [
+        "references/clusters/c05-current-affairs-capital-institutions-and-class.md#十三、知識的回饋與虛無感",
+        "references/clusters/c05-current-affairs-capital-institutions-and-class.md#十四、舊來源承接與新核對照"
+      ],
+      "evidence_ids": [
+        "KNW26-A05",
+        "CA-L05"
+      ]
+    },
+    {
+      "location": "SKILL.md / 知識庫檢索",
+      "decision": "implementation_safeguard",
+      "reason": "Core generalizations must not erase source-specific conditions or unresolved differences; technical retrieval rule labeled separately from persona prose."
+    },
+    {
+      "location": "SKILL.md / 題材表",
+      "decision": "update",
+      "reason": "C05 topic triggers cover institutions, education, entertainment, knowledge/nihilism and cognitive warfare; C01 education topics cross-load C05 when appropriate."
+    },
+    {
+      "location": "C02-1/C02-2 and C07-1/C07-2 navigation",
+      "decision": "preserve",
+      "reason": "All four existing split routes, files and domain distinctions remain correct."
+    }
+  ],
+  "current_evidence_links_migrated": 60,
+  "counting_unit": "Han U+3400..U+9FFF; explanatory size recorded, no universal ceiling and no quota padding.",
+  "core_han_before": 6819,
+  "core_han_after": 7035,
+  "source_allocation_note": "Smallest supported additions are two contextual qualifications, one source-condition retrieval rule and C05/C01 routing; no new target range or forced expansion.",
+  "recognition_calls": 0,
+  "standard_accepted": false,
+  "status": "candidate",
+  "independent_expert_review": false,
+  "AGENTS_preserved": true,
+  "cross_review": {
+    "reviewer": "separate AI source editor from preceding KNW/CW review",
+    "scope": "Five changed core/loading passages and C05 rename, no new source reading",
+    "outcome": "pass",
+    "open_findings": [],
+    "findings": "L32 retains possible improvement, failure and capability limits; L49 keeps structural constraints and uncertainty about changeable stages; retrieval preserves unresolved source tension; first-person body and C01/C05 routes remain coherent."
+  },
+  "checks": {
+    "current_markdown_links": 83,
+    "current_evidence_targets": 179,
+    "C05_hash_unchanged": true,
+    "all_cluster_filenames_English": true,
+    "all_previous_module_counts_and_units_unchanged": true,
+    "other_references_and_AGENTS_unchanged": [
+      "AGENTS.md",
+      "references/clusters/c01-ayi-life-advice.md",
+      "references/clusters/c02-1-mesopotamia.md",
+      "references/clusters/c02-2-premodern-order.md",
+      "references/clusters/c03-wadi-psychology.md",
+      "references/clusters/c04-civilization-theory.md",
+      "references/clusters/c06-figures.md",
+      "references/clusters/c07-1-nation-invention-world-history.md",
+      "references/clusters/c07-2-reversed-east-asian-history.md",
+      "references/clusters/c08-minguo-wenyan.md",
+      "references/voice.md"
+    ],
+    "historical_records_frozen": 191,
+    "runtime_hashes_match": true,
+    "package_errors": 0,
+    "package_warnings_per_layout": 1,
+    "warning": "optional episodic.md absent",
+    "heading_anchors_check": "not supplied, skipped",
+    "core_default_language_and_activation_preserved": true,
+    "core_other_persona_prose_preserved": true
+  },
+  "runtime_hashes": {
+    "SKILL.md": "sha256:6b12283e6a168f4c3af5fd2fb8c8dd19e4426eddde2a92d7cc48015717aabbe7",
+    "references/frameworks.md": "sha256:d0b48c2c88659af20e136efc4b2712cdb766bd1e955aa8759f796a73065b6c80",
+    "references/clusters/c05-current-affairs-capital-institutions-and-class.md": "sha256:ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a"
+  }
+}

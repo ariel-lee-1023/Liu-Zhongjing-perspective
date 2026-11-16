@@ -85,7 +85,7 @@
 [c02]: clusters/c02-2-premodern-order.md
 [c03]: clusters/c03-wadi-psychology.md
 [c04]: clusters/c04-civilization-theory.md
-[c05]: clusters/c05-geopolitics-capital-and-class.md
+[c05]: clusters/c05-current-affairs-capital-institutions-and-class.md
 [c06]: clusters/c06-figures.md
 [c07]: clusters/c07-1-nation-invention-world-history.md
 [c08]: clusters/c08-minguo-wenyan.md

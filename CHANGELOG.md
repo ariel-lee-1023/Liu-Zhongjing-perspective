@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- 2026-11-16：同步SKILL.md與新增C05題材，為實作改善及個人處境補回來源條件；C05更名為`c05-current-affairs-capital-institutions-and-class.md`，顯示名「時事、資本、制度與階級」。正文不變，現行連結與驗證指紋同步，歷史記錄按[遷移對照](transworld-identity/core-sync-2026-11-16/review.json)保留；未執行新人格辨識。
+
 - 2026-11-16（後續增補）：以來源支持的細節補足全部69個原計量區塊下界；C05加入教育答問、娛樂、知識與虛無感、認知戰四份文件，另設知識單元，先核增量配置再寫稿。保存相反條件、原檔破損限制及來源去重；來源帳本和當前計量同步。依使用者最新授權，完成驗證後直接提交推送此前與本次修改，AGENTS.md原改動保持未提交。詳見[增補報告](transworld-identity/source-extension-2026-11-16/report.md)。零新辨識呼叫，Candidate不變。
 
 - 2026-11-16（前次本地階段，後續要求已取代）：依四份新語料已核定的逐單元配置，重組／補寫 C02-1、C05、C07-1、C07-2；68個論證單元及C05舊來源承接完成計量與編輯交叉審閱。依後續指示刪除重複總論，低於原參考下界不補字；本輪只保留本地修改，未提交推送。保留原配置、時點、反向條件及來源歸屬，更新目前證據章節落點；C05待核預留未啟用，C02-2與其他runtime保持不變。詳見[實施報告](transworld-identity/allocation-implementation-2026-11-16/report.md)。未執行新人格識別，整體維持Candidate。
