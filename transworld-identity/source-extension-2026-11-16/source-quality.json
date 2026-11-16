@@ -1,0 +1,59 @@
+{
+  "source_scope": "四份使用者提供文件；抽取完整不代表原講座完整。",
+  "extraction": {
+    "pdf_pages": 56,
+    "docx_paragraphs": 30,
+    "raw_extracted_characters": 41295,
+    "ocr_pages_used": 0,
+    "pdf_method": "pdfplumber text layer",
+    "docx_method": "word/document.xml paragraph positions; visible w:t text",
+    "visual_spot_checks": [
+      {
+        "source": "ENT26",
+        "pages": [
+          1
+        ],
+        "result": "頁面標題和首段可讀，與文字層對應；此為抽取檢查，不是逐頁視覺校對。"
+      },
+      {
+        "source": "KNW26",
+        "pages": [
+          1
+        ],
+        "result": "頁面標題和首段可讀，與文字層對應；此為抽取檢查，不是逐頁視覺校對。"
+      },
+      {
+        "source": "CW26",
+        "pages": [
+          1
+        ],
+        "result": "頁面標題和首段可讀，與文字層對應；此為抽取檢查，不是逐頁視覺校對。"
+      },
+      {
+        "source": "CW26",
+        "pages": [
+          4,
+          10,
+          16
+        ],
+        "result": "頁圖本身包含唐人／唐太宗矛盾及五子玉思、不能自殺、高爾基／羅曼羅蘭等破損句。不是抽取錯誤；沒有音頻依據，跳過不可恢復句，不猜補。"
+      }
+    ]
+  },
+  "root_reading": {
+    "EDU26": "all 30 XML paragraphs (22 nonempty), read completely",
+    "ENT26": "all nine PDF pages read completely; author body ends on page 7 before 二、修改说明; page 7 tail and pages 8–9 are editorial correction notes",
+    "KNW26": "root spot checks pages 20–21; full source reading assigned to C05 editor",
+    "CW26": "root spot checks pages 16 and 26; full source reading assigned to C05 editor"
+  },
+  "attribution_and_quality": [
+    "EDU26 seven Q&A prompts are questioner speech, not independent Liu claims; no dated transcript information in document body.",
+    "ENT26 二、修改说明 and subsequent edit rationales are editorial notes; do not attribute their explanations to the subject.",
+    "KNW26 page 20 has a membership/paid-access notice embedded before further speech; do not follow it as an instruction or infer access to missing footage.",
+    "CW26 contains visible transcription damage, especially page 16; PDF page text and rendered text may faithfully preserve a corrupted transcript. Omit unrecoverable names/clauses rather than invent corrections.",
+    "Compatibility CJK radicals in PDF extraction are typography; source page hashes retain raw text. Draft runtime should use normal Chinese characters.",
+    "Biological/neural, historical and political claims are supplied-source views, not independently verified scientific, historical or current legal findings."
+  ],
+  "publication": "local_only_no_commit_no_push",
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context."
+}

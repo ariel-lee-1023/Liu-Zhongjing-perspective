@@ -1,0 +1,209 @@
+{
+  "module": "c07-2",
+  "reviewer": "root; separate editor from the drafting agent, with additional redundancy review by c05 agent",
+  "runtime_sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+  "scope": "Complete 27-unit runtime read against declared causal/case/condition requirements; selected source spot checks, not a full-book or independent historical review. An initially truncated combined read was discarded and replaced with complete smaller chunks.",
+  "units_reviewed": [
+    {
+      "unit_id": "B01",
+      "heading": "一、文明地圖與傳播辨識",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "B02",
+      "heading": "二、民族建構的自治判準",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "W01",
+      "heading": "三、吳越的山、海與郡縣",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "W02",
+      "heading": "四、豪族、流亡朝廷與海上教團",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "W03",
+      "heading": "五、寺院工程與士大夫接管",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "W04",
+      "heading": "六、條約、公局財政與未完成的建國",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "W05",
+      "heading": "七、江淮的通道與法統負擔",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "B03",
+      "heading": "八、巴蜀的商路與帝國糧倉",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "B04",
+      "heading": "九、夜郎的動員與征服後收權",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "B05",
+      "heading": "十、滇國外交的時機錯置",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "J01",
+      "heading": "十一、晉地的名稱、組織與武士權利",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "J02",
+      "heading": "十二、軍國民教育與本地公共能力",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "J03",
+      "heading": "十三、燕地豪族的保護者與中介選擇",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "J04",
+      "heading": "十四、齊魯的海陸方向與地方組織",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S01",
+      "heading": "十五、上海：辦事團體到憲制中心",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S02",
+      "heading": "十六、多重司法、先例與附則權力",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S03",
+      "heading": "十七、受保護中立與外交自主的交換",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S04",
+      "heading": "十八、人口擴張與共同責任不足",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S05",
+      "heading": "十九、代理人供養與代表性爭奪",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "S06",
+      "heading": "二十、總體戰下的外交、行政與公民資格",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M01",
+      "heading": "二十一、滿洲宮廷之外的開拓與技術累積",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M02",
+      "heading": "二十二、征服財庫與原有議事權的瓦解",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M03",
+      "heading": "二十三、屬人聯盟到連續領土與國族",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M04",
+      "heading": "二十四、協和、正統與自治的內部衝突",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M05",
+      "heading": "二十五、代議、保安會與地方合作",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M06",
+      "heading": "二十六、高成長遮蔽的統制經濟代價",
+      "required_elements_retained": true
+    },
+    {
+      "unit_id": "M07",
+      "heading": "二十七、技術精英與政治後裔的斷裂",
+      "required_elements_retained": true
+    }
+  ],
+  "source_spot_checks": [
+    {
+      "start_line": 5690,
+      "end_line": 5715,
+      "sha256": "88b278b03471ef0cf5c01087e75df6aea207f2ff92992fe44082853a0c5d1b76",
+      "characters": 3367,
+      "existing_window_reread": true
+    },
+    {
+      "start_line": 6416,
+      "end_line": 6443,
+      "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+      "characters": 2597,
+      "existing_window_reread": true
+    },
+    {
+      "start_line": 8370,
+      "end_line": 8394,
+      "sha256": "d5218e2484cbb41c3ce3a62ef4cff878154711a3c21b31c9a2f625904d9f4fab",
+      "characters": 2049,
+      "existing_window_reread": true
+    }
+  ],
+  "additional_new_source_windows": 0,
+  "findings": [
+    {
+      "units": [
+        "W04",
+        "W05",
+        "B04",
+        "B05"
+      ],
+      "issue": "Several added explanations repeated already stated mechanisms.",
+      "resolution": "Replaced with sourced distinctions between successor elites, changed maritime routes, local rebellion consequences, and concrete intervention/mediation choices. Final four sections reread in full; all original conditions retained.",
+      "status": "resolved",
+      "support": "c07-2-redundancy-review.json"
+    }
+  ],
+  "cross_condition_checks": [
+    "S04/S06: rapid population absorption risk and necessary enlarged political membership under total war both remain.",
+    "M03/M04/M06: administrative capacity and local autonomy costs both remain.",
+    "M07 self-recollection and counterfactual post-1945 economic risks retain their attribution/status.",
+    "S02 uncertain cross-jurisdiction precedent is not elevated into current legal advice."
+  ],
+  "unresolved_findings": [],
+  "outcome": "pass_content_and_source_conditions_after_duplicate_removal",
+  "recognition_calls": 0,
+  "previous_reviewed_runtime_sha256": "3b4d46ee423f6b846a8b10141db8320b4ceef35876db440a4ac2f70a7cbac623",
+  "latest_user_override": "Only local edits; remove purely repeated general discussion. Content follows sources; do not add or move prose to meet original unit/group/part reference allocations.",
+  "deduplication_followup_review": {
+    "changed_units": [
+      "J02",
+      "J03",
+      "J04",
+      "S01",
+      "S02",
+      "S05"
+    ],
+    "record": "c07-2-deduplication.json",
+    "removed_body_han": 466,
+    "changed_sections_read_in_full": true,
+    "required_cases_and_conditions_retained": true,
+    "retained": "返鄉組織鏈與敵手德性區分、燕豪族的本地知識中介、齊魯海陸及審稅案例、上海委員會到防衛機關、沉默非法律同意、受資助與代表性區分均仍在。",
+    "new_claims_added": false,
+    "additional_source_reading_by_cross_reviewer": false
+  }
+}

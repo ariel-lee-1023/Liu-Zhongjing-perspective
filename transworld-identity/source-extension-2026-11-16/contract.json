@@ -1,0 +1,26 @@
+{
+  "scope": "補足所有低於原參考下界的單元，並將四份指定新來源蒸餾納入C05；完成驗證後依使用者最新授權直接提交推送。",
+  "new_source_boundary": {
+    "documents": 4,
+    "pdf_pages": 56,
+    "docx_paragraphs": 30,
+    "reading_units": 40,
+    "maximum_characters_per_unit": 4500,
+    "ocr_pages": 6,
+    "rule": "優先完整閱讀四份小型指定文件；重複、編者說明與主持人發言分辨，不能把抽取完成當作讀完。必要時OCR最多6頁；無需則0。",
+    "all_extracted_characters": 41295
+  },
+  "existing_source_boundary": {
+    "selected_windows_reread_limit": 32,
+    "maximum_characters_per_unit": 4500,
+    "rule": "補原不足單元優先重讀既有核實窗口；不任意展開全書。"
+  },
+  "current_lower_bounds": "原核定下界本輪必須滿足；實質新增內容逐項有來源，不恢復已刪的重複總論。",
+  "C05_allocation": "先列四新來源所增論證、案例與條件，再核定受影響單元的增量，原下界仍作最低要求；沒有統一上限。",
+  "publication": "commit_and_push_after_validation_authorized",
+  "recognition_calls": 0,
+  "recognition_status": "no configured endpoint; candidate maintained",
+  "implementation_layout": "C05保留原12單元，增U13知識，原來源承接獨立成第14節；C07-1/2只補原不足單元；C02-1已達全部下界而不改。",
+  "source_scope_caveat": "全文讀完僅指四份所供檔案；不等於未節錄原講座、原錄音或其他著作完整覆蓋。",
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context."
+}

@@ -1,0 +1,228 @@
+{
+  "module": "c02-1",
+  "review_type": "read_only_cross_agent_semantic_review",
+  "reviewed_runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+  "reviewed_files": [
+    "references/clusters/c02-1-mesopotamia.md",
+    "transworld-identity/source-allocation-2026-11-16/c02-1-allocation.json",
+    "c02-1-implementation-review.json",
+    "c02-1-reread.json"
+  ],
+  "outcome": "pass_for_declared_selected_source_scope_after_duplicate_removal",
+  "findings": [],
+  "units": [
+    {
+      "id": "M01",
+      "topic": "文明代際、旁系與模型限度",
+      "outcome": "pass",
+      "semantic_note": "代際/旁系、低地高地關係、樣本有限及偶然事件和較廣機制均分開，M01模型限定沒有流失。"
+    },
+    {
+      "id": "M02",
+      "topic": "神廟如何形成組織權威與城邦間秩序",
+      "outcome": "pass",
+      "semantic_note": "測量至土地與物資分配、仲裁到神聖權威因果連續；會盟霸權不等消滅他城，主神突出不等一神教。"
+    },
+    {
+      "id": "M03",
+      "topic": "殖民、人口混合與階級的不同尺度",
+      "outcome": "pass",
+      "semantic_note": "殖民權力差別與跨階層流動並存；早期稀疏人口不套現代比例；雕塑與人口統計的證據層級清楚。"
+    },
+    {
+      "id": "M04",
+      "topic": "文字、紀錄與書吏角色的生成",
+      "outcome": "pass",
+      "semantic_note": "回讀L109–119支持倉儲種類符號→重複數量符號→十百速記的新增例；文字知識先於某次外交泥板運用、職業角色限定仍在。"
+    },
+    {
+      "id": "M05",
+      "topic": "文明傳播：陸海接力、模仿與證據強弱",
+      "outcome": "pass",
+      "semantic_note": "回讀L750–758支持跨族接力與依信仰/文明接受組團的新增句；仍區分遷徙、模仿、風格改變和人口替代，遠洋及稻米證據限度保留。"
+    },
+    {
+      "id": "M06",
+      "topic": "水利與環境壓力如何形成跨城衝突",
+      "outcome": "pass",
+      "semantic_note": "洪水重建已具範本、空地縮減使洩洪成本外溢及跨城交涉、短期產出與長期鹽鹼化均具條件。"
+    },
+    {
+      "id": "M07",
+      "topic": "恩西與盧伽爾：權威來源與分工固定",
+      "outcome": "pass",
+      "semantic_note": "回讀L940–950支持東古由地方承認經殖民法授權成世襲資格；正文明示是比較，沒有把類比當所有蘇美城邦實錄。"
+    },
+    {
+      "id": "M08",
+      "topic": "出資、流血、選票與仲裁的政治分量",
+      "outcome": "pass",
+      "semantic_note": "古代長老/壯丁按出資和生命責任比較，2019另立小節；選票、仲裁和作戰能力未混同或現況化。"
+    },
+    {
+      "id": "M09",
+      "topic": "霸權與帝國：權力收走的深度",
+      "outcome": "pass",
+      "semantic_note": "回讀L984–1002支持勝利/多城統帥資格與戰敗聯盟解體失資格；起源仍標推論，地方恩西盧伽爾及外交軍權分配有區別。"
+    },
+    {
+      "id": "M10",
+      "topic": "開拓競爭轉入社會性戰爭",
+      "outcome": "pass",
+      "semantic_note": "開拓不是直接墮落；資源閾值轉向摧毀再生能力，精密軍事和文化收藏可同社會衰退並存；未以亞述回套早期。"
+    },
+    {
+      "id": "M11",
+      "topic": "邊區創新與文化載體的延續",
+      "outcome": "pass",
+      "semantic_note": "工具發明/採用/傳承、文化作品/人口與供養共同體、首都和實際交通軍事支持來源各有不同條件，馬鐙未知保留。"
+    },
+    {
+      "id": "M12",
+      "topic": "部落法統、教團仲裁與現代王室的選擇",
+      "outcome": "pass",
+      "semantic_note": "部落法律身分、日常教團仲裁和居住地分開；伊拉克王室教育反噬與約旦原有結構比較避免個人智愚論。"
+    },
+    {
+      "id": "M13",
+      "topic": "法律、考古與尚無法回答的問題",
+      "outcome": "pass",
+      "semantic_note": "回讀L1212–1226及L1242–1248支持婚姻材料不足、法典為慣例彙集及非固定階級的仲裁；法官/顧問/職業律師區別忠實，考古資訊與財寶分開。"
+    }
+  ],
+  "source_checks": {
+    "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+    "matches_original_log": true,
+    "reopened_windows": [
+      {
+        "id": "M04",
+        "start_line": 109,
+        "end_line": 119,
+        "characters": 1186,
+        "sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋",
+        "review_reopened": true,
+        "computed_sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      },
+      {
+        "id": "M07",
+        "start_line": 940,
+        "end_line": 950,
+        "characters": 1086,
+        "sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋",
+        "review_reopened": true,
+        "computed_sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      },
+      {
+        "id": "M13a",
+        "start_line": 1212,
+        "end_line": 1226,
+        "characters": 438,
+        "sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋",
+        "review_reopened": true,
+        "computed_sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      },
+      {
+        "id": "M13b",
+        "start_line": 1242,
+        "end_line": 1248,
+        "characters": 261,
+        "sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋",
+        "review_reopened": true,
+        "computed_sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      },
+      {
+        "id": "M05",
+        "start_line": 750,
+        "end_line": 758,
+        "characters": 1231,
+        "sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+        "scope": "重讀既有來源定位",
+        "review_reopened": true,
+        "computed_sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      },
+      {
+        "id": "M09",
+        "start_line": 984,
+        "end_line": 1002,
+        "characters": 1787,
+        "sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+        "scope": "重讀既有來源定位",
+        "review_reopened": true,
+        "computed_sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+        "hash_matches": true,
+        "hash_convention": "source splitlines(keepends=True), inclusive 1-based line range"
+      }
+    ],
+    "new_windows_outside_existing_scope": 0
+  },
+  "scope_and_limits": [
+    "Full current runtime and all13 allocation units reviewed against implementation records.",
+    "Six existing source windows reopened for the five specific additions requested: writing, Tunku, transmitting groups, military commander, arbitration.",
+    "This checks source fidelity and reasoning distinctions within supplied selected material, not independent archaeology/history verification or persona-recognition evaluation."
+  ],
+  "edits_made": false,
+  "user_override": {
+    "instruction": "本地修改、不提交推送；只刪重複總論，內容以新語料為準。",
+    "historical_allocation_ranges_are_not_fill_requirements": true
+  },
+  "deduplication_followup_review": {
+    "previous_reviewed_runtime_sha256": "265a45fbe3dbab50255b11c6a971323e3808a4f5aa95b75e85117b5c71f931cd",
+    "final_runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+    "deduplication_log": "c02-1-deduplication.json",
+    "body_han_before": 5772,
+    "body_han_after": 5652,
+    "body_han_removed": 120,
+    "current_runtime_fully_reread": true,
+    "changes_reviewed": [
+      {
+        "unit": "M02",
+        "issue": "神廟未分化職能",
+        "review": "第二段仍明列宗教、政治、法律、經濟尚未分開；移除後段現代部會重述不改其起點限定，測量分配仲裁與城邦會盟案例完整。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "M13",
+        "issue": "仲裁不等於律師",
+        "review": "第二段仍明分判案、司法建議與代理訴訟，並明說前兩者不證明職業律師；刪首段的同義先行句不刪必要限制。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "M13",
+        "issue": "法典彙集不等於君主任意設計",
+        "review": "首段仍完整保留多種習慣成文化的彙集與任意設計社會的區別，第三段保留司法慣例和中央吸收的獨立條件。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "M10",
+        "issue": "開拓與破壞轉折",
+        "review": "首段明說開墾非墮落、資源界限後轉向摧毀他人；後段仍有毀渠、神廟、鹽鹼化及恢復能力，刪去沼澤陷阱總結不影響機制。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "M04",
+        "issue": "讀寫能力與社會角色不同",
+        "review": "同段仍明說識字階級存在不證明近代歐洲知識分子存在；倉儲速記及外交泥板案例均保留。",
+        "outcome": "retained_elsewhere_without_loss"
+      }
+    ],
+    "all_13_unit_mechanisms_cases_and_conditions_still_present": true,
+    "new_claims_introduced": false,
+    "additional_primary_source_reading_in_followup": false,
+    "source_scope": "Prior six independently reopened windows remain unchanged; no new or whole-book source coverage claimed.",
+    "outcome": "pass"
+  }
+}

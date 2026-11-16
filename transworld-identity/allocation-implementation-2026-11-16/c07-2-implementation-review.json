@@ -1,0 +1,1692 @@
+{
+  "module": "C07-2",
+  "status": "content_reviewed_after_deletions_only_user_override",
+  "runtime_path": "references/clusters/c07-2-reversed-east-asian-history.md",
+  "allocation_plan": "transworld-identity/source-allocation-2026-11-16/c07-2-allocation.json",
+  "allocation_plan_modified": false,
+  "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+  "source_hash_matches_plan": true,
+  "runtime_sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+  "measurement": {
+    "module": "c07-2",
+    "path": "references/clusters/c07-2-reversed-east-asian-history.md",
+    "sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+    "body_han": 9678,
+    "metadata_han": 1254,
+    "whole_file_han": 10932,
+    "whole_file_characters": 14671,
+    "whole_file_heuristic_tokens": 21381.63,
+    "section_counts": [
+      {
+        "heading": "一、文明地圖與傳播辨識",
+        "body_han": 308
+      },
+      {
+        "heading": "二、民族建構的自治判準",
+        "body_han": 263
+      },
+      {
+        "heading": "三、吳越的山、海與郡縣",
+        "body_han": 371
+      },
+      {
+        "heading": "四、豪族、流亡朝廷與海上教團",
+        "body_han": 379
+      },
+      {
+        "heading": "五、寺院工程與士大夫接管",
+        "body_han": 561
+      },
+      {
+        "heading": "六、條約、公局財政與未完成的建國",
+        "body_han": 449
+      },
+      {
+        "heading": "七、江淮的通道與法統負擔",
+        "body_han": 453
+      },
+      {
+        "heading": "八、巴蜀的商路與帝國糧倉",
+        "body_han": 398
+      },
+      {
+        "heading": "九、夜郎的動員與征服後收權",
+        "body_han": 349
+      },
+      {
+        "heading": "十、滇國外交的時機錯置",
+        "body_han": 301
+      },
+      {
+        "heading": "十一、晉地的名稱、組織與武士權利",
+        "body_han": 421
+      },
+      {
+        "heading": "十二、軍國民教育與本地公共能力",
+        "body_han": 213
+      },
+      {
+        "heading": "十三、燕地豪族的保護者與中介選擇",
+        "body_han": 249
+      },
+      {
+        "heading": "十四、齊魯的海陸方向與地方組織",
+        "body_han": 257
+      },
+      {
+        "heading": "十五、上海：辦事團體到憲制中心",
+        "body_han": 376
+      },
+      {
+        "heading": "十六、多重司法、先例與附則權力",
+        "body_han": 484
+      },
+      {
+        "heading": "十七、受保護中立與外交自主的交換",
+        "body_han": 314
+      },
+      {
+        "heading": "十八、人口擴張與共同責任不足",
+        "body_han": 389
+      },
+      {
+        "heading": "十九、代理人供養與代表性爭奪",
+        "body_han": 254
+      },
+      {
+        "heading": "二十、總體戰下的外交、行政與公民資格",
+        "body_han": 373
+      },
+      {
+        "heading": "二十一、滿洲宮廷之外的開拓與技術累積",
+        "body_han": 334
+      },
+      {
+        "heading": "二十二、征服財庫與原有議事權的瓦解",
+        "body_han": 474
+      },
+      {
+        "heading": "二十三、屬人聯盟到連續領土與國族",
+        "body_han": 359
+      },
+      {
+        "heading": "二十四、協和、正統與自治的內部衝突",
+        "body_han": 379
+      },
+      {
+        "heading": "二十五、代議、保安會與地方合作",
+        "body_han": 240
+      },
+      {
+        "heading": "二十六、高成長遮蔽的統制經濟代價",
+        "body_han": 475
+      },
+      {
+        "heading": "二十七、技術精英與政治後裔的斷裂",
+        "body_han": 255
+      }
+    ]
+  },
+  "measurement_method": "Original measure_current.py unchanged; body U+3400–U+9FFF, heading and EA26 source brackets excluded; source index and provenance counted as metadata.",
+  "targets": {
+    "argument_units": 27,
+    "body_han_target": [
+      8780,
+      12500
+    ],
+    "paragraphs": 75,
+    "fixed_overhead_han_target": [
+      1140,
+      1660
+    ],
+    "whole_module_han_target": [
+      9920,
+      14160
+    ],
+    "range_interpretation": "下限需保住列明三類要素；上限容許必要銜接與案例辨析。若刪一整單元須重新說明來源取捨，不能只為達到總字數；後續實編後才可測實際漢字數。"
+  },
+  "whole_body_within_range": true,
+  "metadata_within_range": true,
+  "all_units_within_range": false,
+  "all_groups_within_range": false,
+  "groups": [
+    {
+      "group": "吳越／江淮",
+      "unit_ids": [
+        "W01",
+        "W02",
+        "W03",
+        "W04",
+        "W05"
+      ],
+      "body_han": 2213,
+      "body_han_target": [
+        2010,
+        2800
+      ],
+      "within_range": true
+    },
+    {
+      "group": "巴蜀／夜郎／滇",
+      "unit_ids": [
+        "B01",
+        "B02",
+        "B03",
+        "B04",
+        "B05"
+      ],
+      "body_han": 1619,
+      "body_han_target": [
+        1410,
+        2060
+      ],
+      "within_range": true
+    },
+    {
+      "group": "晉／燕／齊",
+      "unit_ids": [
+        "J01",
+        "J02",
+        "J03",
+        "J04"
+      ],
+      "body_han": 1140,
+      "body_han_target": [
+        1170,
+        1670
+      ],
+      "within_range": false
+    },
+    {
+      "group": "上海",
+      "unit_ids": [
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06"
+      ],
+      "body_han": 2190,
+      "body_han_target": [
+        2000,
+        2840
+      ],
+      "within_range": true
+    },
+    {
+      "group": "滿洲",
+      "unit_ids": [
+        "M01",
+        "M02",
+        "M03",
+        "M04",
+        "M05",
+        "M06",
+        "M07"
+      ],
+      "body_han": 2516,
+      "body_han_target": [
+        2190,
+        3130
+      ],
+      "within_range": true
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "B01",
+      "heading": "一、文明地圖與傳播辨識",
+      "heading_level": 2,
+      "start_line": 7,
+      "end_line": 14,
+      "body_han": 308,
+      "body_han_target": [
+        300,
+        440
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-01",
+        "EA26-02"
+      ],
+      "source_locators": {
+        "EA26-01": "巴蜀1 L2133–2154；巴蜀2 L2575–2593",
+        "EA26-02": "巴蜀4 L2993–3020；燕5 L4279–4298；滿洲1 L6726–6749"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "人類居住不等於公共組織形成；文明區域隨傳播鏈改變，同源符號與先後未必辨得出直接征服或代理輸入。",
+          "observed": "人居延續與神廟、公共工程、武力機構的文明門檻分開。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "神廟公共工程門檻；遠東四區／粗二分；鐮刀錘子遺址類比。",
+          "observed": "四區及粗二分、繩紋與古墳、鐮刀錘子傳播類比都保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "分類是工作尺度；後出差異不能倒投史前；材料未必能辨傳播者血緣。",
+          "observed": "分類是比較尺度；文化來源、傳播者血統和實際控制不能互證。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "B02",
+      "heading": "二、民族建構的自治判準",
+      "heading_level": 2,
+      "start_line": 15,
+      "end_line": 20,
+      "body_han": 263,
+      "body_han_target": [
+        220,
+        340
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-03"
+      ],
+      "source_locators": {
+        "EA26-03": "巴蜀2 L2494–2515"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "族源、邦國和新政體一致可減少組織成本；自治能力才是判準，一致性不是必要或充分條件。",
+          "observed": "自治能力是民族建構判準；人口／歷史前體一致只減少組織成本。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "巴蜀的連續性；瑞士／美國的多元來源；阿爾巴尼亞／保加利亞。",
+          "observed": "瑞士、美國、阿爾巴尼亞、保加利亞和巴蜀便利條件保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "血緣純度不能替代政治能力，也不能因族源牽強否定建構。",
+          "observed": "一致性既非必要也非充分條件；組織優勢不等於人口純血統。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "W01",
+      "heading": "三、吳越的山、海與郡縣",
+      "heading_level": 2,
+      "start_line": 21,
+      "end_line": 28,
+      "body_han": 371,
+      "body_han_target": [
+        360,
+        500
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-04"
+      ],
+      "source_locators": {
+        "EA26-04": "吳越1 L47–76；吳越2 L266–287"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "地形使高產平原、山區、海上團體面對不同控制成本；戶籍徵發又要求重整家庭。",
+          "observed": "地形交通造成山海平原不同控制成本，戶籍婚姻牽連稅兵徵發。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "太湖平原／山越／海越；秦的婚姻與戶主登記。",
+          "observed": "太湖稻田、秦式婚姻整頓、山越海越、洋流季風及跨海貿易保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "行政區名義不能證明同等控制；不能以平原經驗概括山海團體。",
+          "observed": "名義郡縣覆蓋不能證明等量實控；海上商團仍握域外資源。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "W02",
+      "heading": "四、豪族、流亡朝廷與海上教團",
+      "heading_level": 2,
+      "start_line": 29,
+      "end_line": 36,
+      "body_han": 379,
+      "body_han_target": [
+        350,
+        500
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-06"
+      ],
+      "source_locators": {
+        "EA26-06": "吳越3 L489–516；4 L629–650"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "實際保護、耕作與武裝聯盟生成政權；流亡武裝需要後續補充，海上教團另有財貿根基。",
+          "observed": "豪族聯盟、北來軍事集團再生、海上教團財源分成三條機制。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "孫氏豪族及山越；南朝北來集團；孫恩盧循。",
+          "observed": "孫陸顧與山越、京口淮西秦雍、孫恩盧循及海陸天師道保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "官名不等於組織；同名宗教未必同組織；豪族不是純血統名冊。",
+          "observed": "官職和宗教名稱不等於實際組織；吳姓豪門不是純血統名冊。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "W03",
+      "heading": "五、寺院工程與士大夫接管",
+      "heading_level": 2,
+      "start_line": 37,
+      "end_line": 46,
+      "body_han": 561,
+      "body_han_target": [
+        480,
+        660
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-07"
+      ],
+      "source_locators": {
+        "EA26-07": "吳越5 L802–823、850–869；6 L950–973"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "技術輸入、試辦、推廣與記功分屬不同主體；接管資源可同時增加公益與對官府的依附。",
+          "observed": "稻種產量、海塘新增耕地、橋梁交通各自形成財源；維護和擴展有不同承擔者。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "多季稻、海塘橋梁；寺院先辦與王朝推廣；南宋士紳。",
+          "observed": "南印度錫蘭南洋技術、寺院、吳越朝廷南宋、長城連接類比與宋金財政壓力保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "士紳確實辦公益；寺院未立即消失，部分特權仍存。",
+          "observed": "南宋士大夫真辦公益但依賴官職；寺院尚存特權，並未立即消失。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "W04",
+      "heading": "六、條約、公局財政與未完成的建國",
+      "heading_level": 2,
+      "start_line": 47,
+      "end_line": 54,
+      "body_han": 449,
+      "body_han_target": [
+        420,
+        580
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-08"
+      ],
+      "source_locators": {
+        "EA26-08": "吳越7 L1157–1174、1190–1216；8 L1348–1367"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "征服對土地與海商的作用不同；外部保護促成財源與公局監督，但財富不自動轉為軍事政治責任。",
+          "observed": "土地與海商的恢復條件分開；公局出資、人事監督構成第三套財政關係。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "張士誠／方國珍基礎；東南互保、公局；吳越精英的全國位置。",
+          "observed": "張士誠土地、方國珍海商、後起東林復社士大夫與巴蜀恢復差異、東南互保、海關／田賦／公局及一戰後保護撤退保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "恢復財富未必恢復原階級；保護者撤退會改變條件。",
+          "observed": "財富復原不等於舊階級復原；帝國中心地位和不負軍責可妨礙本地自治。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "W05",
+      "heading": "七、江淮的通道與法統負擔",
+      "heading_level": 2,
+      "start_line": 55,
+      "end_line": 62,
+      "body_han": 453,
+      "body_han_target": [
+        400,
+        560
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-05"
+      ],
+      "source_locators": {
+        "EA26-05": "江淮9 L1494–1517；10 L1725–1744；11 L1892–1915"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "地形改變輸入技術的效果；通道轉向削弱地方力量，復國法統又抬高不可退讓的政治目標。",
+          "observed": "水網改變征服技術，通道轉移改變地方供應與選擇，法統提高目標形成雙重壓力。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "水網與戰車；仇池漢中江陵；南唐與明州、燕雲變化。",
+          "observed": "仇池漢中江陵、王琳／陳霸先、梁朝改開廣州—東南亞—印度海路及廣州—洪都—江州—建康輸入、南唐／燕雲／明州港保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "王琳的信念與私怨仍有作用；不能以地理單因取消。",
+          "observed": "地理沒有取消真實忠誠或私怨；偏安邦國與帝國復國目標不同。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "B03",
+      "heading": "八、巴蜀的商路與帝國糧倉",
+      "heading_level": 2,
+      "start_line": 63,
+      "end_line": 70,
+      "body_han": 398,
+      "body_han_target": [
+        330,
+        470
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-09"
+      ],
+      "source_locators": {
+        "EA26-09": "巴蜀1 L2188–2206、2253–2272；2 L2575–2593"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "跨區通道支持商業宗教與技術；帝國的農產汲取與地方文明可能背向，流亡復國政權仍依多國空間生存。",
+          "observed": "商路開放與帝國糧倉的地方利益不同，流亡帝國仍依賴多國商貿。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "青海道／蜀身毒道；諸葛政權與涼州商團；寺院商業和宗教中心。",
+          "observed": "青海道、蜀身毒道、涼州商團、諸葛亮、寺院船主以及石材墓葬保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "政治目標與經濟條件可以不同；石材墓葬只提示聯繫，不證全民血緣。",
+          "observed": "宗教商貿角色並存；器物聯繫不證全部共同血統或現代民族既存。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "B04",
+      "heading": "九、夜郎的動員與征服後收權",
+      "heading_level": 2,
+      "start_line": 71,
+      "end_line": 76,
+      "body_han": 349,
+      "body_han_target": [
+        300,
+        430
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-13"
+      ],
+      "source_locators": {
+        "EA26-13": "夜郎3 L2728–2751、2810–2827"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "宗教與封建團體使地方能動員；征服者可以先吸納保護領主，再從內部收權，引出新的反抗。",
+          "observed": "祭司長老武士把銅鼓權威轉為動員；征服吸納和征服後收權分階段。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "銅鼓的祭司長老武士；蒙古吸納領主；文化改名保存習俗。",
+          "observed": "夜郎百濮、銅鼓、屈原改名、蒙古世侯、改土歸流、蛇節反抗與東南亞遠征受挫及延緩去封建化保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "曾提供保護不保證永久尊重自治；文化名稱變動不等於組織立即消失。",
+          "observed": "文化改名可保存實踐；選擇寬鬆宗主不等於永久接受後來徵發。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "B05",
+      "heading": "十、滇國外交的時機錯置",
+      "heading_level": 2,
+      "start_line": 77,
+      "end_line": 82,
+      "body_han": 301,
+      "body_han_target": [
+        260,
+        380
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-15"
+      ],
+      "source_locators": {
+        "EA26-15": "滇4 L3129–3152"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "同一干涉或退守政策，隨威脅與自身資源變化而改變效果；勝利不賦予後續政策永久正當性。",
+          "observed": "外交的作用隨外圍威脅、盟友網絡和本地疲憊改變。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "蔡鍔有限干涉；唐繼堯過度擴張；顧品珍龍雲在新威脅下退守。",
+          "observed": "蔡鍔派兵後接受調停以避荊楚湖湘衝突、唐繼堯干涉南粵削弱本地反孫蔣力量、顧品珍龍雲未援夜郎巴蜀與列寧主義擴張保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "既不能把孤立，也不能把擴張定成無條件規則。",
+          "observed": "擴張或孤立均非普遍答案；同一保護目標在不同時機要求相反行動。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "J01",
+      "heading": "十一、晉地的名稱、組織與武士權利",
+      "heading_level": 2,
+      "start_line": 83,
+      "end_line": 90,
+      "body_han": 421,
+      "body_han_target": [
+        380,
+        520
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-10",
+        "EA26-11"
+      ],
+      "source_locators": {
+        "EA26-10": "晉1 L3299–3320；2 L3539–3558",
+        "EA26-11": "晉3 L3733–3754；4 L3970–3989"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "控制通道與保有自治提供戰力；郡縣徵發和財政侵蝕改變武士位置，後來的文字名稱不能當成早期起點。",
+          "observed": "名字進入漢字記錄與組織形成分開；通道及武士自主影響政治選擇。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "叔虞受封／雷根譯名；宋金蒙古給土豪不同條件；紙幣侵蝕領地武士。",
+          "observed": "叔虞／雷根里根、中條山太行鄂爾多斯、宋金蒙古不同待遇、紙幣侵蝕保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "胡漢名稱可反映制度地位；封建爵位不保證實際自主。",
+          "observed": "胡漢可指制度地位；名義封建權利不能保證實際獨立。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "J02",
+      "heading": "十二、軍國民教育與本地公共能力",
+      "heading_level": 2,
+      "start_line": 91,
+      "end_line": 96,
+      "body_han": 213,
+      "body_han_target": [
+        220,
+        320
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "EA26-16"
+      ],
+      "source_locators": {
+        "EA26-16": "晉4 L4066–4087"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "學校、新軍與預備軍官接成地方網絡，使新知識轉為社區保護和動員；政治敵我不排除德性評價。",
+          "observed": "學校、新軍、預備軍官及返鄉公共服務形成組織鏈，兵源本地化改變認同。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "閻錫山軍國民教育及本地兵源；厚葬殉職巡撫父子。",
+          "observed": "閻錫山軍國民教育、自衛隊、巡撫父子體面葬禮保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "不把當時對台灣的類比更新成今日事實；厚葬個案不是普遍道德律。",
+          "observed": "政治敵我與德性評價分開；不把厚葬推成全情境規則，未延伸當代預測。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "J03",
+      "heading": "十三、燕地豪族的保護者與中介選擇",
+      "heading_level": 2,
+      "start_line": 97,
+      "end_line": 104,
+      "body_han": 249,
+      "body_han_target": [
+        270,
+        400
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "EA26-12"
+      ],
+      "source_locators": {
+        "EA26-12": "燕6 L4472–4489；7 L4665–4684"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "外來主導者更替讓本地豪族重新尋找保護和行政中介位置；同一征服的收益不平均。",
+          "observed": "燕地豪族從次位轉向東北保護者，提供地方行政中介以換取位置。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "盧龍本土家族轉向東北；金皇室、燕地豪族與滿洲武士。",
+          "observed": "盧龍、契丹女真、金皇室／燕地豪族／滿洲武士三方保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "不能把地方合作全解成被動征服，也不能以皇室所得代表武士。",
+          "observed": "外來征服與地方合作可並存；征服勝利不代表所有合作者得利，完整財庫因果在 M02。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "J04",
+      "heading": "十四、齊魯的海陸方向與地方組織",
+      "heading_level": 2,
+      "start_line": 105,
+      "end_line": 111,
+      "body_han": 257,
+      "body_han_target": [
+        300,
+        430
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "EA26-14",
+        "EA26-17"
+      ],
+      "source_locators": {
+        "EA26-14": "齊8 L4873–4888；9 L5086–5103",
+        "EA26-17": "齊9 L5184–5217"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "通道改變使同省地主面對相反利益；擬制親緣與聯莊、報刊、共同審稅把地方資源轉為組織能力。",
+          "observed": "收容改姓造就擬制親緣；海運漕運方向讓財產轉政治能力的條件不同。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "儒家大族吸納流民與改姓；海運／漕運；威海衛青島及聯莊會。",
+          "observed": "流民部曲、威海衛青島、聯莊會、上海大連輿論、查帳和共同審稅保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "同姓不等於同一生物譜系；同階級和議會形式不保證同樣政治能力。",
+          "observed": "同姓、地主身分、省名、議會形式都不能證同等公共能力。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S01",
+      "heading": "十五、上海：辦事團體到憲制中心",
+      "heading_level": 2,
+      "start_line": 112,
+      "end_line": 119,
+      "body_han": 376,
+      "body_han_target": [
+        360,
+        500
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-18"
+      ],
+      "source_locators": {
+        "EA26-18": "上海1 L5318–5331；2 L5449–5470；3 L5638–5657"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "業主按需要成立團體；防衛要求出錢、負責與調度，逐步生成集中財政軍事機構。",
+          "observed": "分事業主團體經防衛需要形成持續財政、人事和軍事權限。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "上海縣城／自由市；1845土地章程；公墓與道路碼頭委員會、1854章程。",
+          "observed": "1845土地章程、公墓與道路碼頭委員會、北美邦聯類比、泥城之戰和1854章程保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "後來工部局的功能不能倒推成最初已有完整政府藍圖。",
+          "observed": "不能由後來工部局地位倒推完整國家設計；戰爭改造既有團體。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S02",
+      "heading": "十六、多重司法、先例與附則權力",
+      "heading_level": 2,
+      "start_line": 120,
+      "end_line": 129,
+      "body_han": 484,
+      "body_han_target": [
+        420,
+        580
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-19"
+      ],
+      "source_locators": {
+        "EA26-19": "上海3 L5666–5687、5690–5715；4 L5763–5778"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "長期實踐及各方承認形成權限；宗主、司法、附則與行政交錯，管轄競爭既提供退出空間也造成摩擦。",
+          "observed": "長期實踐和承認形成權限；司法多元給行政權限爭議提供外部救濟。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "工部局可被納稅人起訴；英法美系法庭；婚姻見證類比。",
+          "observed": "婚姻見證、宗主／司法／附則／行政、香港稅案、英法美法院及公董局分離保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "跨地域判例拘束力未澄清；類比不是沉默即同意的一般法律規則。",
+          "observed": "跨地判例拘束力仍未澄清；婚姻類比不是普遍沉默同意規則。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S03",
+      "heading": "十七、受保護中立與外交自主的交換",
+      "heading_level": 2,
+      "start_line": 130,
+      "end_line": 137,
+      "body_han": 314,
+      "body_han_target": [
+        260,
+        380
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-20"
+      ],
+      "source_locators": {
+        "EA26-20": "上海5 L5879–5900；3 L5690–5701"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "外部擔保節省軍事外交成本，卻使地方決策依賴保護者；擔保意願和戰爭形式改變時，優勢轉為限制。",
+          "observed": "普通中立保留戰和決策且自負風險，受擔保中立交換決策權和安全成本。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "一般中立／受條約保護中立；領事與列強；上海海軍外交成本。",
+          "observed": "上海外部軍官武器補給、海軍成本、領事與列強保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "禮儀上的主權稱呼不補足實際能力；不是現行國際法意見。",
+          "observed": "外部保護曾有真實利益，承擔改變又留下缺口；禮儀主權不等於實際能力。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S04",
+      "heading": "十八、人口擴張與共同責任不足",
+      "heading_level": 2,
+      "start_line": 138,
+      "end_line": 145,
+      "body_han": 389,
+      "body_han_target": [
+        340,
+        480
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-21"
+      ],
+      "source_locators": {
+        "EA26-21": "上海6 L6068–6091；8 L6416–6443"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "經濟邊界和人口擴張快於共同治理習慣，少數自由與大眾參與產生衝突；壓制多數又可損害少數自身自由。",
+          "observed": "經濟人口擴張可快於政治共同責任，排除與快速吸納各有代價。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "南非化；賴比瑞亞；上海業主少數與政治外人口。",
+          "observed": "南非化、上海少數業主、賴比瑞亞共和建國者與條約擴界保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "膚色不是因果分類；不能由風險推出永久拒絕擴公民權。",
+          "observed": "膚色不是因果分類；壓制多數也可毀少數自由，不推出永久拒絕擴權。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S05",
+      "heading": "十九、代理人供養與代表性爭奪",
+      "heading_level": 2,
+      "start_line": 146,
+      "end_line": 152,
+      "body_han": 254,
+      "body_han_target": [
+        300,
+        440
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "EA26-22"
+      ],
+      "source_locators": {
+        "EA26-22": "上海6 L6154–6203；7 L6245–6264；8 L6416–6443"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "流亡組織維持身分的成本造成財政依附；外部施壓與內部代理互相配合，形式上的社群代表未必真正代表。",
+          "observed": "流亡組織維持身分的成本造成供養依附，內外代理使代表名額轉為控制。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "南越化；依國庫／自籌教團；納稅華人會與南粵吳越商團。",
+          "observed": "南越化、國庫／自籌教團、納稅華人會與南粵吳越商團保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "反對教義不等於能拒資源；個別間諜指控只保留講座歸屬。",
+          "observed": "反對教義不等於財政獨立；名叫華人會不保證代表性，個別間諜指控仍集中註明歸屬。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "S06",
+      "heading": "二十、總體戰下的外交、行政與公民資格",
+      "heading_level": 2,
+      "start_line": 153,
+      "end_line": 160,
+      "body_han": 373,
+      "body_han_target": [
+        320,
+        460
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-21",
+        "EA26-22"
+      ],
+      "source_locators": {
+        "EA26-21": "上海6 L6068–6091；8 L6416–6443",
+        "EA26-22": "上海6 L6154–6203；7 L6245–6264；8 L6416–6443"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "戰爭方式變化使外交自主、行政安全與普遍共同責任成為連動條件；要求全民犧牲而不擴政治資格同樣失敗。",
+          "observed": "總體戰把全民犧牲與政治資格連接，外交、行政安全、人民範圍三項不可互代。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "一戰普遍動員與福利選舉權；上海建國失敗的三項未完成條件。",
+          "observed": "一戰普遍動員、福利選舉、三項未完成條件、1919至1920財產資格和領事介入保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "承接S04的快速吸納風險但不取消擴權需求；不能單推永遠集權。",
+          "observed": "S04快速吸納風險和擴公民權需求同時保留；不能推出永久集權。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M01",
+      "heading": "二十一、滿洲宮廷之外的開拓與技術累積",
+      "heading_level": 2,
+      "start_line": 161,
+      "end_line": 168,
+      "body_han": 334,
+      "body_han_target": [
+        300,
+        440
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-23",
+        "EA26-24"
+      ],
+      "source_locators": {
+        "EA26-23": "滿洲2 L6907–6928；3 L7138–7153；4 L7344–7369、7386–7411；5 L7532–7557",
+        "EA26-24": "滿洲6 L7699–7714；7 L7873–7892"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "分散領主、工匠與商貿積累可在宮廷之外延續；可見英雄的動員依既有產業與聯盟，島嶼／大陸環境影響耗損。",
+          "observed": "分散工匠領主積累在宮廷之外延續；英雄依已有產業與聯盟動員。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "渤海宮廷／黑水；鐵匠造船者；努爾哈赤與日本京都坂東比較。",
+          "observed": "渤海／黑水、龍泉龍原、鐵匠造船、努爾哈赤十三副甲、京都坂東和島陸比較保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "宮廷衰落不代表全部社會消失；十三副甲不是全部能力的起點。",
+          "observed": "宮廷衰落不等於全社會消滅；十三副甲不是能力憑空起點。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M02",
+      "heading": "二十二、征服財庫與原有議事權的瓦解",
+      "heading_level": 2,
+      "start_line": 169,
+      "end_line": 178,
+      "body_han": 474,
+      "body_han_target": [
+        420,
+        580
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-12",
+        "EA26-23"
+      ],
+      "source_locators": {
+        "EA26-12": "燕6 L4472–4489；7 L4665–4684",
+        "EA26-23": "滿洲2 L6907–6928；3 L7138–7153；4 L7344–7369、7386–7411；5 L7532–7557"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "君主獨控征服收入後可繞開原供養武士；議事權被削弱，領地武士轉為受貨幣侵蝕的領薪者，本土產業失人。",
+          "observed": "外來財庫使君主繞開原供養武士，代表議事失去資源制衡，領地武士變受貨幣侵蝕的領薪者。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "勃極烈到代表議事；金財庫；羅馬埃及與英國印度比較。",
+          "observed": "勃極烈代表化、金財庫、羅馬東方財產／埃及、英國印度與本土煉鐵造船流失保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "國家戰勝不等於原共同體得利；比方分紅不是統計。",
+          "observed": "皇室與行政中介收益不抵原共同體損失；分紅明示為比方非財政統計。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M03",
+      "heading": "二十三、屬人聯盟到連續領土與國族",
+      "heading_level": 2,
+      "start_line": 179,
+      "end_line": 186,
+      "body_han": 359,
+      "body_han_target": [
+        330,
+        480
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-24",
+        "EA26-25"
+      ],
+      "source_locators": {
+        "EA26-24": "滿洲6 L7699–7714；7 L7873–7892",
+        "EA26-25": "滿洲8 L8034–8053；9 L8222–8240、8280–8297"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "舊滿洲依附團體、領地交錯；財政軍備交通需求推動連續行政領土，與自治團體結合後形成新國族。",
+          "observed": "屬人交錯權利先被財政交通軍備需求整合成行政領土，再與自治團體結合成國族。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "八旗內外及移民加入；滿鐵、東三省總督、張作霖模仿；1932的滿洲。",
+          "observed": "八旗內外、遠近與移民加入、滿鐵／東三省總督／張作霖、1932保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "同名不是同一政治主體；滿族血統不等於滿洲國族。",
+          "observed": "舊族群身分、聯盟資格與新國族不可因同名合一；劃界不等於政治合作。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M04",
+      "heading": "二十四、協和、正統與自治的內部衝突",
+      "heading_level": 2,
+      "start_line": 187,
+      "end_line": 194,
+      "body_han": 379,
+      "body_han_target": [
+        360,
+        510
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-25",
+        "EA26-27"
+      ],
+      "source_locators": {
+        "EA26-25": "滿洲8 L8034–8053；9 L8222–8240、8280–8297",
+        "EA26-27": "滿洲9 L8222–8240、8280–8297、8318–8343"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "共同威脅促成國族路線妥協，但君統、整合與團體自治的權利要求不一致；支持建國者仍可反對本國行政侵入。",
+          "observed": "共同威脅使路線妥協，君統、國族整合和團體自治仍有衝突。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "協和派／正統派；落地日裔居民；農會自治會被官員介入。",
+          "observed": "協和／正統、落地日裔、華盛頓類比、農會自治會的官員侵入及政治犯反例保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "祖籍不決定效忠；自治標準不能隨政權變成自己人而撤回。",
+          "observed": "祖籍不固定效忠；支持建國者仍可反對本國集權，自治判準不中止。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M05",
+      "heading": "二十五、代議、保安會與地方合作",
+      "heading_level": 2,
+      "start_line": 195,
+      "end_line": 200,
+      "body_han": 240,
+      "body_han_target": [
+        220,
+        320
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-26"
+      ],
+      "source_locators": {
+        "EA26-26": "滿洲10 L8415–8434"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "納稅代議機構聯結可動員的地方人群，委任軍政機構；同形制度能否維持取決於持續合作。",
+          "observed": "納稅代議連接可動員的地方人群，擴大保安會後委任軍政；持續合作決定運作。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "三省議會聯合會、保安會與張作霖；他邦軍政議會互鬥對照。",
+          "observed": "三省議會聯合會、保安會、保安司令部／行政委員會、張作霖、他邦相似形式內鬥保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "軍閥稱呼不能取消憲制關係，也不能只靠紙面制度推斷成敗。",
+          "observed": "軍閥名稱不能抹掉代議委任，紙面分權也不能供應實際合作。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M06",
+      "heading": "二十六、高成長遮蔽的統制經濟代價",
+      "heading_level": 2,
+      "start_line": 201,
+      "end_line": 210,
+      "body_han": 475,
+      "body_han_target": [
+        380,
+        540
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-28"
+      ],
+      "source_locators": {
+        "EA26-28": "滿洲9 L8370–8394"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "開拓、外資技術可暫時掩蓋制度問題；行政與產業聯合會雖競爭仍可共同擠壓地方，短期產值不等於社會延續。",
+          "observed": "開拓外資技術可遮制度問題；集中資本選擇改變地方投資，行政與產業法團可共壓小團體。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "行政國家／產業聯合會／地方土豪三角；高科技國防與分散投資；未亡國的反事實。",
+          "observed": "高科技國防、豆油高端用途、分散投資、行政／產業聯合會／地方三角保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "私產和成本核算確與蘇聯不同；不能取消地方弱勢；1945之後的推演不是已發生史實。",
+          "observed": "私產成本核算市場區別於蘇聯仍不消除地方弱勢；1945後情境明確是反事實。",
+          "status": "preserved"
+        }
+      ]
+    },
+    {
+      "unit_id": "M07",
+      "heading": "二十七、技術精英與政治後裔的斷裂",
+      "heading_level": 2,
+      "start_line": 211,
+      "end_line": 218,
+      "body_han": 255,
+      "body_han_target": [
+        180,
+        260
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "EA26-29"
+      ],
+      "source_locators": {
+        "EA26-29": "滿洲後記 L8633–8659"
+      },
+      "required_element_checks": [
+        {
+          "type": "causal_argument",
+          "requirement": "技能和公益習慣可被更大政權搬走使用，卻未必留下保護後代的政治共同體。",
+          "observed": "技術與公益習慣可遷移供大政權使用，保護後代的政治共同體未必同行。",
+          "status": "preserved"
+        },
+        {
+          "type": "case_or_comparison",
+          "requirement": "後記的新疆童年社區、家系與2012年老人見聞。",
+          "observed": "後記新疆童年社區、家系和2012老人見聞保留。",
+          "status": "preserved"
+        },
+        {
+          "type": "condition_or_counterexample",
+          "requirement": "屬講述者回憶；不是本次獨立傳記核驗，也不是使用者的記憶。",
+          "observed": "局部明確標為講述者回憶，非本輪獨立核驗或使用者記憶。",
+          "status": "preserved"
+        }
+      ]
+    }
+  ],
+  "old_heading_to_new_headings": {
+    "一、文明地圖不等於後來的國家地圖": [
+      "一、文明地圖與傳播辨識"
+    ],
+    "二、名稱、血緣與制度不能互相代證": [
+      "十一、晉地的名稱、組織與武士權利",
+      "十四、齊魯的海陸方向與地方組織"
+    ],
+    "三、民族建構的判準是共同體能否自我治理": [
+      "二、民族建構的自治判準",
+      "二十三、屬人聯盟到連續領土與國族"
+    ],
+    "四、吳越的三種社會：山、海與郡縣": [
+      "三、吳越的山、海與郡縣"
+    ],
+    "五、豪族、流亡朝廷與海上教團的不同根基": [
+      "四、豪族、流亡朝廷與海上教團"
+    ],
+    "六、寺院的工程與士大夫的接管": [
+      "五、寺院工程與士大夫接管"
+    ],
+    "七、條約保護怎樣轉成地方財政，財富又為何不等於建國": [
+      "六、條約、公局財政與未完成的建國"
+    ],
+    "八、江淮：道路改向與法統野心的雙重風險": [
+      "七、江淮的通道與法統負擔"
+    ],
+    "九、巴蜀：糧倉的盛世與商路的盛世不是同一件事": [
+      "八、巴蜀的商路與帝國糧倉"
+    ],
+    "十、夜郎與滇：地方保護、征服後的變質與外交時機": [
+      "九、夜郎的動員與征服後收權",
+      "十、滇國外交的時機錯置"
+    ],
+    "十一、晉：自由組織、輸入通道與近代的社區凝結核": [
+      "十一、晉地的名稱、組織與武士權利",
+      "十二、軍國民教育與本地公共能力"
+    ],
+    "十二、燕與齊：中介的收益與同省不同方向": [
+      "十三、燕地豪族的保護者與中介選擇",
+      "十四、齊魯的海陸方向與地方組織",
+      "二十二、征服財庫與原有議事權的瓦解"
+    ],
+    "十三、上海：先有辦事團體，再有憲制中心": [
+      "十五、上海：辦事團體到憲制中心",
+      "十六、多重司法、先例與附則權力"
+    ],
+    "十四、多元司法、附則與有限的外交主體": [
+      "十六、多重司法、先例與附則權力",
+      "十七、受保護中立與外交自主的交換"
+    ],
+    "十五、上海的失敗：吸納、代表、保護與總體戰": [
+      "十八、人口擴張與共同責任不足",
+      "十九、代理人供養與代表性爭奪",
+      "二十、總體戰下的外交、行政與公民資格"
+    ],
+    "十六、滿洲：宮廷的光輝不能替開拓者記帳": [
+      "二十一、滿洲宮廷之外的開拓與技術累積"
+    ],
+    "十七、征服的便宜錢怎樣摧毀原有議事權": [
+      "二十二、征服財庫與原有議事權的瓦解"
+    ],
+    "十八、從屬人的滿洲，到行政國家與國族的滿洲": [
+      "二十三、屬人聯盟到連續領土與國族",
+      "二十五、代議、保安會與地方合作"
+    ],
+    "十九、協和、正統與自治：國家建設不等於地方自由": [
+      "二十四、協和、正統與自治的內部衝突"
+    ],
+    "二十、統制經濟的光與影，以及沒有政治後裔的技術精英": [
+      "二十六、高成長遮蔽的統制經濟代價",
+      "二十七、技術精英與政治後裔的斷裂"
+    ]
+  },
+  "source_review": {
+    "existing_windows_reread": [
+      {
+        "start_line": 5638,
+        "end_line": 5657,
+        "characters": 1819,
+        "sha256": "21682b39345d9de58a6b0dfb4a033179d58d5e96468d50324f8ec0be4a21cb74",
+        "existing_window_reread": true,
+        "start_offset": 512829,
+        "end_offset": 514648
+      },
+      {
+        "start_line": 5666,
+        "end_line": 5687,
+        "characters": 2373,
+        "sha256": "1ba5a480d360e0bdd93132669ac0b6dcf432e3a74535f1db1e3a08e93491a5a9",
+        "existing_window_reread": true,
+        "start_offset": 515520,
+        "end_offset": 517893
+      },
+      {
+        "start_line": 5690,
+        "end_line": 5715,
+        "characters": 3367,
+        "sha256": "88b278b03471ef0cf5c01087e75df6aea207f2ff92992fe44082853a0c5d1b76",
+        "existing_window_reread": true,
+        "start_offset": 518293,
+        "end_offset": 521660
+      },
+      {
+        "start_line": 5879,
+        "end_line": 5900,
+        "characters": 1759,
+        "sha256": "46042bb59ba055faf68d142285ca33e599b11b81599e5527c4593e423461f70a",
+        "existing_window_reread": true,
+        "start_offset": 541444,
+        "end_offset": 543203
+      },
+      {
+        "start_line": 6068,
+        "end_line": 6091,
+        "characters": 2194,
+        "sha256": "d3e0c2ab58c4602aa1ae90482ec7f9068ec576d1313d0ece1fcec92e1a1439f5",
+        "existing_window_reread": true,
+        "start_offset": 558874,
+        "end_offset": 561068
+      },
+      {
+        "start_line": 6416,
+        "end_line": 6443,
+        "characters": 2597,
+        "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+        "existing_window_reread": true,
+        "start_offset": 593492,
+        "end_offset": 596089
+      },
+      {
+        "start_line": 8034,
+        "end_line": 8053,
+        "characters": 1697,
+        "sha256": "427905b96a454e2495a7eae0728d6b9fe4d8990d2747de99127ee74e97468e94",
+        "existing_window_reread": true,
+        "start_offset": 741417,
+        "end_offset": 743114
+      },
+      {
+        "start_line": 8415,
+        "end_line": 8434,
+        "characters": 1615,
+        "sha256": "1cfbc6120ea0911b0ab34bdfa032a8822be15c67769d765a1fa581dd9a17162e",
+        "existing_window_reread": true,
+        "start_offset": 776289,
+        "end_offset": 777904
+      },
+      {
+        "start_line": 8370,
+        "end_line": 8394,
+        "characters": 2049,
+        "sha256": "d5218e2484cbb41c3ce3a62ef4cff878154711a3c21b31c9a2f625904d9f4fab",
+        "existing_window_reread": true,
+        "start_offset": 773205,
+        "end_offset": 775254
+      },
+      {
+        "start_line": 850,
+        "end_line": 869,
+        "characters": 2318,
+        "sha256": "0a33c0322938250baa6668e8185db3d722de79d4daf7abced18156e10a59ce7c",
+        "existing_window_reread": true,
+        "start_offset": 69054,
+        "end_offset": 71372
+      },
+      {
+        "start_line": 2188,
+        "end_line": 2206,
+        "characters": 1914,
+        "sha256": "532364696d69ed665a8f84af804a9fbe5fbed7c11614182151d5ad6373e205b9",
+        "existing_window_reread": true,
+        "start_offset": 187297,
+        "end_offset": 189211
+      },
+      {
+        "start_line": 2253,
+        "end_line": 2272,
+        "characters": 1705,
+        "sha256": "e999981ae96f3953cf08e7d401a9362d40ab7e65062d57194739ce0bc513d0aa",
+        "existing_window_reread": true,
+        "start_offset": 193381,
+        "end_offset": 195086
+      },
+      {
+        "start_line": 1157,
+        "end_line": 1174,
+        "characters": 1663,
+        "sha256": "991abf1224ded8b4c6d59425dc75942cef1ef2cf6766fb0d3162c01320d143d8",
+        "existing_window_reread": true,
+        "start_offset": 99024,
+        "end_offset": 100687
+      },
+      {
+        "start_line": 1190,
+        "end_line": 1216,
+        "characters": 3228,
+        "sha256": "57bce6329943aac4c217d59fbb5e83fe6cc6b225d42730e5bff931afaac4f1a8",
+        "existing_window_reread": true,
+        "start_offset": 102528,
+        "end_offset": 105756
+      },
+      {
+        "start_line": 1725,
+        "end_line": 1744,
+        "characters": 1704,
+        "sha256": "b27568b36b76cfe4c893383a243a3f686087c3b76504d35e4be7625109f08127",
+        "existing_window_reread": true,
+        "start_offset": 148577,
+        "end_offset": 150281
+      },
+      {
+        "start_line": 2810,
+        "end_line": 2827,
+        "characters": 1747,
+        "sha256": "63169036b938bbbd77bd881079aecb56b58b9bbae3b8722ef0580c4e4d8824a0",
+        "existing_window_reread": true,
+        "start_offset": 249738,
+        "end_offset": 251485
+      },
+      {
+        "start_line": 3129,
+        "end_line": 3152,
+        "characters": 1677,
+        "sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+        "existing_window_reread": true,
+        "start_offset": 280270,
+        "end_offset": 281947
+      },
+      {
+        "start_line": 4472,
+        "end_line": 4489,
+        "characters": 1632,
+        "sha256": "12d1df09696effcaf63a6133629a32ba5054a7ac2ccc59c3c5fd0c17a1c36f9f",
+        "existing_window_reread": true,
+        "start_offset": 403858,
+        "end_offset": 405490
+      },
+      {
+        "start_line": 4665,
+        "end_line": 4684,
+        "characters": 1758,
+        "sha256": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "existing_window_reread": true,
+        "start_offset": 422124,
+        "end_offset": 423882
+      }
+    ],
+    "additional_new_windows": 0,
+    "external_research": false,
+    "full_book_read": false,
+    "scope": "Bounded implementation of the previously verified EA26 windows; 19 old windows reread for causal detail and source support, including five windows for the first redundancy revision and two EA26-12 windows for the final deletions-only pass. One prior combined output truncated inside M05 was reread separately in full. No independent historical, archaeological or legal verification.",
+    "existing_confirmed_unique_read_characters": 117754,
+    "existing_source_character_coverage_percent": 14.77
+  },
+  "cross_condition_checks": [
+    {
+      "units": [
+        "S04",
+        "S06"
+      ],
+      "result": "Rapid absorption can outrun shared responsibility; total war simultaneously requires enlarged political membership. Neither removed."
+    },
+    {
+      "units": [
+        "S03",
+        "S06",
+        "M04",
+        "M06"
+      ],
+      "result": "Shanghai security tasks require capacities while Manchurian administrative/industrial power may erode autonomy; no single pro-centralization or anti-centralization verdict."
+    },
+    {
+      "units": [
+        "W03",
+        "M06"
+      ],
+      "result": "Temple engineering origin/maintenance/credit differs from investment-allocation and fiscal-industrial bargaining; both causal stories remain."
+    }
+  ],
+  "direct_statement_review": {
+    "status": "pass",
+    "source_provenance_concentrated": true,
+    "body_uses_direct_substantive_prose": true,
+    "memoir_attribution_retained": true,
+    "source_embedded_role_instructions_adopted": false
+  },
+  "limits": [
+    "These are source-grounded distillation and local author checks, not independent expert verification.",
+    "No new recognition/model evaluation was run by this implementer.",
+    "Historical evidence records retain old scope; old headings are mapped rather than rewritten as if historical tests covered this edition.",
+    "Latest user override supersedes range-filling as an editing objective; four unit bands and the Jin/Yan/Qi group now fall below former lower references and are reported rather than padded."
+  ],
+  "modified_runtime_files": [
+    "references/clusters/c07-2-reversed-east-asian-history.md"
+  ],
+  "redundancy_review_resolution": {
+    "review_file": "c07-2-redundancy-review.json",
+    "sections_modified": [
+      "W04",
+      "W05",
+      "B04",
+      "B05"
+    ],
+    "changes": [
+      "W04 replaced abstract wealth/class restatement with new versus old gentry, Donglin/Fushe and differential Bashu recovery.",
+      "W05 replaced repeated geography/belief caveat with the Guangzhou/SE Asia/India sea-route and Guangzhou/Hongdu/Jiangzhou/Jiankang transmission consequence.",
+      "B04 replaced repeated cooperation-condition tail with Shejie revolt, expedition failure and delayed defeudalization.",
+      "B05 removed duplicate three-stage chronology; Cai E intervention/mediation and Tang/Gu/Long ally/resource consequences now perform different paragraph functions."
+    ],
+    "source_ambiguity_handled": "L3137 撤回夜郎 is not resolved by invented direction; rendered 收束干涉.",
+    "other_units_changed_in_this_pass": false,
+    "unresolved_findings": []
+  },
+  "latest_user_override": {
+    "instruction": "Only local edits; delete purely repeated general discussion. Content follows sources; do not add or move prose to meet unit/group/part reference lengths.",
+    "acceptance_basis": "Source-supported necessary cases, mechanisms and opposite conditions. Existing range fields are descriptive observations only, not pass/fail gates.",
+    "all_fine_grained_allocations_claimed_passed": false,
+    "new_prose_added_in_latest_pass": false,
+    "paragraphs_moved_in_latest_pass": false,
+    "deletion_record": "c07-2-deduplication.json"
+  },
+  "units_below_original_reference_range": [
+    {
+      "unit": "J02",
+      "body_han": 213,
+      "original_range": [
+        220,
+        320
+      ],
+      "shortfall_to_old_low": 7
+    },
+    {
+      "unit": "J03",
+      "body_han": 249,
+      "original_range": [
+        270,
+        400
+      ],
+      "shortfall_to_old_low": 21
+    },
+    {
+      "unit": "J04",
+      "body_han": 257,
+      "original_range": [
+        300,
+        430
+      ],
+      "shortfall_to_old_low": 43
+    },
+    {
+      "unit": "S05",
+      "body_han": 254,
+      "original_range": [
+        300,
+        440
+      ],
+      "shortfall_to_old_low": 46
+    }
+  ],
+  "groups_below_original_reference_range": [
+    {
+      "group": "晉／燕／齊",
+      "body_han": 1140,
+      "original_range": [
+        1170,
+        1670
+      ]
+    }
+  ],
+  "deduplication_review": {
+    "record": "c07-2-deduplication.json",
+    "deleted_body_han": 466,
+    "changed_units": [
+      "J02",
+      "J03",
+      "J04",
+      "S01",
+      "S02",
+      "S05"
+    ],
+    "judgment": "Only repeated general statements deleted. J03 local-knowledge-to-administrative-mediation sentence retained after checking original EA26-12 windows. Thickness of original reference bands is not a reason to restore repetition.",
+    "condition_checks": "J02 honorable-burial example remains non-universal; S02 silence is not generalized consent; S04/S06 and Shanghai/Manchuria opposite conditions unchanged.",
+    "new_source_windows": 0
+  }
+}

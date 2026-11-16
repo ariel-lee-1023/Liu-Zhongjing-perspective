@@ -1,0 +1,97 @@
+{
+  "module": "c05",
+  "reviewer": "root; separate from drafting agent",
+  "reviewed_runtime_sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+  "scope": "EDU26 and ENT26 substantive additions and CA-L04 overlap; this is source fidelity editorial review, not independent science or historical verification.",
+  "source_reading": {
+    "EDU26": "All 30 XML paragraphs, including all seven question/answer boundaries, read in full.",
+    "ENT26": "All nine supplied pages read; author speech ends before 二、修改说明 on p.7; remainder is editorial notes.",
+    "new_documents_beyond_supplied_scope": 0
+  },
+  "checks": [
+    {
+      "source": "EDU26",
+      "source_units": [
+        8,
+        9,
+        24,
+        25,
+        26
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "result": "pass",
+      "assessment": "指定資訊增加與環境渠道切斷分開；知識／價值區分保留，不把教師評價當中立結論。"
+    },
+    {
+      "source": "EDU26",
+      "source_units": [
+        4,
+        5,
+        15,
+        16
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "result": "pass",
+      "assessment": "職訓資訊、工作場所師徒與博雅教育的不同功能，以及學位承諾和實際位置錯配均保留。"
+    },
+    {
+      "source": "EDU26",
+      "source_units": [
+        11,
+        12,
+        18,
+        19
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "result": "pass",
+      "assessment": "龍舟經歷正確歸提問者；板球共同信任與興趣需求驅動語言學習保留，未保證人人無需訓練。"
+    },
+    {
+      "source": "EDU26",
+      "source_units": [
+        9,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "result": "pass",
+      "assessment": "教育券的相對比較、公辦較少弊病與所有好教育皆私立的絕對批評共存；CA義務教育正面功能未刪，未臆造年代次序或宣稱完全調和。"
+    },
+    {
+      "source": "EDU26",
+      "source_units": [
+        28,
+        29
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "result": "pass",
+      "assessment": "園丁依觀察修正初衷、不過早剪除可能性；不將此變成無限可塑性。"
+    },
+    {
+      "source": "ENT26",
+      "source_units": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "runtime_section": "五、AI媒介與專用技術；十四、舊來源承接與新核對照",
+      "result": "pass",
+      "assessment": "重複刺激、固定工作與探索責任、私人娛樂兼組織冒險、活動範圍非無限、童年好奇心均有來源；神經解釋保持原述推測層級，編者修訂說明未誤作作者證據。"
+    }
+  ],
+  "deduplication": "CA-L04相同娛樂段落由ENT26重核，不算第二個獨立來源；一般刺激差異只在舊來源節承接，其餘新增機制各有落點。",
+  "conditions_and_source_tensions_preserved": true,
+  "unresolved_findings": [],
+  "outcome": "pass_for_EDU26_ENT26_source_supported_increment",
+  "independent_expert_verification": false,
+  "recognition_calls": 0,
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context."
+}

@@ -1,0 +1,138 @@
+{
+  "status": "completed_deletions_only",
+  "user_override": "Only local edits; remove purely repeated general discussion. Content follows sources; do not add or move prose to meet original unit/group/part reference allocations.",
+  "module": "references/clusters/c07-2-reversed-east-asian-history.md",
+  "before_sha256": "3b4d46ee423f6b846a8b10141db8320b4ceef35876db440a4ac2f70a7cbac623",
+  "after_sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+  "deletions": [
+    {
+      "unit": "J02",
+      "heading": "十二、軍國民教育與本地公共能力",
+      "removed_text": "新知識要經過學校、軍隊與返鄉人員的組織鏈，才能變成地方反覆使用的能力。只在城市造就幾個受教育者，和讓各地都有能主持公共事務、帶領自衛的人，政治效果並不相同。",
+      "removed_body_han": 71,
+      "reason": "首段已以學校、新軍、預備軍官、自衛隊及返鄉中學生完整交代組織鏈；刪兩句一般化重述。",
+      "retained_distinction": "厚葬不消除政治目標分歧、個別德性判斷不成所有衝突通則，完整保留。"
+    },
+    {
+      "unit": "J03",
+      "heading": "十三、燕地豪族的保護者與中介選擇",
+      "removed_text": "尋求東北保護並不表示燕地原有組織被抹去。",
+      "removed_body_han": 19,
+      "reason": "首段已說既有地方勢力選擇新保護者並保持中介位置。",
+      "retained_distinction": "保留熟悉本地人口、財產和辦事方式如何成為行政中介的機制；EA26-12原選窗L4665–4684以燕人熟悉殖民社會、擔任中間人支持這一點。"
+    },
+    {
+      "unit": "J03",
+      "heading": "十三、燕地豪族的保護者與中介選擇",
+      "removed_text": "；保護者更替，反而可能給原先屈居次位者更多收益",
+      "removed_body_han": 21,
+      "reason": "首段已說屈居次位者選擇更有利中介位置，末段又具體交代燕豪族取得殖民行政收益；此分句不增加案例。",
+      "retained_distinction": "只刪該分句，保留其前行政中介機制及原句句號。"
+    },
+    {
+      "unit": "J03",
+      "heading": "十三、燕地豪族的保護者與中介選擇",
+      "removed_text": "外來征服與地方合作因而不是互相排斥的解釋。",
+      "removed_body_han": 20,
+      "reason": "首段結尾已說燕地與滿洲合作不只是被動征服。",
+      "retained_distinction": "保留原地方選擇、皇室／燕豪族／滿洲武士三份收益。"
+    },
+    {
+      "unit": "J04",
+      "heading": "十四、齊魯的海陸方向與地方組織",
+      "removed_text": "聯莊防衛、外地報刊和共同審稅，讓地方財產不只是一筆可以徵收的收入，也成為能夠交涉的力量。查帳要求必須有團體共同維持，輿論又須接到外部保護和交易網絡；孤立地主即使財產不少，也未必取得同樣的位置。因此，海陸方向不只改變收益，還改變資源能否轉成政治組織。〔EA26-17〕",
+      "removed_body_han": 113,
+      "reason": "前段已具體列聯莊會、上海大連輿論、查帳共同審稅，並比較內陸地主缺乏相同外援與動員；末段再總結資源轉組織。",
+      "retained_distinction": "保留威海青島與漕運方向、擬制親緣、同省同階級同議會形式的反例。"
+    },
+    {
+      "unit": "S01",
+      "heading": "十五、上海：辦事團體到憲制中心",
+      "removed_text": "道路、公墓事務可以分別辦理，對外生存卻須形成能代表業主共同承擔的權限。戰爭在這裡改造已有團體，而不是在空白土地上突然製造社會。〔EA26-18〕",
+      "removed_body_han": 58,
+      "reason": "前兩段已建立分事委員會及無共同政治機關，第三段已以泥城戰爭、義勇軍、1854章程交代轉變；末兩句概括同一過程。",
+      "retained_distinction": "保留1845分事組織、北美邦聯類比、委員會衝突、泥城之戰與1854防衛財政人事轉變。"
+    },
+    {
+      "unit": "S02",
+      "heading": "十六、多重司法、先例與附則權力",
+      "removed_text": "後來查驗權限，不能只問條款有沒有列出某一機構，還須看它長期辦了什麼、哪些利益相關者承認或爭執過。",
+      "removed_body_han": 44,
+      "reason": "首兩句已說長期行使與相關各方承認或爭議構成先例，第三句已說不只讀成文條款；此句重述。",
+      "retained_distinction": "婚姻見證不是把任何人的沉默一律視為法律同意的限制保留；多重司法、香港稅案及判例不確定性未改。"
+    },
+    {
+      "unit": "S05",
+      "heading": "十九、代理人供養與代表性爭奪",
+      "removed_text": "財政自主與代表性必須放在一起看。維持頭銜所需的排場愈大，失去舊財源後尋找新供養者的壓力愈強；一個組織即使在宣言上反對對手，也可能在實際維持費用上受制於對手。代表名額若交給這種依附組織，名義上的擴權就可能變成集中控制；原有商團的獨立出資與推舉關係反而被繞開。〔EA26-22〕",
+      "removed_body_han": 120,
+      "reason": "首段已說排場、失去供養、債務與敵對資源，並保留反教義不等於組織經濟抵抗；次段已說受控制的名義代表不等於分散商團的獨立代表。末段未增加人事、案例或不同條件。",
+      "retained_distinction": "保留南越化、流亡供養、國庫／自籌教團、納稅華人會與南粵吳越商團、名額不等於代表性。"
+    }
+  ],
+  "total_deleted_body_han": 466,
+  "new_prose_added": false,
+  "paragraphs_moved": false,
+  "range_padding_performed": false,
+  "partial_retention_decision": {
+    "unit": "J03",
+    "reason": "The middle sentence specifying local knowledge as the resource for administrative mediation is not merely a repeated protection verdict; retained after checking EA26-12 L4665–4684. The other protection/profit/cooperation summaries are deleted."
+  },
+  "source_review": "Only two already selected EA26-12 windows reread; no new source window or external research.",
+  "historical_verification": "Not independently verified.",
+  "final_measurement": {
+    "body_han": 9678,
+    "metadata_han": 1254,
+    "whole_file_han": 10932,
+    "sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207"
+  },
+  "units_below_original_reference_range": [
+    {
+      "unit": "J02",
+      "body_han": 213,
+      "original_range": [
+        220,
+        320
+      ],
+      "shortfall_to_old_low": 7
+    },
+    {
+      "unit": "J03",
+      "body_han": 249,
+      "original_range": [
+        270,
+        400
+      ],
+      "shortfall_to_old_low": 21
+    },
+    {
+      "unit": "J04",
+      "body_han": 257,
+      "original_range": [
+        300,
+        430
+      ],
+      "shortfall_to_old_low": 43
+    },
+    {
+      "unit": "S05",
+      "body_han": 254,
+      "original_range": [
+        300,
+        440
+      ],
+      "shortfall_to_old_low": 46
+    }
+  ],
+  "groups_below_original_reference_range": [
+    {
+      "group": "晉／燕／齊",
+      "body_han": 1140,
+      "original_range": [
+        1170,
+        1670
+      ]
+    }
+  ],
+  "reference_ranges_are_not_acceptance_gates": true
+}

@@ -1,0 +1,30 @@
+{
+  "status": "implemented_and_source_reviewed_for_declared_scope",
+  "policy": "依使用者最新要求，所有原參考單元下界必須達到；只用來源支持的實質細節補足，不恢復重複總論。C05四份新增來源另核增量配置，沒有統一上限。完成驗證後直接提交推送，保留既有AGENTS.md未提交改動。",
+  "records": [
+    "contract.json",
+    "source-inventory.json",
+    "source-quality.json",
+    "c05-source-increment-plan.json",
+    "c05-source-extension-review.json",
+    "c05-new-evidence.json",
+    "c05-cross-source-notes.json",
+    "c05-cross-review.json",
+    "c05-education-entertainment-review.json",
+    "c07-1-lower-bound-review.json",
+    "c07-1-part-measurements.json",
+    "c07-1-cross-review.json",
+    "c07-2-lower-bound-review.json",
+    "c07-2-cross-review.json",
+    "c07-source-window-verification.json"
+  ],
+  "checks": "checks.json",
+  "measurements": "measurements.json",
+  "source_integrity": "source-integrity.json",
+  "historical_snapshot": "../history/source-extension-2026-11-16/",
+  "recognition_calls": 0,
+  "candidate": true,
+  "publication": "authorized_after_validation",
+  "historical_publication_note": "Frozen allocation and early review records may say local_only; latest contract supersedes this without altering the pre-draft allocation.",
+  "final_metadata_review": "final-metadata-review.json"
+}

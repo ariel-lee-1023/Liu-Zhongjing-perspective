@@ -1,0 +1,1051 @@
+{
+  "status": "pass",
+  "scope": "Mechanical verification of every fingerprinted source-line window/span in this round C07-1/2 lower-bound and cross-review JSON files; no new semantic reading or source coverage.",
+  "review_documents": [
+    {
+      "file": "c07-1-lower-bound-review.json",
+      "sha256": "33a1c7e2162e41e2643535a8663ba5781e662da79c7eca7756873777473ae7c4",
+      "module": "c07-1",
+      "unchanged_during_verification": true,
+      "pre_portability_sha256": "26fffe93b501013cf3bc2c3e0116273a87e50bebf09c4357b93dca8b5cd3c85c",
+      "portability_note": "Source-local path labels and latest publication-authorization note applied after the original verification; all window and runtime data unchanged."
+    },
+    {
+      "file": "c07-1-cross-review.json",
+      "sha256": "8841606cb71c207395364623d16152b6e3bc90d5d757650219985cffb59e40de",
+      "module": "c07-1",
+      "unchanged_during_verification": true,
+      "pre_portability_sha256": "43947518e291657205b8b0f433417f6e47c8d7c5914d20893dec8a0b8dccd915",
+      "portability_note": "Source-local path labels and latest publication-authorization note applied after the original verification; all window and runtime data unchanged."
+    },
+    {
+      "file": "c07-2-lower-bound-review.json",
+      "sha256": "255792079dd61909055da3088eb7ec911bc7afee00b917f4cea0aa31e30afbf0",
+      "module": "c07-2",
+      "unchanged_during_verification": true,
+      "pre_portability_sha256": "0ff47151e50e11c2b9c9c9e09805a02299525c569f2a863f1f46c119622b7fa1",
+      "portability_note": "Source-local path labels and latest publication-authorization note applied after the original verification; all window and runtime data unchanged."
+    },
+    {
+      "file": "c07-2-cross-review.json",
+      "sha256": "e6834b91bc09f2d2c2c425cadc620ac858c7c1d3605948dae0ac7c55faaacee9",
+      "module": "c07-2",
+      "unchanged_during_verification": true,
+      "pre_portability_sha256": "28c15ee52651d1c16cd0beaf56d9c782d02176d1ab97de1d308b83b8e7ec3ece",
+      "portability_note": "Source-local path labels and latest publication-authorization note applied after the original verification; all window and runtime data unchanged."
+    }
+  ],
+  "sources": [
+    {
+      "path": "source-local:民族發明學的世界史.md",
+      "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "bytes": 2549671,
+      "characters": 1075637,
+      "physical_line_count": 11170,
+      "contains_crlf": false,
+      "module": "c07-1"
+    },
+    {
+      "path": "source-local:逆轉的東亞史.md",
+      "sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "bytes": 2292635,
+      "characters": 797392,
+      "physical_line_count": 8669,
+      "contains_crlf": false,
+      "module": "c07-2"
+    }
+  ],
+  "source_sha256_claims": [
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/source_sha256",
+      "module": "c07-1",
+      "recorded_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "actual_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "match": true
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/source_sha256",
+      "module": "c07-1",
+      "recorded_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "actual_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+      "match": true
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/source_sha256",
+      "module": "c07-2",
+      "recorded_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "actual_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "match": true
+    },
+    {
+      "document": "transworld-identity/source-allocation-2026-11-16/c07-2-allocation.json",
+      "json_pointer": "/source_sha256",
+      "module": "c07-2",
+      "recorded_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "actual_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+      "match": true
+    }
+  ],
+  "window_fingerprint_results": [
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/windows/0",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 73,
+      "end_line": 79,
+      "expected_sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "LF_join_without_final_newline": "ab7adac1df8bd353fa81225a2ec1665fbb4f70afde3c8ff95405c7b03d8fc489",
+        "LF_join_with_final_newline": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "physical_without_one_final_line_ending": "ab7adac1df8bd353fa81225a2ec1665fbb4f70afde3c8ff95405c7b03d8fc489"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1567,
+      "actual_characters_preserving_physical_endings": 1567,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        1697,
+        3264
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        1697,
+        3264
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/windows/1",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 5992,
+      "end_line": 6003,
+      "expected_sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "LF_join_without_final_newline": "6895dbb808aa3cb30671a0233103dd569ee87cb1c3f0f91eea945e8c7199e007",
+        "LF_join_with_final_newline": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "physical_without_one_final_line_ending": "6895dbb808aa3cb30671a0233103dd569ee87cb1c3f0f91eea945e8c7199e007"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2686,
+      "actual_characters_preserving_physical_endings": 2686,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        603338,
+        606024
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        603338,
+        606024
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/windows/2",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 9298,
+      "end_line": 9308,
+      "expected_sha256": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+        "LF_join_without_final_newline": "b8ac71b2a8a52b08de936acc48963815260be91b71f19512c663f8b11aeac943",
+        "LF_join_with_final_newline": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+        "physical_without_one_final_line_ending": "b8ac71b2a8a52b08de936acc48963815260be91b71f19512c663f8b11aeac943"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2443,
+      "actual_characters_preserving_physical_endings": 2443,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        879520,
+        881963
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        879520,
+        881963
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/windows/3",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 8034,
+      "end_line": 8045,
+      "expected_sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "LF_join_without_final_newline": "08775fca6632a448775373f4d925da91ff3e2e243a302f1ba2cc5586dfea6995",
+        "LF_join_with_final_newline": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "physical_without_one_final_line_ending": "08775fca6632a448775373f4d925da91ff3e2e243a302f1ba2cc5586dfea6995"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2445,
+      "actual_characters_preserving_physical_endings": 2445,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        760316,
+        762761
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        760316,
+        762761
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/source_reread/windows/4",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 6415,
+      "end_line": 6430,
+      "expected_sha256": "32e2f34dedc9ab3d2d897a90d89a1c82848e9f0a99b420471fa11c08bd5cda00",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "32e2f34dedc9ab3d2d897a90d89a1c82848e9f0a99b420471fa11c08bd5cda00",
+        "LF_join_without_final_newline": "77a43a5a89955d85a34c3e95ade0853d386307dee0200a1426b35682d893eaeb",
+        "LF_join_with_final_newline": "32e2f34dedc9ab3d2d897a90d89a1c82848e9f0a99b420471fa11c08bd5cda00",
+        "physical_without_one_final_line_ending": "77a43a5a89955d85a34c3e95ade0853d386307dee0200a1426b35682d893eaeb"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1949,
+      "actual_characters_preserving_physical_endings": 1949,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        635226,
+        637175
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        635226,
+        637175
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/source_windows/0",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 73,
+      "end_line": 79,
+      "expected_sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "LF_join_without_final_newline": "ab7adac1df8bd353fa81225a2ec1665fbb4f70afde3c8ff95405c7b03d8fc489",
+        "LF_join_with_final_newline": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "physical_without_one_final_line_ending": "ab7adac1df8bd353fa81225a2ec1665fbb4f70afde3c8ff95405c7b03d8fc489"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1567,
+      "actual_characters_preserving_physical_endings": 1567,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        1697,
+        3264
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        1697,
+        3264
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/source_windows/1",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 5992,
+      "end_line": 6003,
+      "expected_sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "LF_join_without_final_newline": "6895dbb808aa3cb30671a0233103dd569ee87cb1c3f0f91eea945e8c7199e007",
+        "LF_join_with_final_newline": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "physical_without_one_final_line_ending": "6895dbb808aa3cb30671a0233103dd569ee87cb1c3f0f91eea945e8c7199e007"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2686,
+      "actual_characters_preserving_physical_endings": 2686,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        603338,
+        606024
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        603338,
+        606024
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/source_windows/2",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 9298,
+      "end_line": 9308,
+      "expected_sha256": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+        "LF_join_without_final_newline": "b8ac71b2a8a52b08de936acc48963815260be91b71f19512c663f8b11aeac943",
+        "LF_join_with_final_newline": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+        "physical_without_one_final_line_ending": "b8ac71b2a8a52b08de936acc48963815260be91b71f19512c663f8b11aeac943"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2443,
+      "actual_characters_preserving_physical_endings": 2443,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        879520,
+        881963
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        879520,
+        881963
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/source_windows/3",
+      "module": "c07-1",
+      "source_path": "source-local:民族發明學的世界史.md",
+      "start_line": 8034,
+      "end_line": 8045,
+      "expected_sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "LF_join_without_final_newline": "08775fca6632a448775373f4d925da91ff3e2e243a302f1ba2cc5586dfea6995",
+        "LF_join_with_final_newline": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "physical_without_one_final_line_ending": "08775fca6632a448775373f4d925da91ff3e2e243a302f1ba2cc5586dfea6995"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2445,
+      "actual_characters_preserving_physical_endings": 2445,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        760316,
+        762761
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        760316,
+        762761
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/added_sentences_and_sources/0",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4068,
+      "end_line": 4074,
+      "expected_sha256": "04b36d39e1c2a8b24dae1aae8069ff17dbf8d1cace649cc55bdbfa188a788b0c",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "04b36d39e1c2a8b24dae1aae8069ff17dbf8d1cace649cc55bdbfa188a788b0c",
+        "LF_join_without_final_newline": "e492887d904bc00ca29aabbcfcd6439913f31e9701850ecf3d40f6952329d396",
+        "LF_join_with_final_newline": "04b36d39e1c2a8b24dae1aae8069ff17dbf8d1cace649cc55bdbfa188a788b0c",
+        "physical_without_one_final_line_ending": "e492887d904bc00ca29aabbcfcd6439913f31e9701850ecf3d40f6952329d396"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": null,
+      "actual_characters_preserving_physical_endings": 829,
+      "matching_character_count_conventions": null,
+      "recorded_char_offsets": [
+        367187,
+        368016
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        367187,
+        368016
+      ],
+      "offsets_match": true,
+      "declared_hash_method": "UTF-8 physical source lines with their original LF endings",
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/added_sentences_and_sources/1",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4671,
+      "end_line": 4677,
+      "expected_sha256": "ab5a91d5965336c9eb94d5fb335a05160ff0f5a24294235c753bf5025ce4c636",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "ab5a91d5965336c9eb94d5fb335a05160ff0f5a24294235c753bf5025ce4c636",
+        "LF_join_without_final_newline": "f4214957626c6fa80f20e187c0532c545761f6a3992629a4bbc15c0107c9f12d",
+        "LF_join_with_final_newline": "ab5a91d5965336c9eb94d5fb335a05160ff0f5a24294235c753bf5025ce4c636",
+        "physical_without_one_final_line_ending": "f4214957626c6fa80f20e187c0532c545761f6a3992629a4bbc15c0107c9f12d"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": null,
+      "actual_characters_preserving_physical_endings": 1050,
+      "matching_character_count_conventions": null,
+      "recorded_char_offsets": [
+        422687,
+        423737
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        422687,
+        423737
+      ],
+      "offsets_match": true,
+      "declared_hash_method": "UTF-8 physical source lines with their original LF endings",
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/added_sentences_and_sources/2",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 5204,
+      "end_line": 5208,
+      "expected_sha256": "d1d6994c0e17f9708640af5d673561145ecc61f35883c6c1c92f849917dce445",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "d1d6994c0e17f9708640af5d673561145ecc61f35883c6c1c92f849917dce445",
+        "LF_join_without_final_newline": "38c7438e6580a258d8c89740f06f836a85a2aceaff3a89026b016460c4e2837f",
+        "LF_join_with_final_newline": "d1d6994c0e17f9708640af5d673561145ecc61f35883c6c1c92f849917dce445",
+        "physical_without_one_final_line_ending": "38c7438e6580a258d8c89740f06f836a85a2aceaff3a89026b016460c4e2837f"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": null,
+      "actual_characters_preserving_physical_endings": 595,
+      "matching_character_count_conventions": null,
+      "recorded_char_offsets": [
+        472381,
+        472976
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        472381,
+        472976
+      ],
+      "offsets_match": true,
+      "declared_hash_method": "UTF-8 physical source lines with their original LF endings",
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/added_sentences_and_sources/3",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 6176,
+      "end_line": 6182,
+      "expected_sha256": "37cc5d8654c28f1c011ea9ebf5d2c36167f1f7f6630c73987e5ff3cc29fd6995",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "37cc5d8654c28f1c011ea9ebf5d2c36167f1f7f6630c73987e5ff3cc29fd6995",
+        "LF_join_without_final_newline": "2a0c16f07651506daf9cac3be3f772e708ad5cabd758869aed50d5e344b2ca8b",
+        "LF_join_with_final_newline": "37cc5d8654c28f1c011ea9ebf5d2c36167f1f7f6630c73987e5ff3cc29fd6995",
+        "physical_without_one_final_line_ending": "2a0c16f07651506daf9cac3be3f772e708ad5cabd758869aed50d5e344b2ca8b"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": null,
+      "actual_characters_preserving_physical_endings": 949,
+      "matching_character_count_conventions": null,
+      "recorded_char_offsets": [
+        569644,
+        570593
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        569644,
+        570593
+      ],
+      "offsets_match": true,
+      "declared_hash_method": "UTF-8 physical source lines with their original LF endings",
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/0",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4066,
+      "end_line": 4087,
+      "expected_sha256": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+        "LF_join_without_final_newline": "14301d61fcbb6745c10f96c153210faace09a1b70f6df89f7975578c5eb6cde4",
+        "LF_join_with_final_newline": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+        "physical_without_one_final_line_ending": "14301d61fcbb6745c10f96c153210faace09a1b70f6df89f7975578c5eb6cde4"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1928,
+      "actual_characters_preserving_physical_endings": 1928,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        367175,
+        369103
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        367175,
+        369103
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/1",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4665,
+      "end_line": 4684,
+      "expected_sha256": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "LF_join_without_final_newline": "272edd6d87503e39266e6c7dab4d0e00914ae72404c26c9e807348b7ecbb7c22",
+        "LF_join_with_final_newline": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "physical_without_one_final_line_ending": "272edd6d87503e39266e6c7dab4d0e00914ae72404c26c9e807348b7ecbb7c22"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1758,
+      "actual_characters_preserving_physical_endings": 1758,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        422124,
+        423882
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        422124,
+        423882
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/2",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 5184,
+      "end_line": 5217,
+      "expected_sha256": "164ffcd1cc593712c0c401a7b88bb685ed508c5b1d7db5e35cc324c7aadb2319",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "164ffcd1cc593712c0c401a7b88bb685ed508c5b1d7db5e35cc324c7aadb2319",
+        "LF_join_without_final_newline": "b3ba4f97e4341e0c605d8bb97db5174e25b7153f49207a1061d107cb76fb92a4",
+        "LF_join_with_final_newline": "164ffcd1cc593712c0c401a7b88bb685ed508c5b1d7db5e35cc324c7aadb2319",
+        "physical_without_one_final_line_ending": "b3ba4f97e4341e0c605d8bb97db5174e25b7153f49207a1061d107cb76fb92a4"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1973,
+      "actual_characters_preserving_physical_endings": 1973,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        471155,
+        473128
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        471155,
+        473128
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/3",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 6154,
+      "end_line": 6177,
+      "expected_sha256": "ceb686f068d98a941ea6b14ea453f6dc106e286fdffaa3fe855a500800d06af5",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "ceb686f068d98a941ea6b14ea453f6dc106e286fdffaa3fe855a500800d06af5",
+        "LF_join_without_final_newline": "a1eeaa5335edbcf024f4ba0b1f76582e2a02f2069ac95998cec97b55bae53428",
+        "LF_join_with_final_newline": "ceb686f068d98a941ea6b14ea453f6dc106e286fdffaa3fe855a500800d06af5",
+        "physical_without_one_final_line_ending": "a1eeaa5335edbcf024f4ba0b1f76582e2a02f2069ac95998cec97b55bae53428"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2372,
+      "actual_characters_preserving_physical_endings": 2372,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        567807,
+        570179
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        567807,
+        570179
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/4",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 6178,
+      "end_line": 6203,
+      "expected_sha256": "5c7a38132358266dec85c3b3712b599b6a5936aa8ca828ab866249e2c600efd4",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "5c7a38132358266dec85c3b3712b599b6a5936aa8ca828ab866249e2c600efd4",
+        "LF_join_without_final_newline": "d37b84db29f88c22f0fcba5ad20b063c58aeaeeb38bb5c7818bb96cab7c283df",
+        "LF_join_with_final_newline": "5c7a38132358266dec85c3b3712b599b6a5936aa8ca828ab866249e2c600efd4",
+        "physical_without_one_final_line_ending": "d37b84db29f88c22f0fcba5ad20b063c58aeaeeb38bb5c7818bb96cab7c283df"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2620,
+      "actual_characters_preserving_physical_endings": 2620,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        570179,
+        572799
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        570179,
+        572799
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-lower-bound-review.json",
+      "json_pointer": "/source_review/windows_reread/5",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 6245,
+      "end_line": 6264,
+      "expected_sha256": "6ea2b1bf02defcacb9c4080e0cde6dc21e0db744ba35a5a6fcb9104046a99f4c",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "6ea2b1bf02defcacb9c4080e0cde6dc21e0db744ba35a5a6fcb9104046a99f4c",
+        "LF_join_without_final_newline": "42e4580bba36b5d99506b2af5a0247eec24ddb82e22f3eccf8c3e3ea7a489b38",
+        "LF_join_with_final_newline": "6ea2b1bf02defcacb9c4080e0cde6dc21e0db744ba35a5a6fcb9104046a99f4c",
+        "physical_without_one_final_line_ending": "42e4580bba36b5d99506b2af5a0247eec24ddb82e22f3eccf8c3e3ea7a489b38"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1708,
+      "actual_characters_preserving_physical_endings": 1708,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": [
+        576558,
+        578266
+      ],
+      "actual_char_offsets_zero_based_end_exclusive": [
+        576558,
+        578266
+      ],
+      "offsets_match": true,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-cross-review.json",
+      "json_pointer": "/source_windows_reread/0",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4066,
+      "end_line": 4087,
+      "expected_sha256": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+        "LF_join_without_final_newline": "14301d61fcbb6745c10f96c153210faace09a1b70f6df89f7975578c5eb6cde4",
+        "LF_join_with_final_newline": "e80999a2c1c796028cd746ed530b8e604b0cf37932aec0d398b23895781aa2c9",
+        "physical_without_one_final_line_ending": "14301d61fcbb6745c10f96c153210faace09a1b70f6df89f7975578c5eb6cde4"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1928,
+      "actual_characters_preserving_physical_endings": 1928,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": null,
+      "actual_char_offsets_zero_based_end_exclusive": [
+        367175,
+        369103
+      ],
+      "offsets_match": null,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-cross-review.json",
+      "json_pointer": "/source_windows_reread/1",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 4665,
+      "end_line": 4684,
+      "expected_sha256": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "LF_join_without_final_newline": "272edd6d87503e39266e6c7dab4d0e00914ae72404c26c9e807348b7ecbb7c22",
+        "LF_join_with_final_newline": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+        "physical_without_one_final_line_ending": "272edd6d87503e39266e6c7dab4d0e00914ae72404c26c9e807348b7ecbb7c22"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1758,
+      "actual_characters_preserving_physical_endings": 1758,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": null,
+      "actual_char_offsets_zero_based_end_exclusive": [
+        422124,
+        423882
+      ],
+      "offsets_match": null,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-cross-review.json",
+      "json_pointer": "/source_windows_reread/2",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 5194,
+      "end_line": 5210,
+      "expected_sha256": "50f0cb0e23ba3ce4dc817cd673ed56d6631765807a32ba1383ed240d2e2eed50",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "50f0cb0e23ba3ce4dc817cd673ed56d6631765807a32ba1383ed240d2e2eed50",
+        "LF_join_without_final_newline": "4d98bced73775aafbf116c0e4008c80bcaa0c075ed7124007416e88cc3e65b70",
+        "LF_join_with_final_newline": "50f0cb0e23ba3ce4dc817cd673ed56d6631765807a32ba1383ed240d2e2eed50",
+        "physical_without_one_final_line_ending": "4d98bced73775aafbf116c0e4008c80bcaa0c075ed7124007416e88cc3e65b70"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 1369,
+      "actual_characters_preserving_physical_endings": 1369,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": null,
+      "actual_char_offsets_zero_based_end_exclusive": [
+        471612,
+        472981
+      ],
+      "offsets_match": null,
+      "declared_hash_method": null,
+      "status": "pass"
+    },
+    {
+      "document": "c07-2-cross-review.json",
+      "json_pointer": "/source_windows_reread/3",
+      "module": "c07-2",
+      "source_path": "source-local:逆轉的東亞史.md",
+      "start_line": 6168,
+      "end_line": 6186,
+      "expected_sha256": "78e655008b35b06077c207533a95190b82c210d85d3c2b64f3e4ab3a77742d03",
+      "candidate_sha256": {
+        "physical_lines_preserving_endings": "78e655008b35b06077c207533a95190b82c210d85d3c2b64f3e4ab3a77742d03",
+        "LF_join_without_final_newline": "d3373ddd292c95a6b4f57bd6b22ae07fff6f749047ffdf7523f07f6f0cd29b43",
+        "LF_join_with_final_newline": "78e655008b35b06077c207533a95190b82c210d85d3c2b64f3e4ab3a77742d03",
+        "physical_without_one_final_line_ending": "d3373ddd292c95a6b4f57bd6b22ae07fff6f749047ffdf7523f07f6f0cd29b43"
+      },
+      "matching_hash_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_characters": 2556,
+      "actual_characters_preserving_physical_endings": 2556,
+      "matching_character_count_conventions": [
+        "physical_lines_preserving_endings",
+        "LF_join_with_final_newline"
+      ],
+      "recorded_char_offsets": null,
+      "actual_char_offsets_zero_based_end_exclusive": [
+        568654,
+        571210
+      ],
+      "offsets_match": null,
+      "declared_hash_method": null,
+      "status": "pass"
+    }
+  ],
+  "locators_without_stored_fingerprints": [
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/changes/0",
+      "module": "c07-1",
+      "start_line": 73,
+      "end_line": 79,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/changes/1",
+      "module": "c07-1",
+      "start_line": 5992,
+      "end_line": 6003,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/changes/2",
+      "module": "c07-1",
+      "start_line": 9298,
+      "end_line": 9308,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-lower-bound-review.json",
+      "json_pointer": "/changes/3",
+      "module": "c07-1",
+      "start_line": 8034,
+      "end_line": 8045,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/unit_reviews/0",
+      "module": "c07-1",
+      "start_line": 73,
+      "end_line": 79,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/unit_reviews/1",
+      "module": "c07-1",
+      "start_line": 5992,
+      "end_line": 6003,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/unit_reviews/2",
+      "module": "c07-1",
+      "start_line": 9298,
+      "end_line": 9308,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    },
+    {
+      "document": "c07-1-cross-review.json",
+      "json_pointer": "/unit_reviews/3",
+      "module": "c07-1",
+      "start_line": 8034,
+      "end_line": 8045,
+      "valid_physical_lines": true,
+      "stored_hash": false
+    }
+  ],
+  "allocation_freeze_file": "transworld-identity/source-allocation-2026-11-16/allocation-freeze.json",
+  "allocation_freeze_sha256": "ab9bd483e6848e49f8f57db0764ba1c13db9ccecc91526bf8e185819bab47844",
+  "allocation_file_checks": [
+    {
+      "module": "c02-1",
+      "staged_path": "transworld-identity/source-allocation-2026-11-16/c02-1-allocation.json",
+      "expected_frozen_sha256": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+      "staged_sha256": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+      "staged_matches_frozen": true,
+      "live_path": "transworld-identity/source-allocation-2026-11-16/c02-1-allocation.json",
+      "live_file_exists": true,
+      "live_sha256": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+      "live_matches_frozen": true,
+      "staged_matches_live": true
+    },
+    {
+      "module": "c05",
+      "staged_path": "transworld-identity/source-allocation-2026-11-16/c05-allocation.json",
+      "expected_frozen_sha256": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+      "staged_sha256": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+      "staged_matches_frozen": true,
+      "live_path": "transworld-identity/source-allocation-2026-11-16/c05-allocation.json",
+      "live_file_exists": true,
+      "live_sha256": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+      "live_matches_frozen": true,
+      "staged_matches_live": true
+    },
+    {
+      "module": "c07-1",
+      "staged_path": "transworld-identity/source-allocation-2026-11-16/c07-1-allocation.json",
+      "expected_frozen_sha256": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+      "staged_sha256": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+      "staged_matches_frozen": true,
+      "live_path": "transworld-identity/source-allocation-2026-11-16/c07-1-allocation.json",
+      "live_file_exists": true,
+      "live_sha256": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+      "live_matches_frozen": true,
+      "staged_matches_live": true
+    },
+    {
+      "module": "c07-2",
+      "staged_path": "transworld-identity/source-allocation-2026-11-16/c07-2-allocation.json",
+      "expected_frozen_sha256": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43",
+      "staged_sha256": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43",
+      "staged_matches_frozen": true,
+      "live_path": "transworld-identity/source-allocation-2026-11-16/c07-2-allocation.json",
+      "live_file_exists": true,
+      "live_sha256": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43",
+      "live_matches_frozen": true,
+      "staged_matches_live": true
+    }
+  ],
+  "summary": {
+    "fingerprint_occurrences_checked": 23,
+    "unique_line_ranges_checked": 17,
+    "fingerprint_passes": 23,
+    "fingerprint_failures": 0,
+    "full_source_sha_claims_checked": 4,
+    "all_source_sha_claims_match": true,
+    "all_four_allocation_files_unchanged": true,
+    "all_stored_offsets_match": true
+  },
+  "newline_handling": "Hash candidates preserve physical line endings, or normalize to LF with/without one final newline. A matching convention is recorded per occurrence; no source or existing record was rewritten. Character counts and offsets are checked separately.",
+  "coverage_policy": {
+    "new_source_windows": 0,
+    "new_coverage_claimed": false,
+    "source_text_emitted_for_review": false,
+    "full_book_read_claimed": false
+  },
+  "files_written": [
+    "c07-source-window-verification.json"
+  ],
+  "repo_files_modified": false,
+  "limitations": [
+    "Matching source bytes and line windows does not independently validate historical claims.",
+    "Repeated window entries remain separate verification results; uniqueness counts identify line ranges, not independent historical evidence."
+  ],
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context.",
+  "locator_classification_correction": "Excluded 27 C07-2 runtime unit line spans from the source-locator list; 23 actual source fingerprint results are unaffected."
+}

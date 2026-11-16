@@ -1,0 +1,95 @@
+{
+  "schema_version": 1,
+  "scope": "2026-11-16 implementation of the four adopted source-based allocations; original per-module plans and unrelated runtime preserved",
+  "status": "candidate",
+  "standard_accepted": false,
+  "source": {
+    "outcome": "pass_for_declared_editorial_scope",
+    "legacy_C05_groups": 6,
+    "preserved_historical_records": 22,
+    "raw_sources_reopened": true,
+    "reviewed_all_core_claims": false,
+    "whole_persona_source_gate": "incomplete_outside_requested_increment",
+    "independent_expert_review": false,
+    "review": "redistillation-2026-11-16/source-review.json",
+    "source_integrity": "redistillation-2026-11-16/source-integrity.json",
+    "reading_units": 233,
+    "reading_unit_limit": 256,
+    "full_books_read": false,
+    "implementation_review": "allocation-implementation-2026-11-16/checks.json",
+    "historical_reading_metrics_scope": "reading_units/reading_unit_limit describe the preceding redistillation only; the adopted allocation recorded 12 later CA windows; this implementation rereads existing windows without increasing coverage",
+    "new_CA_mechanism_records": 10,
+    "preceding_redistillation_evidence_records": 103,
+    "source_group_note": "Evidence record counts are not counts of independent sources or independently confirmed claims."
+  },
+  "increment_integrity": {
+    "outcome": "pass",
+    "record": "allocation-implementation-2026-11-16/checks.json",
+    "C02_2_body_unchanged": true,
+    "unrelated_AGENTS_preserved": true,
+    "unchanged_other_runtime": true
+  },
+  "recognition": {
+    "outcome": "not_run",
+    "calls_used": 0,
+    "call_ceiling_for_new_standard_run": 8,
+    "reason": "No configured authorized model endpoint or PERSONA_API_KEY available. Zero new calls. Earlier prepared cases/profile and prior recognition do not assess this revised runtime.",
+    "readiness": "redistillation-2026-11-16/recognition-preparation/readiness.json",
+    "provider_usage": null
+  },
+  "runtime_hashes": {
+    "SKILL.md": "sha256:9c97014df2964941d25674ab29d923a3c211d3302e82850eb24d3f76b6bc80d0",
+    "references/clusters/c01-ayi-life-advice.md": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
+    "references/clusters/c02-1-mesopotamia.md": "sha256:493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+    "references/clusters/c02-2-premodern-order.md": "sha256:b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
+    "references/clusters/c03-wadi-psychology.md": "sha256:127d70b349c6e249fb84c3427a3c5d3bc7ea1e436abe50a9b68099839537cf00",
+    "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+    "references/clusters/c06-figures.md": "sha256:adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
+    "references/clusters/c07-1-nation-invention-world-history.md": "sha256:018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+    "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+    "references/clusters/c08-minguo-wenyan.md": "sha256:0778df6093bff92ccdd6fbb84426d66e84b6ecc6f3177d9b37c5afbf88226d45",
+    "references/frameworks.md": "sha256:931117008d59e4ae0e3f7766183789dd2332190d7e30972a1e1e0f5bb616183b",
+    "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
+  },
+  "package": {
+    "outcome": "pass",
+    "layouts": [
+      "root",
+      "discovery"
+    ],
+    "validator_exit_codes": [
+      0,
+      0
+    ],
+    "errors": 0,
+    "warnings_per_layout": 1,
+    "warning_checks": [
+      "S4: optional episodic.md absent"
+    ],
+    "skipped_checks": [
+      "C3: no language-specific heading anchors supplied"
+    ],
+    "root_record": "allocation-implementation-2026-11-16/package-root.json",
+    "discovery_record": "allocation-implementation-2026-11-16/package-discovery.json",
+    "default_discovery_layout_passed": true,
+    "research_release_check_run": false
+  },
+  "previous_validation": "history/allocation-implementation-2026-11-16/transworld-identity/validation.json",
+  "content_allocation": {
+    "status": "adopted_editorial_allocation",
+    "record": "source-allocation-2026-11-16/allocation.json",
+    "implementation_status": "implemented_for_declared_editorial_scope",
+    "implementation_record": "allocation-implementation-2026-11-16/implementation.json",
+    "runtime_changed": true,
+    "current_editorial_policy": "使用者後續指示優先：只刪重複總論，內容以新語料為準；原範圍作對照，不為下界補字，不為細分配額搬段；本輪只作本地修改，不提交推送。",
+    "numerical_ranges_are_acceptance_gates": false,
+    "publication": "local_only_no_commit_no_push",
+    "new_recognition_calls": 0,
+    "checks": "allocation-implementation-2026-11-16/checks.json",
+    "package_checks": [
+      "allocation-implementation-2026-11-16/package-root.json",
+      "allocation-implementation-2026-11-16/package-discovery.json"
+    ]
+  }
+}

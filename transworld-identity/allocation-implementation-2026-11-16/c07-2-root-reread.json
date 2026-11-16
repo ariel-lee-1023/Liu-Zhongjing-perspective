@@ -1,0 +1,23 @@
+[
+  {
+    "start_line": 5690,
+    "end_line": 5715,
+    "sha256": "88b278b03471ef0cf5c01087e75df6aea207f2ff92992fe44082853a0c5d1b76",
+    "characters": 3367,
+    "existing_window_reread": true
+  },
+  {
+    "start_line": 6416,
+    "end_line": 6443,
+    "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+    "characters": 2597,
+    "existing_window_reread": true
+  },
+  {
+    "start_line": 8370,
+    "end_line": 8394,
+    "sha256": "d5218e2484cbb41c3ce3a62ef4cff878154711a3c21b31c9a2f625904d9f4fab",
+    "characters": 2049,
+    "existing_window_reread": true
+  }
+]

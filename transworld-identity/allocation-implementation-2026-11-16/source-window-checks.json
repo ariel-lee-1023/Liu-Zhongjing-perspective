@@ -1,0 +1,982 @@
+[
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      1270,
+      1276
+    ],
+    "sha256": "ed182a6d8d4dfad1a89fb2bc483d83a1df851d2cbfaf2487b5668b506e529d81",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      649,
+      661
+    ],
+    "sha256": "ac814a1da412bffe88f2fa0a36e61f7aba3f730d5e2101eb0a18a5e48e9f5714",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      109,
+      119
+    ],
+    "sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      940,
+      950
+    ],
+    "sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      1212,
+      1226
+    ],
+    "sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      1242,
+      1248
+    ],
+    "sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      750,
+      758
+    ],
+    "sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      1316,
+      1318
+    ],
+    "sha256": "2b2f8365941423ce202217030da9f5ab2375362a6a816c05b35916f55d9612b9",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-implementation-review.json",
+    "lines": [
+      984,
+      1002
+    ],
+    "sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      109,
+      119
+    ],
+    "sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      940,
+      950
+    ],
+    "sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      1212,
+      1226
+    ],
+    "sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      1242,
+      1248
+    ],
+    "sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      750,
+      758
+    ],
+    "sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c02-1",
+    "record": "c02-1-cross-review.json",
+    "lines": [
+      984,
+      1002
+    ],
+    "sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      1943,
+      1947
+    ],
+    "sha256": "3cf9886a8fbfe032be8d658d1e3901904a4fcb20812ab6e7eb97a68a91666a3d",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      7674,
+      7689
+    ],
+    "sha256": "0a551ab3ed1b397ef91d322082bde08b93fd656db4010d3f6af0ea561976d0d8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9600,
+      9612
+    ],
+    "sha256": "276cf26474b52f832372508b83bcef23f3bde4c619d0a4b48a31033f5f856df4",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9614,
+      9630
+    ],
+    "sha256": "525747ef5cc14ff234bd94ec1584069db89d55d1c1ecaa7654b5399ab2e9234c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9951,
+      9962
+    ],
+    "sha256": "10e26f8727ad80cb8a5c8a474c0f79a23293558f9cb7765f0e47933cc11891b8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9963,
+      9966
+    ],
+    "sha256": "198ecc492858a6e87d0facfd5d4779f6682c83b3842dfe56b0c96352dd2568db",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      10234,
+      10242
+    ],
+    "sha256": "c2b43765d7c4cb99db536a24258b6438231bd5ed5680cbca3bc07ed733f7f11f",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      3190,
+      3202
+    ],
+    "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      10893,
+      10908
+    ],
+    "sha256": "a987e1226c0edf271d7ba64d2b17589d70f36c0ce225a335c496aa47eccb5b57",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9890,
+      9902
+    ],
+    "sha256": "151c64c4431c5a01c44e0d5dc27a63b973e4512efd38f7680370d1accfdd93ac",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      10172,
+      10185
+    ],
+    "sha256": "2ba08f18d0d0262bd153f003b60158f81d1275d1f5fd11f438d03e66449ff0f0",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9631,
+      9645
+    ],
+    "sha256": "ba72941a0d947a2c47a88ec30d1b27a1820b05b1f5e84de6b9d87150125115bf",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      10186,
+      10197
+    ],
+    "sha256": "1571bde29f133a474eb6f7f27ac108cf8188554fa7ecc7375d4ca537c37f575e",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      73,
+      79
+    ],
+    "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      8900,
+      8923
+    ],
+    "sha256": "e4de79e62a9c53b5e7cc5fae5c50b6c8c3ff3499933b3b999d40e6e6dbf01103",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-implementation-review.json",
+    "lines": [
+      9290,
+      9309
+    ],
+    "sha256": "77883de4ffc014be92648bc9d5a2ec425f3a6aad1652d560bb1d6df90572694e",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      5450,
+      5467
+    ],
+    "sha256": "596b32a5d19188a8b61950b25f312628647fcaac4dedc5c13080d617f0493fd1",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      3190,
+      3202
+    ],
+    "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      9600,
+      9612
+    ],
+    "sha256": "276cf26474b52f832372508b83bcef23f3bde4c619d0a4b48a31033f5f856df4",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      10234,
+      10242
+    ],
+    "sha256": "c2b43765d7c4cb99db536a24258b6438231bd5ed5680cbca3bc07ed733f7f11f",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      9614,
+      9630
+    ],
+    "sha256": "525747ef5cc14ff234bd94ec1584069db89d55d1c1ecaa7654b5399ab2e9234c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-1",
+    "record": "c07-1-cross-review.json",
+    "lines": [
+      9631,
+      9645
+    ],
+    "sha256": "ba72941a0d947a2c47a88ec30d1b27a1820b05b1f5e84de6b9d87150125115bf",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      5638,
+      5657
+    ],
+    "sha256": "21682b39345d9de58a6b0dfb4a033179d58d5e96468d50324f8ec0be4a21cb74",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      5666,
+      5687
+    ],
+    "sha256": "1ba5a480d360e0bdd93132669ac0b6dcf432e3a74535f1db1e3a08e93491a5a9",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      5690,
+      5715
+    ],
+    "sha256": "88b278b03471ef0cf5c01087e75df6aea207f2ff92992fe44082853a0c5d1b76",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      5879,
+      5900
+    ],
+    "sha256": "46042bb59ba055faf68d142285ca33e599b11b81599e5527c4593e423461f70a",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      6068,
+      6091
+    ],
+    "sha256": "d3e0c2ab58c4602aa1ae90482ec7f9068ec576d1313d0ece1fcec92e1a1439f5",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      6416,
+      6443
+    ],
+    "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      8034,
+      8053
+    ],
+    "sha256": "427905b96a454e2495a7eae0728d6b9fe4d8990d2747de99127ee74e97468e94",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      8415,
+      8434
+    ],
+    "sha256": "1cfbc6120ea0911b0ab34bdfa032a8822be15c67769d765a1fa581dd9a17162e",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      8370,
+      8394
+    ],
+    "sha256": "d5218e2484cbb41c3ce3a62ef4cff878154711a3c21b31c9a2f625904d9f4fab",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      850,
+      869
+    ],
+    "sha256": "0a33c0322938250baa6668e8185db3d722de79d4daf7abced18156e10a59ce7c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      2188,
+      2206
+    ],
+    "sha256": "532364696d69ed665a8f84af804a9fbe5fbed7c11614182151d5ad6373e205b9",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      2253,
+      2272
+    ],
+    "sha256": "e999981ae96f3953cf08e7d401a9362d40ab7e65062d57194739ce0bc513d0aa",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      1157,
+      1174
+    ],
+    "sha256": "991abf1224ded8b4c6d59425dc75942cef1ef2cf6766fb0d3162c01320d143d8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      1190,
+      1216
+    ],
+    "sha256": "57bce6329943aac4c217d59fbb5e83fe6cc6b225d42730e5bff931afaac4f1a8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      1725,
+      1744
+    ],
+    "sha256": "b27568b36b76cfe4c893383a243a3f686087c3b76504d35e4be7625109f08127",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      2810,
+      2827
+    ],
+    "sha256": "63169036b938bbbd77bd881079aecb56b58b9bbae3b8722ef0580c4e4d8824a0",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      3129,
+      3152
+    ],
+    "sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      4472,
+      4489
+    ],
+    "sha256": "12d1df09696effcaf63a6133629a32ba5054a7ac2ccc59c3c5fd0c17a1c36f9f",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-implementation-review.json",
+    "lines": [
+      4665,
+      4684
+    ],
+    "sha256": "654fcd067493ca0252708ebe758dc0c916bbec57d4646822eee0ef9e3092ec97",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-cross-review.json",
+    "lines": [
+      5690,
+      5715
+    ],
+    "sha256": "88b278b03471ef0cf5c01087e75df6aea207f2ff92992fe44082853a0c5d1b76",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-cross-review.json",
+    "lines": [
+      6416,
+      6443
+    ],
+    "sha256": "caff55cd27a43877b13094317949fda6e04f962eb208c4f9e690855bb35a9375",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-cross-review.json",
+    "lines": [
+      8370,
+      8394
+    ],
+    "sha256": "d5218e2484cbb41c3ce3a62ef4cff878154711a3c21b31c9a2f625904d9f4fab",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      1163,
+      1167
+    ],
+    "sha256": "23251fd23b0508fd4f337b40d332dd9351f4f4cd5b62b1c932e76d204620072f",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      1207,
+      1207
+    ],
+    "sha256": "17d9c8751fc3bf44f80169545e6792d3f1bf6f7141379e514d0a03191f099688",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      1731,
+      1735
+    ],
+    "sha256": "af29b7c759b7027196e294b66c020eac431d32a942fed7b31f266692a575f59c",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      1739,
+      1743
+    ],
+    "sha256": "90c6e2773bcfad8d5eeb6a9a39fa819d1ae86ac48f99284258c24a60bceebfed",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      2814,
+      2818
+    ],
+    "sha256": "9d86573f84661fde39090d65db7e63ad82ada48aebc1409320cf2890e18e32cf",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      2820,
+      2820
+    ],
+    "sha256": "1e54f16e74e8993c89a9a15922708cfd4bc6165f34cc0177b8819248bcd3a840",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      3131,
+      3137
+    ],
+    "sha256": "5191475e4f6e9359f3144d5dfa12fb7bf47f052746639bbb6f756fb4edb667cd",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      3141,
+      3145
+    ],
+    "sha256": "2d7efefbbf3bb7891d56ec2b4e82dce667a2d379f17374d5281b8e76b8016b4a",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c07-2",
+    "record": "c07-2-redundancy-review.json",
+    "lines": [
+      3145,
+      3147
+    ],
+    "sha256": "6cce1c8d49b2f722f171e3c6a96f61675757f2e32f0ca020fed6737ab68c1c70",
+    "hash_rule": "omit_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      1809,
+      1876
+    ],
+    "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      8854,
+      8897
+    ],
+    "sha256": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      10358,
+      10415
+    ],
+    "sha256": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      15304,
+      15369
+    ],
+    "sha256": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      15640,
+      15689
+    ],
+    "sha256": "1775f55224587ca8b4476b261462154ac5edf16d72223b5a9a8e0551bbeeecfa",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      17020,
+      17073
+    ],
+    "sha256": "61fa50db8c8f9b71ea8ca741087061d87065a7234e0217bc266addbd45172d82",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      19049,
+      19105
+    ],
+    "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      20071,
+      20119
+    ],
+    "sha256": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      20477,
+      20533
+    ],
+    "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      21603,
+      21667
+    ],
+    "sha256": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      23332,
+      23373
+    ],
+    "sha256": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      26331,
+      26399
+    ],
+    "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      11657,
+      11690
+    ],
+    "sha256": "2c63537c2c53a9c1902cd6bbceaf9f9e44973f04c7a498b79eebb262b30db38e",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      11697,
+      11754
+    ],
+    "sha256": "37ab3732d2718c41b2cc0f2a25d671ca862c9cf682fae180f71732e934c69589",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      11817,
+      11872
+    ],
+    "sha256": "3b8e5b63b0346e7aff1f40a9a36ca3db77118eb2967a8a62e311c60a4437040e",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      11903,
+      11941
+    ],
+    "sha256": "1f4f6c06d5de0ffe2fdb7e8c85b2fd4929a3c0ce9cc245aa1bdc9f897d3748a1",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      1809,
+      1876
+    ],
+    "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      8854,
+      8897
+    ],
+    "sha256": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      10358,
+      10415
+    ],
+    "sha256": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      15304,
+      15369
+    ],
+    "sha256": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      19049,
+      19105
+    ],
+    "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      20071,
+      20119
+    ],
+    "sha256": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      20477,
+      20533
+    ],
+    "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      21603,
+      21667
+    ],
+    "sha256": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      23332,
+      23373
+    ],
+    "sha256": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-implementation-review.json",
+    "lines": [
+      26331,
+      26399
+    ],
+    "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-cross-review.json",
+    "lines": [
+      1809,
+      1876
+    ],
+    "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-cross-review.json",
+    "lines": [
+      19049,
+      19105
+    ],
+    "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-cross-review.json",
+    "lines": [
+      20477,
+      20533
+    ],
+    "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+    "hash_rule": "keep_final_newline"
+  },
+  {
+    "module": "c05",
+    "record": "c05-cross-review.json",
+    "lines": [
+      26331,
+      26399
+    ],
+    "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+    "hash_rule": "keep_final_newline"
+  }
+]

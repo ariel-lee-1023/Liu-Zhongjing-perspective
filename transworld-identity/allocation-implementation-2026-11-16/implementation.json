@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "status": "implemented_for_declared_editorial_scope",
+  "date": "2026-11-16",
+  "adopted_allocation": "../source-allocation-2026-11-16/allocation.json",
+  "source_plan_hashes": {
+    "c02-1": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+    "c05": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+    "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+    "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
+  },
+  "measurements": "measurements.json",
+  "checks": "checks.json",
+  "modules": [
+    {
+      "module": "c02-1",
+      "runtime_path": "references/clusters/c02-1-mesopotamia.md",
+      "runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+      "body_han": 5652,
+      "metadata_han": 703,
+      "body_range": [
+        5080,
+        7200
+      ],
+      "metadata_range": [
+        650,
+        1050
+      ],
+      "all_units_within_range": true,
+      "semantic_review": "c02-1-implementation-review.json",
+      "cross_review": "c02-1-cross-review.json"
+    },
+    {
+      "module": "c05",
+      "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "runtime_sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+      "body_han": 12266,
+      "metadata_han": 569,
+      "body_range": [
+        11270,
+        15080
+      ],
+      "metadata_range": [
+        450,
+        650
+      ],
+      "all_units_within_range": false,
+      "semantic_review": "c05-implementation-review.json",
+      "cross_review": "c05-cross-review.json"
+    },
+    {
+      "module": "c07-1",
+      "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+      "runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+      "body_han": 7411,
+      "metadata_han": 1016,
+      "body_range": [
+        6450,
+        8630
+      ],
+      "metadata_range": [
+        860,
+        1300
+      ],
+      "all_units_within_range": false,
+      "semantic_review": "c07-1-implementation-review.json",
+      "cross_review": "c07-1-cross-review.json"
+    },
+    {
+      "module": "c07-2",
+      "runtime_path": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "runtime_sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+      "body_han": 9678,
+      "metadata_han": 1254,
+      "body_range": [
+        8780,
+        12500
+      ],
+      "metadata_range": [
+        1140,
+        1660
+      ],
+      "all_units_within_range": false,
+      "semantic_review": "c07-2-implementation-review.json",
+      "cross_review": "c07-2-cross-review.json"
+    }
+  ],
+  "source_identities": "source-identities.json",
+  "reserve_used_han": 0,
+  "new_recognition_calls": 0,
+  "standard_accepted": false,
+  "publication": "local_only_no_commit_no_push",
+  "current_editorial_policy": "使用者後續指示優先：只刪重複總論，內容以新語料為準；原範圍作對照，不為下界補字，不為細分配額搬段；本輪只作本地修改，不提交推送。",
+  "limitations": [
+    "沒有新增來源閱讀範圍；重讀不重算覆蓋。",
+    "機械篇幅合格不等於內容完整；逐單元語義檢查與交叉審閱另列。",
+    "不是全書充分性、獨立專家史學核證或已執行人格識別；整體仍是Candidate。"
+  ]
+}

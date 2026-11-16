@@ -1,0 +1,226 @@
+{
+  "module": "c05",
+  "review_type": "read_only_cross_agent_semantic_review",
+  "outcome": "pass_for_declared_selected_source_scope_after_duplicate_removal",
+  "reviewed_runtime_sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+  "reviewed_files": [
+    "references/clusters/c05-geopolitics-capital-and-class.md",
+    "transworld-identity/source-allocation-2026-11-16/c05-allocation.json",
+    "c05-implementation-review.json"
+  ],
+  "findings": [],
+  "units": [
+    {
+      "id": "U01",
+      "title": "格局、節點與材料的界限",
+      "outcome": "pass",
+      "semantic_note": "朝鮮既有義務與水利工藝—財源—市政雙例保存，格局可改未取消材料；首節作用明確。"
+    },
+    {
+      "id": "U02",
+      "title": "國家的不同層級與公共功能外移",
+      "outcome": "pass",
+      "semantic_note": "中央人事、地方財政、企業福利分層；醫療/教會/私人互助之功能外移保留無力另付費者及名義延續，不等突然無國家。"
+    },
+    {
+      "id": "U03",
+      "title": "全球資本的再生成本與金融政治反饋",
+      "outcome": "pass",
+      "semantic_note": "資本只買勞動中段與外部養育成本、羅馬自身後期變化、海地/多米尼加跨期反轉、債務鏈與美元/廉價商品反饋均在；英國非市場支撐及共產秩序後資本可建構的反向條件保留。"
+    },
+    {
+      "id": "U04",
+      "title": "產業外包、技術路線與未知創新的成本",
+      "outcome": "pass",
+      "semantic_note": "設備維護與升遷誘因、外包制度補丁和農民工眼前改善、406本地AI路線與417未知探索制度分開；太陽能理論/工藝/持續商用與分工不等退化保留。"
+    },
+    {
+      "id": "U05",
+      "title": "AI資訊、藝術媒介與專用技術的社會後果",
+      "outcome": "pass",
+      "semantic_note": "甲寅派誤拼和匪類標籤具體，節省時間的正面效果保留；廉價媒介和注意力限制分開，家庭階級機制路由U10；專用機器與共同體情感分開，不老只作思想實驗。"
+    },
+    {
+      "id": "U06",
+      "title": "移民、公民權、庇護與政治共同體",
+      "outcome": "pass",
+      "semantic_note": "出生公民權的政策/法院權限/基本盤收益分開；帝國不同臣民與屬地/血統背景保留；庇護從分散信用到國家義務，受害事實和自治能力未互相取消，不挪作現行法。"
+    },
+    {
+      "id": "U07",
+      "title": "聯盟、外交成本與軍事目標",
+      "outcome": "pass",
+      "semantic_note": "北約國別利益和殘餘作用、土耳其低成本外交與全面重建、攻防不同任務、核不擴散延緩價值均保留；回讀CA-X07確認葡萄田/荷爾斯泰因及主權簡化是交涉成本短橋，未升為完整殖民史。"
+    },
+    {
+      "id": "U08",
+      "title": "政黨供養、外圍從屬與國家建構",
+      "outcome": "pass",
+      "semantic_note": "青年黨四川/臺灣、梁啟超袁蔡兩難、白區從屬、民進黨聯盟與本土社會、第三波思想實驗和本人時間變化均落地；五年非期限、漏字句不另立斷言。"
+    },
+    {
+      "id": "U09",
+      "title": "認知戰、輿論不對稱與誰代表一個國家",
+      "outcome": "pass",
+      "semantic_note": "信用長短期和外包激勵保留軍事欺敵的合理用途；巴麥尊/阿爾伯特呈受眾不對稱；回讀CA-X09確認美新處/VOA進步青年與地方商業社區的差別、宣傳者/決策者/出資公民三方未混同國家。"
+    },
+    {
+      "id": "U10",
+      "title": "階級再生、教育分流與人格承受",
+      "outcome": "pass",
+      "semantic_note": "工會/知識分子及本人階級位置、積累保護、遺傳環境雙限、騎馬/洋蔥變化可能均在；回讀CA-X01確認義務教育因士兵技工需求而矯正家庭不足的正面條件；與低工資需求下行政分流明分不同條件；回讀CA-X12確認專業執行同時增加競爭能力並威脅自由，長史路由C02-1。"
+    },
+    {
+      "id": "U11",
+      "title": "最優生育與家庭之外的責任",
+      "outcome": "pass",
+      "semantic_note": "核心/主幹/部落教區責任、多妻個人與總體差別、北歐政策有限改善、現實有缺陷家庭比較均保留；未把政策無效或機構必敗寫成定律。"
+    },
+    {
+      "id": "U12",
+      "title": "學術、版權與正統的生產關係",
+      "outcome": "pass",
+      "semantic_note": "2021模型與本人直覺限制、判斷不等值、行會保護技藝與利益雙面、連載版稅/戰時收入斷裂、宋儒和蘇聯認祖均保留；相似片語不證明陣營同一。"
+    }
+  ],
+  "legacy_check": "Six CA-L carryover entries kept in independent section, not counted as new CA2026 coverage; original contextual limits retained.",
+  "source_checks": {
+    "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+    "matches_implementation_source": true,
+    "reopened_windows": [
+      {
+        "source_id": "CA2026",
+        "window_id": "CA-X01",
+        "start_line": 1809,
+        "end_line": 1876,
+        "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+        "raw_characters": 3879,
+        "hash_scope": "exact previously logged source window, final newline omitted where required by original log",
+        "independently_reopened": true,
+        "hash_matches": true,
+        "hash_convention": "inclusive 1-based lines with terminal newline",
+        "char_offsets_zero_based_end_exclusive": [
+          89902,
+          93781
+        ],
+        "scope": "reopened already selected source window, no additional corpus coverage"
+      },
+      {
+        "source_id": "CA2026",
+        "window_id": "CA-X07",
+        "start_line": 19049,
+        "end_line": 19105,
+        "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+        "raw_characters": 4357,
+        "hash_scope": "exact previously logged source window, final newline omitted where required by original log",
+        "independently_reopened": true,
+        "hash_matches": true,
+        "hash_convention": "inclusive 1-based lines with terminal newline",
+        "char_offsets_zero_based_end_exclusive": [
+          1313935,
+          1318292
+        ],
+        "scope": "reopened already selected source window, no additional corpus coverage"
+      },
+      {
+        "source_id": "CA2026",
+        "window_id": "CA-X09",
+        "start_line": 20477,
+        "end_line": 20533,
+        "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+        "raw_characters": 4226,
+        "hash_scope": "exact previously logged source window, final newline omitted where required by original log",
+        "independently_reopened": true,
+        "hash_matches": true,
+        "hash_convention": "inclusive 1-based lines with terminal newline",
+        "char_offsets_zero_based_end_exclusive": [
+          1434386,
+          1438612
+        ],
+        "scope": "reopened already selected source window, no additional corpus coverage"
+      },
+      {
+        "source_id": "CA2026",
+        "window_id": "CA-X12",
+        "start_line": 26331,
+        "end_line": 26399,
+        "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+        "raw_characters": 4451,
+        "hash_scope": "exact previously logged source window, final newline omitted where required by original log",
+        "independently_reopened": true,
+        "hash_matches": true,
+        "hash_convention": "inclusive 1-based lines with terminal newline",
+        "char_offsets_zero_based_end_exclusive": [
+          1835634,
+          1840085
+        ],
+        "scope": "reopened already selected source window, no additional corpus coverage"
+      }
+    ],
+    "additional_source_windows_outside_existing_selection": 0
+  },
+  "scope_and_limits": [
+    "Entire runtime including legacy and attribution was read, and all12 confirmed unit mechanisms, necessary cases and opposite conditions were checked against the frozen allocation and implementation records.",
+    "Four existing primary windows were independently reread for AI media/education, political publicity, layered-contract diplomacy and professionalized adjudication. Other source claims were checked against the implementation evidence records and declared limits, not exhaustively reopened.",
+    "This is an independent editorial cross-review within the supplied source selection, not independent historical/current-affairs/legal/scientific verification or bounded persona-recognition evaluation.",
+    "No numerical body-range assertion is substituted for semantic coverage; central integration owns the final package counter."
+  ],
+  "edits_made": false,
+  "user_override": {
+    "instruction": "本地修改、不提交推送；只刪重複總論，內容以新語料為準。",
+    "historical_allocation_ranges_are_not_fill_requirements": true
+  },
+  "deduplication_followup_review": {
+    "previous_reviewed_runtime_sha256": "fccb95cfb37cb81936e875f8fdf653b5f1f39e9895a449129bc2fa20fa2a856b",
+    "final_runtime_sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+    "deduplication_log": "c05-deduplication-changes.json",
+    "body_han_before": 12788,
+    "body_han_after": 12266,
+    "body_han_removed": 522,
+    "metadata_han": 569,
+    "changes_reviewed": [
+      {
+        "unit": "U02",
+        "review": "人事／財源、企業福利來歷在前三段；公私功能外移、團體付費責任、無法另付費者與名義延續在後三段。刪總結不刪必要條件。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "U04",
+        "review": "406仍明說路線未鎖定、本地盤子與技術人員自治不足；417仍明說風險資本、失敗探索與專業責任。不能壓成單一AI口號與原時點限制保留。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "U07",
+        "review": "北約功能分散及殘餘作用、土耳其低成本聲援與重建責任、攻防不同任務、核延緩有效但非根治均在具體段落。末段只重述。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "U08",
+        "review": "民進黨段首句仍有反國民黨聯盟但政策利益不同，後句保留合作的演化/利益交換和社會代表權限制。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "U10",
+        "review": "洋蔥內核與負責外層、退回與學會的兩種可能、活動範圍和家庭注意力條件保留；騎馬不是創傷醫學定律也保留。教育正面矯正和勞動控制兩種條件未改。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "U12",
+        "review": "行會技藝/利益雙面、版稅跨境支付與戰爭後依附、宋儒/蘇聯道統及概念相似不等陣營相同均仍完整。刪共通供養總結未把思想化約為收錢。",
+        "outcome": "retained_elsewhere_without_loss"
+      },
+      {
+        "unit": "legacy",
+        "review": "CA-L03仍保留動手、觀察、請教修正和華盛頓房屋/工匠/農產案例；刪末句沒有取消實作與概念新鮮感之別。",
+        "outcome": "retained_elsewhere_without_loss"
+      }
+    ],
+    "all_12_confirmed_unit_mechanisms_cases_and_conditions_and_legacy_retained": true,
+    "new_claims_introduced": false,
+    "read_scope": "All seven deletion records and their retained contextual paragraphs/sections were reread; previous complete runtime review remains valid for unchanged content.",
+    "additional_primary_source_reading_in_followup": false,
+    "source_scope": "Prior four independently reopened CA-X01/07/09/12 source windows and their hashes remain unchanged; no new or full-article coverage claimed.",
+    "range_policy": "Some units and legacy now fall below historical reference ranges; this is not a source-content failure and does not trigger padding under the latest user instruction.",
+    "outcome": "pass"
+  }
+}

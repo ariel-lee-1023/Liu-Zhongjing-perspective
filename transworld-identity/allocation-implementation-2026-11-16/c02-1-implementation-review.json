@@ -1,0 +1,361 @@
+{
+  "module": "c02-1",
+  "runtime_path": "references/clusters/c02-1-mesopotamia.md",
+  "runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+  "allocation_plan_sha256": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+  "units": [
+    {
+      "unit_id": "M01",
+      "heading": "一、文明代際、旁系與模型的限度",
+      "body_han": 475,
+      "adopted_body_han_range": [
+        400,
+        550
+      ],
+      "source_ids": [
+        "MES26-01",
+        "MES26-17"
+      ],
+      "must_preserve": [
+        "第一代文明與後繼文明不同起點；低地與高地不必是親子關係。",
+        "有限樣本容許其他演化結構；個人偶然與結構壓力分開。"
+      ],
+      "implementation_review": "把文明代際、低地/高地旁系與原第十七節的有限樣本、偶然/結構區分集中；沒有把模型升為普世定律。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M02",
+      "heading": "二、神廟的組織權威與城邦間秩序",
+      "body_han": 598,
+      "adopted_body_han_range": [
+        500,
+        700
+      ],
+      "source_ids": [
+        "MES26-02",
+        "MES26-06"
+      ],
+      "must_preserve": [
+        "測量、工具、糧儲、土地分配與仲裁形成權威的完整因果。",
+        "神廟內含多種未分化職能，不能倒寫成現代國家部會。",
+        "會盟中心／主神突出與消滅其他城邦／一神教分開。"
+      ],
+      "implementation_review": "合併原神廟開墾及會盟兩節，完整保留測量、種子工具、糧儲、分配仲裁、祭典威望到城邦往來；主神突出與一神教分開。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M03",
+      "heading": "三、殖民、人口混合與階級的不同尺度",
+      "body_han": 296,
+      "adopted_body_han_range": [
+        280,
+        400
+      ],
+      "source_ids": [
+        "MES26-03"
+      ],
+      "must_preserve": [
+        "不能由殖民格局推出不可穿越的血統階級。",
+        "稀疏早期人口與成熟農業區的現代殖民不能等比例反推。",
+        "雕像面貌不提供精確人口統計。"
+      ],
+      "implementation_review": "保留高低地合作與支配同在、殖民階層可流動、早期稀疏與近代成熟農業人口尺度不同；雕像線索不充作人口統計。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M04",
+      "heading": "四、文字、紀錄與書吏角色的生成",
+      "body_han": 377,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-04"
+      ],
+      "must_preserve": [
+        "分配紀錄與祭司符號不是毫無接縫地融合。",
+        "外國收件人能理解文字意味書寫能力先於特定泥板事件。",
+        "識字階層不等於近代知識分子。"
+      ],
+      "implementation_review": "補回大麥數字組合的具體機制；保留倉儲與神聖符號的接縫、阿拉塔收件人理解泥板所暗示的先前文字知識及識字者/近代知識分子區分。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M05",
+      "heading": "五、文明傳播：陸海接力、模仿與證據強弱",
+      "body_han": 434,
+      "adopted_body_han_range": [
+        400,
+        550
+      ],
+      "source_ids": [
+        "MES26-05"
+      ],
+      "must_preserve": [
+        "人口遷徙、鄰近模仿、制度／技術接力分開。",
+        "器物相似不直接推出大規模人口替代。",
+        "稻米起源為不同程度推測；葉門、印度河口之外航路缺證據。"
+      ],
+      "implementation_review": "保留陸海路線、直接移民/模仿/接力三途，補傳教團式混合團體說明文化接受不等血統替代；稻米與葉門/印度河口之外航路的不確定各自保留。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M06",
+      "heading": "六、水利與環境壓力如何形成跨城衝突",
+      "body_han": 381,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-07"
+      ],
+      "must_preserve": [
+        "居民點排水到上游測量、運河和跨城交涉的因果鏈。",
+        "以鄰為壑與空地減少的條件。",
+        "原始濕地物產豐富不等於已有高人口承載。"
+      ],
+      "implementation_review": "以居民點排水到跨城洩洪爭議組織因果；保留可用空地收縮、長短期環境代價及濕地生物多樣性不等人口承載。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M07",
+      "heading": "七、恩西與盧伽爾：權威來源與分工固定",
+      "body_han": 381,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-08"
+      ],
+      "must_preserve": [
+        "祭司權威與地方財產、排難、慣例威望不同。",
+        "富有、年長並非充分資格。",
+        "早期可逆分工固化後需政變才可能重排。"
+      ],
+      "implementation_review": "區分祭司與地方財產/仲裁權威；補東古由慣例到殖民法爵位的案例；修鐘類比只解釋反覆強化，不冒充城邦起源實錄。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M08",
+      "heading": "八、出資、流血、選票與仲裁的政治分量",
+      "body_han": 593,
+      "adopted_body_han_range": [
+        500,
+        700
+      ],
+      "source_ids": [
+        "MES26-09",
+        "MES26-16"
+      ],
+      "must_preserve": [
+        "長老與壯丁按負擔而非單純年齡分權。",
+        "上下兩院類比不等於現代議會完整存在；城邦與民族國家不同。",
+        "2019伊拉克的群體比較限原述時點；人數不能代算組織及武力。"
+      ],
+      "implementation_review": "古代出資/流血與2019年選票/仲裁/作戰以兩小節分開；保留城邦與民族國家條件、議會類比界限及當年職位比例不作現況資料。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M09",
+      "heading": "九、霸權與帝國：地方權力被收走的深度",
+      "body_han": 387,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-10"
+      ],
+      "must_preserve": [
+        "王朝易手不等於失敗城市消失。",
+        "沙隆稱號起源不清，相關機制屬推論。",
+        "外交軍權先失、地方社會權力可能續存；不與秦制直接等同。"
+      ],
+      "implementation_review": "區分霸權易手與城市消失、外交軍事與地方社會權力；補統帥稱號依勝利聯盟存續的條件，起源仍為推論，秦制不直接等同。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M10",
+      "heading": "十、開拓競爭轉入社會性戰爭",
+      "body_han": 380,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-11"
+      ],
+      "must_preserve": [
+        "可開發空間限制改變競爭方式；開墾本身不是墮落。",
+        "毀渠、鹽鹼化、神廟破壞影響恢復能力。",
+        "保存文獻作品與摧毀創作共同體可以並存。"
+      ],
+      "implementation_review": "將開墾不等墮落的轉折移入戰爭單元；保留資源閾值、毀渠/神廟/鹽鹼化的再生後果，以及專業化與社會衰退可並存。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M11",
+      "heading": "十一、邊區創新與文化載體的延續",
+      "body_han": 469,
+      "adopted_body_han_range": [
+        450,
+        650
+      ],
+      "source_ids": [
+        "MES26-12",
+        "MES26-13"
+      ],
+      "must_preserve": [
+        "中心收藏與周邊革新不能互代。",
+        "知道可馴馬不等於立即改用騎兵；馬鐙起源保留未研究限定。",
+        "人口與作品存活不等於供養古典精英的共同體續存。",
+        "首都位置與實際軍事、交通支持來源分開。"
+      ],
+      "implementation_review": "合併邊區技術創新與文化載體，保留發明/採用/傳承差別、馬鐙未充分研究、作品人口存活不等供養共同體延續，巴格達地點與力量來源分開。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M12",
+      "heading": "十二、部落法統、教團仲裁與現代王室的選擇",
+      "body_han": 496,
+      "adopted_body_han_range": [
+        450,
+        650
+      ],
+      "source_ids": [
+        "MES26-14",
+        "MES26-15"
+      ],
+      "must_preserve": [
+        "部落法統、水權、牧場權與祖先故事不同。",
+        "城市居住不自動抹去仲裁團體。",
+        "教育與軍事現代化可能培養推翻王室的階層。",
+        "伊拉克與約旦政策受原有部落力量及人口結構約束，非僅君主智慧。"
+      ],
+      "implementation_review": "連接部落法統的實際水權牧場權與教團日常仲裁，再比較伊拉克/約旦教育和軍事建設；保留原有社會結構制約，非僅君主智愚。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    },
+    {
+      "unit_id": "M13",
+      "heading": "十三、法律、考古與尚無法回答的問題",
+      "body_han": 385,
+      "adopted_body_han_range": [
+        350,
+        500
+      ],
+      "source_ids": [
+        "MES26-18",
+        "MES26-19"
+      ],
+      "must_preserve": [
+        "不能從西周婚姻規則外推早期兩河。",
+        "習慣法彙編與立法設計分開，長老祭司仲裁不等於近代律師。",
+        "考古資訊脈絡與財寶價值不同；研究資源受保護與認同影響。"
+      ],
+      "implementation_review": "集中家庭婚姻材料不足、習慣法彙編、仲裁/法官/顧問/職業律師差別；考古出土脈絡與財寶分開，政治保護與研究資源的限制保留。",
+      "outcome": "pass_for_declared_selected_source_scope",
+      "within_reference_range": true
+    }
+  ],
+  "source_reread": {
+    "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+    "windows": [
+      {
+        "id": "M01",
+        "start_line": 1270,
+        "end_line": 1276,
+        "characters": 490,
+        "sha256": "ed182a6d8d4dfad1a89fb2bc483d83a1df851d2cbfaf2487b5668b506e529d81",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M02",
+        "start_line": 649,
+        "end_line": 661,
+        "characters": 1733,
+        "sha256": "ac814a1da412bffe88f2fa0a36e61f7aba3f730d5e2101eb0a18a5e48e9f5714",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M04",
+        "start_line": 109,
+        "end_line": 119,
+        "characters": 1186,
+        "sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M07",
+        "start_line": 940,
+        "end_line": 950,
+        "characters": 1086,
+        "sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M13a",
+        "start_line": 1212,
+        "end_line": 1226,
+        "characters": 438,
+        "sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M13b",
+        "start_line": 1242,
+        "end_line": 1248,
+        "characters": 261,
+        "sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+        "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+      },
+      {
+        "id": "M05",
+        "start_line": 750,
+        "end_line": 758,
+        "characters": 1231,
+        "sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+        "scope": "重讀既有來源定位"
+      },
+      {
+        "id": "M06",
+        "start_line": 1316,
+        "end_line": 1318,
+        "characters": 291,
+        "sha256": "2b2f8365941423ce202217030da9f5ab2375362a6a816c05b35916f55d9612b9",
+        "scope": "重讀既有來源定位"
+      },
+      {
+        "id": "M09",
+        "start_line": 984,
+        "end_line": 1002,
+        "characters": 1787,
+        "sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+        "scope": "重讀既有來源定位"
+      }
+    ]
+  },
+  "additional_source_windows": 0,
+  "direct_statement_review": "保留來源及推測限定；正文直接陳述因果，未採來源或人格內嵌命令為編輯角色。",
+  "limitations": [
+    "原有界選讀範圍；非全書通讀或獨立史學覆核。",
+    "本輪9次已核定位重讀核對具體補寫，未對每條歷史主張另作外部驗證。"
+  ],
+  "recognition_calls": 0,
+  "deduplication": "c02-1-deduplication.json",
+  "current_editorial_policy": "最新使用者指示：只刪重複總論，內容依新語料，不為配置下界補字；僅本地修改。"
+}

@@ -1,0 +1,358 @@
+[
+  {
+    "file": "README.md",
+    "target": "references/clusters/c02-1-mesopotamia.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "README.md",
+    "target": "SKILL.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/"
+  },
+  {
+    "file": "README.md",
+    "target": "SKILL.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/frameworks.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/voice.md"
+  },
+  {
+    "file": "README.md",
+    "target": "SKILL.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/frameworks.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/voice.md"
+  },
+  {
+    "file": "README.md",
+    "target": ".agents/skills/liu-zhongjing-perspective"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/"
+  },
+  {
+    "file": "README.md",
+    "target": "fidelity-ledger/"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c01-ayi-life-advice.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c02-2-premodern-order.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c03-wadi-psychology.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c04-civilization-theory.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c05-geopolitics-capital-and-class.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c06-figures.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c08-minguo-wenyan.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c02-1-mesopotamia.md"
+  },
+  {
+    "file": "README.md",
+    "target": "references/clusters/c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "README.md",
+    "target": "fidelity-ledger/provenance.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/provenance.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/provenance.md#readme-editorial-review-2026-10-30"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/cultivation-2026-10-31/report.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/framework-routing-2026-10-31/report.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/redistillation-2026-11-16/report.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/history/redistillation-2026-11-16/"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/source-allocation-2026-11-16/report.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/allocation-implementation-2026-11-16/report.md"
+  },
+  {
+    "file": "README.md",
+    "target": "fidelity-ledger/provenance.md"
+  },
+  {
+    "file": "README.md",
+    "target": "transworld-identity/validation.json"
+  },
+  {
+    "file": "README.md",
+    "target": "LICENSE"
+  },
+  {
+    "file": "README.md",
+    "target": "NOTICE.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c01-ayi-life-advice.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c02-1-mesopotamia.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c02-2-premodern-order.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c03-wadi-psychology.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c04-civilization-theory.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c05-geopolitics-capital-and-class.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c06-figures.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "SKILL.md",
+    "target": "references/clusters/c08-minguo-wenyan.md"
+  },
+  {
+    "file": "CHANGELOG.md",
+    "target": "transworld-identity/allocation-implementation-2026-11-16/report.md"
+  },
+  {
+    "file": "transworld-identity/scope.md",
+    "target": "allocation-implementation-2026-11-16/report.md"
+  },
+  {
+    "file": "transworld-identity/provenance.md",
+    "target": "allocation-implementation-2026-11-16/report.md"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "../allocation-implementation-2026-11-16/report.md"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "c02-1-allocation.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "c05-allocation.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "c07-1-allocation.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "c07-2-allocation.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "allocation-details.md"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "allocation.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "checks.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "allocation-cross-review.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "c05-extra-reading.json"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "measure_current.py"
+  },
+  {
+    "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+    "target": "measurements.json"
+  },
+  {
+    "file": "references/voice.md",
+    "target": "frameworks.md"
+  },
+  {
+    "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "target": "c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "target": "c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "target": "../frameworks.md"
+  },
+  {
+    "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "target": "../voice.md"
+  },
+  {
+    "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "target": "c02-1-mesopotamia.md"
+  },
+  {
+    "file": "references/clusters/c08-minguo-wenyan.md",
+    "target": "c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "references/clusters/c08-minguo-wenyan.md",
+    "target": "../voice.md"
+  },
+  {
+    "file": "references/clusters/c07-1-nation-invention-world-history.md",
+    "target": "c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "references/clusters/c07-1-nation-invention-world-history.md",
+    "target": "c02-1-mesopotamia.md"
+  },
+  {
+    "file": "references/clusters/c07-1-nation-invention-world-history.md",
+    "target": "../frameworks.md"
+  },
+  {
+    "file": "references/clusters/c07-1-nation-invention-world-history.md",
+    "target": "../voice.md"
+  },
+  {
+    "file": "references/clusters/c07-1-nation-invention-world-history.md",
+    "target": "c06-figures.md"
+  },
+  {
+    "file": "references/clusters/c03-wadi-psychology.md",
+    "target": "c02-2-premodern-order.md"
+  },
+  {
+    "file": "references/clusters/c02-1-mesopotamia.md",
+    "target": "c02-2-premodern-order.md"
+  },
+  {
+    "file": "references/clusters/c02-1-mesopotamia.md",
+    "target": "c07-2-reversed-east-asian-history.md"
+  },
+  {
+    "file": "references/clusters/c02-1-mesopotamia.md",
+    "target": "c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+    "target": "c07-1-nation-invention-world-history.md"
+  },
+  {
+    "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+    "target": "c02-1-mesopotamia.md"
+  },
+  {
+    "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+    "target": "c02-2-premodern-order.md"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "c07-1-part-measurements.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "checks.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "measurements.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "implementation.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "package-root.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "package-discovery.json"
+  },
+  {
+    "file": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+    "target": "../history/allocation-implementation-2026-11-16/INDEX.md"
+  }
+]

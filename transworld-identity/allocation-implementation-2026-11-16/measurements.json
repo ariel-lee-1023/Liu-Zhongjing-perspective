@@ -1,0 +1,498 @@
+{
+  "unit": "正文漢字（U+3400..U+9FFF）",
+  "method": "從首個##實質章節到來源定位/出處標記/書籍出處之前；排除Markdown標題與CA/NI內嵌來源括註，保留實質引文及局部條件/時點說明；純舊來源承接標籤計入開銷。全文其餘漢字記為metadata_han。",
+  "not_quality_score": true,
+  "rows": [
+    {
+      "module": "c02-1",
+      "path": "references/clusters/c02-1-mesopotamia.md",
+      "sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+      "body_han": 5652,
+      "metadata_han": 703,
+      "whole_file_han": 6355,
+      "whole_file_characters": 8760,
+      "whole_file_heuristic_tokens": 12552.13,
+      "section_counts": [
+        {
+          "heading": "一、文明代際、旁系與模型的限度",
+          "body_han": 475
+        },
+        {
+          "heading": "二、神廟的組織權威與城邦間秩序",
+          "body_han": 598
+        },
+        {
+          "heading": "三、殖民、人口混合與階級的不同尺度",
+          "body_han": 296
+        },
+        {
+          "heading": "四、文字、紀錄與書吏角色的生成",
+          "body_han": 377
+        },
+        {
+          "heading": "五、文明傳播：陸海接力、模仿與證據強弱",
+          "body_han": 434
+        },
+        {
+          "heading": "六、水利與環境壓力如何形成跨城衝突",
+          "body_han": 381
+        },
+        {
+          "heading": "七、恩西與盧伽爾：權威來源與分工固定",
+          "body_han": 381
+        },
+        {
+          "heading": "八、出資、流血、選票與仲裁的政治分量",
+          "body_han": 593
+        },
+        {
+          "heading": "九、霸權與帝國：地方權力被收走的深度",
+          "body_han": 387
+        },
+        {
+          "heading": "十、開拓競爭轉入社會性戰爭",
+          "body_han": 380
+        },
+        {
+          "heading": "十一、邊區創新與文化載體的延續",
+          "body_han": 469
+        },
+        {
+          "heading": "十二、部落法統、教團仲裁與現代王室的選擇",
+          "body_han": 496
+        },
+        {
+          "heading": "十三、法律、考古與尚無法回答的問題",
+          "body_han": 385
+        }
+      ]
+    },
+    {
+      "module": "c02-2",
+      "path": "references/clusters/c02-2-premodern-order.md",
+      "sha256": "b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
+      "body_han": 11759,
+      "metadata_han": 1046,
+      "whole_file_han": 12805,
+      "whole_file_characters": 15629,
+      "whole_file_heuristic_tokens": 23693.4,
+      "section_counts": [
+        {
+          "heading": "一、秩序的產生：保護、供養與仲裁",
+          "body_han": 380
+        },
+        {
+          "heading": "二、幾個高識別度的判斷（連推理鏈）",
+          "body_han": 822
+        },
+        {
+          "heading": "三、民族認同與福利的判斷",
+          "body_han": 472
+        },
+        {
+          "heading": "四、秩序的比較與相對主義的限度",
+          "body_han": 389
+        },
+        {
+          "heading": "五、資金流版的興衰判斷（與全球資本主義簇呼應）",
+          "body_han": 205
+        },
+        {
+          "heading": "經是價值尺度，史是依經作出的裁斷",
+          "body_han": 349
+        },
+        {
+          "heading": "巫史、德性與周禮的節制",
+          "body_han": 251
+        },
+        {
+          "heading": "宗法封建與契約封建的分別",
+          "body_han": 337
+        },
+        {
+          "heading": "禮樂的成熟、解體與國家的產生",
+          "body_han": 420
+        },
+        {
+          "heading": "修養與知識：生活如何被抽離為學問",
+          "body_han": 457
+        },
+        {
+          "heading": "游士與啟蒙：解放同時也是解體",
+          "body_han": 589
+        },
+        {
+          "heading": "郡縣、軍功與群眾解放",
+          "body_han": 268
+        },
+        {
+          "heading": "項羽的選擇：共同體的義務與消耗戰",
+          "body_han": 509
+        },
+        {
+          "heading": "賓師淪為私屬",
+          "body_han": 118
+        },
+        {
+          "heading": "儒士、法吏與儒化家族的興起",
+          "body_han": 375
+        },
+        {
+          "heading": "新莽的失敗：理想實現而非道德背叛",
+          "body_han": 461
+        },
+        {
+          "heading": "東漢柔道與黨錮：統治依賴什麼",
+          "body_han": 250
+        },
+        {
+          "heading": "儒家跨時期所保守的兩件事",
+          "body_han": 230
+        },
+        {
+          "heading": "蠻族、士族、部落與軍戶",
+          "body_han": 207
+        },
+        {
+          "heading": "朝廷與幕府：權力位置使家族分裂",
+          "body_han": 424
+        },
+        {
+          "heading": "科舉、士紳與社會的獨立性",
+          "body_han": 440
+        },
+        {
+          "heading": "官制的精密化與相權的退化",
+          "body_han": 179
+        },
+        {
+          "heading": "藩鎮、專賣與地方防衛",
+          "body_han": 196
+        },
+        {
+          "heading": "宋代黨爭與稅役成本",
+          "body_han": 339
+        },
+        {
+          "heading": "寶鈔體制與階級位置",
+          "body_han": 268
+        },
+        {
+          "heading": "海地與拉美：國體不及民情",
+          "body_han": 231
+        },
+        {
+          "heading": "法統、繼承與能夠承受的失敗",
+          "body_han": 287
+        },
+        {
+          "heading": "財政、地方組織與世界秩序",
+          "body_han": 340
+        },
+        {
+          "heading": "保存種子與歷史的邊界",
+          "body_han": 88
+        },
+        {
+          "heading": "六、齊魯晉鄭楚：憲制位置先於名稱",
+          "body_han": 564
+        },
+        {
+          "heading": "七、魯國的寬容與文明藝術",
+          "body_han": 230
+        },
+        {
+          "heading": "八、秩序的來源是一個武裝集團加一筆交易",
+          "body_han": 271
+        },
+        {
+          "heading": "九、胡漢雙重性與\"儒學由藩鎮復活\"",
+          "body_han": 232
+        },
+        {
+          "heading": "十、文字、技術與傳播路線",
+          "body_han": 340
+        },
+        {
+          "heading": "十一、問答、史論與講座的表達特徵",
+          "body_han": 241
+        }
+      ]
+    },
+    {
+      "module": "c05",
+      "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+      "body_han": 12266,
+      "metadata_han": 569,
+      "whole_file_han": 12835,
+      "whole_file_characters": 15938,
+      "whole_file_heuristic_tokens": 23834.63,
+      "section_counts": [
+        {
+          "heading": "一、格局與節點",
+          "body_han": 353
+        },
+        {
+          "heading": "二、國家層級與公共功能",
+          "body_han": 665
+        },
+        {
+          "heading": "三、資本再生與金融政治",
+          "body_han": 1686
+        },
+        {
+          "heading": "四、產業外包與未知創新",
+          "body_han": 1167
+        },
+        {
+          "heading": "五、AI媒介與專用技術",
+          "body_han": 1079
+        },
+        {
+          "heading": "六、移民、公民權與庇護",
+          "body_han": 1014
+        },
+        {
+          "heading": "七、聯盟與軍事目標",
+          "body_han": 1079
+        },
+        {
+          "heading": "八、政黨供養與國家建構",
+          "body_han": 985
+        },
+        {
+          "heading": "九、認知戰與國家形象",
+          "body_han": 904
+        },
+        {
+          "heading": "十、階級再生與教育",
+          "body_han": 1133
+        },
+        {
+          "heading": "十一、生育與共同責任",
+          "body_han": 739
+        },
+        {
+          "heading": "十二、學術、版權與正統",
+          "body_han": 876
+        },
+        {
+          "heading": "十三、舊來源承接",
+          "body_han": 586
+        }
+      ]
+    },
+    {
+      "module": "c07-1",
+      "path": "references/clusters/c07-1-nation-invention-world-history.md",
+      "sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+      "body_han": 7411,
+      "metadata_han": 1016,
+      "whole_file_han": 8427,
+      "whole_file_characters": 11185,
+      "whole_file_heuristic_tokens": 16323.37,
+      "section_counts": [
+        {
+          "heading": "01、民族、政權與國家的層級",
+          "body_han": 356
+        },
+        {
+          "heading": "02、共同文化圈與後出的國史",
+          "body_han": 469
+        },
+        {
+          "heading": "03、文化載體與代際轉用",
+          "body_han": 845
+        },
+        {
+          "heading": "04、外部保護與消失的出路",
+          "body_han": 603
+        },
+        {
+          "heading": "05、帝國民族化與地方權利",
+          "body_han": 467
+        },
+        {
+          "heading": "06、自由派統一與選舉權反轉",
+          "body_han": 364
+        },
+        {
+          "heading": "07、民族使命與既成國家",
+          "body_han": 602
+        },
+        {
+          "heading": "08、宗教共同體的自治層次",
+          "body_han": 516
+        },
+        {
+          "heading": "09、憲法主體與人民邊界",
+          "body_han": 580
+        },
+        {
+          "heading": "10、國家先於民族",
+          "body_han": 368
+        },
+        {
+          "heading": "11、同化反彈與公共命名",
+          "body_han": 377
+        },
+        {
+          "heading": "12、政治部落與共同協調",
+          "body_han": 779
+        },
+        {
+          "heading": "13、港口繁榮與共同體變化",
+          "body_han": 324
+        },
+        {
+          "heading": "14、分層權利與排他主權",
+          "body_han": 355
+        },
+        {
+          "heading": "15、舊訪談：語言與建國",
+          "body_han": 160
+        },
+        {
+          "heading": "16、舊評傳：分類反制發明者",
+          "body_han": 246
+        }
+      ]
+    },
+    {
+      "module": "c07-2",
+      "path": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+      "body_han": 9678,
+      "metadata_han": 1254,
+      "whole_file_han": 10932,
+      "whole_file_characters": 14671,
+      "whole_file_heuristic_tokens": 21381.63,
+      "section_counts": [
+        {
+          "heading": "一、文明地圖與傳播辨識",
+          "body_han": 308
+        },
+        {
+          "heading": "二、民族建構的自治判準",
+          "body_han": 263
+        },
+        {
+          "heading": "三、吳越的山、海與郡縣",
+          "body_han": 371
+        },
+        {
+          "heading": "四、豪族、流亡朝廷與海上教團",
+          "body_han": 379
+        },
+        {
+          "heading": "五、寺院工程與士大夫接管",
+          "body_han": 561
+        },
+        {
+          "heading": "六、條約、公局財政與未完成的建國",
+          "body_han": 449
+        },
+        {
+          "heading": "七、江淮的通道與法統負擔",
+          "body_han": 453
+        },
+        {
+          "heading": "八、巴蜀的商路與帝國糧倉",
+          "body_han": 398
+        },
+        {
+          "heading": "九、夜郎的動員與征服後收權",
+          "body_han": 349
+        },
+        {
+          "heading": "十、滇國外交的時機錯置",
+          "body_han": 301
+        },
+        {
+          "heading": "十一、晉地的名稱、組織與武士權利",
+          "body_han": 421
+        },
+        {
+          "heading": "十二、軍國民教育與本地公共能力",
+          "body_han": 213
+        },
+        {
+          "heading": "十三、燕地豪族的保護者與中介選擇",
+          "body_han": 249
+        },
+        {
+          "heading": "十四、齊魯的海陸方向與地方組織",
+          "body_han": 257
+        },
+        {
+          "heading": "十五、上海：辦事團體到憲制中心",
+          "body_han": 376
+        },
+        {
+          "heading": "十六、多重司法、先例與附則權力",
+          "body_han": 484
+        },
+        {
+          "heading": "十七、受保護中立與外交自主的交換",
+          "body_han": 314
+        },
+        {
+          "heading": "十八、人口擴張與共同責任不足",
+          "body_han": 389
+        },
+        {
+          "heading": "十九、代理人供養與代表性爭奪",
+          "body_han": 254
+        },
+        {
+          "heading": "二十、總體戰下的外交、行政與公民資格",
+          "body_han": 373
+        },
+        {
+          "heading": "二十一、滿洲宮廷之外的開拓與技術累積",
+          "body_han": 334
+        },
+        {
+          "heading": "二十二、征服財庫與原有議事權的瓦解",
+          "body_han": 474
+        },
+        {
+          "heading": "二十三、屬人聯盟到連續領土與國族",
+          "body_han": 359
+        },
+        {
+          "heading": "二十四、協和、正統與自治的內部衝突",
+          "body_han": 379
+        },
+        {
+          "heading": "二十五、代議、保安會與地方合作",
+          "body_han": 240
+        },
+        {
+          "heading": "二十六、高成長遮蔽的統制經濟代價",
+          "body_han": 475
+        },
+        {
+          "heading": "二十七、技術精英與政治後裔的斷裂",
+          "body_han": 255
+        }
+      ]
+    }
+  ],
+  "runtime_load": {
+    "counter": "persona-distiller/scripts/token_count.py defaults; heuristic not model BPE",
+    "standing": {
+      "SKILL.md": 12878.87,
+      "frameworks.md": 12506.9,
+      "voice.md": 12279.3
+    },
+    "standing_total": 37665.07,
+    "largest_two_current_topic_files": {
+      "c05-geopolitics-capital-and-class.md": 23834.63,
+      "c02-2-premodern-order.md": 23693.4
+    },
+    "standing_plus_two_largest": 85193.1,
+    "scope": "當前完整檔案成本，只是最大兩模組同載情境；實際提問可能需更多/更少模組，這不是宿主context上限。"
+  }
+}

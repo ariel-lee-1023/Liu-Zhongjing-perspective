@@ -5,7 +5,7 @@
   "authority": "使用者要求依新語料核定篇幅配置；以本輪已讀來源和已支持論證配置，不使用統一6000上限。",
   "unit": "正文漢字 U+3400..U+9FFF；不是token、字元總數或品質分數。",
   "method": "逐單元列出核心因果、必要案例、條件反例、主落點及合併規則，按所需段落與要素估算範圍，分部配額由單元相加；未由現稿長度倒算。編輯者已看過現稿，並非盲測。",
-  "source_scope": "四份指定本地Markdown；沿先前有界選讀。新增C05窗口12個/52131原始字元，各≤4500；其他三份沒有擴大原始來源閱讀。",
+  "source_scope": "原四份Markdown維持有界正文選讀；本次新增四份文件全讀所供文字：30個DOCX段、56頁PDF。讀完節錄檔不表示完整原講座。",
   "modules": [
     {
       "module": "c02-1",
@@ -23,35 +23,53 @@
         5730,
         8250
       ],
-      "current_body_han": 5289,
-      "current_metadata_han": 775,
-      "current_body_quantity_status": "within_planned_range",
-      "current_metadata_quantity_status": "within_planned_range",
-      "implementation_status": "not_yet_applied_or_semantically_accepted",
-      "source_plan": "c02-1-allocation.json"
+      "current_body_han": 5652,
+      "current_metadata_han": 703,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c02-1-allocation.json",
+      "previous_body_han": 5289,
+      "previous_metadata_han": 775,
+      "before_source_extension_body_han": 5652,
+      "all_original_unit_lower_bounds_met": true
     },
     {
       "module": "c05",
       "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
-      "argument_units": 12,
+      "argument_units": 13,
       "adopted_body_han_range": [
+        15090,
+        19880
+      ],
+      "adopted_metadata_han_range": [
+        650,
+        1100
+      ],
+      "adopted_whole_file_han_range": [
+        15740,
+        20980
+      ],
+      "current_body_han": 16850,
+      "current_metadata_han": 810,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c05-allocation.json",
+      "previous_body_han": 10423,
+      "previous_metadata_han": 1183,
+      "before_source_extension_body_han": 12266,
+      "all_original_unit_lower_bounds_met": true,
+      "original_adopted_body_han_range": [
         11270,
         15080
       ],
-      "adopted_metadata_han_range": [
+      "original_adopted_metadata_han_range": [
         450,
         650
       ],
-      "adopted_whole_file_han_range": [
-        11720,
-        15730
-      ],
-      "current_body_han": 10423,
-      "current_metadata_han": 1183,
-      "current_body_quantity_status": "below_planned_range",
-      "current_metadata_quantity_status": "above_planned_range",
-      "implementation_status": "not_yet_applied_or_semantically_accepted",
-      "source_plan": "c05-allocation.json"
+      "additional_legacy_block": 1,
+      "current_source_plan": "../source-extension-2026-11-16/c05-source-increment-plan.json"
     },
     {
       "module": "c07-1",
@@ -69,12 +87,16 @@
         7310,
         9930
       ],
-      "current_body_han": 7501,
-      "current_metadata_han": 1612,
-      "current_body_quantity_status": "within_planned_range",
-      "current_metadata_quantity_status": "above_planned_range",
-      "implementation_status": "not_yet_applied_or_semantically_accepted",
-      "source_plan": "c07-1-allocation.json"
+      "current_body_han": 7591,
+      "current_metadata_han": 1016,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c07-1-allocation.json",
+      "previous_body_han": 7501,
+      "previous_metadata_han": 1612,
+      "before_source_extension_body_han": 7411,
+      "all_original_unit_lower_bounds_met": true
     },
     {
       "module": "c07-2",
@@ -92,12 +114,16 @@
         9920,
         14160
       ],
-      "current_body_han": 7951,
-      "current_metadata_han": 1250,
-      "current_body_quantity_status": "below_planned_range",
-      "current_metadata_quantity_status": "within_planned_range",
-      "implementation_status": "not_yet_applied_or_semantically_accepted",
-      "source_plan": "c07-2-allocation.json"
+      "current_body_han": 9975,
+      "current_metadata_han": 1254,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c07-2-allocation.json",
+      "previous_body_han": 7951,
+      "previous_metadata_han": 1250,
+      "before_source_extension_body_han": 9678,
+      "all_original_unit_lower_bounds_met": true
     }
   ],
   "C05_reserve": {
@@ -115,16 +141,16 @@
     "new_source_budget": null,
     "rule": "原C02純改名；本輪沒有新語料，沿此前依使用者指定論述深度保留的安排。"
   },
-  "implementation_status": "allocation_complete_runtime_revision_pending",
+  "implementation_status": "implemented_for_declared_editorial_scope",
   "acceptance_rules": [
     "先核每個單元必要因果、案例、反例和來源歸屬；處於字數範圍內不構成內容通過。",
-    "下界是規劃值，不是湊字數門檻；內容完整且更短時記錄理由。",
+    "依使用者本次要求，原單元下界必須滿足；增補有源的機制、案例及條件，不以重複總論填字。",
     "超上界須提出新增獨立論證或必要條件的來源依據，再修訂配置；不得以原書長或目前稿長直接放寬。",
     "合併重複總論，不合併相反條件、不同年代或不同權利主體。",
     "跨模組路由是本輪整理的主題去向，不表示已新增其他模組正文。",
     "未知、待核題材及未讀部分不得標成已蒸餾；全書充分性仍未驗收。"
   ],
-  "runtime_changes": false,
+  "runtime_changes": true,
   "recognition_calls": 0,
   "plan_hashes": {
     "c02-1": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
@@ -132,6 +158,13 @@
     "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
     "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
   },
-  "measurements": "measurements.json",
-  "cross_review": "allocation-cross-review.json"
+  "measurements": "../source-extension-2026-11-16/measurements.json",
+  "cross_review": "allocation-cross-review.json",
+  "current_editorial_policy": "依使用者最新要求，所有原參考單元下界必須達到；只用來源支持的實質細節補足，不恢復重複總論。C05四份新增來源另核增量配置，沒有統一上限。完成驗證後直接提交推送，保留既有AGENTS.md未提交改動。",
+  "numerical_ranges_are_acceptance_gates": "original_lower_bounds_required_this_revision; source-based current ranges are editorial references, not universal caps",
+  "implementation_record": "../source-extension-2026-11-16/implementation.json",
+  "historical_measurements": "measurements.json",
+  "plan_record_note": "四份單元配置及其指紋保留核定時狀態；本彙總更新為實施狀態。",
+  "publication": "commit_and_push_authorized_after_validation",
+  "source_extension_plan_sha256": "9ea40e20fc526b3cb9ae5063981fe90e9456056645193d5e4e5c72023973b688"
 }

@@ -1,0 +1,706 @@
+{
+  "module": "c07-1",
+  "status": "lower_bounds_met_with_source_supported_substantive_additions",
+  "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+  "before_runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+  "after_runtime_sha256": "4283b8482114c0d3bf2d73f9a8a3851c151afa42be088283f8260a9e30ab685e",
+  "latest_policy": {
+    "latest_instruction": "低於原參考下界的單元都必須要補字；用已核來源的新實質細節，不恢復重複總論；僅本地不提交推送。",
+    "effective_checks": "Every original unit body lower bound and each original unit part_han lower bound; do not lower allocation. Retain necessary material even if some legacy subpart upper ranges remain exceeded.",
+    "original_allocation_modified": false
+  },
+  "allocation_path": "transworld-identity/source-allocation-2026-11-16/c07-1-allocation.json",
+  "allocation_sha256": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+  "changes": [
+    {
+      "unit": "U01",
+      "part": "巴爾幹",
+      "before": "「假民族」是在這個自我治理判準下的政治評價",
+      "after": "同稱希臘主義，最初指繼承拜占庭的帝國方案，後來卻是小民族國家；舊名稱會遮蔽政治模式的轉換。「假民族」是在這個自我治理判準下的政治評價",
+      "source_ids": [
+        "NI02"
+      ],
+      "window": [
+        73,
+        79
+      ],
+      "support": "L75–77直接區分同名希臘主義原帝國方案及後來小民族模式，新增的是同名掩蓋層級轉換的具體案例。",
+      "net_added_han": 41
+    },
+    {
+      "unit": "U06",
+      "part": "中東歐",
+      "before": "階級衝突和民族衝突不是互相排斥的兩種解釋。〔NI17〕",
+      "after": "階級衝突和民族衝突不是互相排斥的兩種解釋。一八四八年革命的勝負，最後由俄軍介入改寫，法律資格的爭論並不能替匈牙利革命軍補出戰場力量。〔NI17〕",
+      "source_ids": [
+        "NI17"
+      ],
+      "window": [
+        5992,
+        6003
+      ],
+      "support": "L5996記載俄軍打垮匈牙利革命軍並恢復哈布斯堡控制，新增法律代表爭議如何被外部武力決定的具體轉折，而非重寫原尾段總論。",
+      "net_added_han": 42,
+      "wording_clarification": "Specify 1848 revolution as the event, not the year of Russian intervention; same NI17 source, no new source reread."
+    },
+    {
+      "unit": "U07",
+      "part": "中東",
+      "before": "伊拉克與敘利亞各自形成制度後，普通選民和議會政黨可能寧願把稅金用於本地，避免昂貴的境外統一事業。",
+      "after": "英法託管後，伊拉克由費薩爾家族的王室統治，敘利亞採共和國體制。兩國各自形成制度後，普通選民和議會政黨可能寧願把稅金用於本地，避免昂貴的境外統一事業。伊拉克國家民主黨便不必否認統一的理想，而以花費太大、暫守現狀為由，阻止民族使命自動變成支出義務。",
+      "source_ids": [
+        "NI25"
+      ],
+      "window": [
+        9298,
+        9308
+      ],
+      "support": "L9298的王朝／共和制度差異及L9300國家民主黨出於稅金、軍隊和成本維持現狀，補出既成國家的制度與政黨載體。保留後續代際認同、革命外援和軍財集中條件。",
+      "net_added_han": 67
+    },
+    {
+      "unit": "U11",
+      "part": "中東",
+      "before": "媒體共同造出一個可以被支持或反對的政治主體。",
+      "after": "媒體共同造出一個可以被支持或反對的政治主體。報導還會使庫德居民反問自己是誰，由外界的承認反過來加強內部認同。",
+      "source_ids": [
+        "NI22"
+      ],
+      "window": [
+        8034,
+        8045
+      ],
+      "support": "L8034明說國際報導使庫德居民反思身分並透過全球回饋相信自己是一民族，新增受眾與居民之間的回饋方向，不只為增加一個字。",
+      "net_added_han": 30
+    }
+  ],
+  "body_han_before": 7411,
+  "body_han_after": 7591,
+  "net_added_han": 180,
+  "metadata_han": 1016,
+  "measurement_method": "從首個##實質章節到來源定位/出處標記/書籍出處之前；排除Markdown標題與CA/NI內嵌來源括註，保留實質引文及局部條件/時點說明；純舊來源承接標籤計入開銷。全文其餘漢字記為metadata_han。",
+  "unit_lower_bound_checks": [
+    {
+      "unit": "U01",
+      "heading": "01、民族、政權與國家的層級",
+      "body_han": 397,
+      "original_range": [
+        330,
+        450
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U02",
+      "heading": "02、共同文化圈與後出的國史",
+      "body_han": 469,
+      "original_range": [
+        360,
+        480
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U03",
+      "heading": "03、文化載體與代際轉用",
+      "body_han": 845,
+      "original_range": [
+        650,
+        850
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U04",
+      "heading": "04、外部保護與消失的出路",
+      "body_han": 603,
+      "original_range": [
+        480,
+        640
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U05",
+      "heading": "05、帝國民族化與地方權利",
+      "body_han": 467,
+      "original_range": [
+        460,
+        620
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U06",
+      "heading": "06、自由派統一與選舉權反轉",
+      "body_han": 406,
+      "original_range": [
+        390,
+        510
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U07",
+      "heading": "07、民族使命與既成國家",
+      "body_han": 669,
+      "original_range": [
+        560,
+        720
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U08",
+      "heading": "08、宗教共同體的自治層次",
+      "body_han": 516,
+      "original_range": [
+        480,
+        640
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U09",
+      "heading": "09、憲法主體與人民邊界",
+      "body_han": 580,
+      "original_range": [
+        480,
+        640
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U10",
+      "heading": "10、國家先於民族",
+      "body_han": 368,
+      "original_range": [
+        330,
+        450
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U11",
+      "heading": "11、同化反彈與公共命名",
+      "body_han": 407,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U12",
+      "heading": "12、政治部落與共同協調",
+      "body_han": 779,
+      "original_range": [
+        650,
+        850
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U13",
+      "heading": "13、港口繁榮與共同體變化",
+      "body_han": 324,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U14",
+      "heading": "14、分層權利與排他主權",
+      "body_han": 355,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U15",
+      "heading": "15、舊訪談：語言與建國",
+      "body_han": 160,
+      "original_range": [
+        160,
+        220
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U16",
+      "heading": "16、舊評傳：分類反制發明者",
+      "body_han": 246,
+      "original_range": [
+        220,
+        300
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    }
+  ],
+  "unit_part_lower_bound_checks": [
+    {
+      "unit": "U01",
+      "part": "巴爾幹",
+      "body_han": 113,
+      "original_range": [
+        110,
+        150
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U01",
+      "part": "中東歐",
+      "body_han": 284,
+      "original_range": [
+        220,
+        300
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U02",
+      "part": "巴爾幹",
+      "body_han": 469,
+      "original_range": [
+        360,
+        480
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U03",
+      "part": "巴爾幹",
+      "body_han": 535,
+      "original_range": [
+        390,
+        510
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    },
+    {
+      "unit": "U03",
+      "part": "中東歐",
+      "body_han": 310,
+      "original_range": [
+        260,
+        340
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U04",
+      "part": "巴爾幹",
+      "body_han": 371,
+      "original_range": [
+        320,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U04",
+      "part": "中東歐",
+      "body_han": 232,
+      "original_range": [
+        160,
+        220
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    },
+    {
+      "unit": "U05",
+      "part": "中東歐",
+      "body_han": 467,
+      "original_range": [
+        460,
+        620
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U06",
+      "part": "中東歐",
+      "body_han": 406,
+      "original_range": [
+        390,
+        510
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U07",
+      "part": "巴爾幹",
+      "body_han": 246,
+      "original_range": [
+        140,
+        180
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    },
+    {
+      "unit": "U07",
+      "part": "中東",
+      "body_han": 423,
+      "original_range": [
+        420,
+        540
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U08",
+      "part": "中東歐",
+      "body_han": 102,
+      "original_range": [
+        80,
+        110
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U08",
+      "part": "中東",
+      "body_han": 414,
+      "original_range": [
+        400,
+        530
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U09",
+      "part": "巴爾幹",
+      "body_han": 450,
+      "original_range": [
+        350,
+        460
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U09",
+      "part": "中東歐",
+      "body_han": 130,
+      "original_range": [
+        130,
+        180
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U10",
+      "part": "中東歐",
+      "body_han": 368,
+      "original_range": [
+        330,
+        450
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U11",
+      "part": "中東",
+      "body_han": 329,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U12",
+      "part": "中東",
+      "body_han": 779,
+      "original_range": [
+        650,
+        850
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U13",
+      "part": "中東",
+      "body_han": 324,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U14",
+      "part": "巴爾幹",
+      "body_han": 355,
+      "original_range": [
+        300,
+        420
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U15",
+      "part": "舊來源承接",
+      "body_han": 160,
+      "original_range": [
+        160,
+        220
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    },
+    {
+      "unit": "U16",
+      "part": "舊來源承接",
+      "body_han": 246,
+      "original_range": [
+        220,
+        300
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": true
+    }
+  ],
+  "all_original_unit_lower_bounds_met": true,
+  "all_original_subpart_lower_bounds_met": true,
+  "all_unit_upper_bounds_maintained": true,
+  "aggregate_part_counts": [
+    {
+      "part": "巴爾幹",
+      "body_han": 2617,
+      "allocation_body_han": [
+        1970,
+        2620
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "中東歐",
+      "body_han": 2299,
+      "allocation_body_han": [
+        2030,
+        2730
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "中東",
+      "body_han": 2269,
+      "allocation_body_han": [
+        2070,
+        2760
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "舊來源承接",
+      "body_han": 406,
+      "allocation_body_han": [
+        380,
+        520
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    }
+  ],
+  "all_aggregate_part_ranges_maintained": true,
+  "remaining_subpart_upper_deviations": [
+    {
+      "unit": "U03",
+      "part": "巴爾幹",
+      "body_han": 535,
+      "original_range": [
+        390,
+        510
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    },
+    {
+      "unit": "U04",
+      "part": "中東歐",
+      "body_han": 232,
+      "original_range": [
+        160,
+        220
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    },
+    {
+      "unit": "U07",
+      "part": "巴爾幹",
+      "body_han": 246,
+      "original_range": [
+        140,
+        180
+      ],
+      "meets_original_lower_bound": true,
+      "within_original_upper_bound": false
+    }
+  ],
+  "unallocated_source_specific_span_note": "U11 retains78 Han from NI05/Bulgaria in addition to its Middle East329 Han. The old unit part_han has no Balkans entry. Exact measurement discloses it rather than attributing the whole section to the Middle East.",
+  "source_reread": {
+    "source": "source-local:民族發明學的世界史.md",
+    "source_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+    "windows": [
+      {
+        "start_line": 73,
+        "end_line": 79,
+        "characters": 1567,
+        "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "char_offsets_zero_based_end_exclusive": [
+          1697,
+          3264
+        ],
+        "display_read": "complete",
+        "scope": "reread within previously selected NI window",
+        "applied_to_expansion": true,
+        "note": ""
+      },
+      {
+        "start_line": 5992,
+        "end_line": 6003,
+        "characters": 2686,
+        "sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+        "char_offsets_zero_based_end_exclusive": [
+          603338,
+          606024
+        ],
+        "display_read": "complete",
+        "scope": "reread within previously selected NI window",
+        "applied_to_expansion": true,
+        "note": ""
+      },
+      {
+        "start_line": 9298,
+        "end_line": 9308,
+        "characters": 2443,
+        "sha256": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+        "char_offsets_zero_based_end_exclusive": [
+          879520,
+          881963
+        ],
+        "display_read": "complete",
+        "scope": "reread within previously selected NI window",
+        "applied_to_expansion": true,
+        "note": ""
+      },
+      {
+        "start_line": 8034,
+        "end_line": 8045,
+        "characters": 2445,
+        "sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+        "char_offsets_zero_based_end_exclusive": [
+          760316,
+          762761
+        ],
+        "display_read": "complete",
+        "scope": "reread within previously selected NI window",
+        "applied_to_expansion": true,
+        "note": ""
+      },
+      {
+        "start_line": 6415,
+        "end_line": 6430,
+        "characters": 1949,
+        "sha256": "32e2f34dedc9ab3d2d897a90d89a1c82848e9f0a99b420471fa11c08bd5cda00",
+        "char_offsets_zero_based_end_exclusive": [
+          635226,
+          637175
+        ],
+        "display_read": "complete",
+        "scope": "reread within previously selected NI window",
+        "applied_to_expansion": false,
+        "note": "L6415–6430 used to confirm the preserved franchise/armed-support conditions, not to add a new paragraph."
+      }
+    ],
+    "count": 5,
+    "max_window_characters": 2686,
+    "outside_previous_selected_windows": 0,
+    "whole_book_reading_claimed": false
+  },
+  "semantic_review": [
+    {
+      "unit": "U01",
+      "new_substance": "Same Greek-nationalism label changes from imperial inheritance project to small-nation state; prevents conflating continuity of name with continuity of political model.",
+      "preserved": "Greek/Polish classification layers, culture/self-government/control/recognition distinctions, Ukrainian predecessor and modern legal-date distinctions."
+    },
+    {
+      "unit": "U06",
+      "new_substance": "Concrete Russian military intervention affecting the outcome of the1848 revolution and the Hungarian revolutionary army, rather than a generic reiteration that force matters.",
+      "preserved": "Landowner franchise vs grassroots representation, Croat/Slovak imperial bargaining differences, universal suffrage reversal and military support condition."
+    },
+    {
+      "unit": "U07",
+      "new_substance": "Iraqi Faisal-family monarchy versus Syrian republic, and the Iraqi National Democratic Party as a concrete carrier of local-tax/resource interests.",
+      "preserved": "Macedonian/state divergence, different transferable bases, pan-Arab/pan-Islam elite inclusion, chiefs’ independent power, local-tax preference, generational identity, revolutionary finance/military effects."
+    },
+    {
+      "unit": "U11",
+      "new_substance": "International reporting feeds back into Kurdish residents’ self-identification, a direction not stated explicitly in the prior public-label account.",
+      "preserved": "Assimilation response, Bulgarian public naming, recognition versus territory/force/diplomatic and legal outcomes, original2017 time boundary."
+    }
+  ],
+  "checks": {
+    "only_four_explicit_substantive_replacements_applied": true,
+    "previously_deleted_duplicate_generalizations_not_restored": true,
+    "all_31_NI_source_table_ids_present": true,
+    "no_source_locator_edits": true,
+    "no_repo_metadata_changes_by_this_agent": true,
+    "no_commit_or_push": true
+  },
+  "limitations": [
+    "This is source-based editorial self-review, not independent historical verification or a new persona-recognition evaluation.",
+    "Five bounded rereads, all already selected; no full-volume coverage implied.",
+    "All required lower bounds now pass. Three pre-existing subpart upper deviations remain: U03/Balkans535>510, U04/MiddleEastEurope232>220, U07/Balkans246>180. Module, every whole unit, and aggregate volume upper bounds remain within the original ranges."
+  ],
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context."
+}

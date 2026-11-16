@@ -1,11 +1,10 @@
 {
   "schema_version": 1,
-  "scope": "2026-11-16 four-source bounded redistillation, C02/C07 split and current routing; historical evidence retains original scope",
+  "scope": "2026-11-16 C05 four-source extension and all original allocation lower bounds; previous local implementation included in publication.",
   "status": "candidate",
   "standard_accepted": false,
   "source": {
     "outcome": "pass_for_declared_editorial_scope",
-    "new_source_groups": 103,
     "legacy_C05_groups": 6,
     "preserved_historical_records": 22,
     "raw_sources_reopened": true,
@@ -16,33 +15,48 @@
     "source_integrity": "redistillation-2026-11-16/source-integrity.json",
     "reading_units": 233,
     "reading_unit_limit": 256,
-    "full_books_read": false
+    "full_books_read": false,
+    "implementation_review": "source-extension-2026-11-16/checks.json",
+    "historical_reading_metrics_scope": "reading_units/reading_unit_limit describe the preceding redistillation only; the adopted allocation recorded 12 later CA windows; this implementation rereads existing windows without increasing coverage",
+    "new_CA_mechanism_records": 10,
+    "preceding_redistillation_evidence_records": 103,
+    "source_group_note": "Evidence record counts are not counts of independent sources or independently confirmed claims.",
+    "new_supplied_documents": 4,
+    "full_supplied_document_text_read": true,
+    "full_original_lectures_claim": false,
+    "source_extension": "source-extension-2026-11-16/source-integrity.json",
+    "new_source_mechanism_records": 15,
+    "legacy_C05_groups_reverified_in_supplied_files": [
+      "CA-L03",
+      "CA-L04"
+    ]
   },
   "increment_integrity": {
     "outcome": "pass",
-    "record": "redistillation-2026-11-16/checks.json",
+    "record": "source-extension-2026-11-16/checks.json",
     "C02_2_body_unchanged": true,
-    "unrelated_AGENTS_preserved": true
+    "unrelated_AGENTS_preserved": true,
+    "unchanged_other_runtime": true
   },
   "recognition": {
     "outcome": "not_run",
     "calls_used": 0,
     "call_ceiling_for_new_standard_run": 8,
-    "reason": "No configured authorized model endpoint; no PERSONA_API_KEY available. Prepared cases/profile are not an executed assessment. Changed runtime does not inherit previous recognition results.",
+    "reason": "No configured authorized model endpoint or PERSONA_API_KEY available. Zero new calls. Earlier prepared cases/profile and prior recognition do not assess this revised runtime.",
     "readiness": "redistillation-2026-11-16/recognition-preparation/readiness.json",
     "provider_usage": null
   },
   "runtime_hashes": {
     "SKILL.md": "sha256:9c97014df2964941d25674ab29d923a3c211d3302e82850eb24d3f76b6bc80d0",
     "references/clusters/c01-ayi-life-advice.md": "sha256:049cb181e19f303a2e98b60eb3ddab1d93ed53a7870565f54fdc6cb95c16c282",
-    "references/clusters/c02-1-mesopotamia.md": "sha256:340e3ecd51585bbb3bda0174fd7f7c4d6bd1a5ad7d3b31d1db36e046616173e4",
+    "references/clusters/c02-1-mesopotamia.md": "sha256:493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
     "references/clusters/c02-2-premodern-order.md": "sha256:b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
     "references/clusters/c03-wadi-psychology.md": "sha256:127d70b349c6e249fb84c3427a3c5d3bc7ea1e436abe50a9b68099839537cf00",
     "references/clusters/c04-civilization-theory.md": "sha256:9ffe809491ea37b7adcd1f8f43f618b1b5723089f8f3e46ab0c61f9af1a39ff1",
-    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:b883b3a86ee3e78d5c2440b19190643b6d9589abe1dad4335d9f901f50a94948",
+    "references/clusters/c05-geopolitics-capital-and-class.md": "sha256:ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
     "references/clusters/c06-figures.md": "sha256:adec1ee91f712e22c1ab40a7339a12093c045d3459c45229a50a029882e8046c",
-    "references/clusters/c07-1-nation-invention-world-history.md": "sha256:df8d3c108e315dfb29c5c5a4fb9b2d3801773f8e6ca2beafc00ebefa0e55159c",
-    "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:6e51dfcbf655a9d5f0edc031ac19adf1af97864d430fa4898175c667a81e6735",
+    "references/clusters/c07-1-nation-invention-world-history.md": "sha256:4283b8482114c0d3bf2d73f9a8a3851c151afa42be088283f8260a9e30ab685e",
+    "references/clusters/c07-2-reversed-east-asian-history.md": "sha256:e188b7e83abeced3616ce633a359d7af55510e95034718a9d49f06a22f5e13e7",
     "references/clusters/c08-minguo-wenyan.md": "sha256:0778df6093bff92ccdd6fbb84426d66e84b6ecc6f3177d9b37c5afbf88226d45",
     "references/frameworks.md": "sha256:931117008d59e4ae0e3f7766183789dd2332190d7e30972a1e1e0f5bb616183b",
     "references/voice.md": "sha256:e3febb734b5562baf24b99bf513bea0e9ce749fc94bc6d6a4472d53b19ff1e0f"
@@ -65,22 +79,28 @@
     "skipped_checks": [
       "C3: no language-specific heading anchors supplied"
     ],
-    "root_record": "redistillation-2026-11-16/package-root.json",
-    "discovery_record": "redistillation-2026-11-16/package-discovery.json",
+    "root_record": "source-extension-2026-11-16/package-root.json",
+    "discovery_record": "source-extension-2026-11-16/package-discovery.json",
     "default_discovery_layout_passed": true,
     "research_release_check_run": false
   },
-  "previous_validation": "history/redistillation-2026-11-16/transworld-identity/validation.json",
+  "previous_validation": "history/source-extension-2026-11-16/transworld-identity/validation.json",
   "content_allocation": {
     "status": "adopted_editorial_allocation",
     "record": "source-allocation-2026-11-16/allocation.json",
-    "implementation_status": "allocation_complete_runtime_revision_pending",
-    "runtime_changed": false,
+    "implementation_status": "implemented_for_declared_editorial_scope",
+    "implementation_record": "source-extension-2026-11-16/implementation.json",
+    "runtime_changed": true,
+    "current_editorial_policy": "依使用者最新要求，所有原參考單元下界必須達到；只用來源支持的實質細節補足，不恢復重複總論。C05四份新增來源另核增量配置，沒有統一上限。完成驗證後直接提交推送，保留既有AGENTS.md未提交改動。",
+    "numerical_ranges_are_acceptance_gates": "original_lower_bounds_required_this_revision",
+    "publication": "commit_and_push_authorized_after_validation",
     "new_recognition_calls": 0,
-    "checks": "source-allocation-2026-11-16/checks.json",
+    "checks": "source-extension-2026-11-16/checks.json",
     "package_checks": [
-      "source-allocation-2026-11-16/package-root.json",
-      "source-allocation-2026-11-16/package-discovery.json"
-    ]
+      "source-extension-2026-11-16/package-root.json",
+      "source-extension-2026-11-16/package-discovery.json"
+    ],
+    "all_original_unit_lower_bounds_met": true,
+    "C05_new_source_plan": "source-extension-2026-11-16/c05-source-increment-plan.json"
   }
 }

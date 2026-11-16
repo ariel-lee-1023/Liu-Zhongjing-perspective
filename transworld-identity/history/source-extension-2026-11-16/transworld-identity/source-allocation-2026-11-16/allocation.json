@@ -1,0 +1,150 @@
+{
+  "schema_version": 1,
+  "status": "adopted_editorial_allocation",
+  "date": "2026-11-16",
+  "authority": "使用者要求依新語料核定篇幅配置；以本輪已讀來源和已支持論證配置，不使用統一6000上限。",
+  "unit": "正文漢字 U+3400..U+9FFF；不是token、字元總數或品質分數。",
+  "method": "逐單元列出核心因果、必要案例、條件反例、主落點及合併規則，按所需段落與要素估算範圍，分部配額由單元相加；未由現稿長度倒算。編輯者已看過現稿，並非盲測。",
+  "source_scope": "四份指定本地Markdown；沿先前有界選讀。新增C05窗口12個/52131原始字元，各≤4500；其他三份沒有擴大原始來源閱讀。",
+  "modules": [
+    {
+      "module": "c02-1",
+      "runtime_path": "references/clusters/c02-1-mesopotamia.md",
+      "argument_units": 13,
+      "adopted_body_han_range": [
+        5080,
+        7200
+      ],
+      "adopted_metadata_han_range": [
+        650,
+        1050
+      ],
+      "adopted_whole_file_han_range": [
+        5730,
+        8250
+      ],
+      "current_body_han": 5652,
+      "current_metadata_han": 703,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c02-1-allocation.json",
+      "previous_body_han": 5289,
+      "previous_metadata_han": 775
+    },
+    {
+      "module": "c05",
+      "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "argument_units": 12,
+      "adopted_body_han_range": [
+        11270,
+        15080
+      ],
+      "adopted_metadata_han_range": [
+        450,
+        650
+      ],
+      "adopted_whole_file_han_range": [
+        11720,
+        15730
+      ],
+      "current_body_han": 12266,
+      "current_metadata_han": 569,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c05-allocation.json",
+      "previous_body_han": 10423,
+      "previous_metadata_han": 1183
+    },
+    {
+      "module": "c07-1",
+      "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+      "argument_units": 16,
+      "adopted_body_han_range": [
+        6450,
+        8630
+      ],
+      "adopted_metadata_han_range": [
+        860,
+        1300
+      ],
+      "adopted_whole_file_han_range": [
+        7310,
+        9930
+      ],
+      "current_body_han": 7411,
+      "current_metadata_han": 1016,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c07-1-allocation.json",
+      "previous_body_han": 7501,
+      "previous_metadata_han": 1612
+    },
+    {
+      "module": "c07-2",
+      "runtime_path": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "argument_units": 27,
+      "adopted_body_han_range": [
+        8780,
+        12500
+      ],
+      "adopted_metadata_han_range": [
+        1140,
+        1660
+      ],
+      "adopted_whole_file_han_range": [
+        9920,
+        14160
+      ],
+      "current_body_han": 9678,
+      "current_metadata_han": 1254,
+      "current_body_quantity_status": "within_reference_range",
+      "current_metadata_quantity_status": "within_reference_range",
+      "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
+      "source_plan": "c07-2-allocation.json",
+      "previous_body_han": 7951,
+      "previous_metadata_han": 1250
+    }
+  ],
+  "C05_reserve": {
+    "body_han_range": [
+      1080,
+      1850
+    ],
+    "status": "unreleased_not_in_active_allocation",
+    "rule": "只有實讀確認新論證不可由現有單元吸收，並有來源、條件與定位時才可啟用；沒有新內容時歸零，不為填預留補字。",
+    "candidates": "c05-allocation.json#/reserve_units"
+  },
+  "C02_2": {
+    "status": "unchanged_inherited_depth_allocation",
+    "current_body_han": 11759,
+    "new_source_budget": null,
+    "rule": "原C02純改名；本輪沒有新語料，沿此前依使用者指定論述深度保留的安排。"
+  },
+  "implementation_status": "implemented_for_declared_editorial_scope",
+  "acceptance_rules": [
+    "先核每個單元必要因果、案例、反例和來源歸屬；處於字數範圍內不構成內容通過。",
+    "下界是規劃值，不是湊字數門檻；內容完整且更短時記錄理由。",
+    "超上界須提出新增獨立論證或必要條件的來源依據，再修訂配置；不得以原書長或目前稿長直接放寬。",
+    "合併重複總論，不合併相反條件、不同年代或不同權利主體。",
+    "跨模組路由是本輪整理的主題去向，不表示已新增其他模組正文。",
+    "未知、待核題材及未讀部分不得標成已蒸餾；全書充分性仍未驗收。"
+  ],
+  "runtime_changes": true,
+  "recognition_calls": 0,
+  "plan_hashes": {
+    "c02-1": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+    "c05": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+    "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+    "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
+  },
+  "measurements": "../allocation-implementation-2026-11-16/measurements.json",
+  "cross_review": "allocation-cross-review.json",
+  "current_editorial_policy": "使用者後續指示優先：只刪重複總論，內容以新語料為準；原範圍作對照，不為下界補字，不為細分配額搬段；本輪只作本地修改，不提交推送。",
+  "numerical_ranges_are_acceptance_gates": false,
+  "implementation_record": "../allocation-implementation-2026-11-16/implementation.json",
+  "historical_measurements": "measurements.json",
+  "plan_record_note": "四份單元配置及其指紋保留核定時狀態；本彙總更新為實施狀態。"
+}

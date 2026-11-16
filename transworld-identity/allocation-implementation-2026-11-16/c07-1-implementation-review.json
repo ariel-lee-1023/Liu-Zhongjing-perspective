@@ -1,0 +1,679 @@
+{
+  "module": "c07-1",
+  "status": "implemented_content_reviewed_under_user_override",
+  "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+  "runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+  "allocation_source": "transworld-identity/source-allocation-2026-11-16/c07-1-allocation.json",
+  "measurement": {
+    "module": "c07-1",
+    "path": "references/clusters/c07-1-nation-invention-world-history.md",
+    "sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+    "body_han": 7411,
+    "metadata_han": 1016,
+    "whole_file_han": 8427,
+    "whole_file_characters": 11185,
+    "whole_file_heuristic_tokens": 16323.37,
+    "section_counts": [
+      {
+        "heading": "01、民族、政權與國家的層級",
+        "body_han": 356
+      },
+      {
+        "heading": "02、共同文化圈與後出的國史",
+        "body_han": 469
+      },
+      {
+        "heading": "03、文化載體與代際轉用",
+        "body_han": 845
+      },
+      {
+        "heading": "04、外部保護與消失的出路",
+        "body_han": 603
+      },
+      {
+        "heading": "05、帝國民族化與地方權利",
+        "body_han": 467
+      },
+      {
+        "heading": "06、自由派統一與選舉權反轉",
+        "body_han": 364
+      },
+      {
+        "heading": "07、民族使命與既成國家",
+        "body_han": 602
+      },
+      {
+        "heading": "08、宗教共同體的自治層次",
+        "body_han": 516
+      },
+      {
+        "heading": "09、憲法主體與人民邊界",
+        "body_han": 580
+      },
+      {
+        "heading": "10、國家先於民族",
+        "body_han": 368
+      },
+      {
+        "heading": "11、同化反彈與公共命名",
+        "body_han": 377
+      },
+      {
+        "heading": "12、政治部落與共同協調",
+        "body_han": 779
+      },
+      {
+        "heading": "13、港口繁榮與共同體變化",
+        "body_han": 324
+      },
+      {
+        "heading": "14、分層權利與排他主權",
+        "body_han": 355
+      },
+      {
+        "heading": "15、舊訪談：語言與建國",
+        "body_han": 160
+      },
+      {
+        "heading": "16、舊評傳：分類反制發明者",
+        "body_han": 246
+      }
+    ]
+  },
+  "count_method": "從首個##實質章節到來源定位/出處標記/書籍出處之前；排除Markdown標題與CA/NI內嵌來源括註，保留實質引文及局部條件/時點說明；純舊來源承接標籤計入開銷。全文其餘漢字記為metadata_han。",
+  "counts_are_not_quality_scores": true,
+  "units": [
+    {
+      "id": "U01",
+      "allocation_title": "民族、政權與國家：分類的層級",
+      "heading": "01、民族、政權與國家的層級",
+      "source_ids": [
+        "NI01",
+        "NI02"
+      ],
+      "body_han": 356,
+      "allocation_body_han": [
+        330,
+        450
+      ],
+      "within_range": true,
+      "core_causality_check": "先分文化差異、政治自決、有效控制與國際承認，再區分帝國／泛文化／小民族的分類層級。",
+      "necessary_cases_check": "希臘三模式、波蘭國民／語言分型、烏克蘭現代地位與哥薩克前史均在。",
+      "conditions_and_counterexamples_check": "「假民族」限自我治理判準；國史追認不倒造早期法律地位。",
+      "implemented": true
+    },
+    {
+      "id": "U02",
+      "allocation_title": "共同文化圈的分裂與後出的國史",
+      "heading": "02、共同文化圈與後出的國史",
+      "source_ids": [
+        "NI03",
+        "NI04",
+        "NI05",
+        "NI06"
+      ],
+      "body_han": 469,
+      "allocation_body_han": [
+        360,
+        480
+      ],
+      "within_range": true,
+      "core_causality_check": "共同帝國文化不能支配出兵、出錢及保護來源分流後的地方政權。",
+      "necessary_cases_check": "希臘帝國遺產、多瑙河流亡家族的兩套國史、馬其頓名稱與保加利亞運動均在。",
+      "conditions_and_counterexamples_check": "文化和名稱可延續，今日國籍不能倒投回當時交錯網絡。",
+      "implemented": true
+    },
+    {
+      "id": "U03",
+      "allocation_title": "文化載體、代際時間與政治目標轉用",
+      "heading": "03、文化載體與代際轉用",
+      "source_ids": [
+        "NI05",
+        "NI11",
+        "NI12",
+        "NI15",
+        "NI16"
+      ],
+      "body_han": 845,
+      "allocation_body_han": [
+        650,
+        850
+      ],
+      "within_range": true,
+      "core_causality_check": "學校、教會、出版保存材料並培養讀者，後代轉作不同政治用途。",
+      "necessary_cases_check": "保加利亞分設教會學校及海外組織；拿破崙教育遺產／斯洛維尼亞保守反用；芬蘭政治容器和語言工作；捷克文化材料轉用均在。",
+      "conditions_and_counterexamples_check": "反革命也能發明民族；創始者不能決定後代用途；方言不是必勝通用語。",
+      "implemented": true
+    },
+    {
+      "id": "U04",
+      "allocation_title": "外部保護、地緣機會與消失的出路",
+      "heading": "04、外部保護與消失的出路",
+      "source_ids": [
+        "NI09",
+        "NI10",
+        "NI13"
+      ],
+      "body_han": 603,
+      "allocation_body_han": [
+        480,
+        640
+      ],
+      "within_range": true,
+      "core_causality_check": "保護是雙向資源交換；帝國內軍財集中、戰爭和政變使原自治出路關閉；地緣空缺使政策得以生效。",
+      "necessary_cases_check": "蒙特內哥羅影響俄國想像、阿爾巴尼亞聯邦道路消失、普魯士承接北歐新教保護位置及寬容吸納軍事人口。",
+      "conditions_and_counterexamples_check": "外援不是單向操控；好政策不保證同結果；一時寬容不泛化所有普魯士時期。",
+      "implemented": true
+    },
+    {
+      "id": "U05",
+      "allocation_title": "帝國民族化如何改寫地方權利",
+      "heading": "05、帝國民族化與地方權利",
+      "source_ids": [
+        "NI02",
+        "NI14",
+        "NI17",
+        "NI19"
+      ],
+      "body_han": 467,
+      "allocation_body_han": [
+        460,
+        620
+      ],
+      "within_range": true,
+      "core_causality_check": "君主忠誠轉成核心民族多數統治，使周邊原來的差等權利下降。",
+      "necessary_cases_check": "波蘭／芬蘭與沙皇交換、波羅的海德語精英和地方語言競爭、波蘭自由否決與常備軍壓力。",
+      "conditions_and_counterexamples_check": "舊自由與改革不是忠奸二分；自治運動也可能被另一自由派統一國家同化。",
+      "implemented": true
+    },
+    {
+      "id": "U06",
+      "allocation_title": "自由派統一、階級資格與選舉權反轉",
+      "heading": "06、自由派統一與選舉權反轉",
+      "source_ids": [
+        "NI17",
+        "NI18"
+      ],
+      "body_han": 364,
+      "allocation_body_han": [
+        390,
+        510
+      ],
+      "within_range": false,
+      "core_causality_check": "合法議會資格、草根組織、武力保護不同；擴大投票改變能被組織的支持者構成。",
+      "necessary_cases_check": "克羅埃西亞和斯洛伐克不同議價位置、匈牙利自由派與教士農民、普選反增教權和民族力量。",
+      "conditions_and_counterexamples_check": "反革命立場不保證同報酬；票數不能替代軍事支柱。",
+      "implemented": true
+    },
+    {
+      "id": "U07",
+      "allocation_title": "民族使命為何與既成國家分道揚鑣",
+      "heading": "07、民族使命與既成國家",
+      "source_ids": [
+        "NI06",
+        "NI24",
+        "NI25"
+      ],
+      "body_han": 602,
+      "allocation_body_han": [
+        560,
+        720
+      ],
+      "within_range": true,
+      "core_causality_check": "革命使命與既成國家保境安民分離；共同語言宗教的不同邊界不能支配酋長實權和本地選民利益。",
+      "necessary_cases_check": "馬其頓組織與保加利亞國家、共產國際轉移基地；泛阿拉伯／泛伊斯蘭精英；伊拉克敘利亞本地稅金與擴軍。",
+      "conditions_and_counterexamples_check": "同用暴力不是同目標和退路；有地方政權不代表已完成大民族統一。",
+      "implemented": true
+    },
+    {
+      "id": "U08",
+      "allocation_title": "宗教共同體的不同自治層次",
+      "heading": "08、宗教共同體的自治層次",
+      "source_ids": [
+        "NI14",
+        "NI23",
+        "NI30"
+      ],
+      "body_han": 516,
+      "allocation_body_han": [
+        480,
+        640
+      ],
+      "within_range": true,
+      "core_causality_check": "自治分社會司法與軍政；在地政治骨幹能否接回基層決定共同體力量。",
+      "necessary_cases_check": "東方／拉丁／北方武裝教團、黎巴嫩山地基督徒、愛爾蘭兩種宗教組織與天主教精英公職及政黨。",
+      "conditions_and_counterexamples_check": "同宗教不能包辦組織形態；社會自治不是軍政自主；新教少數安全感有不同位置。",
+      "implemented": true
+    },
+    {
+      "id": "U09",
+      "allocation_title": "誰是憲法主體，不能由投票自行解決",
+      "heading": "09、憲法主體與人民邊界",
+      "source_ids": [
+        "NI07",
+        "NI08",
+        "NI20"
+      ],
+      "body_han": 580,
+      "allocation_body_han": [
+        480,
+        640
+      ],
+      "within_range": true,
+      "core_causality_check": "共同人民的範圍先牽涉政治中心與憲法承認，數目和比例改變談判位置。",
+      "necessary_cases_check": "南斯拉夫／大塞爾維亞／泛斯拉夫、波士尼亞保護者退出、三族／六族及語言法律地位、加泰隆尼亞。",
+      "conditions_and_counterexamples_check": "重劃不保永穩；民主程序不自帶人民邊界；地方自治不必消除民族爭議。",
+      "implemented": true
+    },
+    {
+      "id": "U10",
+      "allocation_title": "國家可以先於民族",
+      "heading": "10、國家先於民族",
+      "source_ids": [
+        "NI21"
+      ],
+      "body_han": 368,
+      "allocation_body_han": [
+        330,
+        450
+      ],
+      "within_range": true,
+      "core_causality_check": "外部制衡先產生可維持的自治容器，國史和民族凝聚再形成；內部勝敗位置另決定穩定。",
+      "necessary_cases_check": "烏拉圭阿根廷／巴西／英國緩衝、選擇性建國英雄、紅白內戰及敗選者委員會席位。",
+      "conditions_and_counterexamples_check": "國家先行不等於無中生有；外交建國不等於國內穩定。",
+      "implemented": true
+    },
+    {
+      "id": "U11",
+      "allocation_title": "同化反彈與反對者的公共命名",
+      "heading": "11、同化反彈與公共命名",
+      "source_ids": [
+        "NI05",
+        "NI22"
+      ],
+      "body_han": 377,
+      "allocation_body_han": [
+        300,
+        420
+      ],
+      "within_range": true,
+      "core_causality_check": "同化觸及語言學校司法促成反向認同；敵對公共言說也反覆固定民族名稱。",
+      "necessary_cases_check": "庫德同化反彈與二〇一七公投報導；保加利亞鎮壓報導。",
+      "conditions_and_counterexamples_check": "認同鞏固不等於軍事外交或建國法律成功；講座不換成今日地位。",
+      "implemented": true
+    },
+    {
+      "id": "U12",
+      "allocation_title": "政治部落、保護契約與共同協調",
+      "heading": "12、政治部落與共同協調",
+      "source_ids": [
+        "NI26",
+        "NI27",
+        "NI28"
+      ],
+      "body_han": 779,
+      "allocation_body_han": [
+        650,
+        850
+      ],
+      "within_range": true,
+      "core_causality_check": "政治法統可形成部落；保護保存地方組織，制憲與跨社區協調才接成共同政治中心。",
+      "necessary_cases_check": "薩巴赫旗號及政治繼承、科威特／南伊拉克比較、企業宗族與政治組織差別、各邦分別保護和多元法庭、卡達巴林不加入及小邦先退後入、巴林協調。",
+      "conditions_and_counterexamples_check": "經商公益不等於政治自治；外援不保同結果；地方規則存在不等於能共同應危機。",
+      "implemented": true
+    },
+    {
+      "id": "U13",
+      "allocation_title": "港口繁榮如何改變共同體後來的條件",
+      "heading": "13、港口繁榮與共同體變化",
+      "source_ids": [
+        "NI29"
+      ],
+      "body_han": 324,
+      "allocation_body_han": [
+        300,
+        420
+      ],
+      "within_range": true,
+      "core_causality_check": "海上貿易教法網絡建立自治，也留下人口聯繫；不對稱聯合和中央財政要求侵蝕名義自治。",
+      "necessary_cases_check": "桑吉巴印度洋網絡、奴隸貿易後持續人口結構、廢奴後條件及共同援助資源轉移。",
+      "conditions_and_counterexamples_check": "富裕及聯邦名稱不保延續；香港只是部分歷史機制類比。",
+      "implemented": true
+    },
+    {
+      "id": "U14",
+      "allocation_title": "分層權利轉成排他主權",
+      "heading": "14、分層權利與排他主權",
+      "source_ids": [
+        "NI31"
+      ],
+      "body_han": 355,
+      "allocation_body_han": [
+        300,
+        420
+      ],
+      "within_range": true,
+      "core_causality_check": "不同中心的具體保護通商收租等權利，被排他主權和直接統治改寫時重新分配。",
+      "necessary_cases_check": "春丕谷地財產通商、不丹保護仲裁、清英藏交涉、川軍推動改制與軍力瓦解。",
+      "conditions_and_counterexamples_check": "分層不等於無規則；保護責任不是完整主權；二〇一七講座不裁決今日邊界。",
+      "implemented": true
+    },
+    {
+      "id": "U15",
+      "allocation_title": "舊訪談承接：語言不是建國必要前提",
+      "heading": "15、舊訪談：語言與建國",
+      "source_ids": [
+        "N04"
+      ],
+      "body_han": 160,
+      "allocation_body_han": [
+        160,
+        220
+      ],
+      "within_range": true,
+      "core_causality_check": "語言動員可有作用，政治整合仍有財政、武力、王朝與外交的先行條件。",
+      "necessary_cases_check": "舊訪談意大利與台灣社區語言方案、美國瑞士比較保留。",
+      "conditions_and_counterexamples_check": "政策立場不是已核各國現行法律；主持人話另歸主持人，非本書新讀。",
+      "implemented": true
+    },
+    {
+      "id": "U16",
+      "allocation_title": "舊評傳承接：分類工具反制發明者",
+      "heading": "16、舊評傳：分類反制發明者",
+      "source_ids": [
+        "N05"
+      ],
+      "body_han": 246,
+      "allocation_body_han": [
+        220,
+        300
+      ],
+      "within_range": true,
+      "core_causality_check": "研究形成的分類材料可反制發明者後來的統一政治目標。",
+      "necessary_cases_check": "顧頡剛古史民俗／苗瑤材料、戰時民族要求、戴季陶→顧→費孝通的批評轉用。",
+      "conditions_and_counterexamples_check": "顧言歸顧；具體政治失敗不證明所有新認同必敗；非本書新讀。",
+      "implemented": true
+    }
+  ],
+  "checks": {
+    "all_16_units_within_ranges": false,
+    "body_6450_8630": true,
+    "metadata_860_1300": true,
+    "all_31_NI_source_ids_present": true,
+    "local_markdown_links_resolve": true,
+    "legacy_N04_N05_separate": true,
+    "direct_statement_manual_review": "pass; introductory attribution and historical/time limits retained; no role/host instructions adopted",
+    "unnecessary_repetition_review": "U14 replaced abstract repeated rights list with Spring Chumbi valley/Bhutan/intergovernmental negotiation and troop-dependent direct-rule case; U12 removed duplicate Gulf/Bahrain summaries and differentiated political inheritance, commercial organization, courts, federation and common crisis coordination; U04 paragraph split restored. Latest user override: removed U06 closing recap (76 Han) and U09 closing majority/minority recap (55 Han), retaining the prior concrete cases and constraints.",
+    "historical_ranges_are_acceptance_gates": false,
+    "all_source_cases_and_opposite_conditions_retained_after_duplicate_removal": true
+  },
+  "source_reread": {
+    "source": "source-local:民族發明學的世界史.md",
+    "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+    "new_outside_previous_selected_windows": 0,
+    "windows": [
+      {
+        "lines": [
+          1943,
+          1947
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          217785,
+          218877
+        ],
+        "chars": 1092,
+        "sha256": "3cf9886a8fbfe032be8d658d1e3901904a4fcb20812ab6e7eb97a68a91666a3d",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          7674,
+          7689
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          741759,
+          745289
+        ],
+        "chars": 3530,
+        "sha256": "0a551ab3ed1b397ef91d322082bde08b93fd656db4010d3f6af0ea561976d0d8",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9600,
+          9612
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          911099,
+          913278
+        ],
+        "chars": 2179,
+        "sha256": "276cf26474b52f832372508b83bcef23f3bde4c619d0a4b48a31033f5f856df4",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9614,
+          9630
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          913279,
+          914695
+        ],
+        "chars": 1416,
+        "sha256": "525747ef5cc14ff234bd94ec1584069db89d55d1c1ecaa7654b5399ab2e9234c",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9951,
+          9962
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          959398,
+          962663
+        ],
+        "chars": 3265,
+        "sha256": "10e26f8727ad80cb8a5c8a474c0f79a23293558f9cb7765f0e47933cc11891b8",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9963,
+          9966
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          962663,
+          963195
+        ],
+        "chars": 532,
+        "sha256": "198ecc492858a6e87d0facfd5d4779f6682c83b3842dfe56b0c96352dd2568db",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          10234,
+          10242
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          991526,
+          993734
+        ],
+        "chars": 2208,
+        "sha256": "c2b43765d7c4cb99db536a24258b6438231bd5ed5680cbca3bc07ed733f7f11f",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          3190,
+          3202
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          364348,
+          367229
+        ],
+        "chars": 2881,
+        "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          10893,
+          10908
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          1058155,
+          1062139
+        ],
+        "chars": 3984,
+        "sha256": "a987e1226c0edf271d7ba64d2b17589d70f36c0ce225a335c496aa47eccb5b57",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9890,
+          9902
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          946076,
+          949542
+        ],
+        "chars": 3466,
+        "sha256": "151c64c4431c5a01c44e0d5dc27a63b973e4512efd38f7680370d1accfdd93ac",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          10172,
+          10185
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          980996,
+          982473
+        ],
+        "chars": 1477,
+        "sha256": "2ba08f18d0d0262bd153f003b60158f81d1275d1f5fd11f438d03e66449ff0f0",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9631,
+          9645
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          914695,
+          917434
+        ],
+        "chars": 2739,
+        "sha256": "ba72941a0d947a2c47a88ec30d1b27a1820b05b1f5e84de6b9d87150125115bf",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          10186,
+          10197
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          982473,
+          984885
+        ],
+        "chars": 2412,
+        "sha256": "1571bde29f133a474eb6f7f27ac108cf8188554fa7ecc7375d4ca537c37f575e",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          73,
+          79
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          1697,
+          3264
+        ],
+        "chars": 1567,
+        "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete",
+        "purpose": "Reviewed while considering part-allocation revisions; user then superseded quota instruction before any such prose was added or moved."
+      },
+      {
+        "lines": [
+          8900,
+          8923
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          844475,
+          848085
+        ],
+        "chars": 3610,
+        "sha256": "e4de79e62a9c53b5e7cc5fae5c50b6c8c3ff3499933b3b999d40e6e6dbf01103",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete",
+        "purpose": "Reviewed while considering part-allocation revisions; user then superseded quota instruction before any such prose was added or moved."
+      },
+      {
+        "lines": [
+          9290,
+          9309
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          878893,
+          881964
+        ],
+        "chars": 3071,
+        "sha256": "77883de4ffc014be92648bc9d5a2ec425f3a6aad1652d560bb1d6df90572694e",
+        "scope": "reread_inside_previous_selected_window",
+        "display_read": "complete",
+        "purpose": "Reviewed while considering part-allocation revisions; user then superseded quota instruction before any such prose was added or moved."
+      }
+    ],
+    "output_truncation_note": "An early output for L9951–9966 and L10234–10251 was truncated. L9951–9966 was later fully displayed in separate spans; only L10234–10242 is credited from the latter. No full-window claim is made for unseen L10243–10251. Some fully read spans were reread twice, not counted as independent evidence."
+  },
+  "limitations": [
+    "This is source-based editorial self-review, not independent historical verification or bounded persona recognition.",
+    "The earlier bounded source selection remains the coverage boundary; no claim of whole-book reading.",
+    "N04/N05 retained without rereading their original files and not included in NI2026 coverage.",
+    "Per-unit body ranges and module body/metadata ranges were measured. Sub-unit part_han amounts are editorial allocations, not exact attributed paragraph counts; no fabricated per-book exact totals are asserted.",
+    "All dates and political presents retain original lecture scope.",
+    "Latest user instruction supersedes quota completion: U06 is364 Han,26 below its historical390 minimum after duplicate recap removal; unit-level cross-volume allocations also differ and are fully disclosed in c07-1-part-measurements.json. No filler or relocation was used to hide them."
+  ],
+  "changes": [
+    "21 topic sections reorganized into frozen 16-unit architecture; legacy units remain separately labeled.",
+    "31 NI locators preserved; repeated metadata compressed from1612 to1016 Han.",
+    "Distinct institutional cases and opposite conditions retained or deepened within originally selected source windows.",
+    "U14 and U12 duplicate material removed during final review."
+  ],
+  "user_override": {
+    "instruction": "這次本地改動後先不提交推送而且就重複總論刪掉就好，內容以新語料為準",
+    "effective_scope": "Local content edits only; delete repeated generalizations; source fidelity and necessary cases/conditions govern. Earlier body_han and part_han ranges remain historical allocation comparisons, not grounds to add words or move paragraphs.",
+    "quota_driven_additions_or_moves_applied_after_part_audit": false,
+    "publication": "no commit or push"
+  },
+  "duplicate_generalization_deletions": [
+    {
+      "unit": "U09",
+      "removed_text": "共同體數目增加，還可能改變多數與少數的比例：一個龐大主體民族對幾個小族群，與許多規模相近的共同體協商，是不同的憲制結構。",
+      "removed_body_han": 55,
+      "reason": "前文已直接說明三族／六族改變最大主體與多數恐懼；末句只再總結同一比例效果。"
+    },
+    {
+      "unit": "U06",
+      "removed_text": "自由派、教士和地方農民都可以使用代表人民的語言，實際依據卻分別是既成議會資格、基層組織與保護力量。擴大資格改變的是誰能把人數組織成政治力量，並不預先保證自由派掌權。〔NI17、NI18〕",
+      "removed_body_han": 76,
+      "reason": "前三段已分別講議會資格與基層利益、克羅埃西亞／斯洛伐克武力議價、匈牙利普選反轉及軍事支柱，末尾重述總論無新增案例。"
+    }
+  ]
+}

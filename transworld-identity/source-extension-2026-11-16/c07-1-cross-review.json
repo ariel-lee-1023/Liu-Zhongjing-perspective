@@ -1,0 +1,150 @@
+{
+  "module": "c07-1",
+  "status": "pass_after_one_wording_clarification",
+  "reviewer": "C07-2 implementer; separate source-based editorial cross-review",
+  "runtime_sha256": "4283b8482114c0d3bf2d73f9a8a3851c151afa42be088283f8260a9e30ab685e",
+  "author_review_runtime_sha256": "4283b8482114c0d3bf2d73f9a8a3851c151afa42be088283f8260a9e30ab685e",
+  "author_review_matches_runtime": true,
+  "scope": "Only the four additions in the latest lower-bound pass and their retained local conditions; not a new full review of all sixteen units.",
+  "added_units_reviewed": [
+    "U01",
+    "U06",
+    "U07",
+    "U11"
+  ],
+  "unit_reviews": [
+    {
+      "unit": "U01",
+      "source_id": "NI02",
+      "source_lines": [
+        73,
+        79
+      ],
+      "new_detail": "同一希臘主義名稱先指拜占庭式帝國方案、後承載小民族國家，名稱連續不保政治模式連續。",
+      "source_support": "L75–77明示帝國模式失敗後成為小民族模式而未改名。",
+      "not_repeated_generalization": "把既有三模式分類落在同名方案轉型的具體案例。",
+      "preserved_conditions": "文化存在不等於政治自決；有效統治、自我治理、外交承認仍分層；烏克蘭回溯國史不可倒填法律地位。",
+      "status": "pass"
+    },
+    {
+      "unit": "U06",
+      "source_id": "NI17",
+      "source_lines": [
+        5992,
+        6003
+      ],
+      "new_detail": "法律資格與階級／民族代表爭議之外，俄軍介入改變匈牙利革命的結果。",
+      "source_support": "L5996在兩議會爭論後明指俄軍擊敗革命軍並恢復哈布斯堡控制。",
+      "not_repeated_generalization": "增加原段未指明的外部武力和具體革命結果；不是重補已刪的代表資格／普選概括。",
+      "preserved_conditions": "地主資格與農民教士實際利益分開；克羅埃西亞／斯洛伐克承認不等，反革命盟友不保同報酬；普選偏好反轉及中間派武力不足仍在。",
+      "status": "pass_after_chronology_wording_clarification"
+    },
+    {
+      "unit": "U07",
+      "source_id": "NI25",
+      "source_lines": [
+        9298,
+        9308
+      ],
+      "new_detail": "英法託管安排下的伊拉克王室／敘利亞共和制度分化，以及伊拉克國家民主黨以成本維持現狀。",
+      "source_support": "L9298交代制度差異；L9300指名國家民主黨及不願將本國稅金軍隊用於境外統一的理由。",
+      "not_repeated_generalization": "補足王朝／共和制度與具名政黨載體，使本地選民的支出偏好有制度落點。",
+      "preserved_conditions": "泛阿拉伯與泛伊斯蘭排除不同精英，文化發明者不控制酋長軍隊；一代代保境安民、革命外援、集中財政和擴軍代價仍在。",
+      "status": "pass"
+    },
+    {
+      "unit": "U11",
+      "source_id": "NI22",
+      "source_lines": [
+        8034,
+        8045
+      ],
+      "new_detail": "外界媒體命名回饋到庫德居民的身分反思，補出由國際受眾轉回居民的方向。",
+      "source_support": "L8034明說全球報導把民族存在帶入觀眾認識，再讓庫德居民反思並透過全球回饋建立認同。",
+      "not_repeated_generalization": "新增認同回饋的接收者及方向；舊段著重支持或反對皆可固定名稱。",
+      "preserved_conditions": "媒體效果不等於公投取得法律建國結果；認同鞏固可與軍事外交挫敗並存，當時情境不轉為今日地位。",
+      "status": "pass"
+    }
+  ],
+  "findings": [
+    {
+      "id": "WORLD-LOWER-01",
+      "unit": "U06",
+      "type": "chronology_wording_ambiguity",
+      "observed_original": "一八四八年的勝負最後由俄軍介入改寫",
+      "requested_clarification": "一八四八年革命的勝負，最後由俄軍介入改寫",
+      "reason": "Make 1848 identify the revolution, not assert the date of Russian intervention. Source L5996 describes the revolution and its eventual military outcome.",
+      "status": "resolved_and_verified_in_runtime"
+    }
+  ],
+  "unresolved_findings": [],
+  "source_windows": [
+    {
+      "start_line": 73,
+      "end_line": 79,
+      "characters": 1567,
+      "char_offsets_zero_based_end_exclusive": [
+        1697,
+        3264
+      ],
+      "sha256": "3e57a95c0d94141f448d65c6941ad416db68f800b6f5b6a2fb74d9111c0b692d",
+      "previously_selected": true,
+      "display_read": "complete"
+    },
+    {
+      "start_line": 5992,
+      "end_line": 6003,
+      "characters": 2686,
+      "char_offsets_zero_based_end_exclusive": [
+        603338,
+        606024
+      ],
+      "sha256": "6a8891e129bc9a7214ad53ddb225b82a2620b2e6b4e91a49b8782679a2c0ef4b",
+      "previously_selected": true,
+      "display_read": "complete"
+    },
+    {
+      "start_line": 9298,
+      "end_line": 9308,
+      "characters": 2443,
+      "char_offsets_zero_based_end_exclusive": [
+        879520,
+        881963
+      ],
+      "sha256": "e9d57fa8ffdb910e8c215e2a05134348a254a5f3e17e915268e28cd55beef1d1",
+      "previously_selected": true,
+      "display_read": "complete"
+    },
+    {
+      "start_line": 8034,
+      "end_line": 8045,
+      "characters": 2445,
+      "char_offsets_zero_based_end_exclusive": [
+        760316,
+        762761
+      ],
+      "sha256": "89fad698ec440f9b0072085a3a29ee3596613116689e5432f7ede1924dbc4c11",
+      "previously_selected": true,
+      "display_read": "complete"
+    }
+  ],
+  "source_path": "source-local:民族發明學的世界史.md",
+  "source_sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+  "new_source_windows": 0,
+  "outside_research": false,
+  "full_book_read": false,
+  "source_attribution_checks": {
+    "source_material_treated_as_data": true,
+    "source_speaker_claims_not_independently_verified": true,
+    "editorial_captions_not_used_as_lecture_claims": true,
+    "old_N04_N05_attribution_not_changed": true
+  },
+  "count_scope": "No request to alter unit/subpart upper references; this review assesses new substantive details, source support and preserved opposite conditions. Author measurement is recorded separately.",
+  "runtime_modified_by_reviewer": false,
+  "limitations": [
+    "Local peer editorial review, not independent historical/legal verification.",
+    "Four existing windows reread, each under 4500 characters; unchanged units not re-researched.",
+    "No publication or commit performed by this reviewer."
+  ],
+  "publication_override": "contract.json records the latest authorization to commit and push; earlier local-only descriptions preserve their drafting-time context."
+}

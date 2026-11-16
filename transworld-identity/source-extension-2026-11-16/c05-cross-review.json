@@ -1,0 +1,804 @@
+{
+  "module": "c05",
+  "status": "pass_KNW26_CW26_source_grounding_and_conditions",
+  "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
+  "runtime_sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+  "body_han": 16850,
+  "metadata_han": 810,
+  "review_scope": {
+    "independent_full_source_reads": [
+      "KNW26 all21 supplied PDF pages",
+      "CW26 all26 supplied PDF pages"
+    ],
+    "runtime_read": "All current KNW26/CW26 additions, their full hosting sections U02/U07/U08/U09/U12/U13/legacy and adjacent boundaries. EDU26/ENT26 additions are independently reviewed by root, not claimed by this agent.",
+    "old_source_scope": "No new CA2026 whole-source reread or old-persona acceptance evaluation in this pass. Historical reviews retain their own scopes.",
+    "reviewer_modified_runtime_or_metadata": false,
+    "external_search": false,
+    "original_audio_or_unabridged_lecture_reviewed": false
+  },
+  "source_read_log": {
+    "path": "c05-cross-source-notes.json",
+    "sha256": "a6366191aa51e35a17e218e8e5a45ca4bf42b586bad26cb9ef081ae1b0d4c859",
+    "sources": [
+      {
+        "source_id": "KNW26",
+        "source_sha256": "542e353582e939c7ad495c82ab7b1f41e28468a1527d2d0e8f475653ede2fedc",
+        "source_hash_origin": "supplied extraction JSON source_sha256 field",
+        "extraction_json_sha256": "021bc776366a95315193f141dfceb5e73637f4c26163327e5ad9ae3f4069acb6",
+        "page_count": 21,
+        "all_pages_read": true,
+        "groups": [
+          {
+            "pages": [
+              1,
+              5
+            ],
+            "source_text_characters_excluding_display_separators": 4023,
+            "group_text_sha256": "2a01b8b31b91402668fceccb8877382c30afe984ce0a678572961711b2e3deab",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              6,
+              10
+            ],
+            "source_text_characters_excluding_display_separators": 4089,
+            "group_text_sha256": "5ee1bd34d52bac1c5c9c216018c886711cf5af04354b0a8728e457ff442ab633",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              11,
+              15
+            ],
+            "source_text_characters_excluding_display_separators": 4065,
+            "group_text_sha256": "cd4d44473de931f70801630adaf1013ab51894b1f2b3469a7940c7488688d40d",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              16,
+              21
+            ],
+            "source_text_characters_excluding_display_separators": 4195,
+            "group_text_sha256": "dc3a40d30a4d03fd8ed39c3e6b1554db4914c93b53aa0130a86cb07b2d2e8933",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          }
+        ]
+      },
+      {
+        "source_id": "CW26",
+        "source_sha256": "542359760ef14862c95daf191f430a9bc6d03ff6c17121a69877dc503174df16",
+        "source_hash_origin": "supplied extraction JSON source_sha256 field",
+        "extraction_json_sha256": "f1fc4ba5c51e6615ca2aa8f92ccef0e6126122e84ca42254f9d331ea6452bc76",
+        "page_count": 26,
+        "all_pages_read": true,
+        "groups": [
+          {
+            "pages": [
+              1,
+              7
+            ],
+            "source_text_characters_excluding_display_separators": 4041,
+            "group_text_sha256": "6e479b27ba58dce90ee9f40e8a25504f222fd4f67407bbab8d6ee2fc65f5d9ed",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              8,
+              14
+            ],
+            "source_text_characters_excluding_display_separators": 4375,
+            "group_text_sha256": "42828a9fb6bd42fcc067aa2402a9a229704b921db4b4d5fe9e05de0e4cd40002",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              15,
+              20
+            ],
+            "source_text_characters_excluding_display_separators": 4106,
+            "group_text_sha256": "ab76ee01fa5dce4e1052d3b715e1c204c405df7699632e3a10428ce266b81e91",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          },
+          {
+            "pages": [
+              21,
+              26
+            ],
+            "source_text_characters_excluding_display_separators": 3701,
+            "group_text_sha256": "9ce61c3ec9483dca06863ad3767ab5a94b1482390d6bec819828cc4a35c85773",
+            "hash_convention": "page text joined by two LF characters",
+            "display_read": "complete_without_output_truncation"
+          }
+        ]
+      }
+    ],
+    "all_groups_within_4500_source_characters": true,
+    "full_per_page_hashes_in_referenced_notes": true
+  },
+  "independent_argument_checks": [
+    {
+      "note_id": "KNW-C01",
+      "source_id": "KNW26",
+      "source_pages": [
+        1,
+        2,
+        9
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 245,
+          "end_line": 245,
+          "paragraph_sha256": "f9686f14e0749bbd1061938bc76a85f94586cfaa37cf8c6f2a6d0a97b016ae5e",
+          "opening": "同一份材料，對親自調查的人可以是知識，對被動聽取的人仍可能只是意識形態。研究者為解決疑問去找資料，發現資料與預期不符，再決定如何修正問題；聽",
+          "citation_markers": [
+            "〔KNW26 pp.1–4〕"
+          ]
+        },
+        {
+          "heading": "十四、舊來源承接與新核對照",
+          "start_line": 267,
+          "end_line": 267,
+          "paragraph_sha256": "f403a72a848ed674f583473e6cd385478c8f3c90c4d08ea232ad759c990dba20",
+          "opening": "真正能辦事的知識包含動手、觀察效果、遇到困難請教和修正；只因陌生說法帶來愉悅與優越感，並不等於取得運用能力。華盛頓蓋房、找工匠、改圖和改良農",
+          "citation_markers": [
+            "〔CA-L03；KNW26 pp.1–2、9；舊C05第十四節〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "研究者找資料、遇到不符預期後修正；華盛頓建房、試種、找工匠與修改的實作例集中在legacy，不把聽到新說法當成取得能力。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C02",
+      "source_id": "KNW26",
+      "source_pages": [
+        2,
+        3,
+        4
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 245,
+          "end_line": 245,
+          "paragraph_sha256": "f9686f14e0749bbd1061938bc76a85f94586cfaa37cf8c6f2a6d0a97b016ae5e",
+          "opening": "同一份材料，對親自調查的人可以是知識，對被動聽取的人仍可能只是意識形態。研究者為解決疑問去找資料，發現資料與預期不符，再決定如何修正問題；聽",
+          "citation_markers": [
+            "〔KNW26 pp.1–4〕"
+          ]
+        },
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 249,
+          "end_line": 249,
+          "paragraph_sha256": "9ddc404990ca3515c2e0f14b9d9ee96895eb0810e1b35095d33f681b7fbbb826",
+          "opening": "理想看來沒有缺陷，常常因為它尚未執行；自己熟悉的現實則早已暴露摩擦。用陌生的新理想反對熟悉的舊制度，容易產生突破感，卻沒有付出把新理想落地的",
+          "citation_markers": [
+            "〔KNW26 pp.13–16〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "研究者與受眾在同一資料上的不同位置、新鮮感與能力之別保留；沒有把換成講者立場當作完成學習。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C03",
+      "source_id": "KNW26",
+      "source_pages": [
+        3,
+        4,
+        5
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 247,
+          "end_line": 247,
+          "paragraph_sha256": "a26afeab0e61a4a079bdfd28008abdaaccf300db4fce5309bc6aeb556f72bd3c",
+          "opening": "持有政治框架，並不必然停止知識累積。不同立場的歷史研究者可以查到相同材料，卻選擇不同的解釋與公開方式；黨派學者也可能持續研究，只將不利材料留",
+          "citation_markers": [
+            "〔KNW26 pp.3–7〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "政治框架內仍可研究與累積材料；明示講者自己優先講四川軍閥有利材料，不把自身置於選材機制之外。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C04",
+      "source_id": "KNW26",
+      "source_pages": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "runtime_spans": [
+        {
+          "heading": "二、國家層級與公共功能",
+          "start_line": 29,
+          "end_line": 29,
+          "paragraph_sha256": "f760d917d5fd6c3b4a963b84564b6182a6589de90b189806a1ce24739f2301c6",
+          "opening": "接收一套公共機構，也不等於承擔了原來的供養方式。麻風病院的三種敘事把這個差異顯露出來：反帝敘事著重從傳教士手中收回機構，權利敘事追問強制隔離",
+          "citation_markers": []
+        },
+        {
+          "heading": "二、國家層級與公共功能",
+          "start_line": 31,
+          "end_line": 31,
+          "paragraph_sha256": "1af861d0179b73123f4a037bc0a4825dc98ae74115b4c2cee3d74590b31d096e",
+          "opening": "國家能大量動員軍事資源，仍可能沒有同樣廣泛的福利供給。優先建立黨軍和控制體系，比同時建立軍隊、醫療與社會保障更省資源；戰爭競爭也可能獎勵前一",
+          "citation_markers": [
+            "〔KNW26 pp.5–8〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留麻風病院的反帝、權利、資源三種讀法和軍事／福利資源差別，療效及暴力指控沒有被寫成已核史實。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C05",
+      "source_id": "KNW26",
+      "source_pages": [
+        8
+      ],
+      "runtime_spans": [
+        {
+          "heading": "二、國家層級與公共功能",
+          "start_line": 31,
+          "end_line": 31,
+          "paragraph_sha256": "1af861d0179b73123f4a037bc0a4825dc98ae74115b4c2cee3d74590b31d096e",
+          "opening": "國家能大量動員軍事資源，仍可能沒有同樣廣泛的福利供給。優先建立黨軍和控制體系，比同時建立軍隊、醫療與社會保障更省資源；戰爭競爭也可能獎勵前一",
+          "citation_markers": [
+            "〔KNW26 pp.5–8〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "已依交叉審閱補入封閉地方與大城市／國際貿易環境的差別；區別短期動員與長久維持，不外推今日精確期限。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C06",
+      "source_id": "KNW26",
+      "source_pages": [
+        9,
+        10,
+        11,
+        12
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 251,
+          "end_line": 251,
+          "paragraph_sha256": "82bf316a96433cbaadfa029fa3258782a23f09ba65d46204fcec4de16d8a125b",
+          "opening": "實作知識未必使人愉快；它可能帶來麻煩、疲勞、痛苦和有限的成就感。制定憲法並不是先證明共和國必優於君主國，再照藍圖施工。小富蘭克林所擔心的凱撒",
+          "citation_markers": [
+            "〔KNW26 pp.10–12、16、18–19〕"
+          ]
+        },
+        {
+          "heading": "十四、舊來源承接與新核對照",
+          "start_line": 267,
+          "end_line": 267,
+          "paragraph_sha256": "f403a72a848ed674f583473e6cd385478c8f3c90c4d08ea232ad759c990dba20",
+          "opening": "真正能辦事的知識包含動手、觀察效果、遇到困難請教和修正；只因陌生說法帶來愉悅與優越感，並不等於取得運用能力。華盛頓蓋房、找工匠、改圖和改良農",
+          "citation_markers": [
+            "〔CA-L03；KNW26 pp.1–2、9；舊C05第十四節〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留實作疲勞、困難和有限成就感；燕麥手冊不能列盡實際土地問題的默會知識論證留在legacy。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C07",
+      "source_id": "KNW26",
+      "source_pages": [
+        10,
+        11,
+        12,
+        16,
+        18,
+        19
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 251,
+          "end_line": 251,
+          "paragraph_sha256": "82bf316a96433cbaadfa029fa3258782a23f09ba65d46204fcec4de16d8a125b",
+          "opening": "實作知識未必使人愉快；它可能帶來麻煩、疲勞、痛苦和有限的成就感。制定憲法並不是先證明共和國必優於君主國，再照藍圖施工。小富蘭克林所擔心的凱撒",
+          "citation_markers": [
+            "〔KNW26 pp.10–12、16、18–19〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留小富蘭克林的共和獨裁顧慮、亨利反對批准憲法、具體妥協與事前不能證成成功，不以制度名稱判定優劣。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C08",
+      "source_id": "KNW26",
+      "source_pages": [
+        11,
+        12,
+        19,
+        21
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 253,
+          "end_line": 253,
+          "paragraph_sha256": "5a3052c093c8c9e3750a0beaf76ed016f7b62f70835938dfd985c9229f32146f",
+          "opening": "能力的上限也要在操作中發現。知道某種作物在別處有高產，不等於自己的土地必能達到；能拿起茶杯，也不意味能搬動所有更重的東西。逐步試探才會知道哪",
+          "citation_markers": [
+            "〔KNW26 pp.9–12、16–19〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "作物、土地與拿起茶杯的例子保留；包括自己做、協作和暫時止步，未承諾無限成長或事前算出個人天花板。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C09",
+      "source_id": "KNW26",
+      "source_pages": [
+        13,
+        14,
+        15,
+        16
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 249,
+          "end_line": 249,
+          "paragraph_sha256": "9ddc404990ca3515c2e0f14b9d9ee96895eb0810e1b35095d33f681b7fbbb826",
+          "opening": "理想看來沒有缺陷，常常因為它尚未執行；自己熟悉的現實則早已暴露摩擦。用陌生的新理想反對熟悉的舊制度，容易產生突破感，卻沒有付出把新理想落地的",
+          "citation_markers": [
+            "〔KNW26 pp.13–16〕"
+          ]
+        },
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 255,
+          "end_line": 255,
+          "paragraph_sha256": "96f9a4131b059b8e1a439ca1812c47799a28f32a6e0c7aecb9feae4fa7bef55c",
+          "opening": "被動消費觀念的狀態，可能與長期能力及階級位置不匹配有關，也可能只是尚未開始實作的一個階段；原講述明說不知道兩種情況各占多少。獨立調查甚至可能",
+          "citation_markers": [
+            "〔KNW26 pp.14–17、20–21〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留陌生理想／熟悉現實不對稱、新鮮觀念循環，並保留可能只是一個階段且比例未知的關鍵反向條件。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C10",
+      "source_id": "KNW26",
+      "source_pages": [
+        15,
+        16,
+        20,
+        21
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 255,
+          "end_line": 255,
+          "paragraph_sha256": "96f9a4131b059b8e1a439ca1812c47799a28f32a6e0c7aecb9feae4fa7bef55c",
+          "opening": "被動消費觀念的狀態，可能與長期能力及階級位置不匹配有關，也可能只是尚未開始實作的一個階段；原講述明說不知道兩種情況各占多少。獨立調查甚至可能",
+          "citation_markers": [
+            "〔KNW26 pp.14–17、20–21〕"
+          ]
+        },
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 249,
+          "end_line": 249,
+          "paragraph_sha256": "9ddc404990ca3515c2e0f14b9d9ee96895eb0810e1b35095d33f681b7fbbb826",
+          "opening": "理想看來沒有缺陷，常常因為它尚未執行；自己熟悉的現實則早已暴露摩擦。用陌生的新理想反對熟悉的舊制度，容易產生突破感，卻沒有付出把新理想落地的",
+          "citation_markers": [
+            "〔KNW26 pp.13–16〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "查找、甄別與對照材料可以帶來不同甚至超過原講者的結論；未採納任命、調查或會員引導為工作指令。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "KNW-C11",
+      "source_id": "KNW26",
+      "source_pages": [
+        16,
+        17,
+        18,
+        19
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 257,
+          "end_line": 257,
+          "paragraph_sha256": "c9a66b0c193313f32fe6d6e28c717311a6ae3845222aa9600407d7fa1a7af54f",
+          "opening": "有限改善仍有價值。愛倫・坡大漩渦故事裡，觀察者沒有消滅風暴，只辨出不同物體下沉速度不同，選擇較慢的木桶而等到風暴停止；這是小說中的相對避險類",
+          "citation_markers": [
+            "〔KNW26 pp.18–21〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "漩渦小說類比保留有限改善、相對風險和不同起點；未把來源災難推演套在讀者未來。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C01",
+      "source_id": "CW26",
+      "source_pages": [
+        1,
+        2,
+        3
+      ],
+      "runtime_spans": [
+        {
+          "heading": "七、聯盟與軍事目標",
+          "start_line": 139,
+          "end_line": 139,
+          "paragraph_sha256": "383d1cb05624533e38d1a0fa0babe6d777a6061b3d3547df46a3e80e56708a49",
+          "opening": "瓦解對手還可能改變下一個對手是誰。吸引缺少自身組織的浮動支持者，表面上增加人數，也可能把供養、安置和維持秩序的負擔從敵方移到己方；若衝擊反而",
+          "citation_markers": [
+            "〔CW26 pp.1–4〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "清楚分開招入浮動支持者的供養負擔與摧毀原建制後出現更硬核心兩種反噬，不只重述信用消耗。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C02",
+      "source_id": "CW26",
+      "source_pages": [
+        2,
+        3
+      ],
+      "runtime_spans": [
+        {
+          "heading": "八、政黨供養與國家建構",
+          "start_line": 155,
+          "end_line": 155,
+          "paragraph_sha256": "acaf1bd702dd1e1de4adbc29ba110aed25752179f5e43e3891ae39f940b036d7",
+          "opening": "供養方向不同，還會改變政治人物對輿論的敏感度。建制派把國家資源分給支持者，通常先假定基本盤穩定，再爭取中間選民；被排斥在分配之外的政治領袖，",
+          "citation_markers": [
+            "〔CW26 pp.1–3〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留國家資源供養支持者與忠實支持者倒貼領袖的資金方向，及核心掌權後再吸納浮動群眾的變化。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C03",
+      "source_id": "CW26",
+      "source_pages": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "runtime_spans": [
+        {
+          "heading": "七、聯盟與軍事目標",
+          "start_line": 141,
+          "end_line": 141,
+          "paragraph_sha256": "33f772390e8d78a2746fde9f2533ccf03469f9e7c5c6bf2ce7f793dc361c3660",
+          "opening": "利用分裂是否有利，仍取決於自己能否在新核心成形前承擔局面；硬實力弱的一方，不能只憑對方暫時動盪便預算勝利。戴高樂式重組與法國、義大利的不同反",
+          "citation_markers": [
+            "〔CW26 pp.3–7；CA14〕"
+          ]
+        },
+        {
+          "heading": "七、聯盟與軍事目標",
+          "start_line": 139,
+          "end_line": 139,
+          "paragraph_sha256": "383d1cb05624533e38d1a0fa0babe6d777a6061b3d3547df46a3e80e56708a49",
+          "opening": "瓦解對手還可能改變下一個對手是誰。吸引缺少自身組織的浮動支持者，表面上增加人數，也可能把供養、安置和維持秩序的負擔從敵方移到己方；若衝擊反而",
+          "citation_markers": [
+            "〔CW26 pp.1–4〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "自己硬實力、能否承接局面及繼任對手條件保留；北宋聯金類比未接入受損唐人正反句，並與CA14軍事欺敵判斷並列而未抹平成全部無用。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C04",
+      "source_id": "CW26",
+      "source_pages": [
+        7,
+        8,
+        22,
+        23
+      ],
+      "runtime_spans": [
+        {
+          "heading": "九、認知戰與國家形象",
+          "start_line": 177,
+          "end_line": 177,
+          "paragraph_sha256": "0ec15a0089a239afb528682489b18b16c7800319be90cdc3c71de8d9edc00495",
+          "opening": "思想的傳播方向還依賴再生它的社會。布爾什維克從歐洲取得思想與組織資源，在俄國立足後若長期依靠俄國自身供養，就不能永遠把自己當成將要離開本地的",
+          "citation_markers": [
+            "〔CW26 pp.7–8〕"
+          ]
+        },
+        {
+          "heading": "九、認知戰與國家形象",
+          "start_line": 179,
+          "end_line": 179,
+          "paragraph_sha256": "7a69a231072ecb66be91834a4415e6c83f573d1d2d9d6a95759bed5c282ffc91",
+          "opening": "對外使用的語言也會回流本方。某種權利主張若在海外具有可信的品牌，就可能被國內的律師或其他參與者拿去要求本地機關負責；為對外競爭培養的話語，未",
+          "citation_markers": [
+            "〔CW26 pp.20–23、25–26〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "本地資源再生約束思想輸出、宣傳預算不能消除社會來源差別；對外權利語言回流國內及香港品牌例均保留。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C05",
+      "source_id": "CW26",
+      "source_pages": [
+        9,
+        10,
+        11
+      ],
+      "runtime_spans": [
+        {
+          "heading": "九、認知戰與國家形象",
+          "start_line": 175,
+          "end_line": 175,
+          "paragraph_sha256": "dcd2fd887d9b941b62e399753acc7779dd048077c539ce4b092a7577819af08a",
+          "opening": "政治認知也不能把自身生活經驗當成所有制度的模板。習慣把一切追究理解為派系整肅，便容易把另一個社會的選舉、法院與公職責任也看成相同遊戲；僅僅搬",
+          "citation_markers": [
+            "〔CW26 pp.9–11〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "保留移植政治模型導致誤讀公職和追究責任；沒有猜補五子玉思、不能自殺等破損句，也未承諾特定法律上的絕對豁免。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C06",
+      "source_id": "CW26",
+      "source_pages": [
+        11,
+        12,
+        13
+      ],
+      "runtime_spans": [
+        {
+          "heading": "九、認知戰與國家形象",
+          "start_line": 173,
+          "end_line": 173,
+          "paragraph_sha256": "59ea2f0c0db654e3d73d166712f2cd8696219e8db9f727c94b59d179d88b47c4",
+          "opening": "同一宣傳組織也可能對不同受眾使用相反說法。對左派，可以把某個政權描繪成抵抗全球右轉的殘存堡壘；對右派，又可以把同一政權描繪成抵抗西方左轉的力",
+          "citation_markers": [
+            "〔CW26 pp.11–14〕"
+          ]
+        }
+      ],
+      "result": "pass_with_explicit_secondary_detail_omission",
+      "judgment": "相反左右口號指向同一依附關係的核心保留；沒有把任一異議直接定為滲透。來源從全部消滅退到限制並利用新群體的次級政策轉折，作者明示未另展開。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C07",
+      "source_id": "CW26",
+      "source_pages": [
+        13,
+        14,
+        15,
+        17,
+        19
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十二、學術、版權與正統",
+          "start_line": 241,
+          "end_line": 241,
+          "paragraph_sha256": "47e5cd03f63c7361df656cc7970d6743a90ef4c4b5025a25a157fe9341f26116",
+          "opening": "要求掌權者遵從理論導師，又把失敗責任留給實際決策者，便把知識權威與政治承擔拆開了。這種誘惑不限於某個左右陣營，也不證明一切理論都無用；它要求",
+          "citation_markers": [
+            "〔CW26 pp.13–14、17–21〕"
+          ]
+        },
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 249,
+          "end_line": 249,
+          "paragraph_sha256": "9ddc404990ca3515c2e0f14b9d9ee96895eb0810e1b35095d33f681b7fbbb826",
+          "opening": "理想看來沒有缺陷，常常因為它尚未執行；自己熟悉的現實則早已暴露摩擦。用陌生的新理想反對熟悉的舊制度，容易產生突破感，卻沒有付出把新理想落地的",
+          "citation_markers": [
+            "〔KNW26 pp.13–16〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "成本未受檢驗的理想／現實比較集中U13；U12保留理論權威與執行責任分離。刪除重複起句不移除獨立機制。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C08",
+      "source_id": "CW26",
+      "source_pages": [
+        15,
+        16,
+        17
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十二、學術、版權與正統",
+          "start_line": 239,
+          "end_line": 239,
+          "paragraph_sha256": "e892f6b7311b589b36a49b7939094c4a85a2d2b847963511bb9a10ecdd892954",
+          "opening": "作家的錢袋子還可能繫在一種政治形象上。「無產階級作家」的招牌若能吸引西方讀者，作者的收入與談判位置，就不只來自被讚頌政權的直接支付。高爾基及",
+          "citation_markers": [
+            "〔CW26 pp.15–17〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "政治樣板、海外聲望與作者讀者市場互相依賴的機制保留；具名動機仍標為原述推斷，沒有拼補p16日記歸屬、私生活及死亡比例。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C09",
+      "source_id": "CW26",
+      "source_pages": [
+        17,
+        18,
+        19
+      ],
+      "runtime_spans": [
+        {
+          "heading": "十二、學術、版權與正統",
+          "start_line": 241,
+          "end_line": 241,
+          "paragraph_sha256": "47e5cd03f63c7361df656cc7970d6743a90ef4c4b5025a25a157fe9341f26116",
+          "opening": "要求掌權者遵從理論導師，又把失敗責任留給實際決策者，便把知識權威與政治承擔拆開了。這種誘惑不限於某個左右陣營，也不證明一切理論都無用；它要求",
+          "citation_markers": [
+            "〔CW26 pp.13–14、17–21〕"
+          ]
+        }
+      ],
+      "result": "pass_with_explicit_secondary_detail_omission",
+      "judgment": "由別人承擔決策後果、自己取得導師權威的機制保留；明示不限左右陣營且不等於全部理論無用。文學與伊朗類比未再列舉，不影響保留的責任機制。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    },
+    {
+      "note_id": "CW-C10",
+      "source_id": "CW26",
+      "source_pages": [
+        20,
+        21,
+        22,
+        25,
+        26
+      ],
+      "runtime_spans": [
+        {
+          "heading": "九、認知戰與國家形象",
+          "start_line": 179,
+          "end_line": 179,
+          "paragraph_sha256": "7a69a231072ecb66be91834a4415e6c83f573d1d2d9d6a95759bed5c282ffc91",
+          "opening": "對外使用的語言也會回流本方。某種權利主張若在海外具有可信的品牌，就可能被國內的律師或其他參與者拿去要求本地機關負責；為對外競爭培養的話語，未",
+          "citation_markers": [
+            "〔CW26 pp.20–23、25–26〕"
+          ]
+        },
+        {
+          "heading": "十三、知識的回饋與虛無感",
+          "start_line": 257,
+          "end_line": 257,
+          "paragraph_sha256": "c9a66b0c193313f32fe6d6e28c717311a6ae3845222aa9600407d7fa1a7af54f",
+          "opening": "有限改善仍有價值。愛倫・坡大漩渦故事裡，觀察者沒有消滅風暴，只辨出不同物體下沉速度不同，選擇較慢的木桶而等到風暴停止；這是小說中的相對避險類",
+          "citation_markers": [
+            "〔KNW26 pp.18–21〕"
+          ]
+        }
+      ],
+      "result": "pass",
+      "judgment": "自證永遠正確的形象維持、有限時間與可檢驗工作保留，沒有轉寫來源的具體暴力對象或受損地名。",
+      "necessary_condition_check": "retained_or_source_uncertainty_not_promoted"
+    }
+  ],
+  "resolved_findings": [
+    {
+      "id": "KNW-scale-condition",
+      "initial_finding": "New U02 did not yet carry the p8 difference between local coercive arrangements and big-city/global-trade conditions.",
+      "resolution": "Author added the population/flow/cost and short-term/long-term conditions without a present-day prediction.",
+      "final_span": {
+        "heading": "二、國家層級與公共功能",
+        "start_line": 31,
+        "end_line": 31,
+        "paragraph_sha256": "1af861d0179b73123f4a037bc0a4825dc98ae74115b4c2cee3d74590b31d096e",
+        "opening": "國家能大量動員軍事資源，仍可能沒有同樣廣泛的福利供給。優先建立黨軍和控制體系，比同時建立軍隊、醫療與社會保障更省資源；戰爭競爭也可能獎勵前一",
+        "citation_markers": [
+          "〔KNW26 pp.5–8〕"
+        ]
+      }
+    },
+    {
+      "id": "U12-U13-repeated-premise",
+      "initial_runtime_sha256": "dc962f8ba58f6c351f6e25d728ce1796c864b6623aab70cd90a6a6cedbac797f",
+      "deleted_sentence": "理論家拿尚未實施的理想比較別人已有缺陷的制度，很容易保持正確形象，因為自己的方案還沒有接受同樣的成本檢驗。",
+      "deleted_han": 50,
+      "resolution": "Author deleted the50-Han U12 repeated premise. U13 retains the full ideal/reality asymmetry; U12 retains distinct authority-without-decision-cost mechanism.",
+      "remaining_U12_body_han": 1152,
+      "U12_new_lower_bound": 1050,
+      "case_and_condition_loss": false,
+      "new_claim_added": false
+    }
+  ],
+  "corruption_boundary_checks": {
+    "CW_p4_Tang_contradiction_not_silently_fixed": true,
+    "CW_p10_damaged_phrase_and_law_not_reconstructed": true,
+    "CW_p15_16_biography_not_repaired": true,
+    "CW_p17_complete_mutual_image_mechanism_retained": true,
+    "CW_p24_25_damaged_place_names_and_violent_prescriptions_not_expanded": true,
+    "KNW_p15_negation_not_changed_into_mentor_guarantee": true,
+    "KNW_p20_advertisement_not_followed_or_counted_as_argument": true
+  },
+  "intentional_compression": [
+    {
+      "source": "CW26 pp11–13",
+      "detail": "Transition from eliminating new groups to restricting and using them.",
+      "handling": "Secondary policy-history turn not separately expanded; the more general opposite-language/same-dependence mechanism is retained. Author acknowledged this omission; no contrary claim is introduced."
+    },
+    {
+      "source": "CW26 pp17–19",
+      "detail": "Iranian and literary illustrations of authority without equal execution risk.",
+      "handling": "The mechanism and cross-faction limit remain; examples are not all separately repeated."
+    },
+    {
+      "source": "KNW26/CW26",
+      "detail": "Each rhetorical flourish, personal insult, disputed biographical detail and violent or diagnostic prescription.",
+      "handling": "Not required to reproduce all source wording; preserve coherent mechanisms, cases selected in the plan and materially opposite conditions without repairing damaged text."
+    }
+  ],
+  "open_actionable_findings": [],
+  "limitations": [
+    "This cross review checks the supplied source reasoning and necessary conditions, not independent historical, medical, legal, political or psychological truth.",
+    "All47 supplied KNW/CW pages were read; no linked membership content, source audio/video or later corpus was accessed.",
+    "EDU/ENT source grounding and overall package acceptance remain separate root checks.",
+    "The frozen text contains bounded attribution notices; this pass did not rewrite module voice or repository metadata."
+  ]
+}

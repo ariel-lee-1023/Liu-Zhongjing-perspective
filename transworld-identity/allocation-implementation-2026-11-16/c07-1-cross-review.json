@@ -1,0 +1,394 @@
+{
+  "module": "c07-1",
+  "reviewer": "separate C07-2 implementer; local source-based cross-review",
+  "status": "pass_content_and_source_conditions_after_user_override",
+  "runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+  "author_review_matches_runtime": true,
+  "body_han_independently_recounted": 7411,
+  "metadata_han": 1016,
+  "scope": [
+    "Read all 16 current argument units, original allocation requirements, author implementation review, and source index.",
+    "Checked necessary cases, causal distinctions, opposite conditions and source attribution, not counts alone.",
+    "Source spot-checks used only six already selected windows; no new external research or full-book claim."
+  ],
+  "units": [
+    {
+      "unit": "U01",
+      "heading": "01、民族、政權與國家的層級",
+      "body_han": 356,
+      "necessary_cases_check": "希臘三模式與波蘭小民族兩型分層，烏克蘭／哥薩克前史不混為同年建國。",
+      "conditions_check": "文化、有效統治、外交承認、自我治理各有條件；假民族標籤保留為政治評價。",
+      "evidence_ids": [
+        "NI01",
+        "NI02"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U02",
+      "heading": "02、共同文化圈與後出的國史",
+      "body_han": 469,
+      "necessary_cases_check": "希臘帝國遺產、地方外援承擔者、法納爾及多瑙河精英分流均在。",
+      "conditions_check": "同名和親緣不等於相同國家計畫，今日國籍不倒投。",
+      "evidence_ids": [
+        "NI03",
+        "NI04",
+        "NI06"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U03",
+      "heading": "03、文化載體與代際轉用",
+      "body_han": 845,
+      "necessary_cases_check": "保加利亞教會學校與海外軍團、拿破崙行政教育、斯洛維尼亞反革命、芬蘭政治容器和捷克代際轉用均在。",
+      "conditions_check": "發現捷克目標轉用只寫另一場鬥爭；作者已改為反對德語中心，現已符合必要案例。文化整理不等於建國，原資助者不控制後代。",
+      "evidence_ids": [
+        "NI05",
+        "NI11",
+        "NI12",
+        "NI15",
+        "NI16"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U04",
+      "heading": "04、外部保護與消失的出路",
+      "body_han": 603,
+      "necessary_cases_check": "蒙特內哥羅反向影響俄國、阿爾巴尼亞軍財集中封閉聯邦出路、普魯士接替北方新教保護位置均在。",
+      "conditions_check": "保護非單向控制，優良政策不能代替地緣機會；民族獨立並非預定願望。",
+      "evidence_ids": [
+        "NI09",
+        "NI10",
+        "NI13",
+        "NI03"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U05",
+      "heading": "05、帝國民族化與地方權利",
+      "body_han": 467,
+      "necessary_cases_check": "波羅的海語言同化、波蘭否決權與常備軍壓力、效忠沙皇與服從核心民族的差額均在。",
+      "conditions_check": "平等名義可使地方降位；舊自由和集中改革未壓成愛國賣國二分。",
+      "evidence_ids": [
+        "NI14",
+        "NI19",
+        "NI02"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U06",
+      "heading": "06、自由派統一與選舉權反轉",
+      "body_han": 364,
+      "necessary_cases_check": "地主議會／神父農民、克羅埃西亞／斯洛伐克不同承認、匈牙利普選偏好反轉均在。",
+      "conditions_check": "階級與民族衝突並存，反革命聯盟報酬不等；紙面選民支持不等於武力保護。",
+      "evidence_ids": [
+        "NI17",
+        "NI18"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": false,
+      "post_override_content_recheck": "pass; deleted text duplicated earlier case-based explanation; no necessary case or opposite condition lost"
+    },
+    {
+      "unit": "U07",
+      "heading": "07、民族使命與既成國家",
+      "body_han": 602,
+      "necessary_cases_check": "馬其頓使命與保加利亞政府、泛阿拉伯／泛伊斯蘭主體、酋長與知識分子、伊敘本地選民均在。",
+      "conditions_check": "同樣暴力不意味同一退路；文化共同性不保證共同支付統一成本。",
+      "evidence_ids": [
+        "NI06",
+        "NI24",
+        "NI25"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U08",
+      "heading": "08、宗教共同體的自治層次",
+      "body_han": 516,
+      "necessary_cases_check": "三類教團、黎巴嫩武裝山地反例、愛爾蘭在地基層／海外上層與公職資格變化均在。",
+      "conditions_check": "社會自治與軍政自主分開；貧窮或教名不能分類政治能力，信仰分歧不僅神學。",
+      "evidence_ids": [
+        "NI14",
+        "NI23",
+        "NI30"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U09",
+      "heading": "09、憲法主體與人民邊界",
+      "body_han": 580,
+      "necessary_cases_check": "南斯拉夫／大塞爾維亞／泛斯拉夫、波士尼亞保護退出、三族六族比例與加泰隆尼亞均在。",
+      "conditions_check": "共同反敵不意味同一盟主；民主程序及增加地方自治不能自行決定人民邊界。",
+      "evidence_ids": [
+        "NI07",
+        "NI08",
+        "NI20",
+        "NI30"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true,
+      "post_override_content_recheck": "pass; deleted text duplicated earlier case-based explanation; no necessary case or opposite condition lost"
+    },
+    {
+      "unit": "U10",
+      "heading": "10、國家先於民族",
+      "body_han": 368,
+      "necessary_cases_check": "阿根廷巴西英國緩衝安排、河口原共同生活與後編國史、敗選者保留共同委員會席位均在。",
+      "conditions_check": "國家先於民族的路徑不等於無中生有；建國後內戰明確區分外部存在和內部穩定。",
+      "evidence_ids": [
+        "NI21",
+        "NI15",
+        "NI27"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U11",
+      "heading": "11、同化反彈與公共命名",
+      "body_han": 377,
+      "necessary_cases_check": "中央學校司法語言同化與2017庫德公投公共命名，保加利亞報導短對照均在。",
+      "conditions_check": "認同鞏固可與軍事外交受挫並存；現在時明確留在原講座。",
+      "evidence_ids": [
+        "NI22",
+        "NI05"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U12",
+      "heading": "12、政治部落與共同協調",
+      "body_han": 779,
+      "necessary_cases_check": "科威特政治加入／法統、伊南對照、英國分約、阿聯酋參加不參加、巴林委員會與混合法庭均在。",
+      "conditions_check": "商業公益不等於政治能力；既有自治仍須協調層，外援不保證同制度。抽核NI26和NI28與原文相符。",
+      "evidence_ids": [
+        "NI26",
+        "NI27",
+        "NI28"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U13",
+      "heading": "13、港口繁榮與共同體變化",
+      "body_han": 324,
+      "necessary_cases_check": "印度洋網絡、奴隸貿易人口後果及與大陸不對稱聯合後資源轉移均在。",
+      "conditions_check": "繁榮和聯邦名稱不保制度；香港並置局部類比而非全程序相同。",
+      "evidence_ids": [
+        "NI29"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U14",
+      "heading": "14、分層權利與排他主權",
+      "body_han": 355,
+      "necessary_cases_check": "春丕谷地、英印與不丹、清英藏協商、趙爾豐直接統治及川軍瓦解均在。",
+      "conditions_check": "保護權不等於完整領土主權；多元權利有規則，不替代現今法律定界。抽核NI31相符。",
+      "evidence_ids": [
+        "NI31"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U15",
+      "heading": "15、舊訪談：語言與建國",
+      "body_han": 160,
+      "necessary_cases_check": "意大利財政軍事王朝外交、台灣社區語言主張及美國瑞士比較保留。",
+      "conditions_check": "N04明確為舊訪談，主持人另歸屬，非三部新書讀取或現行法律。",
+      "evidence_ids": [
+        "N04"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    },
+    {
+      "unit": "U16",
+      "heading": "16、舊評傳：分類反制發明者",
+      "body_han": 246,
+      "necessary_cases_check": "顧頡剛古史辨／民俗苗瑤、戰時單一民族主張和戴季陶—顧—費孝通指責轉用均在。",
+      "conditions_check": "人物引語歸顧、書面來源區隔、具體敗局不泛化至所有新認同。",
+      "evidence_ids": [
+        "N05"
+      ],
+      "status": "pass",
+      "within_original_reference_range_observed": true
+    }
+  ],
+  "findings": [
+    {
+      "id": "CR-W01",
+      "severity": "minor substantive omission",
+      "unit": "U03",
+      "finding": "Original wording 另一場政治鬥爭 did not explicitly preserve allocated Czech anti-French-to-anti-German reversal.",
+      "source": "NI16 L5450–5467",
+      "resolution": "Author replaced phrase with 反對德語中心的政治鬥爭; verified in final runtime.",
+      "status": "resolved"
+    }
+  ],
+  "unresolved_findings": [],
+  "source_spot_checks": {
+    "path": "source-local:民族發明學的世界史.md",
+    "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+    "windows": [
+      {
+        "lines": [
+          5450,
+          5467
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          554658,
+          559634
+        ],
+        "characters": 4976,
+        "sha256": "596b32a5d19188a8b61950b25f312628647fcaac4dedc5c13080d617f0493fd1",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          3190,
+          3202
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          364348,
+          367229
+        ],
+        "characters": 2881,
+        "sha256": "1edd6225e194c458f6d9fcce175dc23c5f61e8aa8f594c768011c3b4836400ce",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9600,
+          9612
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          911099,
+          913278
+        ],
+        "characters": 2179,
+        "sha256": "276cf26474b52f832372508b83bcef23f3bde4c619d0a4b48a31033f5f856df4",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          10234,
+          10242
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          991526,
+          993734
+        ],
+        "characters": 2208,
+        "sha256": "c2b43765d7c4cb99db536a24258b6438231bd5ed5680cbca3bc07ed733f7f11f",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9614,
+          9630
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          913279,
+          914695
+        ],
+        "characters": 1416,
+        "sha256": "525747ef5cc14ff234bd94ec1584069db89d55d1c1ecaa7654b5399ab2e9234c",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      },
+      {
+        "lines": [
+          9631,
+          9645
+        ],
+        "char_offsets_zero_based_end_exclusive": [
+          914695,
+          917434
+        ],
+        "characters": 2739,
+        "sha256": "ba72941a0d947a2c47a88ec30d1b27a1820b05b1f5e84de6b9d87150125115bf",
+        "scope": "reread_within_previously_selected_window",
+        "display_read": "complete"
+      }
+    ],
+    "new_windows": 0
+  },
+  "source_attribution_checks": {
+    "all_31_NI_ids_present": true,
+    "legacy_N04_N05_not_claimed_as_new_book_coverage": true,
+    "quoted_Gu_position_attributed_to_Gu": true,
+    "lecture_now_not_recast_as_current_affairs": true,
+    "editorial_figures_and_notes_not_promoted_to_speaker_evidence": true
+  },
+  "limitations": [
+    "Peer editorial review by another agent is not independent historical expert verification.",
+    "Source spot checks cover NI16, NI26, NI28 and NI31; remaining units checked against frozen allocation and existing attribution record, not re-researched.",
+    "Original N04/N05 source files were not reread.",
+    "After latest user override, original unit and sub-part lengths are descriptive references, not acceptance gates; no padding or redistribution was requested by this reviewer."
+  ],
+  "runtime_files_modified_by_cross_reviewer": [],
+  "latest_user_override": {
+    "instruction": "Only local edits; remove purely repeated general discussion. Corpus governs content; do not add prose or move units to satisfy unit/part quotas.",
+    "acceptance_basis": "Necessary source cases, causal distinctions, opposite conditions and attribution; counts are descriptive reference only.",
+    "all_fine_grained_allocations_claimed_passed": false,
+    "unit_below_original_reference_range": [
+      {
+        "unit": "U06",
+        "body_han": 364,
+        "original_range": [
+          390,
+          510
+        ],
+        "shortfall_to_old_low": 26,
+        "accepted_reason": "Removed 76 Han of repeated representative-qualification and franchise summary; underlying three cases and military qualification remain."
+      }
+    ],
+    "part_han_validation_claim": "No claim that every part_han share is within its previous planning range."
+  },
+  "latest_revision_recheck": {
+    "previous_runtime_sha256": "31d268299763945db7d3c0f00e9861ae1ab35ec4e38076944792e3af48103cdf",
+    "changed_units": [
+      "U06",
+      "U09"
+    ],
+    "unchanged_units_not_rereviewed": true,
+    "new_source_windows": 0,
+    "deletion_record": "c07-1-user-override-deletions.json",
+    "results": [
+      {
+        "unit": "U06",
+        "deleted_han": 76,
+        "retained": "Landlord parliament versus priest/peasant representation; Croatia/Slovakia unequal recognition and military bargaining; Hungarian franchise reversal and armed extremes.",
+        "judgment": "The removed tail restated the three previous arguments. Opposite conditions remain."
+      },
+      {
+        "unit": "U09",
+        "deleted_han": 55,
+        "retained": "Three/six community classification and reduction of a single dominating majority remain explicit before the removed tail; constitutional recognition, central/local identity opportunities and Catalonia remain.",
+        "judgment": "The removed tail was a second account of the same majority/minority ratio effect."
+      }
+    ]
+  }
+}

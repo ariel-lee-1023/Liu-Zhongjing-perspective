@@ -1,0 +1,72 @@
+{
+  "status": "pass_for_declared_metadata_scope",
+  "scope": "Read-only audit of current source-extension record paths/hash references, stored measurement consistency, 15-record evidence integration and current H2 routing. No runtime span/source-window recomputation, no new source reading, no recognition calls.",
+  "reviewed_directory": "transworld-identity/source-extension-2026-11-16",
+  "evidence_sha256": "8106cdffe4b2a5f8fac247e1cb4b4dac15fa9f00ea5ed17ecf77f57ce2857710",
+  "reviewed_record_count": 22,
+  "path_and_hash_checks_count": 155,
+  "stored_measurement_checks_count": 6,
+  "evidence_record_count": 156,
+  "evidence_ids_unique": true,
+  "runtime_heading_checks_count": 493,
+  "semicolon_display_normalization": "Split singular runtime_section at Chinese or ASCII semicolons; earlier 20 combined-label false positives are dismissed, correct section text unchanged.",
+  "new_evidence_count": 15,
+  "new_evidence_nonrouting_fields_preserved": true,
+  "legacy_scope_checks": [
+    {
+      "id": "CA-L03",
+      "historical_fields_preserved_with_explicit_scope_note": true,
+      "current_source_id": "KNW26",
+      "current_source_hash_matches_inventory": true,
+      "same_speech_not_independent_confirmation": true,
+      "independent_historical_or_scientific_verification": false,
+      "record": "source-extension-2026-11-16/c05-source-extension-review.json",
+      "record_exists": true,
+      "pass": true
+    },
+    {
+      "id": "CA-L04",
+      "historical_fields_preserved_with_explicit_scope_note": true,
+      "current_source_id": "ENT26",
+      "current_source_hash_matches_inventory": true,
+      "same_speech_not_independent_confirmation": true,
+      "independent_historical_or_scientific_verification": false,
+      "record": "source-extension-2026-11-16/c05-source-extension-review.json",
+      "record_exists": true,
+      "pass": true
+    }
+  ],
+  "resolved_findings": [
+    {
+      "id": "META-HASH-01",
+      "issue": "C05 cross-review reference digest remained pre-portability",
+      "status": "resolved",
+      "verification": "Current paired digest matches; old digest is explicitly pre_portability_report_sha256.",
+      "resolved_occurrences": 1
+    },
+    {
+      "id": "META-HASH-02",
+      "issue": "Four C07 review-document reference digests remained pre-portability",
+      "status": "resolved",
+      "verification": "All four current digests match; original values retained under pre_portability_sha256 with scoped notes.",
+      "resolved_occurrences": 4
+    },
+    {
+      "id": "META-LOCATOR-01",
+      "issue": "27 runtime unit line spans were misclassified as unhashed source locators",
+      "status": "resolved",
+      "verification": {
+        "remaining_unfingerprinted_source_locators": 8,
+        "fingerprinted_source_results_unchanged_count": 23,
+        "correction_note": "Excluded 27 C07-2 runtime unit line spans from the source-locator list; 23 actual source fingerprint results are unaffected.",
+        "pass": true
+      },
+      "resolved_occurrences": 1
+    }
+  ],
+  "open_actionable_findings": [],
+  "publication_scope_note": "Latest contract authorizes publication after validation; earlier local-only fields retain drafting-time context and are explicitly superseded.",
+  "source_support_limit": "Metadata consistency is not independent historical/scientific verification. Fifteen argument records retain four source groups; CA-L03/04 rechecks are explicitly same-speech overlap.",
+  "repo_files_modified": false,
+  "resolved_issue_occurrences": 6
+}

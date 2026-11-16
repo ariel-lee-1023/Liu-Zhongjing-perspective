@@ -1,0 +1,26 @@
+[
+  {
+    "module": "c02-1",
+    "source": "source-local:美索不达米亚.md",
+    "sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+    "matches_allocation_source": true
+  },
+  {
+    "module": "c07-1",
+    "source": "source-local:民族發明學的世界史.md",
+    "sha256": "ab39c95e83a89c88ca81f1d6338381fcfbe2e1382f92a8f1bd3ee1f5a196ebfa",
+    "matches_allocation_source": true
+  },
+  {
+    "module": "c07-2",
+    "source": "source-local:逆轉的東亞史.md",
+    "sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+    "matches_allocation_source": true
+  },
+  {
+    "module": "c05",
+    "source": "source-local:劉仲敬論Current Affairs.md",
+    "sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+    "matches_allocation_source": true
+  }
+]

@@ -1,0 +1,1408 @@
+{
+  "module": "c07-1",
+  "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+  "runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+  "allocation_path": "transworld-identity/source-allocation-2026-11-16/c07-1-allocation.json",
+  "count_unit": "U+3400–U+9FFF Han characters, identical portable measure_current.py cleaning",
+  "cleaning": "From first substantive H2 to source locator H2; delete headings, pure legacy labels, NI/N04/N05 citation brackets and link URLs exactly as measure_current.py; retain all remaining text and whitespace.",
+  "offset_convention": "Python Unicode character offsets in the reconstructed cleaned body string; zero based, end exclusive, continuous nonoverlapping spans cover every character including whitespace. This is not UTF-8 byte offset.",
+  "source_assignment_policy": [
+    "Assign by the three volumes in the combined source, not by modern geography. Uruguay/Catalonia belong to 中東歐; Ireland/Zanzibar to 中東; China–India appendix to 巴爾幹.",
+    "Mixed sections are divided at real paragraph/sentence/clause boundaries; U01 P2 has six contiguous spans.",
+    "Cross-source generic framing is assigned once to its immediate source-case home and explicitly labeled as editorial attribution. U03 shared opening follows first actual example NI05 and is not shifted to make totals fit.",
+    "U11 Bulgarian paragraph is counted as 巴爾幹 despite the unit plan originally assigning that whole unit to 中東.",
+    "No ratios, proportional back-calculation, padding or text changes used."
+  ],
+  "body_han": 7411,
+  "sum_of_part_han": 7411,
+  "span_coverage_complete_and_nonoverlapping": true,
+  "cleaned_body_sha256": "8e4b5c9534f5921089d4864f89f9dd706a8643ebb615bbeb62ad07981b95942e",
+  "parts": [
+    {
+      "part": "巴爾幹",
+      "body_han": 2576,
+      "allocation_body_han": [
+        1970,
+        2620
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "中東歐",
+      "body_han": 2257,
+      "allocation_body_han": [
+        2030,
+        2730
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "中東",
+      "body_han": 2172,
+      "allocation_body_han": [
+        2070,
+        2760
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    },
+    {
+      "part": "舊來源承接",
+      "body_han": 406,
+      "allocation_body_han": [
+        380,
+        520
+      ],
+      "within_range": true,
+      "below_lower_by": 0,
+      "above_upper_by": 0
+    }
+  ],
+  "all_part_totals_within_range": true,
+  "unit_part_measurements": [
+    {
+      "unit": "U01",
+      "body_han": 356,
+      "actual_part_han": {
+        "中東歐": 284,
+        "巴爾幹": 72
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          110,
+          150
+        ],
+        "中東歐": [
+          220,
+          300
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "巴爾幹",
+          "actual": 72,
+          "planned_part_range": [
+            110,
+            150
+          ],
+          "below_lower_by": 38,
+          "above_upper_by": 0
+        }
+      ]
+    },
+    {
+      "unit": "U02",
+      "body_han": 469,
+      "actual_part_han": {
+        "巴爾幹": 469
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          360,
+          480
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U03",
+      "body_han": 845,
+      "actual_part_han": {
+        "巴爾幹": 535,
+        "中東歐": 310
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          390,
+          510
+        ],
+        "中東歐": [
+          260,
+          340
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "巴爾幹",
+          "actual": 535,
+          "planned_part_range": [
+            390,
+            510
+          ],
+          "below_lower_by": 0,
+          "above_upper_by": 25
+        }
+      ]
+    },
+    {
+      "unit": "U04",
+      "body_han": 603,
+      "actual_part_han": {
+        "巴爾幹": 371,
+        "中東歐": 232
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          320,
+          420
+        ],
+        "中東歐": [
+          160,
+          220
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "中東歐",
+          "actual": 232,
+          "planned_part_range": [
+            160,
+            220
+          ],
+          "below_lower_by": 0,
+          "above_upper_by": 12
+        }
+      ]
+    },
+    {
+      "unit": "U05",
+      "body_han": 467,
+      "actual_part_han": {
+        "中東歐": 467
+      },
+      "planned_part_han": {
+        "中東歐": [
+          460,
+          620
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U06",
+      "body_han": 364,
+      "actual_part_han": {
+        "中東歐": 364
+      },
+      "planned_part_han": {
+        "中東歐": [
+          390,
+          510
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "中東歐",
+          "actual": 364,
+          "planned_part_range": [
+            390,
+            510
+          ],
+          "below_lower_by": 26,
+          "above_upper_by": 0
+        }
+      ]
+    },
+    {
+      "unit": "U07",
+      "body_han": 602,
+      "actual_part_han": {
+        "巴爾幹": 246,
+        "中東": 356
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          140,
+          180
+        ],
+        "中東": [
+          420,
+          540
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "中東",
+          "actual": 356,
+          "planned_part_range": [
+            420,
+            540
+          ],
+          "below_lower_by": 64,
+          "above_upper_by": 0
+        },
+        {
+          "part": "巴爾幹",
+          "actual": 246,
+          "planned_part_range": [
+            140,
+            180
+          ],
+          "below_lower_by": 0,
+          "above_upper_by": 66
+        }
+      ]
+    },
+    {
+      "unit": "U08",
+      "body_han": 516,
+      "actual_part_han": {
+        "中東歐": 102,
+        "中東": 414
+      },
+      "planned_part_han": {
+        "中東歐": [
+          80,
+          110
+        ],
+        "中東": [
+          400,
+          530
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U09",
+      "body_han": 580,
+      "actual_part_han": {
+        "巴爾幹": 450,
+        "中東歐": 130
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          350,
+          460
+        ],
+        "中東歐": [
+          130,
+          180
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U10",
+      "body_han": 368,
+      "actual_part_han": {
+        "中東歐": 368
+      },
+      "planned_part_han": {
+        "中東歐": [
+          330,
+          450
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U11",
+      "body_han": 377,
+      "actual_part_han": {
+        "中東": 299,
+        "巴爾幹": 78
+      },
+      "planned_part_han": {
+        "中東": [
+          300,
+          420
+        ]
+      },
+      "suballocation_deviations": [
+        {
+          "part": "中東",
+          "actual": 299,
+          "planned_part_range": [
+            300,
+            420
+          ],
+          "below_lower_by": 1,
+          "above_upper_by": 0
+        },
+        {
+          "part": "巴爾幹",
+          "actual": 78,
+          "planned_part_range": null,
+          "note": "Explicit source-specific span appears in this part although this unit originally had no separate allocation for it."
+        }
+      ]
+    },
+    {
+      "unit": "U12",
+      "body_han": 779,
+      "actual_part_han": {
+        "中東": 779
+      },
+      "planned_part_han": {
+        "中東": [
+          650,
+          850
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U13",
+      "body_han": 324,
+      "actual_part_han": {
+        "中東": 324
+      },
+      "planned_part_han": {
+        "中東": [
+          300,
+          420
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U14",
+      "body_han": 355,
+      "actual_part_han": {
+        "巴爾幹": 355
+      },
+      "planned_part_han": {
+        "巴爾幹": [
+          300,
+          420
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U15",
+      "body_han": 160,
+      "actual_part_han": {
+        "舊來源承接": 160
+      },
+      "planned_part_han": {
+        "舊來源承接": [
+          160,
+          220
+        ]
+      },
+      "suballocation_deviations": []
+    },
+    {
+      "unit": "U16",
+      "body_han": 246,
+      "actual_part_han": {
+        "舊來源承接": 246
+      },
+      "planned_part_han": {
+        "舊來源承接": [
+          220,
+          300
+        ]
+      },
+      "suballocation_deviations": []
+    }
+  ],
+  "spans": [
+    {
+      "id": "S001",
+      "unit": "U01",
+      "paragraph": 1,
+      "runtime_source_line": 11,
+      "cleaned_char_start": 0,
+      "cleaned_char_end_exclusive": 94,
+      "part": "中東歐",
+      "body_han": 85,
+      "source_ids": [
+        "NI01"
+      ],
+      "opening": "族群的口音、宗教和生活習慣提供差異，政治民族卻形成於誰應由自",
+      "closing": "些差異降為可容忍的地方特色；文化存在不等於政治自決已經成立。",
+      "assignment_reason": "P1與P3以NI01烏克蘭的民族、政權、國家分層為來源，歸中東歐；P2按希臘三模式與波蘭國民／語言型及自我治理評價逐句/子句拆開。跨來源比較只作一次編輯歸屬，非按比例倒算。"
+    },
+    {
+      "id": "S002",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 94,
+      "cleaned_char_end_exclusive": 112,
+      "part": "巴爾幹",
+      "body_han": 15,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "希臘篇的帝國、文化與小民族三模式，",
+      "closing": "希臘篇的帝國、文化與小民族三模式，",
+      "assignment_reason": "希臘三模式的起始分類，歸NI02的希臘部分。"
+    },
+    {
+      "id": "S003",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 112,
+      "cleaned_char_end_exclusive": 137,
+      "part": "中東歐",
+      "body_han": 22,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "和波蘭篇把小民族分成國民、語言兩類，處於不同層級。",
+      "closing": "和波蘭篇把小民族分成國民、語言兩類，處於不同層級。",
+      "assignment_reason": "波蘭將小民族分為國民／語言型，以及與上層分類的比較，歸NI02的波蘭部分。"
+    },
+    {
+      "id": "S004",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 137,
+      "cleaned_char_end_exclusive": 168,
+      "part": "巴爾幹",
+      "body_han": 29,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "帝國模式要保存既有統治範圍，泛文化方案沿文化圈尋求更大共同體",
+      "closing": "國模式要保存既有統治範圍，泛文化方案沿文化圈尋求更大共同體；",
+      "assignment_reason": "帝國／泛文化的疆域與文化圈兩模式，歸希臘分類部分。"
+    },
+    {
+      "id": "S005",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 168,
+      "cleaned_char_end_exclusive": 200,
+      "part": "中東歐",
+      "body_han": 29,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "國民型從共同治理出發，語言型把地方語言、民俗變成抵抗同化的資",
+      "closing": "型從共同治理出發，語言型把地方語言、民俗變成抵抗同化的資源。",
+      "assignment_reason": "國民型／語言型的小民族內部分化，歸波蘭分類部分。"
+    },
+    {
+      "id": "S006",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 200,
+      "cleaned_char_end_exclusive": 230,
+      "part": "巴爾幹",
+      "body_han": 28,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "文化圈未必建立得起政權，帝國能有效統治也未必由成員自我治理。",
+      "closing": "文化圈未必建立得起政權，帝國能有效統治也未必由成員自我治理。",
+      "assignment_reason": "文化圈能否成政權及帝國統治不等於成員自決，作希臘三模式邊界的編輯歸屬；與波蘭自我治理評價共同支持但只計一次。"
+    },
+    {
+      "id": "S007",
+      "unit": "U01",
+      "paragraph": 2,
+      "runtime_source_line": 13,
+      "cleaned_char_start": 230,
+      "cleaned_char_end_exclusive": 264,
+      "part": "中東歐",
+      "body_han": 29,
+      "source_ids": [
+        "NI02"
+      ],
+      "opening": "「假民族」是在這個自我治理判準下的政治評價，不能改讀成文化不",
+      "closing": "族」是在這個自我治理判準下的政治評價，不能改讀成文化不存在。",
+      "assignment_reason": "假民族一詞及自我治理評價的限度，歸波蘭分類部分。"
+    },
+    {
+      "id": "S008",
+      "unit": "U01",
+      "paragraph": 3,
+      "runtime_source_line": 15,
+      "cleaned_char_start": 264,
+      "cleaned_char_end_exclusive": 393,
+      "part": "中東歐",
+      "body_han": 119,
+      "source_ids": [
+        "NI01"
+      ],
+      "opening": "政權有效控制土地人口，國家作為國際主體又涉及外交承認，民族認",
+      "closing": "物已具有今日的國籍，也不會替當時尚未形成的國家補出法律地位。",
+      "assignment_reason": "P1與P3以NI01烏克蘭的民族、政權、國家分層為來源，歸中東歐；P2按希臘三模式與波蘭國民／語言型及自我治理評價逐句/子句拆開。跨來源比較只作一次編輯歸屬，非按比例倒算。"
+    },
+    {
+      "id": "S009",
+      "unit": "U02",
+      "paragraph": 1,
+      "runtime_source_line": 19,
+      "cleaned_char_start": 393,
+      "cleaned_char_end_exclusive": 548,
+      "part": "巴爾幹",
+      "body_han": 140,
+      "source_ids": [
+        "NI03"
+      ],
+      "opening": "希臘主義最初攜帶的是拜占庭與鄂圖曼帝國的巨大遺產，並非只想建",
+      "closing": "精英的大希臘共和國方案，可以承認相近的疆域，卻爭奪誰來當家。",
+      "assignment_reason": "希臘帝國遺產、羅馬尼亞革命網絡、保加利亞與馬其頓分流皆在巴爾幹分部。"
+    },
+    {
+      "id": "S010",
+      "unit": "U02",
+      "paragraph": 2,
+      "runtime_source_line": 21,
+      "cleaned_char_start": 548,
+      "cleaned_char_end_exclusive": 680,
+      "part": "巴爾幹",
+      "body_han": 120,
+      "source_ids": [
+        "NI03",
+        "NI04",
+        "NI05"
+      ],
+      "opening": "小小的希臘國家無法只靠文化號召完成反攻。保加利亞、羅馬尼亞、",
+      "closing": "。原來的復國中心遂同時面對帝國與從共同運動中分出的地方民族。",
+      "assignment_reason": "希臘帝國遺產、羅馬尼亞革命網絡、保加利亞與馬其頓分流皆在巴爾幹分部。"
+    },
+    {
+      "id": "S011",
+      "unit": "U02",
+      "paragraph": 3,
+      "runtime_source_line": 23,
+      "cleaned_char_start": 680,
+      "cleaned_char_end_exclusive": 905,
+      "part": "巴爾幹",
+      "body_han": 209,
+      "source_ids": [
+        "NI04",
+        "NI06"
+      ],
+      "opening": "十九世紀初的多瑙河精英與希臘革命仍屬交錯的政治網絡。當鄂圖曼",
+      "closing": "文化和名稱可以延續，出兵出錢者、外交依靠與國家計畫卻已分流。",
+      "assignment_reason": "希臘帝國遺產、羅馬尼亞革命網絡、保加利亞與馬其頓分流皆在巴爾幹分部。"
+    },
+    {
+      "id": "S012",
+      "unit": "U03",
+      "paragraph": 1,
+      "runtime_source_line": 27,
+      "cleaned_char_start": 905,
+      "cleaned_char_end_exclusive": 1261,
+      "part": "巴爾幹",
+      "body_han": 326,
+      "source_ids": [
+        "NI05",
+        "NI11",
+        "NI15",
+        "NI16"
+      ],
+      "opening": "語言、民俗與文學要取得持續政治效力，須有能保存、教授和傳播它",
+      "closing": "現；變動的是教育與組織的歸屬，不能只從口語差別推導建國完成。",
+      "assignment_reason": "P1前兩句為跨案例共享的文化載體總論，隨立即展開且首先支持該論證的NI05保加利亞案例計入巴爾幹一次；P1餘部與P2是保加利亞、克羅埃西亞、斯洛維尼亞，P3/P4各是芬蘭、捷克。此歸屬先按文字功能確定，未為分部額度調整。"
+    },
+    {
+      "id": "S013",
+      "unit": "U03",
+      "paragraph": 2,
+      "runtime_source_line": 29,
+      "cleaned_char_start": 1261,
+      "cleaned_char_end_exclusive": 1486,
+      "part": "巴爾幹",
+      "body_han": 209,
+      "source_ids": [
+        "NI11",
+        "NI12"
+      ],
+      "opening": "拿破崙把沿海達爾馬提亞與內陸克羅埃西亞等不同政治傳統放進共同",
+      "closing": "；原有領地權利和不同的行政歸屬，使文化區別能延續成政治邊界。",
+      "assignment_reason": "P1前兩句為跨案例共享的文化載體總論，隨立即展開且首先支持該論證的NI05保加利亞案例計入巴爾幹一次；P1餘部與P2是保加利亞、克羅埃西亞、斯洛維尼亞，P3/P4各是芬蘭、捷克。此歸屬先按文字功能確定，未為分部額度調整。"
+    },
+    {
+      "id": "S014",
+      "unit": "U03",
+      "paragraph": 3,
+      "runtime_source_line": 31,
+      "cleaned_char_start": 1486,
+      "cleaned_char_end_exclusive": 1670,
+      "part": "中東歐",
+      "body_han": 167,
+      "source_ids": [
+        "NI15"
+      ],
+      "opening": "芬蘭大公國先提供一個有界的政治容器，原有瑞典語制度與地方精英",
+      "closing": "方的策略不同，不能將前者只當文學興趣，或將後者只當背棄地方。",
+      "assignment_reason": "P1前兩句為跨案例共享的文化載體總論，隨立即展開且首先支持該論證的NI05保加利亞案例計入巴爾幹一次；P1餘部與P2是保加利亞、克羅埃西亞、斯洛維尼亞，P3/P4各是芬蘭、捷克。此歸屬先按文字功能確定，未為分部額度調整。"
+    },
+    {
+      "id": "S015",
+      "unit": "U03",
+      "paragraph": 4,
+      "runtime_source_line": 33,
+      "cleaned_char_start": 1670,
+      "cleaned_char_end_exclusive": 1829,
+      "part": "中東歐",
+      "body_han": 143,
+      "source_ids": [
+        "NI16"
+      ],
+      "opening": "捷克的例子更顯示代際落差。布拉格德語資產階級原來希望在拿破崙",
+      "closing": "育載體、培養一代讀者、形成新的政治主張，是連續但不同的事情。",
+      "assignment_reason": "P1前兩句為跨案例共享的文化載體總論，隨立即展開且首先支持該論證的NI05保加利亞案例計入巴爾幹一次；P1餘部與P2是保加利亞、克羅埃西亞、斯洛維尼亞，P3/P4各是芬蘭、捷克。此歸屬先按文字功能確定，未為分部額度調整。"
+    },
+    {
+      "id": "S016",
+      "unit": "U04",
+      "paragraph": 1,
+      "runtime_source_line": 37,
+      "cleaned_char_start": 1829,
+      "cleaned_char_end_exclusive": 1973,
+      "part": "巴爾幹",
+      "body_han": 131,
+      "source_ids": [
+        "NI09"
+      ],
+      "opening": "小國並非只能被大國使用。蒙特內哥羅王公把共同宗教與復興帝國的",
+      "closing": "治想像。實際關係不是單向控制，而是雙方借用對方的資源與名義。",
+      "assignment_reason": "P1–P3為蒙特內哥羅／阿爾巴尼亞；P4–P5為普魯士，按實際案例分段。"
+    },
+    {
+      "id": "S017",
+      "unit": "U04",
+      "paragraph": 2,
+      "runtime_source_line": 39,
+      "cleaned_char_start": 1973,
+      "cleaned_char_end_exclusive": 2111,
+      "part": "巴爾幹",
+      "body_han": 126,
+      "source_ids": [
+        "NI10"
+      ],
+      "opening": "阿爾巴尼亞的地方穆斯林精英起初並不急於獨立，因為他們仍能在鄂",
+      "closing": "失敗、政變與巴爾幹戰爭，才使地方精英失去在帝國內爭權的通道。",
+      "assignment_reason": "P1–P3為蒙特內哥羅／阿爾巴尼亞；P4–P5為普魯士，按實際案例分段。"
+    },
+    {
+      "id": "S018",
+      "unit": "U04",
+      "paragraph": 3,
+      "runtime_source_line": 41,
+      "cleaned_char_start": 2111,
+      "cleaned_char_end_exclusive": 2236,
+      "part": "巴爾幹",
+      "body_han": 114,
+      "source_ids": [
+        "NI10"
+      ],
+      "opening": "當鄰國準備以「亞洲侵略者」的名義驅逐當地穆斯林，繼續自稱鄂圖",
+      "closing": "在全體居民心中的願望；它也可以是舊出路逐一關閉後的政治選擇。",
+      "assignment_reason": "P1–P3為蒙特內哥羅／阿爾巴尼亞；P4–P5為普魯士，按實際案例分段。"
+    },
+    {
+      "id": "S019",
+      "unit": "U04",
+      "paragraph": 4,
+      "runtime_source_line": 43,
+      "cleaned_char_start": 2236,
+      "cleaned_char_end_exclusive": 2368,
+      "part": "中東歐",
+      "body_han": 121,
+      "source_ids": [
+        "NI13"
+      ],
+      "opening": "普魯士的崛起不能只列腓特烈及其繼承者的政策。瑞典與較早北歐新",
+      "closing": "件下發揮作用。相似的優秀政策，不保證另一個小邦得到同樣結果。",
+      "assignment_reason": "P1–P3為蒙特內哥羅／阿爾巴尼亞；P4–P5為普魯士，按實際案例分段。"
+    },
+    {
+      "id": "S020",
+      "unit": "U04",
+      "paragraph": 5,
+      "runtime_source_line": 45,
+      "cleaned_char_start": 2368,
+      "cleaned_char_end_exclusive": 2490,
+      "part": "中東歐",
+      "body_han": 111,
+      "source_ids": [
+        "NI13"
+      ],
+      "opening": "普魯士的宗教寬容也與軍事需要連在一起。流亡者可以保留信仰、開",
+      "closing": "力量的方法。這不把某一時期的寬容推成所有時期的普魯士都自由。",
+      "assignment_reason": "P1–P3為蒙特內哥羅／阿爾巴尼亞；P4–P5為普魯士，按實際案例分段。"
+    },
+    {
+      "id": "S021",
+      "unit": "U05",
+      "paragraph": 1,
+      "runtime_source_line": 49,
+      "cleaned_char_start": 2490,
+      "cleaned_char_end_exclusive": 2622,
+      "part": "中東歐",
+      "body_han": 119,
+      "source_ids": [
+        "NI02",
+        "NI19"
+      ],
+      "opening": "臣服同一君主，並不等於願意臣服帝國核心區的普通居民。波蘭貴族",
+      "closing": "壞。宣稱所有臣民平等的方案，實際上可能把一部分人的地位降低。",
+      "assignment_reason": "波蘭、芬蘭、波羅的海及相應帝國民族化的比較，主論證來源在中東歐。末段總結跟隨本單元這些制度案例，NI02跨部代號不另重複計。"
+    },
+    {
+      "id": "S022",
+      "unit": "U05",
+      "paragraph": 2,
+      "runtime_source_line": 51,
+      "cleaned_char_start": 2622,
+      "cleaned_char_end_exclusive": 2750,
+      "part": "中東歐",
+      "body_han": 118,
+      "source_ids": [
+        "NI14"
+      ],
+      "opening": "當俄國從要求效忠沙皇轉向語言同化，原來可在帝國內任職的德語精",
+      "closing": "解放同文居民的義務。文化範圍擴大，也就擴大了可能的戰爭義務。",
+      "assignment_reason": "波蘭、芬蘭、波羅的海及相應帝國民族化的比較，主論證來源在中東歐。末段總結跟隨本單元這些制度案例，NI02跨部代號不另重複計。"
+    },
+    {
+      "id": "S023",
+      "unit": "U05",
+      "paragraph": 3,
+      "runtime_source_line": 53,
+      "cleaned_char_start": 2750,
+      "cleaned_char_end_exclusive": 2871,
+      "part": "中東歐",
+      "body_han": 111,
+      "source_ids": [
+        "NI19"
+      ],
+      "opening": "波蘭貴族維護自由否決權，與民族國家改革者要求集中議會和軍事權",
+      "closing": "它的代價變大。改革同時牽動誰的傳統自由應為哪一個共同體犧牲。",
+      "assignment_reason": "波蘭、芬蘭、波羅的海及相應帝國民族化的比較，主論證來源在中東歐。末段總結跟隨本單元這些制度案例，NI02跨部代號不另重複計。"
+    },
+    {
+      "id": "S024",
+      "unit": "U05",
+      "paragraph": 4,
+      "runtime_source_line": 55,
+      "cleaned_char_start": 2871,
+      "cleaned_char_end_exclusive": 3000,
+      "part": "中東歐",
+      "body_han": 119,
+      "source_ids": [
+        "NI02",
+        "NI17",
+        "NI19"
+      ],
+      "opening": "帝國民族主義因而面臨兩難：若仍由原統治者代替人民決策，換名沒",
+      "closing": "專制，也可能在另一個自由派的統一國家中再次成為被同化的一方。",
+      "assignment_reason": "波蘭、芬蘭、波羅的海及相應帝國民族化的比較，主論證來源在中東歐。末段總結跟隨本單元這些制度案例，NI02跨部代號不另重複計。"
+    },
+    {
+      "id": "S025",
+      "unit": "U06",
+      "paragraph": 1,
+      "runtime_source_line": 59,
+      "cleaned_char_start": 3000,
+      "cleaned_char_end_exclusive": 3143,
+      "part": "中東歐",
+      "body_han": 132,
+      "source_ids": [
+        "NI17"
+      ],
+      "opening": "匈牙利自由派把共同教育和國語視為消除階級落差的進步，地方神父",
+      "closing": "真實的組織與利益。階級衝突和民族衝突不是互相排斥的兩種解釋。",
+      "assignment_reason": "斯洛伐克與匈牙利章節的代表資格、克羅埃西亞比較及普選機制，歸原書中東歐分部，並非依人物所在地重分。"
+    },
+    {
+      "id": "S026",
+      "unit": "U06",
+      "paragraph": 2,
+      "runtime_source_line": 61,
+      "cleaned_char_start": 3143,
+      "cleaned_char_end_exclusive": 3254,
+      "part": "中東歐",
+      "body_han": 100,
+      "source_ids": [
+        "NI17"
+      ],
+      "opening": "維也納承認克羅埃西亞的政治地位，卻不以同樣方式承認斯洛伐克，",
+      "closing": "貴族議會與武裝，和主要依靠教士、農民動員，是不同的談判位置。",
+      "assignment_reason": "斯洛伐克與匈牙利章節的代表資格、克羅埃西亞比較及普選機制，歸原書中東歐分部，並非依人物所在地重分。"
+    },
+    {
+      "id": "S027",
+      "unit": "U06",
+      "paragraph": 3,
+      "runtime_source_line": 63,
+      "cleaned_char_start": 3254,
+      "cleaned_char_end_exclusive": 3397,
+      "part": "中東歐",
+      "body_han": 132,
+      "source_ids": [
+        "NI18"
+      ],
+      "opening": "匈牙利自由派後來反對自己曾支持的擴大選舉權，也有可追的機制：",
+      "closing": "即使有紙面選民支持，也可能無法在武裝的左右兩翼之間保存政權。",
+      "assignment_reason": "斯洛伐克與匈牙利章節的代表資格、克羅埃西亞比較及普選機制，歸原書中東歐分部，並非依人物所在地重分。"
+    },
+    {
+      "id": "S028",
+      "unit": "U07",
+      "paragraph": 1,
+      "runtime_source_line": 67,
+      "cleaned_char_start": 3397,
+      "cleaned_char_end_exclusive": 3664,
+      "part": "巴爾幹",
+      "body_han": 246,
+      "source_ids": [
+        "NI06"
+      ],
+      "opening": "保加利亞國家接受戰敗後的邊界，並不意味以收復境外馬其頓為存在",
+      "closing": "活動。能否轉移資源、誰能提供退路，會改變看似相同的革命合作。",
+      "assignment_reason": "P1的馬其頓組織與保加利亞政府、共產國際退路比較屬NI06巴爾幹；P2–P4為泛阿拉伯／泛伊斯蘭、敘利亞及伊拉克，歸中東。"
+    },
+    {
+      "id": "S029",
+      "unit": "U07",
+      "paragraph": 2,
+      "runtime_source_line": 69,
+      "cleaned_char_start": 3664,
+      "cleaned_char_end_exclusive": 3788,
+      "part": "中東",
+      "body_han": 114,
+      "source_ids": [
+        "NI24"
+      ],
+      "opening": "泛阿拉伯主義把語言文化放在宗教之上，使阿拉伯基督徒也能取得共",
+      "closing": "除在外；反對鄂圖曼可以合作，取得政權後的主體邊界卻未必相容。",
+      "assignment_reason": "P1的馬其頓組織與保加利亞政府、共產國際退路比較屬NI06巴爾幹；P2–P4為泛阿拉伯／泛伊斯蘭、敘利亞及伊拉克，歸中東。"
+    },
+    {
+      "id": "S030",
+      "unit": "U07",
+      "paragraph": 3,
+      "runtime_source_line": 71,
+      "cleaned_char_start": 3788,
+      "cleaned_char_end_exclusive": 3899,
+      "part": "中東",
+      "body_han": 101,
+      "source_ids": [
+        "NI24"
+      ],
+      "opening": "文化發明者需要現實武力，卻未必能控制提供武力的人。戰爭中被外",
+      "closing": "共同體若缺乏共同決策機構，建立若干地方政權仍不等於完成統一。",
+      "assignment_reason": "P1的馬其頓組織與保加利亞政府、共產國際退路比較屬NI06巴爾幹；P2–P4為泛阿拉伯／泛伊斯蘭、敘利亞及伊拉克，歸中東。"
+    },
+    {
+      "id": "S031",
+      "unit": "U07",
+      "paragraph": 4,
+      "runtime_source_line": 73,
+      "cleaned_char_start": 3899,
+      "cleaned_char_end_exclusive": 4053,
+      "part": "中東",
+      "body_han": 141,
+      "source_ids": [
+        "NI25"
+      ],
+      "opening": "伊拉克與敘利亞各自形成制度後，普通選民和議會政黨可能寧願把稅",
+      "closing": "負擔。大民族的名義與小共同體的日常利益之間，存在持續的衝突。",
+      "assignment_reason": "P1的馬其頓組織與保加利亞政府、共產國際退路比較屬NI06巴爾幹；P2–P4為泛阿拉伯／泛伊斯蘭、敘利亞及伊拉克，歸中東。"
+    },
+    {
+      "id": "S032",
+      "unit": "U08",
+      "paragraph": 1,
+      "runtime_source_line": 77,
+      "cleaned_char_start": 4053,
+      "cleaned_char_end_exclusive": 4169,
+      "part": "中東歐",
+      "body_han": 102,
+      "source_ids": [
+        "NI14"
+      ],
+      "opening": "愛沙尼亞與拉脫維亞的近代形成，須先看教區、騎士團、地主、城市",
+      "closing": "不同的組織方式。共同信奉基督教，不會抹平其自治與武力的差別。",
+      "assignment_reason": "P1波羅的海教會層次在中東歐；P2黎巴嫩與P3–P4愛爾蘭附錄在《中東的裂痕》，按分部而非今日地理歸屬。"
+    },
+    {
+      "id": "S033",
+      "unit": "U08",
+      "paragraph": 2,
+      "runtime_source_line": 79,
+      "cleaned_char_start": 4169,
+      "cleaned_char_end_exclusive": 4330,
+      "part": "中東",
+      "body_han": 143,
+      "source_ids": [
+        "NI23"
+      ],
+      "opening": "教團可以負責教育、婚姻、繼承、糾紛裁判和社區紀律。沒有軍政自",
+      "closing": "又構成反例：同為東方基督徒，可以對統治者採取完全不同的關係。",
+      "assignment_reason": "P1波羅的海教會層次在中東歐；P2黎巴嫩與P3–P4愛爾蘭附錄在《中東的裂痕》，按分部而非今日地理歸屬。"
+    },
+    {
+      "id": "S034",
+      "unit": "U08",
+      "paragraph": 3,
+      "runtime_source_line": 81,
+      "cleaned_char_start": 4330,
+      "cleaned_char_end_exclusive": 4478,
+      "part": "中東",
+      "body_han": 134,
+      "source_ids": [
+        "NI30"
+      ],
+      "opening": "愛爾蘭的宗教改革與反宗教改革，則同時深化了兩種基層組織。所謂",
+      "closing": "構。民族國家要求精英在地化，把上層政治共同體與基層重新接合。",
+      "assignment_reason": "P1波羅的海教會層次在中東歐；P2黎巴嫩與P3–P4愛爾蘭附錄在《中東的裂痕》，按分部而非今日地理歸屬。"
+    },
+    {
+      "id": "S035",
+      "unit": "U08",
+      "paragraph": 4,
+      "runtime_source_line": 83,
+      "cleaned_char_start": 4478,
+      "cleaned_char_end_exclusive": 4627,
+      "part": "中東",
+      "body_han": 137,
+      "source_ids": [
+        "NI30"
+      ],
+      "opening": "財產資格降低與天主教徒公職機會增加，使原先被新教上層代言的基",
+      "closing": "被支配者。兩邊的政治位置與安全感不同，不能只用神學分歧解釋。",
+      "assignment_reason": "P1波羅的海教會層次在中東歐；P2黎巴嫩與P3–P4愛爾蘭附錄在《中東的裂痕》，按分部而非今日地理歸屬。"
+    },
+    {
+      "id": "S036",
+      "unit": "U09",
+      "paragraph": 1,
+      "runtime_source_line": 87,
+      "cleaned_char_start": 4627,
+      "cleaned_char_end_exclusive": 4755,
+      "part": "巴爾幹",
+      "body_han": 117,
+      "source_ids": [
+        "NI07",
+        "NI08"
+      ],
+      "opening": "南斯拉夫主義、大塞爾維亞主義和泛斯拉夫主義不是同一件事。克羅",
+      "closing": "以共同反對某個強者，卻仍然在聯盟內爭論彼此的位階和統治資格。",
+      "assignment_reason": "P1–P3南斯拉夫與波士尼亞憲法主體在巴爾幹；P4民主人民邊界隨加泰隆尼亞附錄歸中東歐。"
+    },
+    {
+      "id": "S037",
+      "unit": "U09",
+      "paragraph": 2,
+      "runtime_source_line": 89,
+      "cleaned_char_start": 4755,
+      "cleaned_char_end_exclusive": 4899,
+      "part": "巴爾幹",
+      "body_han": 131,
+      "source_ids": [
+        "NI08"
+      ],
+      "opening": "波士尼亞穆斯林寧願留在哈布斯堡體系，具有實際理由：帝國可能比",
+      "closing": "和」看似容納多元，未被列入的居民卻還沒有獨立表達利益的位置。",
+      "assignment_reason": "P1–P3南斯拉夫與波士尼亞憲法主體在巴爾幹；P4民主人民邊界隨加泰隆尼亞附錄歸中東歐。"
+    },
+    {
+      "id": "S038",
+      "unit": "U09",
+      "paragraph": 3,
+      "runtime_source_line": 91,
+      "cleaned_char_start": 4899,
+      "cleaned_char_end_exclusive": 5120,
+      "part": "巴爾幹",
+      "body_han": 202,
+      "source_ids": [
+        "NI08"
+      ],
+      "opening": "三族或六族的劃分，改變的不只是名冊上的名稱，也改變誰被算入最",
+      "closing": "保存本地資源和領導權。認同的變化不是單憑真誠或虛偽就能解釋。",
+      "assignment_reason": "P1–P3南斯拉夫與波士尼亞憲法主體在巴爾幹；P4民主人民邊界隨加泰隆尼亞附錄歸中東歐。"
+    },
+    {
+      "id": "S039",
+      "unit": "U09",
+      "paragraph": 4,
+      "runtime_source_line": 93,
+      "cleaned_char_start": 5120,
+      "cleaned_char_end_exclusive": 5264,
+      "part": "中東歐",
+      "body_han": 130,
+      "source_ids": [
+        "NI20"
+      ],
+      "opening": "民主要求人民自己統治自己，但「人民」的範圍不能由投票程序本身",
+      "closing": "民主化與共同體邊界如何同時形成，而不只是中央是否已給足權限。",
+      "assignment_reason": "P1–P3南斯拉夫與波士尼亞憲法主體在巴爾幹；P4民主人民邊界隨加泰隆尼亞附錄歸中東歐。"
+    },
+    {
+      "id": "S040",
+      "unit": "U10",
+      "paragraph": 1,
+      "runtime_source_line": 97,
+      "cleaned_char_start": 5264,
+      "cleaned_char_end_exclusive": 5399,
+      "part": "中東歐",
+      "body_han": 120,
+      "source_ids": [
+        "NI21"
+      ],
+      "opening": "烏拉圭提供相反於「先有民族、再追求國家」的路徑。當地原與河對",
+      "closing": "政治單位中發展的人物，後來也能被選擇性地編入小國的建國譜系。",
+      "assignment_reason": "烏拉圭是中東歐分部附錄，按書籍分部計，非南美洲地理另分。"
+    },
+    {
+      "id": "S041",
+      "unit": "U10",
+      "paragraph": 2,
+      "runtime_source_line": 99,
+      "cleaned_char_start": 5399,
+      "cleaned_char_end_exclusive": 5525,
+      "part": "中東歐",
+      "body_han": 116,
+      "source_ids": [
+        "NI21"
+      ],
+      "opening": "緩衝國家的條件是阿根廷與巴西誰也無法獨占，英國又重視通商和停",
+      "closing": "可以無中生有，而是現存自治機構與共同遭遇先提供了凝聚的容器。",
+      "assignment_reason": "烏拉圭是中東歐分部附錄，按書籍分部計，非南美洲地理另分。"
+    },
+    {
+      "id": "S042",
+      "unit": "U10",
+      "paragraph": 3,
+      "runtime_source_line": 101,
+      "cleaned_char_start": 5525,
+      "cleaned_char_end_exclusive": 5670,
+      "part": "中東歐",
+      "body_han": 132,
+      "source_ids": [
+        "NI21"
+      ],
+      "opening": "獨立以後，紅黨與白黨仍有長期內戰。競爭者若只想讓自己的軍閥進",
+      "closing": "，內部憲制則處理勝敗雙方能否繼續共處；建國和穩定是兩個問題。",
+      "assignment_reason": "烏拉圭是中東歐分部附錄，按書籍分部計，非南美洲地理另分。"
+    },
+    {
+      "id": "S043",
+      "unit": "U11",
+      "paragraph": 1,
+      "runtime_source_line": 105,
+      "cleaned_char_start": 5670,
+      "cleaned_char_end_exclusive": 5815,
+      "part": "中東",
+      "body_han": 129,
+      "source_ids": [
+        "NI22"
+      ],
+      "opening": "要求效忠的舊帝國，可以容許山地酋長保留語言、習慣法和地方統治",
+      "closing": "家的形成，會刺激周邊人群以相似方法自保，產生接續的民族發明。",
+      "assignment_reason": "P1/P3/P4為庫德同化、公投及時點限制，屬中東；P2確為NI05保加利亞，單獨歸巴爾幹，沒有因整節主題是庫德而錯歸中東。"
+    },
+    {
+      "id": "S044",
+      "unit": "U11",
+      "paragraph": 2,
+      "runtime_source_line": 107,
+      "cleaned_char_start": 5815,
+      "cleaned_char_end_exclusive": 5901,
+      "part": "巴爾幹",
+      "body_han": 78,
+      "source_ids": [
+        "NI05"
+      ],
+      "opening": "保加利亞的鎮壓報導同樣顯示，譴責不只描述暴行，也反覆向外界說",
+      "closing": "對者和報導者先達成共同計畫，彼此對立的言說仍能固定同一名稱。",
+      "assignment_reason": "P1/P3/P4為庫德同化、公投及時點限制，屬中東；P2確為NI05保加利亞，單獨歸巴爾幹，沒有因整節主題是庫德而錯歸中東。"
+    },
+    {
+      "id": "S045",
+      "unit": "U11",
+      "paragraph": 3,
+      "runtime_source_line": 109,
+      "cleaned_char_start": 5901,
+      "cleaned_char_end_exclusive": 6052,
+      "part": "中東",
+      "body_han": 137,
+      "source_ids": [
+        "NI22"
+      ],
+      "opening": "政治名稱還會在反對中獲得力量。圍繞二〇一七年庫德公投及獨立的",
+      "closing": "結果。民族認同得到鞏固，仍可能同時遭受領土、軍事和外交挫敗。",
+      "assignment_reason": "P1/P3/P4為庫德同化、公投及時點限制，屬中東；P2確為NI05保加利亞，單獨歸巴爾幹，沒有因整節主題是庫德而錯歸中東。"
+    },
+    {
+      "id": "S046",
+      "unit": "U11",
+      "paragraph": 4,
+      "runtime_source_line": 111,
+      "cleaned_char_start": 6052,
+      "cleaned_char_end_exclusive": 6089,
+      "part": "中東",
+      "body_han": 33,
+      "source_ids": [
+        "NI22"
+      ],
+      "opening": "這是原講座對當時認同與建國進程的分析，不能直接轉成今日庫德的",
+      "closing": "對當時認同與建國進程的分析，不能直接轉成今日庫德的國際地位。",
+      "assignment_reason": "P1/P3/P4為庫德同化、公投及時點限制，屬中東；P2確為NI05保加利亞，單獨歸巴爾幹，沒有因整節主題是庫德而錯歸中東。"
+    },
+    {
+      "id": "S047",
+      "unit": "U12",
+      "paragraph": 1,
+      "runtime_source_line": 115,
+      "cleaned_char_start": 6089,
+      "cleaned_char_end_exclusive": 6298,
+      "part": "中東",
+      "body_han": 192,
+      "source_ids": [
+        "NI26"
+      ],
+      "opening": "部落身分不只按生物血緣傳遞。社區可以加入有武力和保護能力的部",
+      "closing": "繼承人的忠誠與政策方向，因而比單獨驗明血緣更能說明政治承繼。",
+      "assignment_reason": "科威特、阿聯酋、巴林三篇及其條件同在中東分部。"
+    },
+    {
+      "id": "S048",
+      "unit": "U12",
+      "paragraph": 2,
+      "runtime_source_line": 117,
+      "cleaned_char_start": 6298,
+      "cleaned_char_end_exclusive": 6473,
+      "part": "中東",
+      "body_han": 160,
+      "source_ids": [
+        "NI26",
+        "NI27"
+      ],
+      "opening": "科威特與伊拉克南部的原有社會並非從起點就截然不同。英國的保護",
+      "closing": "點。外部保護提供生長空間，但不保證所有被保護者長出相同能力。",
+      "assignment_reason": "科威特、阿聯酋、巴林三篇及其條件同在中東分部。"
+    },
+    {
+      "id": "S049",
+      "unit": "U12",
+      "paragraph": 3,
+      "runtime_source_line": 119,
+      "cleaned_char_start": 6473,
+      "cleaned_char_end_exclusive": 6627,
+      "part": "中東",
+      "body_han": 141,
+      "source_ids": [
+        "NI27"
+      ],
+      "opening": "阿聯酋的形成建立在各酋長原有權利和分別訂立的保護安排之上。英",
+      "closing": "約先留下這些機構繼續辦事的空間，並沒有直接交付一個統一國家。",
+      "assignment_reason": "科威特、阿聯酋、巴林三篇及其條件同在中東分部。"
+    },
+    {
+      "id": "S050",
+      "unit": "U12",
+      "paragraph": 4,
+      "runtime_source_line": 121,
+      "cleaned_char_start": 6627,
+      "cleaned_char_end_exclusive": 6776,
+      "part": "中東",
+      "body_han": 134,
+      "source_ids": [
+        "NI27"
+      ],
+      "opening": "英國退出時，原先分別訂約的酋長才須共同談判。能否形成憲法協議",
+      "closing": "共同安排，不能倒寫成中央先取消地方權利、再分給地方若干權限。",
+      "assignment_reason": "科威特、阿聯酋、巴林三篇及其條件同在中東分部。"
+    },
+    {
+      "id": "S051",
+      "unit": "U12",
+      "paragraph": 5,
+      "runtime_source_line": 123,
+      "cleaned_char_start": 6776,
+      "cleaned_char_end_exclusive": 6942,
+      "part": "中東",
+      "body_han": 152,
+      "source_ids": [
+        "NI28"
+      ],
+      "opening": "巴林的部落習慣法與教法傳統又有內在差別：前者保留領袖和社區共",
+      "closing": "。地方自治要接成共同政治組織，還需要這個可反覆運作的協調層。",
+      "assignment_reason": "科威特、阿聯酋、巴林三篇及其條件同在中東分部。"
+    },
+    {
+      "id": "S052",
+      "unit": "U13",
+      "paragraph": 1,
+      "runtime_source_line": 127,
+      "cleaned_char_start": 6942,
+      "cleaned_char_end_exclusive": 7041,
+      "part": "中東",
+      "body_han": 88,
+      "source_ids": [
+        "NI29"
+      ],
+      "opening": "桑吉巴起初連向環印度洋的商業、宗教和港口網絡，而不只是鄰近非",
+      "closing": "力。港口的政治譜系要追航線和組織，不能只按陸地上的距離歸類。",
+      "assignment_reason": "桑吉巴章在中東分部；香港局部類比的限制跟隨此來源。"
+    },
+    {
+      "id": "S053",
+      "unit": "U13",
+      "paragraph": 2,
+      "runtime_source_line": 129,
+      "cleaned_char_start": 7041,
+      "cleaned_char_end_exclusive": 7149,
+      "part": "中東",
+      "body_han": 99,
+      "source_ids": [
+        "NI29"
+      ],
+      "opening": "奴隸貿易帶來財富，也使港口與對岸的人口和經濟聯繫增強。廢奴之",
+      "closing": "張貿易與財富的經濟選擇，反過來改變了共同體的人口與政治條件。",
+      "assignment_reason": "桑吉巴章在中東分部；香港局部類比的限制跟隨此來源。"
+    },
+    {
+      "id": "S054",
+      "unit": "U13",
+      "paragraph": 3,
+      "runtime_source_line": 131,
+      "cleaned_char_start": 7149,
+      "cleaned_char_end_exclusive": 7301,
+      "part": "中東",
+      "body_han": 137,
+      "source_ids": [
+        "NI29"
+      ],
+      "opening": "與大陸形成高度不對稱的政治聯合後，富裕小島即使名義上保有財政",
+      "closing": "桑吉巴與香港的並置屬講座中的類比，不是兩地所有歷史程序相同。",
+      "assignment_reason": "桑吉巴章在中東分部；香港局部類比的限制跟隨此來源。"
+    },
+    {
+      "id": "S055",
+      "unit": "U14",
+      "paragraph": 1,
+      "runtime_source_line": 135,
+      "cleaned_char_start": 7301,
+      "cleaned_char_end_exclusive": 7435,
+      "part": "巴爾幹",
+      "body_han": 120,
+      "source_ids": [
+        "NI31"
+      ],
+      "opening": "前近代邊疆的保護、通商、地租、朝貢與宗教權利，可以分屬不同中",
+      "closing": "整排他的領土主權。對某地承擔保護責任，須和直接治理該地分開。",
+      "assignment_reason": "中印邊境附錄在巴爾幹分部，按書籍分部而非地理重分；歷史解釋限度跟隨案例。"
+    },
+    {
+      "id": "S056",
+      "unit": "U14",
+      "paragraph": 2,
+      "runtime_source_line": 137,
+      "cleaned_char_start": 7435,
+      "cleaned_char_end_exclusive": 7592,
+      "part": "巴爾幹",
+      "body_han": 142,
+      "source_ids": [
+        "NI31"
+      ],
+      "opening": "清英藏交涉要處理的因而不只是一條線。英方要求各方沿用既有通商",
+      "closing": "去支撐。排他主權不是替舊制度換名稱，而是在重新分配具體權利。",
+      "assignment_reason": "中印邊境附錄在巴爾幹分部，按書籍分部而非地理重分；歷史解釋限度跟隨案例。"
+    },
+    {
+      "id": "S057",
+      "unit": "U14",
+      "paragraph": 3,
+      "runtime_source_line": 139,
+      "cleaned_char_start": 7592,
+      "cleaned_char_end_exclusive": 7695,
+      "part": "巴爾幹",
+      "body_han": 93,
+      "source_ids": [
+        "NI31"
+      ],
+      "opening": "多元權利不等於沒有規則。規則存在於不同程度的義務、相關各方的",
+      "closing": "的是二〇一七年講座的歷史解釋，不替代今日邊界爭議的法律認定。",
+      "assignment_reason": "中印邊境附錄在巴爾幹分部，按書籍分部而非地理重分；歷史解釋限度跟隨案例。"
+    },
+    {
+      "id": "S058",
+      "unit": "U15",
+      "paragraph": 1,
+      "runtime_source_line": 145,
+      "cleaned_char_start": 7695,
+      "cleaned_char_end_exclusive": 7873,
+      "part": "舊來源承接",
+      "body_han": 160,
+      "source_ids": [
+        "N04"
+      ],
+      "opening": "國家不必等到先有統一國語才形成。意大利的政治整合還要追到財政",
+      "closing": "較。這是該次訪談中的政策主張，並非已核定的各國現行法律描述。",
+      "assignment_reason": "N04舊訪談全部獨立承接，不歸新合輯任何分部。"
+    },
+    {
+      "id": "S059",
+      "unit": "U16",
+      "paragraph": 1,
+      "runtime_source_line": 151,
+      "cleaned_char_start": 7873,
+      "cleaned_char_end_exclusive": 8029,
+      "part": "舊來源承接",
+      "body_han": 140,
+      "source_ids": [
+        "N05"
+      ],
+      "opening": "顧頡剛早年的古史辨、民族與民俗調查，拆開了整齊的華夏敘事，所",
+      "closing": "力。研究所釋放的分類工具，不會永遠服從研究者後來的政治目的。",
+      "assignment_reason": "N05舊評傳全部獨立承接，不歸新合輯任何分部。"
+    },
+    {
+      "id": "S060",
+      "unit": "U16",
+      "paragraph": 2,
+      "runtime_source_line": 153,
+      "cleaned_char_start": 8029,
+      "cleaned_char_end_exclusive": 8153,
+      "part": "舊來源承接",
+      "body_han": 106,
+      "source_ids": [
+        "N05"
+      ],
+      "opening": "「中國人都是中華民族」在這個案例中是顧頡剛的主張。新認同發明",
+      "closing": "所有新認同都必定迅速失敗。人物家系與微環境另見 [C06]。",
+      "assignment_reason": "N05舊評傳全部獨立承接，不歸新合輯任何分部。"
+    }
+  ],
+  "scope_note": "This is a precise editorial accounting of existing source-attributed prose, not proof that shared concepts originate uniquely in a single volume. Source overlap is acknowledged while text is counted only once.",
+  "runtime_modified": false,
+  "matches_current_portable_counter": true,
+  "portable_counter_body_han": 7411,
+  "user_override": {
+    "instruction": "這次本地改動後先不提交推送而且就重複總論刪掉就好，內容以新語料為準",
+    "effective_scope": "Local content edits only; delete repeated generalizations; source fidelity and necessary cases/conditions govern. Earlier body_han and part_han ranges remain historical allocation comparisons, not grounds to add words or move paragraphs.",
+    "quota_driven_additions_or_moves_applied_after_part_audit": false,
+    "publication": "no commit or push"
+  },
+  "all_historical_unit_part_ranges_within_range": false,
+  "range_deviations_are_failures": false,
+  "cleaned_text_reconstruction": "Apply the recorded cleaning steps / existing measure_current.py to the runtime SHA256 in this record. The full cleaned text is intentionally omitted; its hash, complete continuous span offsets and opening/closing snippets remain auditable.",
+  "review_outcome": "Source-led content retained; duplicate generalizations removed. Historical aggregate part totals happen to fit, while unit-level suballocations retain disclosed deviations. Neither result caused padding, proportional attribution, or paragraph relocation.",
+  "duplicate_generalization_deletions": [
+    {
+      "unit": "U09",
+      "removed_text": "共同體數目增加，還可能改變多數與少數的比例：一個龐大主體民族對幾個小族群，與許多規模相近的共同體協商，是不同的憲制結構。",
+      "removed_body_han": 55,
+      "reason": "前文已直接說明三族／六族改變最大主體與多數恐懼；末句只再總結同一比例效果。"
+    },
+    {
+      "unit": "U06",
+      "removed_text": "自由派、教士和地方農民都可以使用代表人民的語言，實際依據卻分別是既成議會資格、基層組織與保護力量。擴大資格改變的是誰能把人數組織成政治力量，並不預先保證自由派掌權。〔NI17、NI18〕",
+      "removed_body_han": 76,
+      "reason": "前三段已分別講議會資格與基層利益、克羅埃西亞／斯洛伐克武力議價、匈牙利普選反轉及軍事支柱，末尾重述總論無新增案例。"
+    }
+  ]
+}

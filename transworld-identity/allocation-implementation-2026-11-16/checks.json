@@ -1,0 +1,979 @@
+{
+  "schema_version": 1,
+  "scope": "四份已核定配置的正文實施；機械核對與AI編輯交叉審閱分開記錄",
+  "unit": "正文漢字 U+3400..U+9FFF",
+  "modules": [
+    {
+      "module": "c02-1",
+      "runtime_path": "references/clusters/c02-1-mesopotamia.md",
+      "runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+      "body_han": 5652,
+      "metadata_han": 703,
+      "body_range": [
+        5080,
+        7200
+      ],
+      "metadata_range": [
+        650,
+        1050
+      ],
+      "all_units_within_range": true,
+      "units": [
+        {
+          "unit": "M01",
+          "heading": "一、文明代際、旁系與模型的限度",
+          "body_han": 475,
+          "adopted_range": [
+            400,
+            550
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M02",
+          "heading": "二、神廟的組織權威與城邦間秩序",
+          "body_han": 598,
+          "adopted_range": [
+            500,
+            700
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M03",
+          "heading": "三、殖民、人口混合與階級的不同尺度",
+          "body_han": 296,
+          "adopted_range": [
+            280,
+            400
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M04",
+          "heading": "四、文字、紀錄與書吏角色的生成",
+          "body_han": 377,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M05",
+          "heading": "五、文明傳播：陸海接力、模仿與證據強弱",
+          "body_han": 434,
+          "adopted_range": [
+            400,
+            550
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M06",
+          "heading": "六、水利與環境壓力如何形成跨城衝突",
+          "body_han": 381,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M07",
+          "heading": "七、恩西與盧伽爾：權威來源與分工固定",
+          "body_han": 381,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M08",
+          "heading": "八、出資、流血、選票與仲裁的政治分量",
+          "body_han": 593,
+          "adopted_range": [
+            500,
+            700
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M09",
+          "heading": "九、霸權與帝國：地方權力被收走的深度",
+          "body_han": 387,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M10",
+          "heading": "十、開拓競爭轉入社會性戰爭",
+          "body_han": 380,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M11",
+          "heading": "十一、邊區創新與文化載體的延續",
+          "body_han": 469,
+          "adopted_range": [
+            450,
+            650
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M12",
+          "heading": "十二、部落法統、教團仲裁與現代王室的選擇",
+          "body_han": 496,
+          "adopted_range": [
+            450,
+            650
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M13",
+          "heading": "十三、法律、考古與尚無法回答的問題",
+          "body_han": 385,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        }
+      ],
+      "semantic_review": "c02-1-implementation-review.json",
+      "cross_review": "c02-1-cross-review.json"
+    },
+    {
+      "module": "c05",
+      "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "runtime_sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+      "body_han": 12266,
+      "metadata_han": 569,
+      "body_range": [
+        11270,
+        15080
+      ],
+      "metadata_range": [
+        450,
+        650
+      ],
+      "all_units_within_range": false,
+      "units": [
+        {
+          "unit": "U01",
+          "heading": "一、格局與節點",
+          "body_han": 353,
+          "adopted_range": [
+            320,
+            480
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U02",
+          "heading": "二、國家層級與公共功能",
+          "body_han": 665,
+          "adopted_range": [
+            700,
+            950
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "U03",
+          "heading": "三、資本再生與金融政治",
+          "body_han": 1686,
+          "adopted_range": [
+            1350,
+            1700
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U04",
+          "heading": "四、產業外包與未知創新",
+          "body_han": 1167,
+          "adopted_range": [
+            1000,
+            1300
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U05",
+          "heading": "五、AI媒介與專用技術",
+          "body_han": 1079,
+          "adopted_range": [
+            950,
+            1250
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U06",
+          "heading": "六、移民、公民權與庇護",
+          "body_han": 1014,
+          "adopted_range": [
+            850,
+            1150
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U07",
+          "heading": "七、聯盟與軍事目標",
+          "body_han": 1079,
+          "adopted_range": [
+            1100,
+            1500
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "U08",
+          "heading": "八、政黨供養與國家建構",
+          "body_han": 985,
+          "adopted_range": [
+            1000,
+            1350
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "U09",
+          "heading": "九、認知戰與國家形象",
+          "body_han": 904,
+          "adopted_range": [
+            700,
+            1000
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U10",
+          "heading": "十、階級再生與教育",
+          "body_han": 1133,
+          "adopted_range": [
+            1150,
+            1500
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "U11",
+          "heading": "十一、生育與共同責任",
+          "body_han": 739,
+          "adopted_range": [
+            650,
+            850
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U12",
+          "heading": "十二、學術、版權與正統",
+          "body_han": 876,
+          "adopted_range": [
+            900,
+            1200
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "legacy",
+          "heading": "十三、舊來源承接",
+          "body_han": 586,
+          "adopted_range": [
+            600,
+            850
+          ],
+          "within_range": false
+        }
+      ],
+      "semantic_review": "c05-implementation-review.json",
+      "cross_review": "c05-cross-review.json"
+    },
+    {
+      "module": "c07-1",
+      "runtime_path": "references/clusters/c07-1-nation-invention-world-history.md",
+      "runtime_sha256": "018cb0a0b939058b24b9177eb2209504d37a3958998a9440b4fdf56e331e5169",
+      "body_han": 7411,
+      "metadata_han": 1016,
+      "body_range": [
+        6450,
+        8630
+      ],
+      "metadata_range": [
+        860,
+        1300
+      ],
+      "all_units_within_range": false,
+      "units": [
+        {
+          "unit": "U01",
+          "heading": "01、民族、政權與國家的層級",
+          "body_han": 356,
+          "adopted_range": [
+            330,
+            450
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U02",
+          "heading": "02、共同文化圈與後出的國史",
+          "body_han": 469,
+          "adopted_range": [
+            360,
+            480
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U03",
+          "heading": "03、文化載體與代際轉用",
+          "body_han": 845,
+          "adopted_range": [
+            650,
+            850
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U04",
+          "heading": "04、外部保護與消失的出路",
+          "body_han": 603,
+          "adopted_range": [
+            480,
+            640
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U05",
+          "heading": "05、帝國民族化與地方權利",
+          "body_han": 467,
+          "adopted_range": [
+            460,
+            620
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U06",
+          "heading": "06、自由派統一與選舉權反轉",
+          "body_han": 364,
+          "adopted_range": [
+            390,
+            510
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "U07",
+          "heading": "07、民族使命與既成國家",
+          "body_han": 602,
+          "adopted_range": [
+            560,
+            720
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U08",
+          "heading": "08、宗教共同體的自治層次",
+          "body_han": 516,
+          "adopted_range": [
+            480,
+            640
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U09",
+          "heading": "09、憲法主體與人民邊界",
+          "body_han": 580,
+          "adopted_range": [
+            480,
+            640
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U10",
+          "heading": "10、國家先於民族",
+          "body_han": 368,
+          "adopted_range": [
+            330,
+            450
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U11",
+          "heading": "11、同化反彈與公共命名",
+          "body_han": 377,
+          "adopted_range": [
+            300,
+            420
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U12",
+          "heading": "12、政治部落與共同協調",
+          "body_han": 779,
+          "adopted_range": [
+            650,
+            850
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U13",
+          "heading": "13、港口繁榮與共同體變化",
+          "body_han": 324,
+          "adopted_range": [
+            300,
+            420
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U14",
+          "heading": "14、分層權利與排他主權",
+          "body_han": 355,
+          "adopted_range": [
+            300,
+            420
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U15",
+          "heading": "15、舊訪談：語言與建國",
+          "body_han": 160,
+          "adopted_range": [
+            160,
+            220
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "U16",
+          "heading": "16、舊評傳：分類反制發明者",
+          "body_han": 246,
+          "adopted_range": [
+            220,
+            300
+          ],
+          "within_range": true
+        }
+      ],
+      "semantic_review": "c07-1-implementation-review.json",
+      "cross_review": "c07-1-cross-review.json"
+    },
+    {
+      "module": "c07-2",
+      "runtime_path": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "runtime_sha256": "69edfb6a88dd489a36163b53767b581068fff4f0f0d8a182e22218129d443207",
+      "body_han": 9678,
+      "metadata_han": 1254,
+      "body_range": [
+        8780,
+        12500
+      ],
+      "metadata_range": [
+        1140,
+        1660
+      ],
+      "all_units_within_range": false,
+      "units": [
+        {
+          "unit": "B01",
+          "heading": "一、文明地圖與傳播辨識",
+          "body_han": 308,
+          "adopted_range": [
+            300,
+            440
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "B02",
+          "heading": "二、民族建構的自治判準",
+          "body_han": 263,
+          "adopted_range": [
+            220,
+            340
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "W01",
+          "heading": "三、吳越的山、海與郡縣",
+          "body_han": 371,
+          "adopted_range": [
+            360,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "W02",
+          "heading": "四、豪族、流亡朝廷與海上教團",
+          "body_han": 379,
+          "adopted_range": [
+            350,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "W03",
+          "heading": "五、寺院工程與士大夫接管",
+          "body_han": 561,
+          "adopted_range": [
+            480,
+            660
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "W04",
+          "heading": "六、條約、公局財政與未完成的建國",
+          "body_han": 449,
+          "adopted_range": [
+            420,
+            580
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "W05",
+          "heading": "七、江淮的通道與法統負擔",
+          "body_han": 453,
+          "adopted_range": [
+            400,
+            560
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "B03",
+          "heading": "八、巴蜀的商路與帝國糧倉",
+          "body_han": 398,
+          "adopted_range": [
+            330,
+            470
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "B04",
+          "heading": "九、夜郎的動員與征服後收權",
+          "body_han": 349,
+          "adopted_range": [
+            300,
+            430
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "B05",
+          "heading": "十、滇國外交的時機錯置",
+          "body_han": 301,
+          "adopted_range": [
+            260,
+            380
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "J01",
+          "heading": "十一、晉地的名稱、組織與武士權利",
+          "body_han": 421,
+          "adopted_range": [
+            380,
+            520
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "J02",
+          "heading": "十二、軍國民教育與本地公共能力",
+          "body_han": 213,
+          "adopted_range": [
+            220,
+            320
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "J03",
+          "heading": "十三、燕地豪族的保護者與中介選擇",
+          "body_han": 249,
+          "adopted_range": [
+            270,
+            400
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "J04",
+          "heading": "十四、齊魯的海陸方向與地方組織",
+          "body_han": 257,
+          "adopted_range": [
+            300,
+            430
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "S01",
+          "heading": "十五、上海：辦事團體到憲制中心",
+          "body_han": 376,
+          "adopted_range": [
+            360,
+            500
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "S02",
+          "heading": "十六、多重司法、先例與附則權力",
+          "body_han": 484,
+          "adopted_range": [
+            420,
+            580
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "S03",
+          "heading": "十七、受保護中立與外交自主的交換",
+          "body_han": 314,
+          "adopted_range": [
+            260,
+            380
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "S04",
+          "heading": "十八、人口擴張與共同責任不足",
+          "body_han": 389,
+          "adopted_range": [
+            340,
+            480
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "S05",
+          "heading": "十九、代理人供養與代表性爭奪",
+          "body_han": 254,
+          "adopted_range": [
+            300,
+            440
+          ],
+          "within_range": false
+        },
+        {
+          "unit": "S06",
+          "heading": "二十、總體戰下的外交、行政與公民資格",
+          "body_han": 373,
+          "adopted_range": [
+            320,
+            460
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M01",
+          "heading": "二十一、滿洲宮廷之外的開拓與技術累積",
+          "body_han": 334,
+          "adopted_range": [
+            300,
+            440
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M02",
+          "heading": "二十二、征服財庫與原有議事權的瓦解",
+          "body_han": 474,
+          "adopted_range": [
+            420,
+            580
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M03",
+          "heading": "二十三、屬人聯盟到連續領土與國族",
+          "body_han": 359,
+          "adopted_range": [
+            330,
+            480
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M04",
+          "heading": "二十四、協和、正統與自治的內部衝突",
+          "body_han": 379,
+          "adopted_range": [
+            360,
+            510
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M05",
+          "heading": "二十五、代議、保安會與地方合作",
+          "body_han": 240,
+          "adopted_range": [
+            220,
+            320
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M06",
+          "heading": "二十六、高成長遮蔽的統制經濟代價",
+          "body_han": 475,
+          "adopted_range": [
+            380,
+            540
+          ],
+          "within_range": true
+        },
+        {
+          "unit": "M07",
+          "heading": "二十七、技術精英與政治後裔的斷裂",
+          "body_han": 255,
+          "adopted_range": [
+            180,
+            260
+          ],
+          "within_range": true
+        }
+      ],
+      "semantic_review": "c07-2-implementation-review.json",
+      "cross_review": "c07-2-cross-review.json"
+    }
+  ],
+  "errors": [],
+  "evidence": {
+    "original_records_preserved": 131,
+    "new_CA_records": 10,
+    "total_records": 141,
+    "remapped_current_destinations": [
+      "MES26-01",
+      "MES26-02",
+      "MES26-03",
+      "MES26-04",
+      "MES26-05",
+      "MES26-06",
+      "MES26-07",
+      "MES26-08",
+      "MES26-09",
+      "MES26-10",
+      "MES26-11",
+      "MES26-12",
+      "MES26-13",
+      "MES26-14",
+      "MES26-15",
+      "MES26-16",
+      "MES26-17",
+      "MES26-18",
+      "MES26-19",
+      "NI01",
+      "NI02",
+      "NI03",
+      "NI04",
+      "NI05",
+      "NI06",
+      "NI07",
+      "NI08",
+      "NI09",
+      "NI10",
+      "NI11",
+      "NI12",
+      "NI13",
+      "NI14",
+      "NI15",
+      "NI16",
+      "NI17",
+      "NI18",
+      "NI19",
+      "NI20",
+      "NI21",
+      "NI22",
+      "NI23",
+      "NI24",
+      "NI25",
+      "NI26",
+      "NI27",
+      "NI28",
+      "NI29",
+      "NI30",
+      "NI31",
+      "EA26-01",
+      "EA26-02",
+      "EA26-03",
+      "EA26-04",
+      "EA26-05",
+      "EA26-06",
+      "EA26-07",
+      "EA26-08",
+      "EA26-09",
+      "EA26-10",
+      "EA26-11",
+      "EA26-12",
+      "EA26-13",
+      "EA26-14",
+      "EA26-15",
+      "EA26-16",
+      "EA26-17",
+      "EA26-18",
+      "EA26-19",
+      "EA26-20",
+      "EA26-21",
+      "EA26-22",
+      "EA26-23",
+      "EA26-24",
+      "EA26-25",
+      "EA26-26",
+      "EA26-27",
+      "EA26-28",
+      "EA26-29",
+      "CA01",
+      "CA02",
+      "CA03",
+      "CA04",
+      "CA05",
+      "CA06",
+      "CA07",
+      "CA08",
+      "CA09",
+      "CA10",
+      "CA11",
+      "CA12",
+      "CA13",
+      "CA14",
+      "CA15",
+      "CA16",
+      "CA17",
+      "CA18",
+      "CA19",
+      "CA20",
+      "CA21",
+      "CA22",
+      "CA23",
+      "CA24",
+      "CA-L01",
+      "CA-L02",
+      "CA-L03",
+      "CA-L04",
+      "CA-L05",
+      "CA-L06",
+      "CA26-A01",
+      "CA26-A02",
+      "CA26-A03",
+      "CA26-A04",
+      "CA26-A05",
+      "CA26-A06",
+      "CA26-A07",
+      "CA26-A08",
+      "CA26-A09",
+      "CA26-A10"
+    ],
+    "all_current_changed_module_anchors_resolve": true,
+    "historical_ledger": "../history/allocation-implementation-2026-11-16/transworld-identity/evidence.json"
+  },
+  "original_plan_hashes_unchanged": {
+    "c02-1": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+    "c05": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+    "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+    "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
+  },
+  "argument_units_checked": 68,
+  "current_editorial_policy": "使用者後續指示優先：只刪重複總論，內容以新語料為準；原範圍作對照，不為下界補字，不為細分配額搬段；本輪只作本地修改，不提交推送。",
+  "additional_legacy_block_checked": 1,
+  "reserve_activated": false,
+  "recognition_calls": 0,
+  "unchanged_core_other_references_and_AGENTS": [
+    "AGENTS.md",
+    "SKILL.md",
+    "references/clusters/c01-ayi-life-advice.md",
+    "references/clusters/c02-2-premodern-order.md",
+    "references/clusters/c03-wadi-psychology.md",
+    "references/clusters/c04-civilization-theory.md",
+    "references/clusters/c06-figures.md",
+    "references/clusters/c08-minguo-wenyan.md",
+    "references/frameworks.md",
+    "references/voice.md"
+  ],
+  "source_part_accounting": {
+    "c07-1": "c07-1-part-measurements.json",
+    "c07-2": "c07-2-implementation-review.json",
+    "scope": "原分攤只作編輯對照；依最新指示不為細分範圍補字或搬段。"
+  },
+  "scope_limits": [
+    "沒有新增來源閱讀範圍；重讀不重算覆蓋。",
+    "機械篇幅合格不等於內容完整；逐單元語義檢查與交叉審閱另列。",
+    "不是全書充分性、獨立專家史學核證或已執行人格識別；整體仍是Candidate。"
+  ],
+  "deduplication_body_han_removed": {
+    "c02-1": 120,
+    "c05": 522,
+    "c07-1": 131,
+    "c07-2": 466,
+    "total": 1239
+  },
+  "range_deviations_not_acceptance_failures": true,
+  "source_window_hash_verification": {
+    "checked_entries": 98,
+    "record": "source-window-checks.json",
+    "source_hashes_match": true,
+    "additional_source_reading": false
+  },
+  "local_link_check": {
+    "checked_links": 89,
+    "broken": 0,
+    "record": "local-links.json",
+    "scope": "Current runtime, README, changelog, allocation reports and new scope/provenance entries; historical entries retain original-relative-path context"
+  },
+  "package_validation": {
+    "root": {
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 1
+    },
+    "discovery": {
+      "exit_code": 0,
+      "errors": 0,
+      "warnings": 1
+    },
+    "warning": "Optional episodic.md absent",
+    "heading_anchor_check": "Skipped because no language-specific heading list was supplied",
+    "default_discovery_alias_resolves": true
+  },
+  "all_current_changed_module_evidence_links_resolve": {
+    "checked": 160,
+    "legacy_section_notation_replaced": true
+  },
+  "previous_record_source_fields_unchanged": 131
+}

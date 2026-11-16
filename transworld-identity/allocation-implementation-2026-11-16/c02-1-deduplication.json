@@ -1,0 +1,39 @@
+{
+  "module": "c02-1",
+  "policy": "最新使用者指示：只刪重複總論，內容依新語料，不為配置下界補字；僅本地修改。",
+  "deletions": [
+    {
+      "removed": "這種未分化的組織不能倒寫成現代部會已經俱全。",
+      "replacement": "",
+      "reason": "與前文宗教政治法律經濟尚未分開的說明重複。",
+      "han_removed": 21
+    },
+    {
+      "removed": "長老或祭司負責仲裁，也不等於已有近代職業律師。",
+      "replacement": "",
+      "reason": "下一段已具體區分仲裁、司法建議與職業律師。",
+      "han_removed": 21
+    },
+    {
+      "removed": "把彙集既有習慣寫在君主名下，不等於所有規則都由君主從頭設計；",
+      "replacement": "",
+      "reason": "同節前段已說明法典彙集與任意設計社會的區別。",
+      "han_removed": 28
+    },
+    {
+      "removed": "將沼澤一開始就說成必然吞噬文明的陷阱，抹去了開拓與破壞之間的轉折。",
+      "replacement": "",
+      "reason": "同段開拓不是墮落及資源界限後轉為破壞已說明同一轉折。",
+      "han_removed": 31
+    },
+    {
+      "removed": "文字、專業讀寫能力與特定社會角色並非同物。",
+      "replacement": "",
+      "reason": "同段已具體區分識字階級與近代知識分子。",
+      "han_removed": 19
+    }
+  ],
+  "han_removed": 120,
+  "runtime_sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+  "new_content_added": false
+}

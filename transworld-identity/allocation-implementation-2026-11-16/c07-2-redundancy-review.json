@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "scope": "C07-2第六、七、九、十節只讀冗餘審閱",
+  "status": "four_targeted_sections_reviewed_revisions_recommended",
+  "module_sha256_at_review": "018847c98f9b884d8ede1d92289912a0fbfc3ebe90a3f0929ed22794a096213c",
+  "source_sha256": "9c8bd75c85101f0e53c3ef649e70958541de5dba4c33da76795925f3bf9be0fb",
+  "source_sha256_matches_prior": true,
+  "findings": [
+    {
+      "section": "六、條約、公局財政與未完成的建國",
+      "allocation_unit": "W04",
+      "priority": "keep_condition_replace_generic_restatement",
+      "redundancy_assessment": "第一段追加的「能重新取得收入，也不表示舊有豪族、海商的政治位置一併復原」不是可全部刪除的贅句：allocation明定恢復財富未必恢復原階級。原先的「速度與政治位置不同」只比較內陸與海商，沒有充分交代舊階級滅亡與新階級重建。追加後半句「土地和航路可以繼續產生財富……」仍偏抽象；應換成來源中可辨認的前後階級，而不是再複述一次一般保護關係。末段的全國位置、外援退縮與不承擔軍事成本是不同環節，並非同義反覆。",
+      "necessary_revision": "保留原階級不復原的限制，把追加兩句改成洪宣後重新積累的新士大夫、原蒙古／張士誠階級並未回來，以及新階級更弱的具體轉折。若需增加公局的實際機制，用上海縣仿工部局籌款拆牆修路、由公局辦理的實例替代泛稱，不另加「出錢就有監督」總論。",
+      "supported_details": [
+        {
+          "detail": "內陸財富恢復的是新的士大夫階級，舊蒙古／張士誠階級並未原樣恢復；其政治地位較唐宋時軟弱。",
+          "source": {
+            "start_line": 1163,
+            "end_line": 1167,
+            "sha256": "23251fd23b0508fd4f337b40d332dd9351f4f4cd5b62b1c932e76d204620072f",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R09",
+            "window_start_line": 1157,
+            "window_end_line": 1174,
+            "window_sha256": "991abf1224ded8b4c6d59425dc75942cef1ef2cf6766fb0d3162c01320d143d8",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "原先的蒙古帝国和张士诚政权的士大夫阶级并没有卷土重来。"
+          }
+        },
+        {
+          "detail": "上海縣士紳仿照鄰接工部局，提出拆城牆、自籌經費修路，交公局辦理；使出資到監督的權利轉換有實際事務。",
+          "source": {
+            "start_line": 1207,
+            "end_line": 1207,
+            "sha256": "17d9c8751fc3bf44f80169545e6792d3f1bf6f7141379e514d0a03191f099688",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R55",
+            "window_start_line": 1207,
+            "window_end_line": 1216,
+            "window_sha256": "cbe61d5ba7a366d4312cb7be3016b1ae7f67d3c96ed2ee958c38136d5dfa9a7a",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "我们自己筹款修路。筹款修路由谁来办？由公局来办。"
+          }
+        }
+      ],
+      "suggested_replacement": "洪宣以後重新積累起來的是新的士大夫階級，並不是蒙古與張士誠時代被摧毀的原階級；新階級雖能重建文化活動，政治地位已比唐宋時軟弱。",
+      "do_not_add": "不沿用土地百分之八十等數量作已驗證統計；不必再展治外法權通史。",
+      "allocation_body_han_target": [
+        420,
+        580
+      ],
+      "allocation_required_elements": [
+        "征服對土地與海商的作用不同；外部保護促成財源與公局監督，但財富不自動轉為軍事政治責任。",
+        "張士誠／方國珍基礎；東南互保、公局；吳越精英的全國位置。",
+        "恢復財富未必恢復原階級；保護者撤退會改變條件。"
+      ],
+      "current_body_han": 436,
+      "current_section_sha256": "6e5dcdb3c173ccc5fb7d534527d5e9ad250dd25d6bf78c27ecee689c45278872"
+    },
+    {
+      "section": "七、江淮的通道與法統負擔",
+      "allocation_unit": "W05",
+      "priority": "replace_redundant_tail_with_missing_route_consequence",
+      "redundancy_assessment": "第二段原有「王琳支持梁朝正統……動機並非虛假，但法統與私人恩怨之外，仍有……生命線」已明示信念和功利可並存。追加「通道條件……並不取消……同一場復國……」是同一限制第二次說，沒有新的條件或例子。",
+      "necessary_revision": "把兩組不取消信念的話合為一句。騰出位置交代王琳最後投靠北齊與漢東通道受誰控制的具體關係，或梁朝轉向廣州海路的可觀察後果；兩個案例都已在原選窗口。不要再重述巴蜀整套通道論。",
+      "supported_details": [
+        {
+          "detail": "梁朝失去仇池／青海道後改開廣州—東南亞—印度海路，佛教僧人經廣州、洪都、江州抵建康；這讓「供應改向」有清楚地點與流動者。",
+          "source": {
+            "start_line": 1731,
+            "end_line": 1735,
+            "sha256": "af29b7c759b7027196e294b66c020eac431d32a942fed7b31f266692a575f59c",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R12",
+            "window_start_line": 1725,
+            "window_end_line": 1744,
+            "window_sha256": "b27568b36b76cfe4c893383a243a3f686087c3b76504d35e4be7625109f08127",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "梁朝政府不得不大力开拓广州透过东南亚通向印度的海路。"
+          }
+        },
+        {
+          "detail": "王琳依靠的淮南土豪因漢東陳蔡通道掌握於北齊而投向北齊；同時保留與陳霸先的個人、王朝仇恨。",
+          "source": {
+            "start_line": 1739,
+            "end_line": 1743,
+            "sha256": "90c6e2773bcfad8d5eeb6a9a39fa819d1ae86ac48f99284258c24a60bceebfed",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R12",
+            "window_start_line": 1725,
+            "window_end_line": 1744,
+            "window_sha256": "b27568b36b76cfe4c893383a243a3f686087c3b76504d35e4be7625109f08127",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "王琳集团最终投靠北齐，一方面是因为他们与陈霸先集团有个人的和王朝的仇恨。"
+          }
+        }
+      ],
+      "suggested_replacement": "王琳最後投靠北齊，既有對陳霸先的王朝與私人仇恨，也因其所依靠的淮南土豪必須追隨掌握漢東陳蔡通道的力量。通道移手還使梁朝轉向廣州經東南亞通印度的海路，僧人與技術的輸入路徑隨之變化。",
+      "do_not_add": "不要以通道必然論抹去正統信念，也不要從未讀段落添加王琳軍事細節。",
+      "allocation_body_han_target": [
+        400,
+        560
+      ],
+      "allocation_required_elements": [
+        "地形改變輸入技術的效果；通道轉向削弱地方力量，復國法統又抬高不可退讓的政治目標。",
+        "水網與戰車；仇池漢中江陵；南唐與明州、燕雲變化。",
+        "王琳的信念與私怨仍有作用；不能以地理單因取消。"
+      ],
+      "current_body_han": 446,
+      "current_section_sha256": "ecfacfcb10df322b5599940642676e975c6430d1a47b9e43aa023cced6c19899"
+    },
+    {
+      "section": "九、夜郎的動員與征服後收權",
+      "allocation_unit": "B04",
+      "priority": "replace_redundant_tail_with_revolt_and_effect",
+      "redundancy_assessment": "第二段已完成「蒙古吸納→征服後內部收權→地方反抗」；追加「投向較寬鬆宗主……不等於永久接受……合作基礎改變」把同一轉折再抽象說一遍。條件重要但前文已具備，無需二次陳述。",
+      "necessary_revision": "以蛇節叛亂及其雙重效果替代追加句，或將第二段拆成合作與收權後反抗兩段，對應原配置三段。來源已有明確因果：征兵／改土歸流激起反抗，阻滯遠征也延緩去封建化。",
+      "supported_details": [
+        {
+          "detail": "夜郎楊氏叛宋歸蒙，與宋廷排斥地方領主有關；不是抽象「地方領主」而是具體地方聯盟改向。",
+          "source": {
+            "start_line": 2814,
+            "end_line": 2818,
+            "sha256": "9d86573f84661fde39090d65db7e63ad82ada48aebc1409320cf2890e18e32cf",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R51",
+            "window_start_line": 2810,
+            "window_end_line": 2827,
+            "window_sha256": "63169036b938bbbd77bd881079aecb56b58b9bbae3b8722ef0580c4e4d8824a0",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "夜郎杨氏叛宋归蒙，是宋人完全失去长江上游的一个标志。"
+          }
+        },
+        {
+          "detail": "改土歸流及徵用領主兵力赴緬甸、東南亞，激起蛇節叛亂；敘述把遠征失敗和延緩帝國去封建化作為兩個後果。",
+          "source": {
+            "start_line": 2820,
+            "end_line": 2820,
+            "sha256": "1e54f16e74e8993c89a9a15922708cfd4bc6165f34cc0177b8819248bcd3a840",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R51",
+            "window_start_line": 2810,
+            "window_end_line": 2827,
+            "window_sha256": "63169036b938bbbd77bd881079aecb56b58b9bbae3b8722ef0580c4e4d8824a0",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "激起了夜郎领主蛇节的叛乱。"
+          }
+        }
+      ],
+      "suggested_replacement": "這種反抗並不只是合作意願下降：改土歸流和徵兵赴緬甸、東南亞，激起了夜郎領主蛇節的叛亂。遠征受挫，也反過來遏制帝國內部的去封建化，使滇黔領主較長時間保存權力。",
+      "do_not_add": "不必追加明代移民數量與軍戶流失，會偏離本單元必要機制；原文數量也未獨立驗證。",
+      "allocation_body_han_target": [
+        300,
+        430
+      ],
+      "allocation_required_elements": [
+        "宗教與封建團體使地方能動員；征服者可以先吸納保護領主，再從內部收權，引出新的反抗。",
+        "銅鼓的祭司長老武士；蒙古吸納領主；文化改名保存習俗。",
+        "曾提供保護不保證永久尊重自治；文化名稱變動不等於組織立即消失。"
+      ],
+      "current_body_han": 355,
+      "current_section_sha256": "467a061ebc3cc693d6639b5349323ba243f6ea92c2da6564d88cf83bb125f354"
+    },
+    {
+      "section": "十、滇國外交的時機錯置",
+      "allocation_unit": "B05",
+      "priority": "necessary_rewrite_of_second_paragraph",
+      "redundancy_assessment": "兩段都按蔡鍔→唐繼堯→顧品珍／龍雲順序說完同一時機錯置，第二段只有「緩衝」「相反動作」等抽象重命名，沒有獨立史料、條件或反例。這是四處中最明顯的湊長風險。兩段配置應分別承載有限干涉的操作性轉折和過度擴張／過遲退守的後果，而不是同一三階段各說一次。",
+      "necessary_revision": "第一段用蔡鍔先派兵支持保守派、激進派引入荊楚湖湘後又收束干涉並接受調停的具體政策轉向，說清有限干涉的限制；第二段寫唐繼堯過度干涉如何削弱南粵本可抗拒孫蔣的地方力量，以及其後未援夜郎巴蜀、對手坐大使滇軍失去正面抗爭能力。最後只留一句時機判準，不再列一遍三個人物。",
+      "supported_details": [
+        {
+          "detail": "蔡鍔支持夜郎保守派，是為讓地主等土豪網絡穩定；激進派引入荊楚湖湘後，他既派唐繼堯出兵，又要求收束干涉、接受袁世凱調停，避免盟邦外交衝突。原文「撤回夜郎」疑有口述／轉錄歧義，宜寫「收束干涉」，不自行補撤軍方向。",
+          "source": {
+            "start_line": 3131,
+            "end_line": 3137,
+            "sha256": "5191475e4f6e9359f3144d5dfa12fb7bf47f052746639bbb6f756fb4edb667cd",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R52",
+            "window_start_line": 3129,
+            "window_end_line": 3152,
+            "window_sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "接受独联体领导袁世凯的调停，使夜郎的保守派和激进派能够达成双方都能接受的解决方案。"
+          }
+        },
+        {
+          "detail": "唐繼堯干涉南粵不僅耗損本國軍力，還削弱南粵地主及資產階級抗拒孫文蔣介石的傾向；這是「破壞盟友」的具體中介。",
+          "source": {
+            "start_line": 3141,
+            "end_line": 3145,
+            "sha256": "2d7efefbbf3bb7891d56ec2b4e82dce667a2d379f17374d5281b8e76b8016b4a",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R52",
+            "window_start_line": 3129,
+            "window_end_line": 3152,
+            "window_sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "如果不是因为唐继尧过度地干涉南粤的内政，南粤的很多地主和资产阶级本来会更加坚决地抵抗……孙文和蒋介石的。"
+          }
+        },
+        {
+          "detail": "後續退守未援夜郎與巴蜀，等蔣介石在重慶建立政權並向昆明派兵時，滇軍已無正面抗爭實力；保留原講述的政策評價而不另添精確年代。",
+          "source": {
+            "start_line": 3145,
+            "end_line": 3147,
+            "sha256": "6cce1c8d49b2f722f171e3c6a96f61675757f2e32f0ca020fed6737ab68c1c70",
+            "hash_method": "UTF-8 source physical lines joined with LF, no final LF",
+            "within_previously_logged_window": "EA-R52",
+            "window_start_line": 3129,
+            "window_end_line": 3152,
+            "window_sha256": "863aa500f83d3b38cbdabf6efa541211a7fb1fd3fc69e16fe7988a31cdc2dd34",
+            "window_hash_reverified": true,
+            "short_source_excerpt": "没有及时援助夜郎和巴蜀。"
+          }
+        }
+      ],
+      "suggested_structure": [
+        "蔡鍔出兵與收束干涉的一次完整決策鏈。",
+        "唐繼堯干涉南粵改變當地盟友選擇→耗損→後繼者不及援鄰→對手坐大的後果鏈；以一句條件總結收尾。"
+      ],
+      "do_not_add": "不把原講述對顧品珍／龍雲的壓縮時序提升為獨立年表，不加入窗口以外的戰役或年月；不照抄疑似錯字的撤回方向。",
+      "allocation_body_han_target": [
+        260,
+        380
+      ],
+      "allocation_required_elements": [
+        "同一干涉或退守政策，隨威脅與自身資源變化而改變效果；勝利不賦予後續政策永久正當性。",
+        "蔡鍔有限干涉；唐繼堯過度擴張；顧品珍龍雲在新威脅下退守。",
+        "既不能把孤立，也不能把擴張定成無條件規則。"
+      ],
+      "current_body_han": 304,
+      "current_section_sha256": "db732803198b27f30854f716f50ed998083e8dd4f15db321d57e4bff76f92479"
+    }
+  ],
+  "decision_summary": {
+    "section_6": "保留獨立必要條件，改抽象說法為原／新士大夫對照；末段不要求刪除。",
+    "section_7": "兩次信念／地理並存限制合一次，以漢東通道和梁朝海路轉向補具體機制。",
+    "section_9": "刪除同義尾句，以蛇節反抗及延緩收權的結果替代。",
+    "section_10": "重組兩段，避免同一三階段時序再說一遍；用蔡鍔調停、南粵盟友與錯過援鄰的鏈條。"
+  },
+  "reading_scope": {
+    "only_previously_logged_windows": true,
+    "extra_windows": [],
+    "source_lines_reread": [
+      [
+        3129,
+        3152
+      ],
+      [
+        2810,
+        2827
+      ],
+      [
+        1157,
+        1174
+      ],
+      [
+        1190,
+        1216
+      ],
+      [
+        1348,
+        1367
+      ],
+      [
+        1494,
+        1517
+      ],
+      [
+        1725,
+        1744
+      ],
+      [
+        1892,
+        1915
+      ],
+      [
+        2728,
+        2751
+      ]
+    ],
+    "purpose": "定位來源支持的替代細節，而非重新全面審查27單元"
+  },
+  "counts_are_not_padding_requirement": "若刪掉重述後某單元更短，先保必要因果與例證；不得為回到下界添加同義句。上述替代細節各有來源功能，不必全部堆入。",
+  "files_modified": [],
+  "limitations": [
+    "此為冗餘與來源可支持性審查，不是獨立歷史真偽核查。",
+    "短摘錄保留原檔簡體與術語；建議正文仍用繁中直接論述。",
+    "根代理決定改寫；本代理未改任何正文、配置或既有review。"
+  ]
+}

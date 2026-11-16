@@ -1,0 +1,77 @@
+{
+  "source_sha256": "6745c68be43ac91b3ab85b43b4ca7890c38817a852cca5cb822aa0eacf31916c",
+  "windows": [
+    {
+      "id": "M01",
+      "start_line": 1270,
+      "end_line": 1276,
+      "characters": 490,
+      "sha256": "ed182a6d8d4dfad1a89fb2bc483d83a1df851d2cbfaf2487b5668b506e529d81",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M02",
+      "start_line": 649,
+      "end_line": 661,
+      "characters": 1733,
+      "sha256": "ac814a1da412bffe88f2fa0a36e61f7aba3f730d5e2101eb0a18a5e48e9f5714",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M04",
+      "start_line": 109,
+      "end_line": 119,
+      "characters": 1186,
+      "sha256": "40c2b36fc20ace33fc2fc66349117362d315f655da93b52f1e79c4846f2d3e8b",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M07",
+      "start_line": 940,
+      "end_line": 950,
+      "characters": 1086,
+      "sha256": "7e918ca7a0b90bead2aa8b221574f3b0ffa39e0e69cc469e4dd0e7b8333fdfc9",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M13a",
+      "start_line": 1212,
+      "end_line": 1226,
+      "characters": 438,
+      "sha256": "094549460b66f6ddbef450e54344638492e23f3d6589b685e828efa6f3931e47",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M13b",
+      "start_line": 1242,
+      "end_line": 1248,
+      "characters": 261,
+      "sha256": "3ec073cd162726c1f6f56d52d9f7abc3e324e18a9cf634e29c7ffbe079a5ca99",
+      "scope": "重讀原已核source定位，不聲稱完整章節覆蓋"
+    },
+    {
+      "id": "M05",
+      "start_line": 750,
+      "end_line": 758,
+      "characters": 1231,
+      "sha256": "d8d4bf9f2b3954cbe95f9f65c260105f650d56cfa497afe4a0dee04afd119a43",
+      "scope": "重讀既有來源定位"
+    },
+    {
+      "id": "M06",
+      "start_line": 1316,
+      "end_line": 1318,
+      "characters": 291,
+      "sha256": "2b2f8365941423ce202217030da9f5ab2375362a6a816c05b35916f55d9612b9",
+      "scope": "重讀既有來源定位"
+    },
+    {
+      "id": "M09",
+      "start_line": 984,
+      "end_line": 1002,
+      "characters": 1787,
+      "sha256": "5a8538108a5328363ffcd6d56bf7f71c280b67a74dc71f1c213805101a216dc3",
+      "scope": "重讀既有來源定位"
+    }
+  ]
+}

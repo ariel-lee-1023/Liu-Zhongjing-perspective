@@ -1,0 +1,2093 @@
+{
+  "schema_version": 1,
+  "status": "runtime_frozen_subtask_complete_pending_root_integration",
+  "publication": "User subsequently authorized push; root handles validation/commit/push. No child-agent commit or push.",
+  "scope": "Only C05 runtime edited; no README, root metadata, evidence.json or other module edited by this agent.",
+  "runtime_path": "references/clusters/c05-geopolitics-capital-and-class.md",
+  "runtime_sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+  "source_plan": {
+    "path": "c05-source-increment-plan.json",
+    "sha256": "9ea40e20fc526b3cb9ae5063981fe90e9456056645193d5e4e5c72023973b688",
+    "written_before_edit": true,
+    "unchanged_after_written": true,
+    "historical_publication_field": "local_only_no_commit_no_push records the authority when plan was written; superseded by later user push authorization."
+  },
+  "reading": {
+    "log": "c05-source-increment-plan.json#read_completion",
+    "log_sha256_is_plan_sha256": true,
+    "batch_count": 13,
+    "budget_max_batches": 40,
+    "max_raw_characters_per_batch": 3940,
+    "budget_max_characters_per_batch": 4500,
+    "characters_read": 41295,
+    "physical_pdf_pages": 56,
+    "docx_physical_paragraphs": 30,
+    "all_supplied_extracted_text_read": true,
+    "complete_original_lectures_claim": false,
+    "batches": [
+      {
+        "id": "EDU26-R01",
+        "source_id": "EDU26",
+        "paragraphs": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "characters": 3866,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "ENT26-R01",
+        "source_id": "ENT26",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "characters": 2885,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "ENT26-R02",
+        "source_id": "ENT26",
+        "pages": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "characters": 1949,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "KNW26-R01",
+        "source_id": "KNW26",
+        "pages": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "characters": 3324,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "KNW26-R02",
+        "source_id": "KNW26",
+        "pages": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "characters": 3940,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "KNW26-R03",
+        "source_id": "KNW26",
+        "pages": [
+          10,
+          11,
+          12,
+          13
+        ],
+        "characters": 3234,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "KNW26-R04",
+        "source_id": "KNW26",
+        "pages": [
+          14,
+          15,
+          16,
+          17
+        ],
+        "characters": 3190,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "KNW26-R05",
+        "source_id": "KNW26",
+        "pages": [
+          18,
+          19,
+          20,
+          21
+        ],
+        "characters": 2684,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "CW26-R01",
+        "source_id": "CW26",
+        "pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "characters": 3320,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "CW26-R02",
+        "source_id": "CW26",
+        "pages": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "characters": 3805,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "CW26-R03",
+        "source_id": "CW26",
+        "pages": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "characters": 3332,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "CW26-R04",
+        "source_id": "CW26",
+        "pages": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "characters": 3375,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      },
+      {
+        "id": "CW26-R05",
+        "source_id": "CW26",
+        "pages": [
+          23,
+          24,
+          25,
+          26
+        ],
+        "characters": 2391,
+        "complete_output_read": true,
+        "truncated_output": false,
+        "new_source_reading": true
+      }
+    ],
+    "physical_unit_log": [
+      {
+        "locator": "DOCX paragraph 1",
+        "paragraph": 1,
+        "characters": 14,
+        "sha256": "415f98f053b13017838018645c3a6934dbfd86bd1754bfb525bcfd5056ce3368",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "標題／整理層"
+      },
+      {
+        "locator": "DOCX paragraph 2",
+        "paragraph": 2,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 3",
+        "paragraph": 3,
+        "characters": 63,
+        "sha256": "745cbf30fb37655555498c7ed8739d757f829cde72718f354c0b4aa85410bcd4",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 4",
+        "paragraph": 4,
+        "characters": 180,
+        "sha256": "4e8d50e7449c318cea9f4735248d7e891e9cc3ad7519fcf66226ecd929fec84d",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 5",
+        "paragraph": 5,
+        "characters": 86,
+        "sha256": "12aad98ec1fbaa6e3c7c73e5498a5c8edf1e1ae67f24aa367318f720d7eb74ce",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 6",
+        "paragraph": 6,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 7",
+        "paragraph": 7,
+        "characters": 98,
+        "sha256": "5b9c28b0092fb10e58ccbf3c7b16c3e0e981a63c15ac989c9597ffb184e9ecd4",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 8",
+        "paragraph": 8,
+        "characters": 154,
+        "sha256": "4ccbab9e9673fc3467777d6a3e04f34aff21d990e1c25dc1958a0062162e1003",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 9",
+        "paragraph": 9,
+        "characters": 148,
+        "sha256": "113146b215d4b3c3174986e85adeaf501daf25fd7e0464f2979b313b6a013579",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 10",
+        "paragraph": 10,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 11",
+        "paragraph": 11,
+        "characters": 101,
+        "sha256": "d19f565675b7edac55ede9568525c87afaf399955580ad96d672307b08b6e834",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 12",
+        "paragraph": 12,
+        "characters": 185,
+        "sha256": "7c7b3e762509dbdff6e2faa804c020b44da9cdbeab4ac4e2ae31780d10aed66d",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 13",
+        "paragraph": 13,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 14",
+        "paragraph": 14,
+        "characters": 69,
+        "sha256": "e2cc2bffb81e11e218b037b7d18df40267dcae17d76821f4e4bf4e0e2e17b55f",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 15",
+        "paragraph": 15,
+        "characters": 162,
+        "sha256": "ded42640cabd180522187841b4d0bbf3c1fb1efc2e7485bbc39e25f00daae946",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 16",
+        "paragraph": 16,
+        "characters": 283,
+        "sha256": "adcd95cde6c4fb4d63be3d963699f91db4febf7bcdd2f77f73b7ce85f32c6482",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 17",
+        "paragraph": 17,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 18",
+        "paragraph": 18,
+        "characters": 48,
+        "sha256": "f7ce8a92c3d25eea229418b47d328b7c1f72ca4a2e4954d5887ad86c5c84b955",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 19",
+        "paragraph": 19,
+        "characters": 245,
+        "sha256": "d4728b5f18c69285e4c3cf6c2451979ebc568e4a939b75d637e628260c0c291e",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 20",
+        "paragraph": 20,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 21",
+        "paragraph": 21,
+        "characters": 35,
+        "sha256": "b51d39a9b203abb1ae6cc8a168e222bf53951df720b64feb435052af39c9c7ab",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 22",
+        "paragraph": 22,
+        "characters": 137,
+        "sha256": "e75b51c10e05ce8bc93e85065b7fb1383322fff77b1126e5d75e19229fbf0e73",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 23",
+        "paragraph": 23,
+        "characters": 207,
+        "sha256": "30baf67770f45e7523b04dcec968b9a54869b4d4a96419849f6eb16b8629b32a",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 24",
+        "paragraph": 24,
+        "characters": 633,
+        "sha256": "e48e46363f3c37ed13e0a2470aa5465262d0d684f0a4706f0f55b94898b6189f",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 25",
+        "paragraph": 25,
+        "characters": 177,
+        "sha256": "b1fc4de315437b83369b7a38a1b642a266f7982a55574cbccf09c3c7d4900b9a",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 26",
+        "paragraph": 26,
+        "characters": 463,
+        "sha256": "640f9ba046a3cd06e83e7eaa4ea925635c81608a6785f7a53499fceabae90c55",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 27",
+        "paragraph": 27,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "DOCX paragraph 28",
+        "paragraph": 28,
+        "characters": 99,
+        "sha256": "d2e8ead57ec8c96a8e02ddfe7bcf36bff42b2d695d59e8a0e0cebb74278dac23",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "提問者"
+      },
+      {
+        "locator": "DOCX paragraph 29",
+        "paragraph": 29,
+        "characters": 279,
+        "sha256": "155cf24ba4ca7695da4ba7100dc93dc20b19ca5a93a9d9b5ec254088722bc6b0",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "劉仲敬答語"
+      },
+      {
+        "locator": "DOCX paragraph 30",
+        "paragraph": 30,
+        "characters": 0,
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "source_id": "EDU26",
+        "read_complete": true,
+        "attribution": "空段"
+      },
+      {
+        "locator": "PDF p.1",
+        "page": 1,
+        "characters": 491,
+        "sha256": "901cddce2453aaf2c9e9710e9d0e67ebf1c25a4dd5e8de6c14544bb5fa9cbc58",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.2",
+        "page": 2,
+        "characters": 591,
+        "sha256": "e52e99436c314af6b8dee914d52f6a48343e11603a9ed6ccbf5f4dfd08bd7141",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.3",
+        "page": 3,
+        "characters": 613,
+        "sha256": "d3e0aa7102a4ea66ba351b0e2dba34563b127f5621ad2454ccae320a604eb9de",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.4",
+        "page": 4,
+        "characters": 609,
+        "sha256": "c5f5b78bf611be05826c54114768065dcbbfbf7f66b1143581cb5c26509a8b3d",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.5",
+        "page": 5,
+        "characters": 581,
+        "sha256": "dba427bb8e92a63742f18249c294b2cafa0e78e926468bde5a32a2daf8d8a91b",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.6",
+        "page": 6,
+        "characters": 663,
+        "sha256": "b25b468d32c085ec56e9b1ec6069289ca6c3f04c0ce9308ba82ece420bd4cca3",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述正文"
+      },
+      {
+        "locator": "PDF p.7",
+        "page": 7,
+        "characters": 533,
+        "sha256": "12006ffdbc5f2720ffb623f5ffacd4e594eee60b35da121b15267259709ee4e7",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "講述結尾＋聽眾提問＋劉答語；「二、修改說明」起為編者"
+      },
+      {
+        "locator": "PDF p.8",
+        "page": 8,
+        "characters": 495,
+        "sha256": "82518f4706ab279f128cbe39047a40f067d9f07dc8404d54f5b0df7d5ec38146",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "編者修訂記錄，非劉答語"
+      },
+      {
+        "locator": "PDF p.9",
+        "page": 9,
+        "characters": 258,
+        "sha256": "40753f16d6b33344d13a4b56adccb97f411a58d82ad48112653806020e2a3171",
+        "source_id": "ENT26",
+        "read_complete": true,
+        "attribution": "編者修訂記錄，非劉答語"
+      },
+      {
+        "locator": "PDF p.1",
+        "page": 1,
+        "characters": 838,
+        "sha256": "bed803c69065dc82e9dbe7bbdc815c89abcf5152d36eaef133008849480e9766",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.2",
+        "page": 2,
+        "characters": 818,
+        "sha256": "5d9eeb5782aac69e92ae967b338bf703ba919a5c80929f1c115f8a78ab65bdff",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.3",
+        "page": 3,
+        "characters": 861,
+        "sha256": "165efc1efc65cce369c7bfd878f0ab83dfa142f4f9e1ece1955503c13352d4aa",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.4",
+        "page": 4,
+        "characters": 807,
+        "sha256": "aae2f553cd23ff0e2bea11babb0228b7dae2ea5343684cf759bb54b7724af845",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.5",
+        "page": 5,
+        "characters": 699,
+        "sha256": "b72e705acfb6f59ad2cf83f0dc1ef9f48644852ec8c636708c4f6020694cec73",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.6",
+        "page": 6,
+        "characters": 872,
+        "sha256": "59001683474cff450c7b3ce0c5ceeb34e789b807c3f6308dfb416acfaf30702b",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.7",
+        "page": 7,
+        "characters": 786,
+        "sha256": "07b95f9b4f7135d0bef0d1c2421a79a98c937a565af678a718b52a6ef3fae022",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.8",
+        "page": 8,
+        "characters": 706,
+        "sha256": "631092fe4fd29d12a37b553ed18d4be51bf85acb3ae5d6a1b28ad19063cc0e37",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.9",
+        "page": 9,
+        "characters": 877,
+        "sha256": "351e605816d9706697309393863a63b7cba9c7f343e6d07932fdb60121f583d2",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.10",
+        "page": 10,
+        "characters": 848,
+        "sha256": "d94869806e605fb1947040855f9531c3a3b012ce5dcec3879edc557b93e59d6e",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.11",
+        "page": 11,
+        "characters": 807,
+        "sha256": "6e11645f45684baf415bccb8a59b83a09554663355373d3808105d3ea42d7074",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.12",
+        "page": 12,
+        "characters": 805,
+        "sha256": "04c7182a0b08dd4cea79c6e7a2f4b7f419ab14c63dfacfee208818d6705c64a1",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.13",
+        "page": 13,
+        "characters": 774,
+        "sha256": "5844d0e2c14ebb283d278c3c79a79e7fbda967e2f91154125c2a251484561a60",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.14",
+        "page": 14,
+        "characters": 886,
+        "sha256": "76a8f4c34d54aa4c8ef4bcc96025ca5876e625382543c7797328b46df8845c48",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.15",
+        "page": 15,
+        "characters": 793,
+        "sha256": "5d72686c989d44e703b03cf0ea3d7281a3f892260adc40d4d5e05634df3f4988",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.16",
+        "page": 16,
+        "characters": 719,
+        "sha256": "47cc6635e5301f22d5e73f2e423cd0eb2e6dbabbc3f463c92790831f6d64f2aa",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.17",
+        "page": 17,
+        "characters": 792,
+        "sha256": "7a5f71ad9dff08026369e58fe82b36f75920739e0458c8227b95a7844e473b34",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.18",
+        "page": 18,
+        "characters": 910,
+        "sha256": "ad4a4210c96c787059d4025bb9012fdf180171e56a20471031737f4fc253efb6",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.19",
+        "page": 19,
+        "characters": 797,
+        "sha256": "1f8fbc67daa224bfca9c35d15c60d6e23cd9a259dd770a93020fa7d6d5eef10c",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.20",
+        "page": 20,
+        "characters": 769,
+        "sha256": "8606197a97ed56cad7c9c88b7c593ccab931e2a8f71d3b0adb3f2599d74c7eb2",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "講述正文；會員廣告與免費版截止括註為出版層，排除為主張"
+      },
+      {
+        "locator": "PDF p.21",
+        "page": 21,
+        "characters": 208,
+        "sha256": "7da671d854043e9d76c5c362bca00924ff4060fec2c09b3693f010d98c6c25a8",
+        "source_id": "KNW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.1",
+        "page": 1,
+        "characters": 497,
+        "sha256": "5cf5ee5ac0697364a252ef8116a12cb9af036a669d8ec9017d27da07f23fd157",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.2",
+        "page": 2,
+        "characters": 520,
+        "sha256": "5ec3a2b046a418c2b92529325c2fd8b5172827a67a670829332667ef7f06c84a",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.3",
+        "page": 3,
+        "characters": 567,
+        "sha256": "f061227f272fe41b4f0c41b29843e86d037f4b239927af56b61c61ea29d67d1a",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.4",
+        "page": 4,
+        "characters": 570,
+        "sha256": "9c7dc8c9e62c89ac90d2c4a3aa1f15b3609336bdc57e5dfefe573cc909294e60",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.5",
+        "page": 5,
+        "characters": 616,
+        "sha256": "51added0f52d8ffb5317c44cee7a2e6dbb47e265e63c79d7853980f5b1b342a3",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.6",
+        "page": 6,
+        "characters": 550,
+        "sha256": "33bf15446bc1f5251113751a13b3dca7a5f377f1a7e88647abc51bffe235b2f5",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.7",
+        "page": 7,
+        "characters": 721,
+        "sha256": "69e2b47126a0f08d4e5560fa2bd35b20aab0106538e17fe66eb7efa1c326d809",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.8",
+        "page": 8,
+        "characters": 598,
+        "sha256": "fca730560fcc231391a9998d5e5f3a0ac6f415460fb9b5939937bb0c94fcc3d6",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.9",
+        "page": 9,
+        "characters": 649,
+        "sha256": "997611f71163064dc55d1aaae12cb7848259bdf210b0c50317ce7dd922d56941",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.10",
+        "page": 10,
+        "characters": 641,
+        "sha256": "41de81b57d5bad907b76262eaae3839fbedd1692ab2940118486f5cb532ad73f",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.11",
+        "page": 11,
+        "characters": 623,
+        "sha256": "5197af8bc63f01a2ea349a90af1a38574b603d166e1cdaf393af4430b4a2ca96",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.12",
+        "page": 12,
+        "characters": 573,
+        "sha256": "341faf7ab9e1f9c42728a064ceeda00443db0d55d773650fd73e83646624fa60",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.13",
+        "page": 13,
+        "characters": 651,
+        "sha256": "2a138dc33016f81c78dae3f1fde39e78bbf4b610e6644b3b45d5a3b2922c11a5",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.14",
+        "page": 14,
+        "characters": 640,
+        "sha256": "c3f7c9473fe0a8df68610b2a422cd76a9e35ae077e16219a45806a4befeedd38",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.15",
+        "page": 15,
+        "characters": 722,
+        "sha256": "0b16162d9e7ff4a1bbb3e771171d4a3d5a5d0847d615258de31d0e70cbe8f501",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.16",
+        "page": 16,
+        "characters": 697,
+        "sha256": "85b919d7c77f50096f38aca52fdb16327cd769b8c6773da5a9f94e60016bd772",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.17",
+        "page": 17,
+        "characters": 622,
+        "sha256": "467af333f0e40c0a2d2f55116529994f1fa13df6d5213bb23c2d8b5c3fb55752",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.18",
+        "page": 18,
+        "characters": 731,
+        "sha256": "035d2509e13ae66c06f2c7f59cded6375e47291f95683b117b0e31dd5f418fee",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.19",
+        "page": 19,
+        "characters": 712,
+        "sha256": "d239796fea5e2d79cb74d0524c1e0126ffc70dfcf54a700315abda505dcaac93",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.20",
+        "page": 20,
+        "characters": 622,
+        "sha256": "418766b74a53c75634e80f8f71b04d68dcf7333999c2504626a91c6d2404cd00",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.21",
+        "page": 21,
+        "characters": 617,
+        "sha256": "f494acedfbad30a6d08afa11e9d601b9ae8a773d96bddd7ab30621a2c1b02201",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.22",
+        "page": 22,
+        "characters": 693,
+        "sha256": "9800fcca878bf73bd20565f834918900e357e3cc0cca6660f64b1f962c22d620",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.23",
+        "page": 23,
+        "characters": 644,
+        "sha256": "8ccbd8a319435df40f4f6588e3dccb8b109a4333746be0f8fc509dfc390eb928",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.24",
+        "page": 24,
+        "characters": 595,
+        "sha256": "1697d3d2a6a18b6bb80f534ca718d485d91f7862e6251e191fe0eead3c3b1830",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.25",
+        "page": 25,
+        "characters": 526,
+        "sha256": "361a1161730cd9a51e9e9bdda68d3d41900edf41466cddedb2791547795ff2aa",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      },
+      {
+        "locator": "PDF p.26",
+        "page": 26,
+        "characters": 626,
+        "sha256": "2e10ebd86024be09c4068002a829a4faed76ac2cc50e60da745941e9260e9c6c",
+        "source_id": "CW26",
+        "read_complete": true,
+        "attribution": "劉仲敬講述正文（整理本，含嵌入的假想他人話語）"
+      }
+    ],
+    "verification": "All 86 extracted-unit text hashes recomputed and equal plan/extraction hashes; source-file identity hashes match inventory and extractor metadata. This agent did not separately rehash original PDF/DOCX binaries."
+  },
+  "source_identities": [
+    {
+      "source_id": "EDU26",
+      "source_name": "刘仲敬关于教育问题的答问记录.docx",
+      "source_sha256": "c24cacd95858ffd6c4bcb42f7f18c0a7cdece9205340c7243dd51de219c46a11",
+      "extraction_method": "DOCX word/document.xml w:p positions and visible w:t text; no rendered page inference",
+      "characters": 3866
+    },
+    {
+      "source_id": "ENT26",
+      "source_name": "刘仲敬论下等人的娱乐.pdf",
+      "source_sha256": "afd24c7e1af91ce3da45bd9d6bc5798122921ebd5e94bcec0c220c020e1f8c22",
+      "extraction_method": "pdfplumber text layer, physical PDF page numbers",
+      "characters": 4834
+    },
+    {
+      "source_id": "KNW26",
+      "source_name": "刘仲敬论知识与虚无感.pdf",
+      "source_sha256": "542e353582e939c7ad495c82ab7b1f41e28468a1527d2d0e8f475653ede2fedc",
+      "extraction_method": "pdfplumber text layer, physical PDF page numbers",
+      "characters": 16372
+    },
+    {
+      "source_id": "CW26",
+      "source_name": "刘仲敬论认知战的本质.pdf",
+      "source_sha256": "542359760ef14862c95daf191f430a9bc6d03ff6c17121a69877dc503174df16",
+      "extraction_method": "pdfplumber text layer, physical PDF page numbers",
+      "characters": 16223
+    }
+  ],
+  "measurement": {
+    "module": "c05",
+    "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+    "body_han": 16850,
+    "metadata_han": 810,
+    "whole_file_han": 17660,
+    "whole_file_characters": 21788,
+    "whole_file_heuristic_tokens": 32766.37,
+    "section_counts": [
+      {
+        "heading": "一、格局與節點",
+        "body_han": 353
+      },
+      {
+        "heading": "二、國家層級與公共功能",
+        "body_han": 1048
+      },
+      {
+        "heading": "三、資本再生與金融政治",
+        "body_han": 1686
+      },
+      {
+        "heading": "四、產業外包與未知創新",
+        "body_han": 1167
+      },
+      {
+        "heading": "五、AI媒介與專用技術",
+        "body_han": 1544
+      },
+      {
+        "heading": "六、移民、公民權與庇護",
+        "body_han": 1014
+      },
+      {
+        "heading": "七、聯盟與軍事目標",
+        "body_han": 1395
+      },
+      {
+        "heading": "八、政黨供養與國家建構",
+        "body_han": 1180
+      },
+      {
+        "heading": "九、認知戰與國家形象",
+        "body_han": 1573
+      },
+      {
+        "heading": "十、階級再生與教育",
+        "body_han": 2175
+      },
+      {
+        "heading": "十一、生育與共同責任",
+        "body_han": 739
+      },
+      {
+        "heading": "十二、學術、版權與正統",
+        "body_han": 1152
+      },
+      {
+        "heading": "十三、知識的回饋與虛無感",
+        "body_han": 1148
+      },
+      {
+        "heading": "十四、舊來源承接與新核對照",
+        "body_han": 676
+      }
+    ]
+  },
+  "measurement_file": "measurements.json",
+  "measurement_script": "transworld-identity/source-allocation-2026-11-16/measure_current.py",
+  "measurement_method": "Unmodified original portable script; Han U+3400..U+9FFF; headings/citation handling preserved. Counts are allocation checks, not source or recognizability quality scores.",
+  "allocation": {
+    "original_lower_bounds": {
+      "U01": 320,
+      "U02": 700,
+      "U03": 1350,
+      "U04": 1000,
+      "U05": 950,
+      "U06": 850,
+      "U07": 1100,
+      "U08": 1000,
+      "U09": 700,
+      "U10": 1150,
+      "U11": 650,
+      "U12": 900,
+      "legacy": 600
+    },
+    "new_body_ranges": {
+      "U01": [
+        320,
+        480
+      ],
+      "U02": [
+        820,
+        1100
+      ],
+      "U03": [
+        1350,
+        1700
+      ],
+      "U04": [
+        1000,
+        1300
+      ],
+      "U05": [
+        1450,
+        1900
+      ],
+      "U06": [
+        850,
+        1150
+      ],
+      "U07": [
+        1300,
+        1650
+      ],
+      "U08": [
+        1150,
+        1450
+      ],
+      "U09": [
+        1350,
+        1800
+      ],
+      "U10": [
+        2100,
+        2700
+      ],
+      "U11": [
+        650,
+        850
+      ],
+      "U12": [
+        1050,
+        1400
+      ],
+      "U13": [
+        1100,
+        1550
+      ],
+      "legacy": [
+        600,
+        850
+      ]
+    },
+    "body_total_range": [
+      15090,
+      19880
+    ],
+    "metadata_range": [
+      650,
+      1100
+    ],
+    "new_heading": "十三、知識的回饋與虛無感",
+    "old_unit_mapping": "原十二個H2順序與標題保留；新增U13；舊來源改第十四節。",
+    "legacy_rule": "CA-L03/04原例在舊來源節保留，分別以KNW26/ENT26重新核對；新讀補充的默會操作細節附CA-L03，其他機制各有主落點，不把同篇重述算獨立證據。",
+    "no_padding": "不足原下界以本輪已讀具體機制/案例補足，不恢復前輪已刪純總結。",
+    "original_metadata_lower_bound": 450
+  },
+  "unit_mapping": [
+    {
+      "unit_id": "U01",
+      "heading": "一、格局與節點",
+      "heading_level": 2,
+      "heading_line": 7,
+      "body_start_line": 8,
+      "body_end_line": 14,
+      "body_han": 353,
+      "original_minimum_han": 320,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        320,
+        480
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": []
+    },
+    {
+      "unit_id": "U02",
+      "heading": "二、國家層級與公共功能",
+      "heading_level": 2,
+      "heading_line": 15,
+      "body_start_line": 16,
+      "body_end_line": 32,
+      "body_han": 1048,
+      "original_minimum_han": 700,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        820,
+        1100
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "KNW26-A02"
+      ]
+    },
+    {
+      "unit_id": "U03",
+      "heading": "三、資本再生與金融政治",
+      "heading_level": 2,
+      "heading_line": 33,
+      "body_start_line": 34,
+      "body_end_line": 58,
+      "body_han": 1686,
+      "original_minimum_han": 1350,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1350,
+        1700
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": []
+    },
+    {
+      "unit_id": "U04",
+      "heading": "四、產業外包與未知創新",
+      "heading_level": 2,
+      "heading_line": 59,
+      "body_start_line": 60,
+      "body_end_line": 78,
+      "body_han": 1167,
+      "original_minimum_han": 1000,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1000,
+        1300
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": []
+    },
+    {
+      "unit_id": "U05",
+      "heading": "五、AI媒介與專用技術",
+      "heading_level": 2,
+      "heading_line": 79,
+      "body_start_line": 80,
+      "body_end_line": 102,
+      "body_han": 1544,
+      "original_minimum_han": 950,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1450,
+        1900
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "ENT26-A01"
+      ]
+    },
+    {
+      "unit_id": "U06",
+      "heading": "六、移民、公民權與庇護",
+      "heading_level": 2,
+      "heading_line": 103,
+      "body_start_line": 104,
+      "body_end_line": 120,
+      "body_han": 1014,
+      "original_minimum_han": 850,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        850,
+        1150
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": []
+    },
+    {
+      "unit_id": "U07",
+      "heading": "七、聯盟與軍事目標",
+      "heading_level": 2,
+      "heading_line": 121,
+      "body_start_line": 122,
+      "body_end_line": 142,
+      "body_han": 1395,
+      "original_minimum_han": 1100,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1300,
+        1650
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "CW26-A01"
+      ]
+    },
+    {
+      "unit_id": "U08",
+      "heading": "八、政黨供養與國家建構",
+      "heading_level": 2,
+      "heading_line": 143,
+      "body_start_line": 144,
+      "body_end_line": 156,
+      "body_han": 1180,
+      "original_minimum_han": 1000,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1150,
+        1450
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "CW26-A01"
+      ]
+    },
+    {
+      "unit_id": "U09",
+      "heading": "九、認知戰與國家形象",
+      "heading_level": 2,
+      "heading_line": 157,
+      "body_start_line": 158,
+      "body_end_line": 180,
+      "body_han": 1573,
+      "original_minimum_han": 700,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1350,
+        1800
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "CW26-A02",
+        "CW26-A04"
+      ]
+    },
+    {
+      "unit_id": "U10",
+      "heading": "十、階級再生與教育",
+      "heading_level": 2,
+      "heading_line": 181,
+      "body_start_line": 182,
+      "body_end_line": 208,
+      "body_han": 2175,
+      "original_minimum_han": 1150,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        2100,
+        2700
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "EDU26-A01",
+        "EDU26-A02",
+        "EDU26-A03",
+        "EDU26-A04",
+        "EDU26-A05"
+      ]
+    },
+    {
+      "unit_id": "U11",
+      "heading": "十一、生育與共同責任",
+      "heading_level": 2,
+      "heading_line": 209,
+      "body_start_line": 210,
+      "body_end_line": 222,
+      "body_han": 739,
+      "original_minimum_han": 650,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        650,
+        850
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": []
+    },
+    {
+      "unit_id": "U12",
+      "heading": "十二、學術、版權與正統",
+      "heading_level": 2,
+      "heading_line": 223,
+      "body_start_line": 224,
+      "body_end_line": 242,
+      "body_han": 1152,
+      "original_minimum_han": 900,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        1050,
+        1400
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "CW26-A03"
+      ]
+    },
+    {
+      "unit_id": "U13",
+      "heading": "十三、知識的回饋與虛無感",
+      "heading_level": 2,
+      "heading_line": 243,
+      "body_start_line": 244,
+      "body_end_line": 258,
+      "body_han": 1148,
+      "original_minimum_han": null,
+      "original_minimum_met": null,
+      "new_plan_range_han": [
+        1100,
+        1550
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "KNW26-A01",
+        "KNW26-A03",
+        "KNW26-A04",
+        "KNW26-A05"
+      ]
+    },
+    {
+      "unit_id": "legacy",
+      "heading": "十四、舊來源承接與新核對照",
+      "heading_level": 2,
+      "heading_line": 259,
+      "body_start_line": 260,
+      "body_end_line": 274,
+      "body_han": 676,
+      "original_minimum_han": 600,
+      "original_minimum_met": true,
+      "new_plan_range_han": [
+        600,
+        850
+      ],
+      "within_new_plan": true,
+      "increment_argument_groups": [
+        "ENT26-A01",
+        "KNW26-A01"
+      ]
+    }
+  ],
+  "allocation_checks": {
+    "all_original_lower_bounds_met": true,
+    "all_new_unit_ranges_met": true,
+    "body_total_within_plan": true,
+    "metadata_within_new_plan": true,
+    "metadata_original_450_lower_bound_met": true,
+    "global_6000_cap_applied": false
+  },
+  "increment_support": [
+    {
+      "id": "EDU26-A01",
+      "source_id": "EDU26",
+      "observation": "學校增加指定資訊，卻可能隔絕社會和自然，教育淨效果須扣除被切斷的資訊；知識與價值不是同一功能。",
+      "runtime_unit_ids": [
+        "U10"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 197,
+          "end_line": 197,
+          "locator_anchor": "教育首先要分開知識和價值。",
+          "span_sha256": "b3073740c574203769ddfb8e61cd84158331f3e7ff5047946159f6c9f1cbe37f",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 203,
+          "end_line": 203,
+          "locator_anchor": "教育券增加家庭選擇，",
+          "span_sha256": "ca3190a0aa03e647ee83f5811daa9d78dee387d0fc0df031eb7049976ad434c8",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "保留封閉學校弊病、P9公辦相對較少與P23公立全否定之張力",
+        "不把學校老師自我評價當中立判定"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "EDU26-A02",
+      "source_id": "EDU26",
+      "observation": "職業技能可由資訊包與現場師徒合作取得；大學普及的精英承諾可能使學生脫離原階級卻不能進入新位置。",
+      "runtime_unit_ids": [
+        "U10"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 199,
+          "end_line": 199,
+          "locator_anchor": "職業訓練與專門職業學校也不是同一件事。",
+          "span_sha256": "3076a89ad801402dddd5cb5397e0d423bb54c8b7b1978942b1f069c6e0c02ba0",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "博雅教育的排他定義屬來源規範立場，不是通行大學定義",
+        "不照搬細菌/癌細胞比喻",
+        "不能以職業教學與職業學校混為一談"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "EDU26-A03",
+      "source_id": "EDU26",
+      "observation": "共同活動培養信任，真實興趣和使用需求調節語言知識的吸收。",
+      "runtime_unit_ids": [
+        "U10"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 201,
+          "end_line": 201,
+          "locator_anchor": "學校真正有用的部分，",
+          "span_sha256": "73bbb473dbf086315c24eaacc7e8587cf3aef8032e097c388404e6d87346ce55",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "龍舟俱樂部經歷屬提問者，不作講述者經歷",
+        "沒有需要的硬學有限，不推出任何人不必學語言"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "EDU26-A04",
+      "source_id": "EDU26",
+      "observation": "教育券保留普遍供給前提但增加家庭選擇；左右標籤會隨比較背景移動。",
+      "runtime_unit_ids": [
+        "U10"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 203,
+          "end_line": 203,
+          "locator_anchor": "教育券增加家庭選擇，",
+          "span_sha256": "ca3190a0aa03e647ee83f5811daa9d78dee387d0fc0df031eb7049976ad434c8",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 205,
+          "end_line": 205,
+          "locator_anchor": "這套對個人教育、價值形成與學校自我宣傳的否定，",
+          "span_sha256": "51b6991b51c0770844a7c96800db7ecfce7c374841784d802a24ac3ac1b8b998",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "保留對公立教育能否改好的高度懷疑和所有好教育皆私立的強主張",
+        "與CA-X01國家義務教育正面功能並列，不用未知日期排序或弱化原文"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "EDU26-A05",
+      "source_id": "EDU26",
+      "observation": "教育者須修正自己的預設，不能把塑造能力想成園丁創造植物本身。",
+      "runtime_unit_ids": [
+        "U10"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 207,
+          "end_line": 207,
+          "locator_anchor": "園藝的比喻又把能力與控制分開：",
+          "span_sha256": "25c655d47b8a18c35a86ea159c929d83eab5a146e5a76bbbd976d3db9c4c6644",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "容易剪掉可能性不代表能造出預期成果",
+        "不得為可塑性預設無限上限"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "ENT26-A01",
+      "source_id": "ENT26",
+      "observation": "單一興奮點的反覆刺激可窄化感受；生活需應變程度不同，形成不同娛樂需求，主動活動與現成刺激有不同回饋。",
+      "runtime_unit_ids": [
+        "U05",
+        "legacy"
+      ],
+      "runtime_sections": [
+        "五、AI媒介與專用技術",
+        "十四、舊來源承接與新核對照"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 97,
+          "end_line": 97,
+          "locator_anchor": "娛樂的問題也不只是內容是否新奇。",
+          "span_sha256": "ec71b0fee61fa0005a2bd2add0c3654b5b4541b0744b0db2548efd4a71196ddd",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 99,
+          "end_line": 99,
+          "locator_anchor": "現成娛樂產業依需求提供刺激；",
+          "span_sha256": "7fd787207fffff27091e55eb9533c0b8a842c703210675e4fde227e9c6c668f9",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 101,
+          "end_line": 101,
+          "locator_anchor": "對兒童的回應是先保留豐富見聞與好奇心。",
+          "span_sha256": "1526e8d9f192c39d4c1697069d368aaf05fbb7e5a2c86c232dcfd1e34e0d6de7",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 269,
+          "end_line": 269,
+          "locator_anchor": "娛樂所需的刺激幅度與平常活動的範圍相連；",
+          "span_sha256": "a031e87cb99e46d137cef60daea89ef0837ff01ed04ebbf144baf12d5b17b4a7",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "不用生物學或神經網絡臆測診斷人",
+        "不把單一口味當階級測試",
+        "貴族娛樂也可能殘酷，承受範圍不無限",
+        "P7末至P9編者記錄不作證據"
+      ],
+      "deduplication": "partly_reverifies_CA-L04; main threshold countercase remains in legacy, new mechanism enters U05"
+    },
+    {
+      "id": "KNW26-A01",
+      "source_id": "KNW26",
+      "observation": "真正知識包含做事、結果、改法的回饋；同一材料對研究者可成知識，對被動聽眾仍可能只是新鮮意識形態。",
+      "runtime_unit_ids": [
+        "U13",
+        "legacy"
+      ],
+      "runtime_sections": [
+        "十三、知識的回饋與虛無感",
+        "十四、舊來源承接與新核對照"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 245,
+          "end_line": 245,
+          "locator_anchor": "同一份材料，對親自調查的人可以是知識，",
+          "span_sha256": "f9686f14e0749bbd1061938bc76a85f94586cfaa37cf8c6f2a6d0a97b016ae5e",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 267,
+          "end_line": 267,
+          "locator_anchor": "真正能辦事的知識包含動手、觀察效果、",
+          "span_sha256": "f403a72a848ed674f583473e6cd385478c8f3c90c4d08ea232ad759c990dba20",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "同文支持不算新獨立佐證",
+        "資料思想來源不同不自動使聽眾取得能力"
+      ],
+      "deduplication": "KNW p1 directly rechecks CA-L03; manual/tacit details are substantive addition"
+    },
+    {
+      "id": "KNW26-A02",
+      "source_id": "KNW26",
+      "observation": "同一福利機構可由反帝、權利或資源動員框架解釋；強制接管、維持醫療與供養成本須分開。",
+      "runtime_unit_ids": [
+        "U02"
+      ],
+      "runtime_sections": [
+        "二、國家層級與公共功能"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 29,
+          "end_line": 29,
+          "locator_anchor": "接收一套公共機構，",
+          "span_sha256": "f760d917d5fd6c3b4a963b84564b6182a6589de90b189806a1ce24739f2301c6",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 31,
+          "end_line": 31,
+          "locator_anchor": "國家能大量動員軍事資源，",
+          "span_sha256": "1af861d0179b73123f4a037bc0a4825dc98ae74115b4c2cee3d74590b31d096e",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "醫學療效、病種消滅和暴力指控不作已核事實",
+        "不採731轉責等無支持強指控",
+        "承認敘事選擇不等於所有史實可任意改寫",
+        "封閉地方的強制管理不能直接跨用於連接大城市與國際貿易的環境；短期動員不等於可長期維持。"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "KNW26-A03",
+      "source_id": "KNW26",
+      "observation": "政治立場可以選擇講哪些真相；用無需執行的理想比較現實具有不對稱優勢。",
+      "runtime_unit_ids": [
+        "U13"
+      ],
+      "runtime_sections": [
+        "十三、知識的回饋與虛無感"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 247,
+          "end_line": 247,
+          "locator_anchor": "持有政治框架，",
+          "span_sha256": "a26afeab0e61a4a079bdfd28008abdaaccf300db4fce5309bc6aeb556f72bd3c",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 249,
+          "end_line": 249,
+          "locator_anchor": "理想看來沒有缺陷，",
+          "span_sha256": "9ddc404990ca3515c2e0f14b9d9ee96895eb0810e1b35095d33f681b7fbbb826",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "自我承認的選擇性也適用於本人",
+        "不將人物動機戲擬當傳記證據"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "KNW26-A04",
+      "source_id": "KNW26",
+      "observation": "制度知識在承擔難題、協商和試錯中形成；能力上限與可達的次佳結果須靠實作發現。",
+      "runtime_unit_ids": [
+        "U13"
+      ],
+      "runtime_sections": [
+        "十三、知識的回饋與虛無感"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 251,
+          "end_line": 251,
+          "locator_anchor": "實作知識未必使人愉快；",
+          "span_sha256": "82bf316a96433cbaadfa029fa3258782a23f09ba65d46204fcec4de16d8a125b",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 253,
+          "end_line": 253,
+          "locator_anchor": "能力的上限也要在操作中發現。",
+          "span_sha256": "5a3052c093c8c9e3750a0beaf76ed016f7b62f70835938dfd985c9229f32146f",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "不以共和或君主招牌判優劣",
+        "不把憲法結果視為事前可證成功",
+        "不以天花板斷定個人不能改變"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "KNW26-A05",
+      "source_id": "KNW26",
+      "observation": "虛無處境可能是能力/階級不匹配也可能只是階段；相對位置仍可能靠具體調查和合作改善。",
+      "runtime_unit_ids": [
+        "U13"
+      ],
+      "runtime_sections": [
+        "十三、知識的回饋與虛無感"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 253,
+          "end_line": 253,
+          "locator_anchor": "能力的上限也要在操作中發現。",
+          "span_sha256": "5a3052c093c8c9e3750a0beaf76ed016f7b62f70835938dfd985c9229f32146f",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 255,
+          "end_line": 255,
+          "locator_anchor": "被動消費觀念的狀態，",
+          "span_sha256": "96f9a4131b059b8e1a439ca1812c47799a28f32a6e0c7aecb9feae4fa7bef55c",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 257,
+          "end_line": 257,
+          "locator_anchor": "有限改善仍有價值。",
+          "span_sha256": "c9a66b0c193313f32fe6d6e28c717311a6ae3845222aa9600407d7fa1a7af54f",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "原文不知兩種可能的比例",
+        "不以源文暴力預測/祖先基因直接判定讀者",
+        "情緒批評不是心理診斷",
+        "任命情報站長等為源文情境不轉工作指令"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "CW26-A01",
+      "source_id": "CW26",
+      "observation": "對外認知戰可能把需供養者招入己方，或淘汰對手的軟性核心而促成更強硬的政治重組；可否利用分裂取決於自己硬實力。",
+      "runtime_unit_ids": [
+        "U07",
+        "U08"
+      ],
+      "runtime_sections": [
+        "七、聯盟與軍事目標",
+        "八、政黨供養與國家建構"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 139,
+          "end_line": 139,
+          "locator_anchor": "瓦解對手還可能改變下一個對手是誰。",
+          "span_sha256": "383d1cb05624533e38d1a0fa0babe6d777a6061b3d3547df46a3e80e56708a49",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 141,
+          "end_line": 141,
+          "locator_anchor": "利用分裂是否有利，",
+          "span_sha256": "33f772390e8d78a2746fde9f2533ccf03469f9e7c5c6bf2ce7f793dc361c3660",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 155,
+          "end_line": 155,
+          "locator_anchor": "供養方向不同，",
+          "span_sha256": "acaf1bd702dd1e1de4adbc29ba110aed25752179f5e43e3891ae39f940b036d7",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "p4唐人句前後矛盾，不使用該句；只保留清楚的強弱能力條件",
+        "不是所有欺敵無用；與CA14軍事欺敵用途並列",
+        "將原述強斷言保留為限定模型，不轉現實政治定律"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "CW26-A02",
+      "source_id": "CW26",
+      "observation": "思想和資金的上游/下游位置限制對外影響；在新群體中以不同左右語彙包裝同一依附關係。",
+      "runtime_unit_ids": [
+        "U09"
+      ],
+      "runtime_sections": [
+        "九、認知戰與國家形象"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 173,
+          "end_line": 173,
+          "locator_anchor": "同一宣傳組織也可能對不同受眾使用相反說法。",
+          "span_sha256": "59ea2f0c0db654e3d73d166712f2cd8696219e8db9f727c94b59d179d88b47c4",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 175,
+          "end_line": 175,
+          "locator_anchor": "政治認知也不能把自身生活經驗當成所有制度的模板。",
+          "span_sha256": "dcd2fd887d9b941b62e399753acc7779dd048077c539ce4b092a7577819af08a",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 177,
+          "end_line": 177,
+          "locator_anchor": "思想的傳播方向還依賴再生它的社會。",
+          "span_sha256": "0ec15a0089a239afb528682489b18b16c7800319be90cdc3c71de8d9edc00495",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "不把特定年點、人數當現況",
+        "避用破損軍法句、特定人名歸屬及人群貶稱",
+        "呈現分析而非替對象設計定向宣傳"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "CW26-A03",
+      "source_id": "CW26",
+      "observation": "書寫者可以藉別人承擔的制度試驗取得思想樣板和職業收益；形象市場使公開言論與私人認知分離。",
+      "runtime_unit_ids": [
+        "U12"
+      ],
+      "runtime_sections": [
+        "十二、學術、版權與正統"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 239,
+          "end_line": 239,
+          "locator_anchor": "作家的錢袋子還可能繫在一種政治形象上。",
+          "span_sha256": "e892f6b7311b589b36a49b7939094c4a85a2d2b847963511bb9a10ecdd892954",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        },
+        {
+          "start_line": 241,
+          "end_line": 241,
+          "locator_anchor": "要求掌權者遵從理論導師，",
+          "span_sha256": "47e5cd03f63c7361df656cc7970d6743a90ef4c4b5025a25a157fe9341f26116",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "p15–16破損句不猜補，具體私生活/死亡比例不引用",
+        "人物內心利益屬來源推測",
+        "不把所有理論等同無價值"
+      ],
+      "deduplication": "new_independent_mechanism"
+    },
+    {
+      "id": "CW26-A04",
+      "source_id": "CW26",
+      "observation": "對外話術會回流內部並擾動干部；永遠證明自己正確的形象經營會排擠可檢驗工作。",
+      "runtime_unit_ids": [
+        "U09"
+      ],
+      "runtime_sections": [
+        "九、認知戰與國家形象"
+      ],
+      "runtime_spans": [
+        {
+          "start_line": 179,
+          "end_line": 179,
+          "locator_anchor": "對外使用的語言也會回流本方。",
+          "span_sha256": "7a69a231072ecb66be91834a4415e6c83f573d1d2d9d6a95759bed5c282ffc91",
+          "hash_method": "UTF-8 physical Markdown line, no newline"
+        }
+      ],
+      "conditions": [
+        "不引用不明的具體法律規則或破損人名",
+        "源文具體武裝、邊界及對人群攻擊處方不轉行動指令",
+        "操作與責任檢驗只短連U13，不重寫知識總論"
+      ],
+      "deduplication": "new_independent_mechanism"
+    }
+  ],
+  "evidence_records_file": "c05-new-evidence.json",
+  "evidence_records_sha256": "ec54dc8786404a886aaf379d2e565d794514f5e95d9c5363837dae3065e2681f",
+  "legacy_reverification": [
+    {
+      "existing_id": "CA-L03",
+      "new_source": "KNW26",
+      "covered_by": "KNW26-A01",
+      "new_reverification": "PDF pp.1–2,9; original building/crop case plus new tacit-manual detail",
+      "duplicate_support": true,
+      "recommended_group_id": "c05-KNW26"
+    },
+    {
+      "existing_id": "CA-L04",
+      "new_source": "ENT26",
+      "covered_by": "ENT26-A01",
+      "new_reverification": "PDF pp.3–5; differentiated stimulation and finite tolerance",
+      "duplicate_support": true,
+      "recommended_group_id": "c05-ENT26"
+    }
+  ],
+  "attribution_and_conflicts": [
+    {
+      "source": "EDU26",
+      "units": [
+        9,
+        23
+      ],
+      "issue": "公辦弊病相對較少與所有好的教育皆私立；原整理用語保留，不自行改為公學。"
+    },
+    {
+      "source": "EDU26/CA2026",
+      "units": [
+        "paragraph23",
+        "CA-X01"
+      ],
+      "issue": "學校否定強度與國家義務教育改善兵源/技工的判準存在張力；可分判準但不宣稱完全相容，日期未明不能排成修正史。"
+    },
+    {
+      "source": "CW26",
+      "units": [
+        4,
+        10,
+        16
+      ],
+      "issue": "矛盾及嚴重破損已由root逐頁圖確認原PDF如此；無音頻不可恢復，不猜字。"
+    },
+    {
+      "source": "ENT26",
+      "units": [
+        7,
+        8,
+        9
+      ],
+      "issue": "P7二、修改說明起及P8–9是編者層，不算講述證據。"
+    },
+    {
+      "source": "KNW26",
+      "units": [
+        20
+      ],
+      "issue": "所供頁含免費版截止及會員廣告，不外推已完整讀原始講座。"
+    }
+  ],
+  "plan_details_applied_without_plan_mutation": [
+    "KNW26-A02 adds explicitly preserved p.8 scale/time condition already within the planned source span; no new reading window.",
+    "EDU26-A04 source_spans also identify ¶9,24–26 for the planned within-source and CA-X01 tension; these were already fully read.",
+    "CW26-A02 source_spans include pp.9–10,14 for institutional-template mismatch and surrounding contrasts; all were already read, no new argument group or fabricated legal rule.",
+    "Original H2 names remain, with U13 added and legacy numbered fourteen; root must update old CA-L runtime section anchors accordingly."
+  ],
+  "deduplication_changes": [
+    {
+      "unit": "U12",
+      "deleted_sentence": "理論家拿尚未實施的理想比較別人已有缺陷的制度，很容易保持正確形象，因為自己的方案還沒有接受同樣的成本檢驗。",
+      "deleted_han": 50,
+      "reason": "U13 already explains unexecuted ideal versus flawed reality; U12 retains authority/decision-cost separation. Cross-review suggestion adopted."
+    }
+  ],
+  "additional_original_CA_reading_windows": [],
+  "explicit_omissions": [
+    "CW26 the secondary turn from eliminating a newly formed group to constraining/using it is not separately expanded; existing dependency/resource arguments remain supported.",
+    "Editorial corrections/advertisements, corrupt names and sentences, unverified precise demographic/death/medical/legal claims, targeted violence prescriptions and private-role instructions are not recast as findings or working instructions."
+  ],
+  "cross_review": {
+    "reviewer": "/root/implement_liu_c07_world",
+    "coverage": "KNW26/CW26 complete supplied extracted texts; reported 21 mechanisms supported, one duplicate opening removed.",
+    "final_report": "c05-cross-review.json",
+    "final_report_sha256": "d6652f689aa670dd6eca010f7215b72679796ca9458afda72d8333e0fc0d90d2",
+    "same_runtime_hash_confirmed": true,
+    "open_actionable_findings": [],
+    "remaining_root_review": "Completed: c05-education-entertainment-review.json",
+    "pre_portability_report_sha256": "beefd318a1f21ccc11cad7c4205318b9aae07b0611a3383e222308e3e220b7c7",
+    "portability_note": "Only local scratch paths were made package-relative; source and runtime conclusions unchanged."
+  },
+  "limits": [
+    "Complete supplied extracted text reading is not complete original lecture/audio reading.",
+    "No fresh machine recognition, blind holdout, model call, web research or independent factual validation performed by this agent.",
+    "Source conditions and contradictory judgments are preserved; source processing is not endorsement or current-world factual certification."
+  ],
+  "unfinished_in_this_subtask": []
+}

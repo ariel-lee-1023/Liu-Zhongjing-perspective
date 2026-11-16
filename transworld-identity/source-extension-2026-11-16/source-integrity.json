@@ -1,0 +1,31 @@
+{
+  "sources": [
+    {
+      "source_id": "EDU26",
+      "source_sha256": "c24cacd95858ffd6c4bcb42f7f18c0a7cdece9205340c7243dd51de219c46a11",
+      "physical_units_checked": 30,
+      "all_hashes_match": true
+    },
+    {
+      "source_id": "ENT26",
+      "source_sha256": "afd24c7e1af91ce3da45bd9d6bc5798122921ebd5e94bcec0c220c020e1f8c22",
+      "physical_units_checked": 9,
+      "all_hashes_match": true
+    },
+    {
+      "source_id": "KNW26",
+      "source_sha256": "542e353582e939c7ad495c82ab7b1f41e28468a1527d2d0e8f475653ede2fedc",
+      "physical_units_checked": 21,
+      "all_hashes_match": true
+    },
+    {
+      "source_id": "CW26",
+      "source_sha256": "542359760ef14862c95daf191f430a9bc6d03ff6c17121a69877dc503174df16",
+      "physical_units_checked": 26,
+      "all_hashes_match": true
+    }
+  ],
+  "physical_units_checked": 86,
+  "source_plan_sha256": "9ea40e20fc526b3cb9ae5063981fe90e9456056645193d5e4e5c72023973b688",
+  "raw_text_published": false
+}

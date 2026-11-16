@@ -1,0 +1,1592 @@
+{
+  "schema_version": 1,
+  "module": "C05",
+  "status": "source_based_revision_completed_with_soft_allocation_comparison",
+  "reviewer": "implement_liu_c05",
+  "output": {
+    "module": "c05",
+    "path": "references/clusters/c05-geopolitics-capital-and-class.md",
+    "sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+    "body_han": 12266,
+    "metadata_han": 569,
+    "whole_file_han": 12835,
+    "whole_file_characters": 15938,
+    "whole_file_heuristic_tokens": 23834.63,
+    "section_counts": [
+      {
+        "heading": "一、格局與節點",
+        "body_han": 353
+      },
+      {
+        "heading": "二、國家層級與公共功能",
+        "body_han": 665
+      },
+      {
+        "heading": "三、資本再生與金融政治",
+        "body_han": 1686
+      },
+      {
+        "heading": "四、產業外包與未知創新",
+        "body_han": 1167
+      },
+      {
+        "heading": "五、AI媒介與專用技術",
+        "body_han": 1079
+      },
+      {
+        "heading": "六、移民、公民權與庇護",
+        "body_han": 1014
+      },
+      {
+        "heading": "七、聯盟與軍事目標",
+        "body_han": 1079
+      },
+      {
+        "heading": "八、政黨供養與國家建構",
+        "body_han": 985
+      },
+      {
+        "heading": "九、認知戰與國家形象",
+        "body_han": 904
+      },
+      {
+        "heading": "十、階級再生與教育",
+        "body_han": 1133
+      },
+      {
+        "heading": "十一、生育與共同責任",
+        "body_han": 739
+      },
+      {
+        "heading": "十二、學術、版權與正統",
+        "body_han": 876
+      },
+      {
+        "heading": "十三、舊來源承接",
+        "body_han": 586
+      }
+    ]
+  },
+  "allocation_source": "transworld-identity/source-allocation-2026-11-16/c05-allocation.json",
+  "allocation_sha256": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+  "unit_mappings": [
+    {
+      "unit_id": "U01",
+      "allocated_title": "格局、節點與材料的界限",
+      "heading": "一、格局與節點",
+      "heading_level": 2,
+      "runtime_line_span": [
+        7,
+        14
+      ],
+      "body_han": 353,
+      "allocated_body_han_range": [
+        320,
+        480
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA01"
+      ],
+      "causal_claim_retained": "既有從屬及先前選擇縮小後續選項；新材料必須接到財政和憲制才有意義。",
+      "necessary_case_checks": [
+        {
+          "requirement": "朝鮮戰爭的既有義務",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "水利工藝—財源—市政能力",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "模型可修訂，不以格局取消材料",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "保留三段：模型可修訂、路徑節點、朝鮮戰爭與水利財政雙例；不重展框架總論。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U02",
+      "allocated_title": "國家的不同層級與公共功能外移",
+      "heading": "二、國家層級與公共功能",
+      "heading_level": 2,
+      "runtime_line_span": [
+        15,
+        28
+      ],
+      "body_han": 665,
+      "allocated_body_han_range": [
+        700,
+        950
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "CA02",
+        "CA12"
+      ],
+      "causal_claim_retained": "中央人事、地方財政和企業福利不是同一整合度；公共服務失靈使責任移向有資源的團體。",
+      "necessary_case_checks": [
+        {
+          "requirement": "不同來源國企福利",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "教會/私人醫療與無力另付費者",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "中央強不等於地方無利益",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "功能外移不等於國家突然消失或人人受益",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "合併國企層級與福利外移；保留不同企業來歷、團體責任與無力付費者。刪去尾段重述各層級不同及公私名稱不等於功能。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。",
+      "range_deviation_reason": "依使用者最新口徑刪除同義總論後低於原參考下界；必要因果、案例及限制未刪，不補字。"
+    },
+    {
+      "unit_id": "U03",
+      "allocated_title": "全球資本的再生成本與金融政治反饋",
+      "heading": "三、資本再生與金融政治",
+      "heading_level": 2,
+      "runtime_line_span": [
+        29,
+        54
+      ],
+      "body_han": 1686,
+      "allocated_body_han_range": [
+        1350,
+        1700
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA03",
+        "CA04",
+        "CA05",
+        "CA-X11"
+      ],
+      "causal_claim_retained": "資本購買勞動中段卻依賴外部養育；短期成功可耗損再生；國際債務與美元流通把外部政策反饋到本國。",
+      "necessary_case_checks": [
+        {
+          "requirement": "羅馬/迦太基及羅馬自身轉變",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "海地/多米尼加",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "一戰債務鏈與美元/廉價商品",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "改革開放外部資金把部分無組織人口納入生產的原述判斷",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "英國本地資本有非市場支撐",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "相對共產體制可能建構",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "2022等選舉預測不當既驗結果",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "第74篇暴力概括和數量推測不當統計事實",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "合併資本、羅馬海地、一戰美元三節；補入外部資本重新組織部分人口的相反條件，未補寫整套美國和平演變計畫。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U04",
+      "allocated_title": "產業外包、技術路線與未知創新的成本",
+      "heading": "四、產業外包與未知創新",
+      "heading_level": 2,
+      "runtime_line_span": [
+        55,
+        74
+      ],
+      "body_han": 1167,
+      "allocated_body_han_range": [
+        1000,
+        1300
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA06",
+        "CA07",
+        "CA-X04"
+      ],
+      "causal_claim_retained": "包工頭補正式制度缺口並外移維護成本；已知技術可追趕，未知工藝需承擔失敗、標準和時間不確定。",
+      "necessary_case_checks": [
+        {
+          "requirement": "國企設備與升遷誘因",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "406本地AI路線/417創新制度",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "太陽能理論可能與可用工藝的差別",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "外包可改善農民工眼前生活",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "全球化分工不等於瓦房店退化",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "具體華為2031及人物動機是原時點推測",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "保留設備耗損及406/417的不同問題；補理論能量、可用工藝與未知研發時間，分工不當成技術退化。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U05",
+      "allocated_title": "AI資訊、藝術媒介與專用技術的社會後果",
+      "heading": "五、AI媒介與專用技術",
+      "heading_level": 2,
+      "runtime_line_span": [
+        75,
+        92
+      ],
+      "body_han": 1079,
+      "allocated_body_han_range": [
+        950,
+        1250
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA08",
+        "CA09",
+        "CA-X01"
+      ],
+      "causal_claim_retained": "資訊與內容取得便宜後，辨別和注意力成為限制；實用設備依功能/成本而非像人；豐裕或不老不保證開拓。",
+      "necessary_case_checks": [
+        {
+          "requirement": "甲寅派誤拼與匪類標籤",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "都鐸通俗劇/廉價短內容",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "專用清潔照護機器",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "不老後事故損失的思想實驗",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "承認AI節省時間",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "內容價格數據是主持人說法",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "照護設備不替代情感共同體",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "注意力如何複製階級主論證只在U10寫一次",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "合併資訊判別與專用機器；補都鐸通俗媒介及供給/注意力差別；養育階級機制只短指U10。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U06",
+      "allocated_title": "移民、公民權、庇護與政治共同體",
+      "heading": "六、移民、公民權與庇護",
+      "heading_level": 2,
+      "runtime_line_span": [
+        93,
+        110
+      ],
+      "body_han": 1014,
+      "allocated_body_han_range": [
+        850,
+        1150
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA10",
+        "CA11",
+        "CA-X10"
+      ],
+      "causal_claim_retained": "同一移民標籤包藏不同歷史權利；法院護權、政策達成與基本盤動員分屬不同收益；庇護論述依保護與責任關係展開。",
+      "necessary_case_checks": [
+        {
+          "requirement": "屬地/血統及帝國不同臣民",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "出生公民權的法院和基本盤",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "庇護由分散保護信用轉為國家義務的來源比較",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "不是現行國籍/庇護法律說明",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "不延用來源對人群的暴力處方或污名總括",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "第52篇新讀僅前近代背景，不冒充當代海外社群全篇已核",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "合併法院與身份譜系；新增庇護的分散信用/國家義務差別，不加入對群體的污名或武裝處方。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U07",
+      "allocated_title": "聯盟、外交成本與軍事目標",
+      "heading": "七、聯盟與軍事目標",
+      "heading_level": 2,
+      "runtime_line_span": [
+        111,
+        128
+      ],
+      "body_han": 1079,
+      "allocated_body_han_range": [
+        1100,
+        1500
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "CA13",
+        "CA18",
+        "CA-X07"
+      ],
+      "causal_claim_retained": "聯盟名號不消除成員利益；政治親近不等於願付重建成本；阻止失敗、取得勝利、延緩風險是不同任務。",
+      "necessary_case_checks": [
+        {
+          "requirement": "北約國別利益和殘餘功能",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "土耳其第二外交",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "防守與奪地能力",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "核不擴散的延緩效用",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "殖民交涉由多層契約簡化為主權國家的短橋接",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "勒龐/伊朗/中美具體預測限原時點",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "殖民段只支撐交涉成本，不能宣稱全篇殖民衰落已核",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "不提供武器戰術操作",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "保留聯盟、土耳其、任務錯配及核延緩；殖民交涉只以兩個短段解釋契約成本與主權簡化。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。",
+      "range_deviation_reason": "依使用者最新口徑刪除同義總論後低於原參考下界；必要因果、案例及限制未刪，不補字。"
+    },
+    {
+      "unit_id": "U08",
+      "allocated_title": "政黨供養、外圍從屬與國家建構",
+      "heading": "八、政黨供養與國家建構",
+      "heading_level": 2,
+      "runtime_line_span": [
+        129,
+        140
+      ],
+      "body_han": 985,
+      "allocated_body_han_range": [
+        1000,
+        1350
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "CA15",
+        "CA16",
+        "CA17",
+        "CA-X03"
+      ],
+      "causal_claim_retained": "理念須靠金主、地方根基與成員供養持續；外圍活動不等於有路線權；推翻政權不同於形成共同體。",
+      "necessary_case_checks": [
+        {
+          "requirement": "青年黨四川/臺灣差別",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "梁啟超與袁蔡兩難",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "白區從屬",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "民進黨聯盟與本土社區不完全重合",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "第三波的假想部落比較",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "五年不是精確期限",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "袁蔡限民初權力配置",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "民進黨段有轉錄缺字，不照抄相互矛盾句",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "第三波看法曾隨時間改變",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "壓縮原三節的共通組織總論；保留青年黨/袁蔡/白區/第三波各例，新增民進黨聯盟與共同體不重合。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。",
+      "range_deviation_reason": "依使用者最新口徑刪除同義總論後低於原參考下界；必要因果、案例及限制未刪，不補字。"
+    },
+    {
+      "unit_id": "U09",
+      "allocated_title": "認知戰、輿論不對稱與誰代表一個國家",
+      "heading": "九、認知戰與國家形象",
+      "heading_level": 2,
+      "runtime_line_span": [
+        141,
+        156
+      ],
+      "body_han": 904,
+      "allocated_body_han_range": [
+        700,
+        1000
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA14",
+        "CA-X02",
+        "CA-X09"
+      ],
+      "causal_claim_retained": "信用會被短期外包收益耗損；不同位置對輿論的敏感度不對等；宣傳者的階級形象可被海外當作全國形象。",
+      "necessary_case_checks": [
+        {
+          "requirement": "土耳其罵戰把中立者推向對面",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "巴麥尊/阿爾伯特的不同反應",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "美新處/VOA與進步知識青年",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "承認軍事欺敵有用途",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "英美及VOA敘述是原文歷史解釋，未外核",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "第25篇本次未讀到棉花成本結尾",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "保留信用與罵戰，新增受眾敏感度不對稱、宣傳專業群體被誤認為全國；未重核新疆棉結尾。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U10",
+      "allocated_title": "階級再生、教育分流與人格承受",
+      "heading": "十、階級再生與教育",
+      "heading_level": 2,
+      "runtime_line_span": [
+        157,
+        172
+      ],
+      "body_han": 1133,
+      "allocated_body_han_range": [
+        1150,
+        1500
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "CA19",
+        "CA20",
+        "CA22",
+        "CA-X01",
+        "CA-X08",
+        "CA-X12"
+      ],
+      "causal_claim_retained": "不同生態位承擔不同責任；積累須被制度保護；注意力/養育時間和國家勞動需求會改寫教育與代際位置。",
+      "necessary_case_checks": [
+        {
+          "requirement": "工會工人/知識分子與本人階級",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "文明保護積累",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "數位安撫與義務教育的矯正作用",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "勞動短缺與普職分流的原述推演",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "騎馬/洋蔥",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "分工與執行能力也可產生階級",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "遺傳與環境兩極都不成立",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "國家教育既可擴能力也可作強制分流，條件不同",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "普職政策預測和人名指控不作當前確證",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "第84篇國家起源長史只短引C02-1",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "縮減原三節重述，保留工會/自我階級、積累、遺傳環境及人格可變；新增注意力養育、義務教育正面條件、勞力價格與分流，國家起源僅短接C02-1。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。",
+      "range_deviation_reason": "依使用者最新口徑刪除同義總論後低於原參考下界；必要因果、案例及限制未刪，不補字。"
+    },
+    {
+      "unit_id": "U11",
+      "allocated_title": "最優生育與家庭之外的責任",
+      "heading": "十一、生育與共同責任",
+      "heading_level": 2,
+      "runtime_line_span": [
+        173,
+        186
+      ],
+      "body_han": 739,
+      "allocated_body_han_range": [
+        650,
+        850
+      ],
+      "within_range": true,
+      "evidence_ids": [
+        "CA21"
+      ],
+      "causal_claim_retained": "核心家庭缺中間共同體會承擔過高成本；最優再生不同於個別家長最多後代。",
+      "necessary_case_checks": [
+        {
+          "requirement": "核心/主幹/部落教區",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "一夫多妻個體與總體差別",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "北歐政策有限改善",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "現實有缺陷的大家庭",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "多妻總體最高仍有疑問",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "政策可有作用但不保證替代率",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "不以理想機構比較現實親屬",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "保留三種家庭比較、個體/總體生育及北歐有限改善；由已讀CA21補共同時間/權威及護工來源的成本，未納生物學或傷害處方。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。"
+    },
+    {
+      "unit_id": "U12",
+      "allocated_title": "學術、版權與正統的生產關係",
+      "heading": "十二、學術、版權與正統",
+      "heading_level": 2,
+      "runtime_line_span": [
+        187,
+        202
+      ],
+      "body_han": 876,
+      "allocated_body_han_range": [
+        900,
+        1200
+      ],
+      "within_range": false,
+      "evidence_ids": [
+        "CA23",
+        "CA24"
+      ],
+      "causal_claim_retained": "模型選擇包含判斷；行會維持技藝也保護利益；版稅依市場與支付秩序；道統是當代認祖的政治。",
+      "necessary_case_checks": [
+        {
+          "requirement": "2021自然實驗與本人直覺",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "大學/專業行會",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "連載版權與戰時收入",
+          "reviewed_present": true
+        },
+        {
+          "requirement": "宋儒/蘇聯道統",
+          "reviewed_present": true
+        }
+      ],
+      "condition_checks": [
+        {
+          "requirement": "沒有完美模型不代表判斷等值",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "行會不能壓成純壟斷或純公共利益",
+          "reviewed_present_or_explicitly_excluded": true
+        },
+        {
+          "requirement": "相似片語不代表同一思想陣營",
+          "reviewed_present_or_explicitly_excluded": true
+        }
+      ],
+      "implementation_rationale": "合併模型行會與版權道統，保留每種因果和例子；刪去尾段再次總結供養、依附及正統建構。",
+      "allocation_role": "原編輯估計，僅供比較；不以達到下界作內容合格條件。",
+      "range_deviation_reason": "依使用者最新口徑刪除同義總論後低於原參考下界；必要因果、案例及限制未刪，不補字。"
+    }
+  ],
+  "legacy": {
+    "heading": "十三、舊來源承接",
+    "body_han": 586,
+    "heading_level": 2,
+    "runtime_line_span": [
+      203,
+      218
+    ],
+    "allocated_body_han_range": [
+      600,
+      850
+    ],
+    "within_range": false,
+    "evidence_ids": [
+      "CA-L01",
+      "CA-L02",
+      "CA-L03",
+      "CA-L04",
+      "CA-L05",
+      "CA-L06"
+    ],
+    "rationale": "六段舊來源與原時點保留；刪去CA-L03尾部對實作/修正的同義重述，實作與華盛頓案例仍完整。原600下界僅參考，不為達標保留重述。"
+  },
+  "confirmed_new_material_body_han": 11680,
+  "confirmed_new_material_range": [
+    10670,
+    14230
+  ],
+  "metadata_range": [
+    450,
+    650
+  ],
+  "reserve_used_han": 0,
+  "reserve_activated": false,
+  "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+  "reading": {
+    "previous_records_reused": [
+      "transworld-identity/redistillation-2026-11-16/c05-review.json",
+      "transworld-identity/redistillation-2026-11-16/c05-reading.json"
+    ],
+    "allocation_supplement_windows_reread": [
+      {
+        "id": "CA-X01",
+        "start_line": 1809,
+        "end_line": 1876,
+        "raw_characters": 3879,
+        "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X02",
+        "start_line": 8854,
+        "end_line": 8897,
+        "raw_characters": 4425,
+        "sha256": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X03",
+        "start_line": 10358,
+        "end_line": 10415,
+        "raw_characters": 4399,
+        "sha256": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X04",
+        "start_line": 15304,
+        "end_line": 15369,
+        "raw_characters": 4482,
+        "sha256": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X05",
+        "start_line": 15640,
+        "end_line": 15689,
+        "raw_characters": 4412,
+        "sha256": "1775f55224587ca8b4476b261462154ac5edf16d72223b5a9a8e0551bbeeecfa",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "1775f55224587ca8b4476b261462154ac5edf16d72223b5a9a8e0551bbeeecfa",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X06",
+        "start_line": 17020,
+        "end_line": 17073,
+        "raw_characters": 4301,
+        "sha256": "61fa50db8c8f9b71ea8ca741087061d87065a7234e0217bc266addbd45172d82",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "61fa50db8c8f9b71ea8ca741087061d87065a7234e0217bc266addbd45172d82",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X07",
+        "start_line": 19049,
+        "end_line": 19105,
+        "raw_characters": 4357,
+        "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X08",
+        "start_line": 20071,
+        "end_line": 20119,
+        "raw_characters": 4468,
+        "sha256": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X09",
+        "start_line": 20477,
+        "end_line": 20533,
+        "raw_characters": 4226,
+        "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X10",
+        "start_line": 21603,
+        "end_line": 21667,
+        "raw_characters": 4352,
+        "sha256": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X11",
+        "start_line": 23332,
+        "end_line": 23373,
+        "raw_characters": 4379,
+        "sha256": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      },
+      {
+        "id": "CA-X12",
+        "start_line": 26331,
+        "end_line": 26399,
+        "raw_characters": 4451,
+        "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+        "complete_output_reviewed": true,
+        "sha256_reverified": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+        "reread_in_implementation": true,
+        "additional_coverage": false
+      }
+    ],
+    "previous_CA21_windows_reread": [
+      {
+        "start_line": 11657,
+        "end_line": 11690,
+        "raw_characters": 2329,
+        "sha256": "2c63537c2c53a9c1902cd6bbceaf9f9e44973f04c7a498b79eebb262b30db38e",
+        "already_logged_before_implementation": true,
+        "purpose": "補展U11的共同時間/權威與照護人力再生，未擴大讀取範圍"
+      },
+      {
+        "start_line": 11697,
+        "end_line": 11754,
+        "raw_characters": 4630,
+        "sha256": "37ab3732d2718c41b2cc0f2a25d671ca862c9cf682fae180f71732e934c69589",
+        "already_logged_before_implementation": true,
+        "purpose": "補展U11的共同時間/權威與照護人力再生，未擴大讀取範圍"
+      },
+      {
+        "start_line": 11817,
+        "end_line": 11872,
+        "raw_characters": 4790,
+        "sha256": "3b8e5b63b0346e7aff1f40a9a36ca3db77118eb2967a8a62e311c60a4437040e",
+        "already_logged_before_implementation": true,
+        "purpose": "補展U11的共同時間/權威與照護人力再生，未擴大讀取範圍"
+      },
+      {
+        "start_line": 11903,
+        "end_line": 11941,
+        "raw_characters": 2614,
+        "sha256": "1f4f6c06d5de0ffe2fdb7e8c85b2fd4929a3c0ce9cc245aa1bdc9f897d3748a1",
+        "already_logged_before_implementation": true,
+        "purpose": "補展U11的共同時間/權威與照護人力再生，未擴大讀取範圍"
+      }
+    ],
+    "new_unlogged_windows": [],
+    "new_source_coverage": false,
+    "excluded_windows": [
+      {
+        "id": "CA-X05",
+        "reason": "僅既有考試/區域類比，未核孟加拉題名主論證；C05零增量。"
+      },
+      {
+        "id": "CA-X06",
+        "reason": "前近代制度背景；未核當代海外社群，不啟用reserve。"
+      }
+    ]
+  },
+  "evidence_records": [
+    {
+      "id": "CA26-A01",
+      "source": "CA2026: 媒介成本、養育時間與教育矯正",
+      "locator": "CA-X01: L1809–1876",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X01",
+          "start_line": 1809,
+          "end_line": 1876,
+          "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+          "raw_characters": 3879,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "內容供應變便宜不會增加注意力時間；家庭是否有能力提供專注訓練會延續階級差異，而國家需要識字健康的士兵及技工時，義務教育可以矯正家庭資源不足。",
+      "conditions": [
+        "區分內容成本、創作生態與家庭照料時間",
+        "國家教育的作用依其所需人口與組織目標而變"
+      ],
+      "exceptions": [
+        "不以內容增加推定高級藝術消失",
+        "主持人的價格與收入不是答語驗證數據",
+        "工業化酒精安撫是來源類比，非育兒建議"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-005",
+      "source_groups": [
+        "CA2026-article-005"
+      ],
+      "situation": "媒介成本、養育時間與教育矯正的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "五、AI媒介與專用技術",
+        "十、階級再生與教育"
+      ],
+      "runtime_section": "五、AI媒介與專用技術；十、階級再生與教育",
+      "runtime_citation_ids": [
+        "CA-X01"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A02",
+      "source": "CA2026: 輿論壓力的受眾不對稱",
+      "locator": "CA-X02: L8854–8897",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X02",
+          "start_line": 8854,
+          "end_line": 8897,
+          "sha256": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+          "raw_characters": 4425,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "巴麥尊與阿爾伯特對同一英國輿論的不同反應，顯示國家利益與共同王朝正統可以導致不同評價；對方未共享羞愧標準時，對稱指控不產生對稱效果。",
+      "conditions": [
+        "一方精英在意外部認可，另一方公眾主要按本國利益反應"
+      ],
+      "exceptions": [
+        "只蒸餾歷史解釋，未獨立史學核證",
+        "未核第25篇棉花成本結尾"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-025",
+      "source_groups": [
+        "CA2026-article-025"
+      ],
+      "situation": "輿論壓力的受眾不對稱的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "九、認知戰與國家形象"
+      ],
+      "runtime_section": "九、認知戰與國家形象",
+      "runtime_citation_ids": [
+        "CA-X02"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A03",
+      "source": "CA2026: 政黨聯盟與本土共同體",
+      "locator": "CA-X03: L10358–10415",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X03",
+          "start_line": 10358,
+          "end_line": 10415,
+          "sha256": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+          "raw_characters": 4399,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "共同反對國民黨可以維持民進黨聯盟，但黨內政策利益、臺北中產階級與延續中的本土共同體不天然重合；代表關係須靠長期演化和交換維持。",
+      "conditions": [
+        "區分黨、選民與共同體",
+        "保留戰後階級形成與精英流失背景"
+      ],
+      "exceptions": [
+        "首句轉錄矛盾不作獨立命題",
+        "不以黨名直接推出全部社會的天然代表權"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-030",
+      "source_groups": [
+        "CA2026-article-030"
+      ],
+      "situation": "政黨聯盟與本土共同體的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "八、政黨供養與國家建構"
+      ],
+      "runtime_section": "八、政黨供養與國家建構",
+      "runtime_citation_ids": [
+        "CA-X03"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A04",
+      "source": "CA2026: 理論可能、可用工藝與未知研發",
+      "locator": "CA-X04: L15304–15369",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X04",
+          "start_line": 15304,
+          "end_line": 15369,
+          "sha256": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+          "raw_characters": 4482,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "太陽能理論產能不同於植物轉換、材料安全及穩定工藝；未知路線不能照成熟設備的引進工期排程，全球分工也可能只是比較優勢。",
+      "conditions": [
+        "分開理論、試驗、商用和持續供應鏈",
+        "已知技術追趕不同於未知方向探索"
+      ],
+      "exceptions": [
+        "2031產業判斷與人物動機保持原時點推測",
+        "不把外包自動定義為瓦房店退化"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-045",
+      "source_groups": [
+        "CA2026-article-045"
+      ],
+      "situation": "理論可能、可用工藝與未知研發的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "四、產業外包與未知創新"
+      ],
+      "runtime_section": "四、產業外包與未知創新",
+      "runtime_citation_ids": [
+        "CA-X04"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A05",
+      "source": "CA2026: 歷史契約與主權簡化",
+      "locator": "CA-X07: L19049–19105",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X07",
+          "start_line": 19049,
+          "end_line": 19105,
+          "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+          "raw_characters": 4357,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "多重土地、繼承與王朝義務使外交交涉昂貴；主權條約把部分爭端移入國內制度可降低以後交涉成本，卻會清除舊權利。",
+      "conditions": [
+        "葡萄田義務與荷爾斯泰因用作成本案例",
+        "早期公司與可履約地方力量交易可暫擱最高主權"
+      ],
+      "exceptions": [
+        "未聲稱完整殖民衰落史已核",
+        "成本下降不等於原有權利持有人沒有損失"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-058",
+      "source_groups": [
+        "CA2026-article-058"
+      ],
+      "situation": "歷史契約與主權簡化的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "七、聯盟與軍事目標"
+      ],
+      "runtime_section": "七、聯盟與軍事目標",
+      "runtime_citation_ids": [
+        "CA-X07"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A06",
+      "source": "CA2026: 教育分流與廉價勞力需求",
+      "locator": "CA-X08: L20071–20119",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X08",
+          "start_line": 20071,
+          "end_line": 20119,
+          "sha256": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+          "raw_characters": 4468,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "勞力減少而產業又不能承受工資上升時，國家有誘因透過提前教育分流及行政配置維持勞力；生育的多年時間線不能滿足立即用工。",
+      "conditions": [
+        "廉價勞力依賴與不容工資上漲須同時成立",
+        "私人雇主不足以單獨壓住市場工資"
+      ],
+      "exceptions": [
+        "原文必然語氣是政策推演",
+        "未採對個別工程師動機的指控",
+        "不概括所有職業教育為強制勞動"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-063",
+      "source_groups": [
+        "CA2026-article-063"
+      ],
+      "situation": "教育分流與廉價勞力需求的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "runtime_citation_ids": [
+        "CA-X08"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A07",
+      "source": "CA2026: 宣傳專業群體被誤作整個國家",
+      "locator": "CA-X09: L20477–20533",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X09",
+          "start_line": 20477,
+          "end_line": 20533,
+          "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+          "raw_characters": 4226,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "海外受眾經美新處和美國之音接觸特定進步青年，可能把其民主使命當成整個美國；宣傳者、決策者與出資公民不相同，形象合一會產生超過實際能力的救援期待。",
+      "conditions": [
+        "保留地方商業社群與政府宣傳職業的不同位置",
+        "維護利益需要當地組織能力"
+      ],
+      "exceptions": [
+        "歷史與階級敘述是來源解釋，未外核",
+        "不抹去宣傳機構與普通公民的內部差異"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-065",
+      "source_groups": [
+        "CA2026-article-065"
+      ],
+      "situation": "宣傳專業群體被誤作整個國家的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "九、認知戰與國家形象"
+      ],
+      "runtime_section": "九、認知戰與國家形象",
+      "runtime_citation_ids": [
+        "CA-X09"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A08",
+      "source": "CA2026: 庇護的保護信用與國家義務",
+      "locator": "CA-X10: L21603–21667",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X10",
+          "start_line": 21603,
+          "end_line": 21667,
+          "sha256": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+          "raw_characters": 4352,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "分散庇護以保護者資源、聲望及互惠形成容量限制；國家化資格把個人信用、道德要求與財政分配分離，需要與可承擔規模可能不相稱。",
+      "conditions": [
+        "袍哥與查理十二世是來源歷史模型",
+        "受害與組織自治能力是不同判準"
+      ],
+      "exceptions": [
+        "不是現行庇護法",
+        "不採用國籍群體污名、暴力處方或由受害推定人格的結論"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-069",
+      "source_groups": [
+        "CA2026-article-069"
+      ],
+      "situation": "庇護的保護信用與國家義務的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "六、移民、公民權與庇護"
+      ],
+      "runtime_section": "六、移民、公民權與庇護",
+      "runtime_citation_ids": [
+        "CA-X10"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A09",
+      "source": "CA2026: 資本重新組織人口的反向條件",
+      "locator": "CA-X11: L23332–23373",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X11",
+          "start_line": 23332,
+          "end_line": 23373,
+          "sha256": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+          "raw_characters": 4379,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "在中間團體受破壞且舊單位無力維持後，港台資本與加工訂單可能把部分失去組織者納入企業與供應鏈；這可改善生計並保留脆弱支配。",
+      "conditions": [
+        "相對先存解體狀態才有建構作用",
+        "政策不穩與地方索取使企業需要非正式保護"
+      ],
+      "exceptions": [
+        "暴力敘事與人口估數不是經核統計",
+        "不稱每位企業家都有犯罪經歷",
+        "未核美國和平演變計畫全貌"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-074",
+      "source_groups": [
+        "CA2026-article-074"
+      ],
+      "situation": "資本重新組織人口的反向條件的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "三、資本再生與金融政治"
+      ],
+      "runtime_section": "三、資本再生與金融政治",
+      "runtime_citation_ids": [
+        "CA-X11"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    },
+    {
+      "id": "CA26-A10",
+      "source": "CA2026: 專業分工與執行能力的階級後果",
+      "locator": "CA-X12: L26331–26399",
+      "source_spans": [
+        {
+          "source_id": "CA2026",
+          "window_id": "CA-X12",
+          "start_line": 26331,
+          "end_line": 26399,
+          "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+          "raw_characters": 4451,
+          "hash_scope": "exact previously logged source window, final newline omitted where required by original log"
+        }
+      ],
+      "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+      "observation": "熟人調解不足後，專業執行與動員能力可以形成新階級並取得競爭優勢，也可能威脅既有自由。",
+      "conditions": [
+        "以立王和祭司法官分化作短例",
+        "國家起源長史只指向C02-1"
+      ],
+      "exceptions": [
+        "不宣稱已核完整階級流動史",
+        "專業化的效用不取消其成本"
+      ],
+      "conflicts": [],
+      "attribution": "劉仲敬受訪答語或講述的忠實蒸餾；篇前摘要、編者注、主持人的經驗與數字不轉成本人證據。",
+      "group_id": "CA2026-article-084",
+      "source_groups": [
+        "CA2026-article-084"
+      ],
+      "situation": "專業分工與執行能力的階級後果的受訪答語或專題論述；按原述問題、歷史位置及條件保存。",
+      "audience": "原主持人、提問聽眾與專題讀者；不是本輪使用者的私人處境。",
+      "available_information": "本記錄source_spans所列的完整有界窗口與相應既有情境證據；未擴作全篇閱讀。",
+      "constraints": "只核來源支持及語境，沒有獨立查證當代事實、歷史、法律、醫療或人物動機。",
+      "claim_type": "editorial_synthesis",
+      "runtime_support": [
+        "references/clusters/c05-geopolitics-capital-and-class.md"
+      ],
+      "runtime_sections": [
+        "十、階級再生與教育"
+      ],
+      "runtime_section": "十、階級再生與教育",
+      "runtime_citation_ids": [
+        "CA-X12"
+      ],
+      "curation": {
+        "decision": "contextualize",
+        "reason": "本輪真正新增的機制，保留案例、必要條件與反向限制；不按全部12窗口機械增列。"
+      }
+    }
+  ],
+  "content_review": {
+    "direct_statement_prose": true,
+    "no_host_imitation_instructions_added": true,
+    "forecast_as_current_fact": false,
+    "chronological_tensions_retained": [
+      "406技術本地路線與417創新制度條件不同",
+      "第63篇強制分流推演與訪談412義務教育正面作用條件不同",
+      "第三波評價有今昔變化",
+      "2022、2031、北約與核政策預測未當結果驗證"
+    ],
+    "interviewer_material_not_reattributed": true,
+    "source_unsupported_generated_content": false,
+    "all_confirmed_unit_cases_reviewed": true,
+    "metadata_separated_by_original_counter": true,
+    "raw_long_excerpts_added": false
+  },
+  "validation": {
+    "counter": "original measure_current.py + persona-distiller/scripts/token_count.py",
+    "counter_script_unchanged": true,
+    "local_counts_pass": "measurement_reproduced_not_an_acceptance_gate",
+    "all_12_units_pass": "not_applicable_under_user_soft_reference_policy",
+    "legacy_pass": "not_applicable_under_user_soft_reference_policy",
+    "metadata_pass": "reference_comparison_only",
+    "source_hashes_pass": true,
+    "links_checked": [
+      "c07-1-nation-invention-world-history.md",
+      "c07-2-reversed-east-asian-history.md",
+      "../frameworks.md",
+      "../voice.md",
+      "c02-1-mesopotamia.md"
+    ],
+    "links_exist": true,
+    "all_12_units_within_original_reference_ranges": false,
+    "legacy_within_original_reference_range": false,
+    "measurement_reproduced": true,
+    "all_required_source_content_retained_after_deduplication": true
+  },
+  "uncompleted": [],
+  "limits": [
+    "有界來源蒸餾，不是85篇全文覆蓋；不增加既有39篇局部閱讀的範圍。",
+    "本輪是內容與原口徑篇幅核查，不是新生成測試、盲識別或獨立史學/法律/科學評審。",
+    "舊證據的來源定位沿用先前review；本輪完整回讀12補充窗口並重讀CA21四個既有窗口，未重新通讀所有舊來源。",
+    "新evidence_records由根代理整合；本代理未改evidence.json、README、規範、評測或其他模組。",
+    "本次篇幅範圍只作與原編輯估計對照；低於個別單元下界不觸發補字，也不自動表示來源內容不足。"
+  ],
+  "user_policy_update": {
+    "policy": "依新語料保留必要內容，只刪已充分表達的重複總論；原配置改作參考，不為單元或分部下界補字。",
+    "publication": "本輪僅本地修改，不commit、不push。",
+    "original_allocations_unchanged": true,
+    "range_status_is_not_quality_gate": true
+  },
+  "deduplication_revision": {
+    "before_sha256": "fccb95cfb37cb81936e875f8fdf653b5f1f39e9895a449129bc2fa20fa2a856b",
+    "after_sha256": "a56dbdbef98e007f910fa48779b54751e62ebe7b85ba8720c5dbf0b3fc6898b0",
+    "body_han_before": 12788,
+    "body_han_after": 12266,
+    "metadata_han_before": 569,
+    "metadata_han_after": 569,
+    "removed_body_han": 522,
+    "changes": [
+      {
+        "unit": "U02",
+        "before": "\n\n人事統一、財源分散與公共功能外移，可以在不同層次同時存在。關鍵不是公私名稱換了沒有，而是遇到需要時，哪個團體實際出錢、哪個團體能要求成員盡責，以及誰沒有資格進入這套互助。地方責任沒有被中央名號消除，新的團體也不會只靠私有化名稱自行長成。〔CA02、CA12〕",
+        "after": "",
+        "reason": "前文已分別交代人事與財源不同、團體責任、無力付費者、名號延續與功能外移；整段只是逐項重述，沒有新增條件。",
+        "removed_han": 108
+      },
+      {
+        "unit": "U04",
+        "before": "前者保留尚未鎖定技術路線的可能，後者追問金融、專利和責任制度能否支持持續探索。",
+        "after": "",
+        "reason": "406與417的前兩段已各自明示路線未鎖定及持續創新的制度條件；保留不能壓成單一口號的句子與原時點限制。",
+        "removed_han": 36
+      },
+      {
+        "unit": "U07",
+        "before": "\n\n因此，聯盟存在、國家承諾與軍事能力也不能互相代換：組織名號可以在功能分散後延續，具體盟友仍會計算承擔何種責任；提高敵方行動成本可以有政治價值，卻不保證己方能取得目標。評估一段延緩時期，還須回到它保存了哪些談判空間，而不是只問最後是否永久免除了風險。〔CA13、CA18〕",
+        "after": "",
+        "reason": "前文北約／土耳其已區分名號和承擔，軍事段已區分阻敵與達標，核段已完整說明延緩效用；此尾段重說三種區分。",
+        "removed_han": 114
+      },
+      {
+        "unit": "U08",
+        "before": "共同反對一個對手可以促成結盟，卻不能替結盟以後的不同利益預先提供一致答案。",
+        "after": "",
+        "reason": "同段首句已明示因反國民黨結合而政策利益不同，且後文已說合作須靠演化與利益交換。",
+        "removed_han": 35
+      },
+      {
+        "unit": "U10",
+        "before": "；有更廣的合作與責任，才有機會把這些需要放回不同層次。成熟並不是消滅依賴，而是讓依賴與可承擔的責任同時存在，經歷失敗後仍可能形成新的安排。",
+        "after": "。",
+        "reason": "前文洋蔥內核／負責外層、受挫後兩種可能已完整表達；保留活動範圍過窄讓家庭波瀾占滿注意的具體條件。",
+        "removed_han": 63
+      },
+      {
+        "unit": "U12",
+        "before": "\n\n知識工作的自由與依附，因此可以在同一機構中共存：專業法團保護成員免受外行隨意處置，保護本身又需要供養；跨境讀者市場給作家獨立於單一金主的機會，市場被切斷後也會把人推回黨派。辨明供養關係不是把思想一律還原成收錢說話，而是說明哪種形式能長期維持，哪種理論譜系又正在替當前位置取得正統。〔CA23、CA24〕",
+        "after": "",
+        "reason": "前文已交代行會保護與成本、跨境版稅中斷後依附黨派、當前位置建構道統；尾段僅重新串接同一因果。",
+        "removed_han": 131
+      },
+      {
+        "unit": "legacy",
+        "before": "知識要在實作中接受修正；知道概念，與把要求交給工匠並承擔結果，仍隔著一段經驗。",
+        "after": "",
+        "reason": "該段開頭已含動手、效果、請教與修正，華盛頓工匠案例也已在前一句；保留舊來源及完整例子，不因原600下界保留重述。",
+        "removed_han": 35
+      }
+    ],
+    "additional_source_reading": false,
+    "added_cases": false,
+    "source_evidence_records_unchanged": true
+  }
+}

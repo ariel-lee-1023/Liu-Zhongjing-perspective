@@ -1,0 +1,552 @@
+{
+  "scope": "Current runtime/README/changelog/new report, original allocation report with current pointer, and current increment sections of scope/provenance. Historical entries preserve original path context.",
+  "checked": 109,
+  "broken": [],
+  "links": [
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c02-2-premodern-order.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c06-figures.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "SKILL.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#可以帶來的問題",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#開始使用",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#檔案與載入",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#來源及其作用",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#範圍與目前狀態",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "#授權",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/frameworks.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/voice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "SKILL.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/frameworks.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/voice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": ".agents/skills/liu-zhongjing-perspective",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c01-ayi-life-advice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c02-2-premodern-order.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c03-wadi-psychology.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c04-civilization-theory.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c06-figures.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c08-minguo-wenyan.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/provenance.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/provenance.md#readme-editorial-review-2026-10-30",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/cultivation-2026-10-31/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/framework-routing-2026-10-31/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/redistillation-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/history/redistillation-2026-11-16/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/source-extension-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "fidelity-ledger/provenance.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "transworld-identity/validation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "LICENSE",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "README.md",
+      "target": "NOTICE.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "CHANGELOG.md",
+      "target": "transworld-identity/source-extension-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "CHANGELOG.md",
+      "target": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/voice.md",
+      "target": "frameworks.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "../frameworks.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "../voice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c05-geopolitics-capital-and-class.md",
+      "target": "c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c08-minguo-wenyan.md",
+      "target": "c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c08-minguo-wenyan.md",
+      "target": "../voice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-1-nation-invention-world-history.md",
+      "target": "c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-1-nation-invention-world-history.md",
+      "target": "c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-1-nation-invention-world-history.md",
+      "target": "../frameworks.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-1-nation-invention-world-history.md",
+      "target": "../voice.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-1-nation-invention-world-history.md",
+      "target": "c06-figures.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c03-wadi-psychology.md",
+      "target": "c02-2-premodern-order.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c02-1-mesopotamia.md",
+      "target": "c02-2-premodern-order.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c02-1-mesopotamia.md",
+      "target": "c07-2-reversed-east-asian-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c02-1-mesopotamia.md",
+      "target": "c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "target": "c07-1-nation-invention-world-history.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "target": "c02-1-mesopotamia.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "target": "c02-2-premodern-order.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "contract.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c05-source-increment-plan.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c07-1-part-measurements.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "checks.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "measurements.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "source-inventory.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "source-integrity.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "source-quality.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "../history/source-extension-2026-11-16/",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c07-source-window-verification.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c05-source-extension-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c05-education-entertainment-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c05-cross-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c07-1-cross-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "c07-2-cross-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "package-root.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "package-discovery.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-extension-2026-11-16/report.md",
+      "target": "../validation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "../source-extension-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "c02-1-allocation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "c05-allocation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "c07-1-allocation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "c07-2-allocation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "allocation-details.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "allocation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "checks.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "allocation-cross-review.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "c05-extra-reading.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "measure_current.py",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "target": "measurements.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/scope.md",
+      "target": "source-extension-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/scope.md",
+      "target": "validation.json",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/provenance.md",
+      "target": "source-extension-2026-11-16/report.md",
+      "exists_and_anchor_resolves": true
+    },
+    {
+      "file": "transworld-identity/provenance.md",
+      "target": "validation.json",
+      "exists_and_anchor_resolves": true
+    }
+  ]
+}

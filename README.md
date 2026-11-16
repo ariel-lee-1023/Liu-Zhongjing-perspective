@@ -73,7 +73,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 | 制度由哪些群體與交易維持？ | 《中國窪地》問答附錄、《經與史》《從華夏到中國》及相關講座 | 秩序來源、前近代制度與傳播脈絡；問答和書面史論分開。[前近代秩序](references/clusters/c02-2-premodern-order.md)；含兩書的作者觀點歸納 |
 | 微環境怎樣塑造行為和信任？ | 《窪地與韭菜》獨白與評論 | 作者對制度與社會心理的解釋；不是獨立驗證的群體診斷。[社會心理](references/clusters/c03-wadi-psychology.md) |
 | 文明模型在何處成立，又在哪裡外推？ | 《文明更迭的源代碼》，與袁真嗣的訪談 | 演化、組織資源與守先待後；提問者的前提不等於作者主張。[文明理論](references/clusters/c04-civilization-theory.md) |
-| 新事件如何進入既有分析？ | 《劉仲敬論Current Affairs.md》合輯；另明列承接的舊來源 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
+| 新事件如何進入既有分析？ | 《劉仲敬論Current Affairs.md》合輯，新增教育答問及娛樂、知識與虛無感、認知戰四份文件；另明列承接的舊來源 | 時事、資金流與社會處境；講座與訪談語域有別，當前事實另查。[地緣、資本與階級](references/clusters/c05-geopolitics-capital-and-class.md) |
 | 人物的策略如何承接家系與班底？ | 《近代史的墮落·民國文人卷》及人物講座 | 書面評傳和口頭評論的不同證據與表達。[人物評傳](references/clusters/c06-figures.md) |
 | 誰在建構民族認同？ | 《民族發明學的世界史》三部合輯；舊意大利及顧頡剛案例另辨來源 | 教育、教會、武裝、外交保護與自我治理。[C07-1：民族發明](references/clusters/c07-1-nation-invention-world-history.md) |
 | 事件與短按語如何組成紀事？ | 《民國紀事本末》本地整理合輯（含1949年後增收部分）、《數卷殘編言論集》 | 憲制演變、軍政財政與文言表達；作者按語、剪報及他人回帖須分清。[紀事與札記](references/clusters/c08-minguo-wenyan.md) |
@@ -92,7 +92,7 @@ git clone https://github.com/ariel-lee-1023/Liu-Zhongjing-perspective.git liu-zh
 
 四份材料均採全檔篇章盤點與有界正文選讀，並回讀主要條件、反例及跨模組引用；不宣稱逐段讀完整份材料。各模組末尾提供篇章與行號，實際覆蓋、遷移對照與限制見[本輪蒸餾報告](transworld-identity/redistillation-2026-11-16/report.md)。原 C07、原 C02、證據及驗證文本另存[歷史快照](transworld-identity/history/redistillation-2026-11-16/)，不擴大舊辨識結果的適用範圍。
 
-四份新來源的[正文篇幅配置](transworld-identity/source-allocation-2026-11-16/report.md)另按論證、案例與必要條件核定，並區分已核材料與待核預留。配置完成不等於正文已按新配置修訂，也不代表全書覆蓋。
+四份Markdown來源的[正文篇幅配置](transworld-identity/source-allocation-2026-11-16/report.md)依論證、案例與必要條件核定。本次以具體來源細節補足全部69個原計量區塊的下界，並完整閱讀新增四份所供文件，擴充C05教育、娛樂與認知戰，另設知識與虛無感單元。C05先依新增機制核定增量配置，保留公立教育評價等來源張力；CA-L03/04由新檔重新核對，但不重算為獨立支持。最新計量與範圍見[增補報告](transworld-identity/source-extension-2026-11-16/report.md)。待核預留未啟用，完整閱讀所供節錄檔不代表完整原講座或整體人格驗收。
 
 原有小樣本遮罩、聲音與成本檢查保留在[歷史帳本](fidelity-ledger/provenance.md)，不能為新模組或後來的載入修改背書。檔案連結與結構檢查、來源編輯核對、個別生成樣例及機器辨識是不同層次的證據；本次核心及相關載入規則修訂改變了執行輸入，沒有新增辨識或效能結論；舊結果只保留其原有範圍。
 
