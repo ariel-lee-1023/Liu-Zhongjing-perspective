@@ -1,0 +1,159 @@
+{
+  "created_utc": "2026-11-16T12:09:41.954351+00:00",
+  "stage": "before_prose_draft",
+  "scope": "追加MOBI三人物；尾目錄僅閱讀覆蓋",
+  "reading_units": 5,
+  "total_agent_source_units": 42,
+  "chapters": [
+    {
+      "person": "章太炎",
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "planned_paragraphs": 4,
+      "content_groups": [
+        {
+          "id": "BIO26-L57",
+          "heading": "保守與激進取決於所守之物",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 167,
+            "reflow_page_end": 168
+          },
+          "argument": "排滿國粹與嚴復的西化立憲相反搭配；剪辮提供低成本可識別符號。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L58",
+          "heading": "製造邊界比贏得論戰重要",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 168,
+            "reflow_page_end": 169
+          },
+          "argument": "日本與韓國作華夏正統、《蘇報》案與清廷反擊，將符號傳播轉成敵我界線。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L59",
+          "heading": "思想發明不能接管財政與軍事",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 169,
+            "reflow_page_end": 170
+          },
+          "argument": "自我繁殖的敘事超越發明者控制；政治組織失敗、黎元洪友誼與對袁世凱帝制拒絕，分開清醒與組織才幹。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L60",
+          "heading": "遺民對親生共和國的矛盾忠誠",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 170,
+            "reflow_page_end": 170
+          },
+          "argument": "不能容忍孫文也不願犧牲民國，相互矛盾的國族/文化定位限制建設成果。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "按相反條件、可定位事件及制度後果分配，未從來源字數或現稿縮放。"
+    },
+    {
+      "person": "蔡元培",
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "planned_paragraphs": 3,
+      "content_groups": [
+        {
+          "id": "BIO26-L61",
+          "heading": "清流原則與跨派系信用",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 171,
+            "reflow_page_end": 171
+          },
+          "argument": "辭職避禍、光復會與同盟會相爭而本人保持信用，構成人脈型政治資產。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L62",
+          "heading": "新教育移植與共同體阻力",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 171,
+            "reflow_page_end": 173
+          },
+          "argument": "美育代宗教、校制改革、教育國有化與語言標準化；改革快速可表示組織薄弱，非單純進步。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L63",
+          "heading": "救黨、翻臉與制度的反噬",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 173,
+            "reflow_page_end": 173
+          },
+          "argument": "清黨支持蔣，胡漢民被扣後信任破裂、院費與民權同盟形成交易；兼容並包的本人可能推進統一化制度。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "按相反條件、可定位事件及制度後果分配，未從來源字數或現稿縮放。"
+    },
+    {
+      "person": "吳稚暉",
+      "planned_body_hanzi_range": [
+        700,
+        1000
+      ],
+      "planned_paragraphs": 3,
+      "content_groups": [
+        {
+          "id": "BIO26-L64",
+          "heading": "老新黨的立場符號與免責角色",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 173,
+            "reflow_page_end": 174
+          },
+          "argument": "傳統生活與西化口號、蘇報案、丑角形象和無私，提供權威而無實職的空間。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L65",
+          "heading": "遠期烏托邦與近期黨的生存",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 174,
+            "reflow_page_end": 175
+          },
+          "argument": "無政府主義的數百年尺度和留法後輩二十年革命時間表衝突；忠於具體人而非抽象綱領。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L66",
+          "heading": "不取權力的權威也有共同體期限",
+          "primary_source": "BIO26-M",
+          "locator": {
+            "reflow_page_start": 175,
+            "reflow_page_end": 175
+          },
+          "argument": "拒主席、賣字、資助教育、赴台與身後紀念，區分清高和政治無影響；本土認同變動重估舊紀念。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "按相反條件、可定位事件及制度後果分配，未從來源字數或現稿縮放。"
+    }
+  ],
+  "body_hanzi_definition": "去標題及來源短標後計漢字",
+  "limits": [
+    "rp為PyMuPDF重排頁，不是印本頁。",
+    "rp167蔣經國篇尾與rp175陳獨秀篇頭屬邊界重疊，不在本交付新增論據。",
+    "rp229–233僅目錄/封尾，不作內容實讀或新機制。",
+    "未開啟內嵌外部網址，未讀圖像或音訊。"
+  ]
+}

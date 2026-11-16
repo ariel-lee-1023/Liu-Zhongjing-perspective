@@ -1,0 +1,266 @@
+{
+  "status": "pass",
+  "counting_unit": "正文漢字U+3400..U+9FFF；不含標題、來源短標、來源定位及維護說明",
+  "units": [
+    {
+      "plan": "root-plan.json",
+      "person": "戴季陶",
+      "original_range": [
+        650,
+        1000
+      ],
+      "integrated_body_han": 771,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "慈禧",
+      "original_range": [
+        400,
+        650
+      ],
+      "integrated_body_han": 524,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "李鴻章",
+      "original_range": [
+        300,
+        500
+      ],
+      "integrated_body_han": 381,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "段祺瑞",
+      "original_range": [
+        650,
+        950
+      ],
+      "integrated_body_han": 828,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "張佩綸",
+      "original_range": [
+        300,
+        500
+      ],
+      "integrated_body_han": 379,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "翁同龢",
+      "original_range": [
+        300,
+        500
+      ],
+      "integrated_body_han": 355,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "康有為與梁啟超",
+      "original_range": [
+        750,
+        1100
+      ],
+      "integrated_body_han": 919,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "張之洞",
+      "original_range": [
+        400,
+        650
+      ],
+      "integrated_body_han": 500,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "root-plan.json",
+      "person": "王國維",
+      "original_range": [
+        400,
+        650
+      ],
+      "integrated_body_han": 506,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "魯迅",
+      "original_range": [
+        850,
+        1100
+      ],
+      "integrated_body_han": 988,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "周作人",
+      "original_range": [
+        850,
+        1150
+      ],
+      "integrated_body_han": 1043,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "陳寅恪",
+      "original_range": [
+        1000,
+        1300
+      ],
+      "integrated_body_han": 1098,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "余英時",
+      "original_range": [
+        1450,
+        1900
+      ],
+      "integrated_body_han": 1572,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "郭沫若",
+      "original_range": [
+        1000,
+        1350
+      ],
+      "integrated_body_han": 1091,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "瞿秋白",
+      "original_range": [
+        700,
+        950
+      ],
+      "integrated_body_han": 744,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "顧頡剛",
+      "original_range": [
+        900,
+        1200
+      ],
+      "integrated_body_han": 947,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "錢穆",
+      "original_range": [
+        750,
+        1000
+      ],
+      "integrated_body_han": 786,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "黃仁宇",
+      "original_range": [
+        700,
+        950
+      ],
+      "integrated_body_han": 770,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "錢鍾書",
+      "original_range": [
+        750,
+        1050
+      ],
+      "integrated_body_han": 768,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "張愛玲",
+      "original_range": [
+        1500,
+        2000
+      ],
+      "integrated_body_han": 1645,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "李敖",
+      "original_range": [
+        950,
+        1250
+      ],
+      "integrated_body_han": 957,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "金庸",
+      "original_range": [
+        1000,
+        1350
+      ],
+      "integrated_body_han": 1079,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-plan.json",
+      "person": "余光中",
+      "original_range": [
+        900,
+        1200
+      ],
+      "integrated_body_han": 992,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-supplement-plan.json",
+      "person": "章太炎",
+      "original_range": [
+        900,
+        1200
+      ],
+      "integrated_body_han": 938,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-supplement-plan.json",
+      "person": "蔡元培",
+      "original_range": [
+        900,
+        1200
+      ],
+      "integrated_body_han": 931,
+      "lower_bound_met": true
+    },
+    {
+      "plan": "literary-supplement-plan.json",
+      "person": "吳稚暉",
+      "original_range": [
+        700,
+        1000
+      ],
+      "integrated_body_han": 702,
+      "lower_bound_met": true
+    }
+  ]
+}

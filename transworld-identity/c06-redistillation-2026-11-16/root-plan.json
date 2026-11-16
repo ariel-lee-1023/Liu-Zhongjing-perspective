@@ -1,0 +1,218 @@
+{
+  "prepared_before_prose": true,
+  "prepared_at": "2026-11-16T12:11:38.895508+00:00",
+  "counting_unit": "正文Unicode漢字，排除標題、來源索引與維護說明；配置由已讀獨立機制與必要條件導出",
+  "allocation_kind": "本輪內容編輯參考範圍，非通用上限；不補無來源重複總論",
+  "units": [
+    {
+      "id": "BIO26-R01",
+      "heading": "戴季陶：內圈忠誠、死後教義與反共的列寧式組織",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "han_reference_range": [
+        650,
+        1000
+      ],
+      "mechanisms": [
+        "左右立場與內圈忠誠分開",
+        "領袖去世後的系統化及排他繼承",
+        "反對目標而借用組織",
+        "領土繼承與援助依賴的條件"
+      ]
+    },
+    {
+      "id": "BIO26-R02",
+      "heading": "慈禧：家內權威與朝廷規則",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        46,
+        47,
+        48
+      ],
+      "han_reference_range": [
+        400,
+        650
+      ],
+      "mechanisms": [
+        "旗人家內秩序與士大夫禮法的不同",
+        "個人威權破壞本身所依制度",
+        "按當時政治共同體而非倒置民族身份記帳"
+      ]
+    },
+    {
+      "id": "BIO26-R03",
+      "heading": "李鴻章：能辦事卻不能決定事",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        48,
+        49,
+        50
+      ],
+      "han_reference_range": [
+        300,
+        500
+      ],
+      "mechanisms": [
+        "外交名望與宮廷決策實權分離",
+        "緩衝者倒台改變可選路線",
+        "結構限度不免除局部用人責任"
+      ]
+    },
+    {
+      "id": "BIO26-R04",
+      "heading": "段祺瑞：好部下與壞領導",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "han_reference_range": [
+        650,
+        950
+      ],
+      "mechanisms": [
+        "職業軍人的條件性忠誠",
+        "默會協調與知人授權",
+        "法統保護名位權力",
+        "自保和拖敵下水的勝負目標不同"
+      ]
+    },
+    {
+      "id": "BIO26-R05",
+      "heading": "張佩綸：不能勝與不必全軍覆沒",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        58,
+        59
+      ],
+      "han_reference_range": [
+        300,
+        500
+      ],
+      "mechanisms": [
+        "清議領域能力不可外推",
+        "局部避損與戰爭勝利分別歸責",
+        "批評與承擔同一標準"
+      ]
+    },
+    {
+      "id": "BIO26-R06",
+      "heading": "翁同龢：局部得勢與共同基礎的損耗",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        59,
+        60
+      ],
+      "han_reference_range": [
+        300,
+        500
+      ],
+      "mechanisms": [
+        "援助者與地方士紳互相誤解",
+        "財政配置兼有派系作用",
+        "保護親政的動機僅假說"
+      ]
+    },
+    {
+      "id": "BIO26-R07",
+      "heading": "康有為與梁啟超：封閉教團和開放傳播",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65
+      ],
+      "han_reference_range": [
+        750,
+        1100
+      ],
+      "mechanisms": [
+        "忠誠小群與網狀傳播",
+        "概念框架的非意圖後果",
+        "實際決策者與事後敘事主角",
+        "名分合法性與政策目標分開",
+        "共同捐款來源造成同生態位競爭"
+      ]
+    },
+    {
+      "id": "BIO26-R08",
+      "heading": "張之洞：名聲、代理位置與改革資格",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        65,
+        66,
+        67
+      ],
+      "han_reference_range": [
+        400,
+        650
+      ],
+      "mechanisms": [
+        "公開反調和實際服從",
+        "宮廷用文人分散地方班底",
+        "改革倡議者身份改變成本",
+        "教育偏好不等於組織忠誠"
+      ]
+    },
+    {
+      "id": "BIO26-R09",
+      "heading": "王國維：材料國籍與思想來源",
+      "source_id": "BIO26-M",
+      "reflow_pages": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "han_reference_range": [
+        400,
+        650
+      ],
+      "mechanisms": [
+        "國學標籤不指示方法來源",
+        "產權約束與行政接管",
+        "文化遺民與反革命的兩種解釋"
+      ]
+    }
+  ],
+  "shared_without_repeated_body": [
+    {
+      "id": "BIO26-R10",
+      "person": "顧維鈞",
+      "pages": [
+        43,
+        44,
+        45
+      ],
+      "handled_by": "modern-part",
+      "reason": "與F31同題合併，新增來源不重複正文"
+    },
+    {
+      "id": "BIO26-R11",
+      "person": "林則徐",
+      "pages": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "handled_by": "modern-part",
+      "reason": "與F01同題合併，補財政及領事角色分歧"
+    }
+  ]
+}

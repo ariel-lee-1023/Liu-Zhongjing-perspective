@@ -1,0 +1,238 @@
+{
+  "status": "frozen_before_prose",
+  "scope": "BIO26-M reflow pages 1–36, root-mobi-blocks.json units 1–12; root-supplied already-read boundary summary for page 37",
+  "source_driven_han_range": [
+    5150,
+    7150
+  ],
+  "range_basis": "Ten distinct mechanisms require their causal steps, concrete people and reversal conditions. The range is an estimate from those obligations; it is neither a ceiling nor calculated from source length or the old C06.",
+  "sections": [
+    {
+      "heading": "歷史模型與保護條件",
+      "han_range": [
+        650,
+        900
+      ],
+      "mechanism": "不可逆路徑、環境適配與組織承載；模型在資訊不足時保比例感，解釋優勢未必有生存優勢。",
+      "necessary_cases": [
+        "王永江為東北建設而拒絕關內擴張",
+        "陳廉伯的商團財產保護"
+      ],
+      "reverse_conditions": [
+        "大共同體可以供應特殊公共保護，但不能把規模本身當成秩序生產能力",
+        "個體解放須考慮替代組織能否及時接續",
+        "分散低強度壓力與集中高強度壓力的結果不同"
+      ],
+      "pages": [
+        1,
+        4
+      ]
+    },
+    {
+      "heading": "宋教仁與未完成的議會路徑",
+      "han_range": [
+        450,
+        650
+      ],
+      "mechanism": "文本制衡取決於有產者選團、政黨凝聚和行政合作；多黨妥協比純粹勝利更能保住憲法的限制作用。",
+      "necessary_cases": [
+        "鄂州約法與臨時政府組織法",
+        "可能的人才內閣或附條件組閣"
+      ],
+      "reverse_conditions": [
+        "不以遇刺直接證明未遇刺必定成功",
+        "憲法有缺陷仍可能比公開政變保留更多限制",
+        "地方與海外革命網絡不能自動合成同一政黨"
+      ],
+      "pages": [
+        5,
+        7
+      ]
+    },
+    {
+      "heading": "黎元洪的信用與集中化悖論",
+      "han_range": [
+        650,
+        850
+      ],
+      "mechanism": "行政資源不替代政治協調；可信任的人可集中軍財以保護社會，又可能製成省內專斷的制度。",
+      "necessary_cases": [
+        "張之洞繼承者財政改善但關係斷裂",
+        "湖北藩庫、擴軍、軍政分府",
+        "對中央自主與對州縣集中的雙層結構",
+        "反二次革命並不等於支持帝制"
+      ],
+      "reverse_conditions": [
+        "退讓可能出於責任判斷，不等於無能力",
+        "清廉與專業不足替代政治網絡",
+        "信用有可控制的範圍，法統需要軍政承載"
+      ],
+      "pages": [
+        7,
+        13
+      ]
+    },
+    {
+      "heading": "孫中山的組織尺度",
+      "han_range": [
+        300,
+        500
+      ],
+      "mechanism": "僑社與地域認同可長期支撐動員，不能無成本擴成內陸統治；選用列寧式組織可重分權力。",
+      "necessary_cases": [
+        "南洋與兩廣社會網絡",
+        "內地聯盟與江浙力量上升"
+      ],
+      "reverse_conditions": [
+        "堅毅既能保存機會也能反覆消耗機會",
+        "地域動員能力不能直接等同治國能力"
+      ],
+      "pages": [
+        13,
+        15
+      ]
+    },
+    {
+      "heading": "蔣介石的堅毅、後備與統制經濟",
+      "han_range": [
+        800,
+        1050
+      ],
+      "mechanism": "勤勉及可持續工作形成政治優勢，但不能代替資源、後備與地緣判斷；財金統制和戰時遷移相互推進，接收延續國有化。",
+      "necessary_cases": [
+        "黃埔工作與嫡系／非嫡系的負擔",
+        "孤注一擲的戰役配置",
+        "沿海金融與內遷企業的國家依賴",
+        "接收、臺灣統制及後來民間經濟擴張"
+      ],
+      "reverse_conditions": [
+        "幸存不證明原先因果判斷正確",
+        "道德評價不能替代聯盟利益判斷",
+        "經濟組織不能只按冷戰陣營名稱分類",
+        "兩地戰時經濟的差異不能直接裁定政治正當性"
+      ],
+      "pages": [
+        15,
+        21
+      ]
+    },
+    {
+      "heading": "汪兆銘的清流與組織約束",
+      "han_range": [
+        500,
+        700
+      ],
+      "mechanism": "審美、犧牲與公共名望不產生持續組織能力；對黨的情誼可使外交目標自相矛盾。",
+      "necessary_cases": [
+        "詩人與政務首腦的不同責任",
+        "以退隱和犧牲表達自我",
+        "保存國民政府與恢復條約保護的矛盾"
+      ],
+      "reverse_conditions": [
+        "不同戰略可各含代價，不由動機純潔決定成敗",
+        "名望可被組織利用而不能單憑名望控制組織",
+        "不把戰爭責任和日本全部動機簡化成來源單一論斷"
+      ],
+      "pages": [
+        21,
+        27
+      ]
+    },
+    {
+      "heading": "瞿鴻禨的效忠對象",
+      "han_range": [
+        350,
+        500
+      ],
+      "mechanism": "個人義務指向具體授恩與受託關係，不等於抽象支持任何同名政體；政權反覆可懲罰守約者獎賞機會主義。",
+      "necessary_cases": [
+        "拒絕民國、洪憲與再度出山",
+        "官制改革中清流與辦事能力的分野"
+      ],
+      "reverse_conditions": [
+        "清流操守未必有較可行改革",
+        "同意共和原則不取消已承擔的個人義務"
+      ],
+      "pages": [
+        27,
+        29
+      ]
+    },
+    {
+      "heading": "閻錫山的地方韌性",
+      "han_range": [
+        350,
+        500
+      ],
+      "mechanism": "地方團結、有限野心、長期實施可以補償理論貧乏；跨省擴張改變防衛條件和外部滲透。",
+      "necessary_cases": [
+        "山西集團敗而不散",
+        "模範省的持續治理",
+        "加入北伐後的外部力量"
+      ],
+      "reverse_conditions": [
+        "地方韌性不保證永久勝利",
+        "人員的思想表達能力不等於其組織能力",
+        "地方保護亦可能向其他共同體擴張"
+      ],
+      "pages": [
+        29,
+        30
+      ]
+    },
+    {
+      "heading": "傅作義的軍事能力與失去根據地",
+      "han_range": [
+        450,
+        650
+      ],
+      "mechanism": "移民社會與軍隊同構形成抗滲透能力，工業與交通條件又限制局部軍事優勢；升官可以換走實際根據地。",
+      "necessary_cases": [
+        "綏遠農業軍事基地與蒙古人的空間",
+        "東北重武器和運輸優勢",
+        "水利部長與舊部拆散"
+      ],
+      "reverse_conditions": [
+        "對移民是建設，對原有居民可能是擠壓",
+        "局部戰績不能推算對手全部力量",
+        "專業能力不等於保留政治自主的能力"
+      ],
+      "pages": [
+        30,
+        32
+      ]
+    },
+    {
+      "heading": "陳氏兄弟與黨機器的人員成本",
+      "han_range": [
+        650,
+        850
+      ],
+      "mechanism": "機要任用與親信信任決定入場；形式相似的黨機器因實際約束、專業偏好與地方關係而運作不同；教育、計畫與人才遺產可跨政權傳承。",
+      "necessary_cases": [
+        "陳立夫的工程師與中統偏好",
+        "戰時教育集中、理工與私校",
+        "美國知識精英圈的互相誤認",
+        "陳果夫的組織勞動與疾病"
+      ],
+      "reverse_conditions": [
+        "反共不代表反計畫體制",
+        "清黨未必取消原有左派組織理想",
+        "節制生活可以提高韌性但不能自動向社會擴散",
+        "依據root的rp.37摘要只補黨務人員喪失機制"
+      ],
+      "pages": [
+        32,
+        37
+      ]
+    }
+  ],
+  "editorial_policy": "Substantive conditional prose first. Source reliability, contested war narratives, private motives, embedded quotations, uncertain dates and cross-agent boundary provenance collected in end note. No audio, image, external search, or independent historical certification.",
+  "reading_budget": {
+    "main_completed": 57,
+    "supplement_full_units": 12,
+    "aggregate_full_units": 69,
+    "supplement_raw_rereads": 0,
+    "page37": "already-read root summary, no raw source read by this agent"
+  }
+}

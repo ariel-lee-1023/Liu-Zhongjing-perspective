@@ -1,0 +1,312 @@
+{
+  "PDF_DOCX": [
+    {
+      "primary": "BIO26-F02",
+      "variant": "BIO26-P02",
+      "numeric_difference_runs": 9,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F14",
+      "variant": "BIO26-P14",
+      "numeric_difference_runs": 9,
+      "non_numeric_difference_runs": 0
+    },
+    {
+      "primary": "BIO26-F18",
+      "variant": "BIO26-P18",
+      "numeric_difference_runs": 18,
+      "non_numeric_difference_runs": 8
+    },
+    {
+      "primary": "BIO26-F33",
+      "variant": "BIO26-P34",
+      "numeric_difference_runs": 19,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F22",
+      "variant": "BIO26-P23",
+      "numeric_difference_runs": 0,
+      "non_numeric_difference_runs": 8
+    },
+    {
+      "primary": "BIO26-F34",
+      "variant": "BIO26-P35",
+      "numeric_difference_runs": 17,
+      "non_numeric_difference_runs": 2
+    },
+    {
+      "primary": "BIO26-F19",
+      "variant": "BIO26-P19",
+      "numeric_difference_runs": 18,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F15",
+      "variant": "BIO26-P15",
+      "numeric_difference_runs": 25,
+      "non_numeric_difference_runs": 3
+    },
+    {
+      "primary": "BIO26-F03",
+      "variant": "BIO26-P03",
+      "numeric_difference_runs": 27,
+      "non_numeric_difference_runs": 7
+    },
+    {
+      "primary": "BIO26-F08",
+      "variant": "BIO26-P08",
+      "numeric_difference_runs": 13,
+      "non_numeric_difference_runs": 1
+    },
+    {
+      "primary": "BIO26-F31",
+      "variant": "BIO26-P32",
+      "numeric_difference_runs": 15,
+      "non_numeric_difference_runs": 1
+    },
+    {
+      "primary": "BIO26-F23",
+      "variant": "BIO26-P24",
+      "numeric_difference_runs": 29,
+      "non_numeric_difference_runs": 4
+    },
+    {
+      "primary": "BIO26-F04",
+      "variant": "BIO26-P04",
+      "numeric_difference_runs": 33,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F12",
+      "variant": "BIO26-P12",
+      "numeric_difference_runs": 23,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F27",
+      "variant": "BIO26-P28",
+      "numeric_difference_runs": 12,
+      "non_numeric_difference_runs": 1
+    },
+    {
+      "primary": "BIO26-F28",
+      "variant": "BIO26-P29",
+      "numeric_difference_runs": 0,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F13",
+      "variant": "BIO26-P13",
+      "numeric_difference_runs": 11,
+      "non_numeric_difference_runs": 0
+    },
+    {
+      "primary": "BIO26-F05",
+      "variant": "BIO26-P05",
+      "numeric_difference_runs": 10,
+      "non_numeric_difference_runs": 3
+    },
+    {
+      "primary": "BIO26-F24",
+      "variant": "BIO26-P25",
+      "numeric_difference_runs": 0,
+      "non_numeric_difference_runs": 3
+    },
+    {
+      "primary": "BIO26-F32",
+      "variant": "BIO26-P33",
+      "numeric_difference_runs": 10,
+      "non_numeric_difference_runs": 6
+    },
+    {
+      "primary": "BIO26-F09",
+      "variant": "BIO26-P09",
+      "numeric_difference_runs": 16,
+      "non_numeric_difference_runs": 9
+    },
+    {
+      "primary": "BIO26-F25",
+      "variant": "BIO26-P26",
+      "numeric_difference_runs": 8,
+      "non_numeric_difference_runs": 2
+    },
+    {
+      "primary": "BIO26-F29",
+      "variant": "BIO26-P30",
+      "numeric_difference_runs": 0,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F10",
+      "variant": "BIO26-P10",
+      "numeric_difference_runs": 14,
+      "non_numeric_difference_runs": 5
+    },
+    {
+      "primary": "BIO26-F06",
+      "variant": "BIO26-P06",
+      "numeric_difference_runs": 12,
+      "non_numeric_difference_runs": 2
+    },
+    {
+      "primary": "BIO26-F07",
+      "variant": "BIO26-P07",
+      "numeric_difference_runs": 27,
+      "non_numeric_difference_runs": 10
+    },
+    {
+      "primary": "BIO26-F11",
+      "variant": "BIO26-P11",
+      "numeric_difference_runs": 30,
+      "non_numeric_difference_runs": 4
+    },
+    {
+      "primary": "BIO26-F30",
+      "variant": "BIO26-P31",
+      "numeric_difference_runs": 15,
+      "non_numeric_difference_runs": 1
+    },
+    {
+      "primary": "BIO26-F26",
+      "variant": "BIO26-P27",
+      "numeric_difference_runs": 0,
+      "non_numeric_difference_runs": 4
+    },
+    {
+      "primary": "BIO26-F16",
+      "variant": "BIO26-P16",
+      "numeric_difference_runs": 21,
+      "non_numeric_difference_runs": 11
+    },
+    {
+      "primary": "BIO26-F20",
+      "variant": "BIO26-P20",
+      "numeric_difference_runs": 18,
+      "non_numeric_difference_runs": 6
+    },
+    {
+      "primary": "BIO26-F35",
+      "variant": "BIO26-P36",
+      "numeric_difference_runs": 11,
+      "non_numeric_difference_runs": 2
+    },
+    {
+      "primary": "BIO26-F21",
+      "variant": "BIO26-P21",
+      "numeric_difference_runs": 11,
+      "non_numeric_difference_runs": 2
+    },
+    {
+      "primary": "BIO26-F01",
+      "variant": "BIO26-P01",
+      "numeric_difference_runs": 8,
+      "non_numeric_difference_runs": 4
+    },
+    {
+      "primary": "BIO26-F17",
+      "variant": "BIO26-P17",
+      "numeric_difference_runs": 15,
+      "non_numeric_difference_runs": 2
+    }
+  ],
+  "book_DOCX": [
+    {
+      "chapter": "魯迅",
+      "docx": "BIO26-F33",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "陳寅恪",
+      "docx": "BIO26-F35",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "余英時",
+      "docx": "BIO26-F23",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "郭沫若",
+      "docx": "BIO26-F27",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "瞿秋白",
+      "docx": "BIO26-F24",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "顧頡剛",
+      "docx": "BIO26-F32",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "錢穆",
+      "docx": "BIO26-F28",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "錢鍾書",
+      "docx": "BIO26-F29",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "李敖",
+      "docx": "BIO26-F26",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "金庸",
+      "docx": "BIO26-F20",
+      "book": "BIO26-B"
+    },
+    {
+      "chapter": "余光中",
+      "docx": "BIO26-F22",
+      "book": "BIO26-B"
+    }
+  ],
+  "other_merges": [
+    {
+      "from": "歷史模型：環境、節點與保護的承載者",
+      "action": "keep four source-specific paragraphs, including pressure intensity, replacement protection and costly Wang/Chen choices",
+      "reason": "cross-review found unique conditions and local-protector costs; preserve them rather than discard the entire comparison"
+    },
+    {
+      "from": "閻錫山：地方集團的韌性與擴張代價",
+      "to": "閻錫山：專業撤退、地方團結與越出能力範圍",
+      "action": "merge governance increment; deduplicate cohesion and expansion"
+    },
+    {
+      "from": "蔣介石：堅毅、後備與經濟組織",
+      "to": "蔣介石：外援、財政與拆除地方防線",
+      "action": "merge six paragraphs; remove only repeated general aid condition, preserve survival-feedback mechanism"
+    },
+    {
+      "from": "李克農、劉少奇與周恩來：組織的不同零件",
+      "to": [
+        "周恩來：組織渠道、雙重指揮與統戰的分層",
+        "李克農與劉少奇：情報、幹部與社會網絡的替換"
+      ],
+      "action": "keep Li/Liu four paragraphs; merge only Zhou succession increment"
+    },
+    {
+      "from": "陳獨秀、丁玲與文人的組織位置末段文人綜述",
+      "to": "文人主組各人物節",
+      "action": "deduplicate; evidence retained and mapped to full treatment"
+    }
+  ],
+  "lectures": {
+    "members": [
+      "BIO26-F08",
+      "BIO26-F21",
+      "BIO26-F25",
+      "BIO26-F30",
+      "BIO26-F31"
+    ],
+    "note": "講座題名及連續論述支持同一講座家族；不以五檔充作五個獨立史實證人。"
+  },
+  "MOBI": "同題或重印評傳按人物/事件合併；仍保留各版本特有條件，不宣稱所有版本位元相同。"
+}

@@ -1,0 +1,3896 @@
+[
+  {
+    "id": "BIO26-A01",
+    "source_id": "BIO26-F10",
+    "source_sha256": "17edcb89eb93dfb5d1813fc6dc544d268696e1f7b77bcca19d6e0fe17282d8ea",
+    "source_name": "刘仲敬论诸夏十大罪人之刘彻.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          3,
+          69
+        ],
+        [
+          79,
+          91
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "49f9a7792dae80c0ffbe112064ffcae648d2dd5a668a4059849bba0b893b87c4",
+      "locators": [
+        {
+          "unit": 3,
+          "sha256": "a8696adbefd44907d6c156f98c49e855dd6566a7ccc1bff37c110831053c9f41"
+        },
+        {
+          "unit": 4,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 5,
+          "sha256": "9dcc22f14925a3c018a99fbfe6f60f700c8764fa1cdbaa61c7b69bcbbec92600"
+        },
+        {
+          "unit": 6,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 7,
+          "sha256": "ddc39f5c5b6a51f5a2f27d7331bc859d211b4a6b40b584ef27f8f8e87f2ce333"
+        },
+        {
+          "unit": 8,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 9,
+          "sha256": "2ed12941063e0b9d502791cdc3609f55b978824cf61c814ffb597a1818571d1d"
+        },
+        {
+          "unit": 10,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 11,
+          "sha256": "fc5d708351f36fd9d3260fdd2c9ace47512bd4df70b6307365ffce418389a394"
+        },
+        {
+          "unit": 12,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 13,
+          "sha256": "6571ccb726c1a3b262010799a6687c8f64ba326325930e72b69271252aa796f9"
+        },
+        {
+          "unit": 14,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 15,
+          "sha256": "cc227524c6176ad21c8b2b8c1343c79a0df017551d2e08541e05b09dc29fbb29"
+        },
+        {
+          "unit": 16,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 17,
+          "sha256": "c10af594b34e06d8b66c62730a6b575cda8d456f56c44045eb7efe7f29490e37"
+        },
+        {
+          "unit": 18,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 19,
+          "sha256": "ce357a92ccf58d8ed42644c191330156542c82dcfdbc97082596974e96bc13e0"
+        },
+        {
+          "unit": 20,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 21,
+          "sha256": "227a6953ed4902baa105c1f727cf6d9d3fc31ede0efce2900fb8b32e38f393d9"
+        },
+        {
+          "unit": 22,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 23,
+          "sha256": "8108241087cc1372ad2a8d11bd59913874ef11117a43da2ec4e76ce2c240e43a"
+        },
+        {
+          "unit": 24,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 25,
+          "sha256": "9360a6a16273f5c768dd4ba644347626e1414cb7c6dc4d6c62279d8a6080f32e"
+        },
+        {
+          "unit": 26,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 27,
+          "sha256": "fe203a9d23600c34b9a1cc1b564701ddcf5a722998f2605389ca61658977c1c0"
+        },
+        {
+          "unit": 28,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 29,
+          "sha256": "958b9bbfed461becba51188d76081083907e9eb482ad5f00e7e3596560c09e8f"
+        },
+        {
+          "unit": 30,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 31,
+          "sha256": "5ccfb120e357ef29d9f92a7290107302d39832f9f0bdd1bb1258e003086601cf"
+        },
+        {
+          "unit": 32,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 33,
+          "sha256": "cf103edabedd055630db49f10ebb190d9e02d6351ecf6a5c0932518c1443e666"
+        },
+        {
+          "unit": 34,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 35,
+          "sha256": "3fcf776551908c5354fa2ddf40b59378a7839cfca8a19df09267cad15b50902f"
+        },
+        {
+          "unit": 36,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 37,
+          "sha256": "2c5a4e03d70a42c41a9e8bd0c68eb190c06fb9a75a5abd9bb65bd5b416511a13"
+        },
+        {
+          "unit": 38,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 39,
+          "sha256": "5b0f8c884d3a89a662ff4faa1a263332aa310b81f605d233eb925adf42f2b9cd"
+        },
+        {
+          "unit": 40,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 41,
+          "sha256": "348856e0df1e80fd7795daf8fedd168dd7cb35c9a62c73dbfa742d15c57854f0"
+        },
+        {
+          "unit": 42,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 43,
+          "sha256": "be7fc3fca19662da7223e7a570cb08aea44703b19f0ffa61ec329d60b660509d"
+        },
+        {
+          "unit": 44,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 45,
+          "sha256": "473938f54c21fb04542f82d75e6b99396c0704c739c3f8bd4eb3e2e115d2ea0a"
+        },
+        {
+          "unit": 46,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 47,
+          "sha256": "e8669ae8eb502b6d6d76c189b29689c8cc0f7c8c042cee20b73121d17afb2e5a"
+        },
+        {
+          "unit": 48,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 49,
+          "sha256": "466a23dabd64e72b1cdd488d7da8641fc9b71f004e50b07d0cecf28aff286a15"
+        },
+        {
+          "unit": 50,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 51,
+          "sha256": "ac8f4b9f756f97b266a5815d92b3e2ae6a64253e4f12afccbf73e4827ca5e38d"
+        },
+        {
+          "unit": 52,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 53,
+          "sha256": "07c551a31a8e9502540915d735de925fbfba52df12aeb98204c708748c75eb4b"
+        },
+        {
+          "unit": 54,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 55,
+          "sha256": "0c31866197ef23c45c0093e54c1cff0a587f2fb786c6899809c4ede4cd58b1be"
+        },
+        {
+          "unit": 56,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 57,
+          "sha256": "a77099e1292c84f5c937a9bb046ab1390ca40b18f3f0f247f65b9e3d9a923fdb"
+        },
+        {
+          "unit": 58,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 59,
+          "sha256": "45e966b26b93ff85d3ac96da649395cbc2fc1f962b222bcdd4cc43cdd9a6a9d7"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "1facc3e3d88fcad43bd292b8f32e54a637793b30005d251549a5e8085d493f10"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "ca6c8c2c12f3a87c1c0dd303c0b61c78100e1225439ce9c83ebcbb06b705435c"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "e8433287e129160974da2e14ba736c85d5bdcec9c6d2bb9cc913b934eda584f4"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "7cad6e4784913d714c28467d9633f8933d7fe03ad6016fea7a1290b798f5319c"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "137091d2450e3b60911464c95261462fa43747af7086a937aed7478fd20a81ae"
+        },
+        {
+          "unit": 79,
+          "sha256": "8b20511ede86977dcd701dd3aa9cd8de5c1faa0543f6113e3ed577150609e04a"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "067ef4fe2055e141fbe6127e15f3f555457add6e0ea0c9538da8d788891198c0"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "0a68f07ea1dec9acaf8a3c33905cca3fbef1d9eabdf2943381dfa2692748348f"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "8eafa3961d64e1a5fc977424ac1294211dd843d981bf0a841e236a8ade7b7a7c"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "15b651c1a87349222254839b46ac5ac1783b6540ae80516be4110af1fc30cddc"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "fff917cc34789556fdb255457462e377b002e97a1280dfa0da99ea84148d8b9d"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "970ae55d1471db0fcb3dd320da541944d7f2e5e339b627c3b3f74b26afc91cd2"
+        }
+      ]
+    },
+    "heading": "劉徹：兩種約束",
+    "situation": "漢初列國與郡縣並存，武帝承接中央動員機器。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "推恩、人事任命、強制遷徙與財政汲取同時削弱橫向、縱向制衡。",
+    "conditions": [
+      "地方仍有自身政治結構時，同姓君主不會消除地方利益。"
+    ],
+    "exceptions": [
+      "個人仁厚不能單獨恢復已失去的約束。"
+    ],
+    "conflicts": [
+      "跨期總因果與人口百分比屬作者論證，非獨立統計。"
+    ]
+  },
+  {
+    "id": "BIO26-A02",
+    "source_id": "BIO26-F16",
+    "source_sha256": "5b447d5f2256deedf7cb7abe6ef9828ff9a4c07f73199c2f7fd0ce2546d36c07",
+    "source_name": "刘仲敬论诸夏十大罪人之苻坚.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          63,
+          115
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "45f27ca677f3bde407eaee9dd5dd90706d7ae42687fc805056ca3e830acba26b",
+      "locators": [
+        {
+          "unit": 63,
+          "sha256": "1a8bd8e9a67968bdad65f497b2ed3ff403356392e13bd13f49c9f82dba8ee0fe"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "a03c575506c1def741d86c9b3ec0446bc68286740818ca05c6f2a97029d0340b"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "371174ab75d64d64d7549f9bc7270178017e2f7ec65dbb2033bfe6ad2e55d25a"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "8eba23720eeef9e2d32c89e3a0073b4fa247e24ba1ad1a07046fd59932bf6577"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "148465ae3e2398c6536746caad46130164f1c2e66a112f407858e38dda3c0a6b"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "22f43bdf3ed0ecadeb0a3f4cdf4eb1bc5eb6e99560ff5b5e6c6d6d2b8c4a1470"
+        },
+        {
+          "unit": 74,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 75,
+          "sha256": "5689b518e0957991f4690064eed72062d61e56ac9f1a3e7ade7995ebd4432e23"
+        },
+        {
+          "unit": 76,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 77,
+          "sha256": "409580cb88e714eb578cf45b78ea37af6278c5493439d7ab45ac7050f90a2787"
+        },
+        {
+          "unit": 78,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 79,
+          "sha256": "c62b5446aed84b02771a931cb3dea9b88329494c441918f6bc38c6715cbb13dd"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "0f337cea8bc3b4a5cda03668588089c918c8b3bb0665e0fe592e4178fdc03598"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "b2a83e958273e652ec98c12233527875db643a2386e42fa07525970a03c55e81"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "beb5d473291718e502cbc8721b7c418392868c570bcf18abbf7f4a8e07385bcf"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "a717878ee7ae29af482658e1af9bc2390ae6188296b738c0049f2e3730d05d20"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "4332a2ffb218381474c27f39306bc539be514ee5c9c314dd34a7c0bf1ac33f8f"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "7e60cd579bdc64304d4395a36e2cb1b67af55f80d974bb8bb8ed5da45eaa9954"
+        },
+        {
+          "unit": 92,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 93,
+          "sha256": "8e53d00406c521267326812520642242733c4f50d4d38a307a9debae23e54638"
+        },
+        {
+          "unit": 94,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 95,
+          "sha256": "7c6519b4ed2337eb25079e35d969315c692dd9cdabe69e0a59a9a1522caf78fc"
+        },
+        {
+          "unit": 96,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 97,
+          "sha256": "aefe58667ebca96e7dfd796327e5bd732d9a12a03fce1347fefa81ba72a12f21"
+        },
+        {
+          "unit": 98,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 99,
+          "sha256": "7bff00e0456d55a8a7bbc86f3763ce0240cbce9c93ef2e7fe29a45ff274c9f8a"
+        },
+        {
+          "unit": 100,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 101,
+          "sha256": "267976bbfe9200c09ffbd94e9777a02129d10adbf6f86ba1583ba7fefe8a04ad"
+        },
+        {
+          "unit": 102,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 103,
+          "sha256": "54b78f1db79f0c039af9f926e8e5fe0abf723d002aa216c3c1cd6feffa3796e1"
+        },
+        {
+          "unit": 104,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 105,
+          "sha256": "3e5649be809191cc1b82d6b06af36b4a6a435016b873dee2234df96bfb9bd481"
+        },
+        {
+          "unit": 106,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 107,
+          "sha256": "aecc51b19102e3f0548608e232b1acee947b3597f64ae249c3779f51f4c9963e"
+        },
+        {
+          "unit": 108,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 109,
+          "sha256": "9a719c750c9f16a08999ac10f762b6a08131d20f00c54c1059e154fc04cfc5a9"
+        },
+        {
+          "unit": 110,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 111,
+          "sha256": "f71b610127aae9e8dd4501e0bf8135a0b3f9cd25d80f7e48b6a894a021c6d18b"
+        },
+        {
+          "unit": 112,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 113,
+          "sha256": "fcddf9dee7ff166ce208d0ccb392b1b8f5a9161e9a5b7d68daa80dae7e0a970e"
+        },
+        {
+          "unit": 114,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 115,
+          "sha256": "d0eb07501bab718b3893aaa211b18a296af63c0f3b33f633477b6f2611d67c25"
+        }
+      ]
+    },
+    "heading": "苻堅：擴張拆散退路",
+    "situation": "氐人核心部眾分散到征服地，淝水敗後各地失去支援。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "分散駐防與削弱原鄉，使一次敗戰難以回退為地方王國。",
+    "conditions": [
+      "原鄉與武裝網絡保留時，敗戰仍可重組。"
+    ],
+    "exceptions": [
+      "王猛不存在、古蜀文字廢除與血統傳播並未由本材料證成。"
+    ],
+    "conflicts": [
+      "歐洲式多國發展為反事實分支；排除¶117起修改附錄。"
+    ]
+  },
+  {
+    "id": "BIO26-A03",
+    "source_id": "BIO26-F09",
+    "source_sha256": "b45bcd5000472b8f4e8a9f2159978ac52277e4fdba279b2e696993f29fe52105",
+    "source_name": "刘仲敬论诸夏十大历史罪人之文明太后冯氏.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          63,
+          109
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "52f38b7db41eb6caa9f6ab211523e629c81c41132918b62fa8624385c78f8229",
+      "locators": [
+        {
+          "unit": 63,
+          "sha256": "a3bd28429f5e1ae168d103642a6618605e7f1bf0ecf05cc2dc5c62a33647e06c"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "b169e86c96f99e2a3c59a3b789056c9f006f5d79f630eae667bebf9c040e9a32"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "3f3a3526577414db6aab7ac808f3562ea18ad33c20db95f7dd811a2d312570b1"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "4a93350b39959a3d6aeab020f594514d9b53f27cde9d1b7fa12b5e4dc7c94e46"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "b22c4e5323cd39363571c3a3b367829b010a71fbf0bb0db35b2f2fad5d312baa"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "c6112adeb1547d98f9a6e67508b1a61da466167106bfb90bd3cb4518ddef506b"
+        },
+        {
+          "unit": 74,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 75,
+          "sha256": "2d0317cd053ea577902663b1a0bbc2e28bb4d3e280253e0a26e06a46671c0eb9"
+        },
+        {
+          "unit": 76,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 77,
+          "sha256": "c1d98a9e9bc96ea9d119f86aec6987a95dd1bd8fc04b389121b4ba95f88742a7"
+        },
+        {
+          "unit": 78,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 79,
+          "sha256": "25ff5f6f13edbec50b6525b93fe6d0a7426be0a20dc4c8c9288d25ed51b14bd6"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "5bdfde55d035eb70985472c7d2aaa2ddb170c5d5fe7e25f91c996bb6cc40e25b"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "52beff72a403fc04b7e994560f8601b3243d3288808851949dc3ae4ef56e18c3"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "9d5e30985b6c3d68932326c223aecb909c5ff22077ab71a887d328370a0ec234"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "2c4eded359fee4a9a2ec7a57bcc07c0cc8cb0c683d24f0ae00e3eae32e7d0da7"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "d1bf16903619778171d5e1467bc631070d52c1a0cdda159eb16166ea7cb5d19f"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "2e285dd75ba05045cabfe97f94fd6aee2cfd6008137b334ebd2dee730dcbd6e8"
+        },
+        {
+          "unit": 92,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 93,
+          "sha256": "de2d42c8c267d2061e84eee26d562665e86d2dae37912ba1d73fb52f4d60663b"
+        },
+        {
+          "unit": 94,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 95,
+          "sha256": "b376a4e2df94ecc82bf417eb4f7d1ecd9ebc2ccb28885cdeb1fd6198f31b6a80"
+        },
+        {
+          "unit": 96,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 97,
+          "sha256": "36d9008a66e4b4482d72b3ebab248805014cfcc8756ccb92df6fd147fa97eede"
+        },
+        {
+          "unit": 98,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 99,
+          "sha256": "33d680339ca682da0049a1f8a4434dcadadedde6a0cb7c64551ca2545d7f7063"
+        },
+        {
+          "unit": 100,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 101,
+          "sha256": "b5b36bbcebda0f0d970c7551074f3e20b8c987e2400e81f69f100cee1dcf88ce"
+        },
+        {
+          "unit": 102,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 103,
+          "sha256": "9c3d29424f5b5d951487b56cb2989731e9cbacaa6d47de4a64c0211836a92b49"
+        },
+        {
+          "unit": 104,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 105,
+          "sha256": "f4d9edb8bcfa773d35f721ccfb6161ba0f7892ebd9bee3dd5da8d577bc7d04f7"
+        },
+        {
+          "unit": 106,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 107,
+          "sha256": "df4028754be662cc32e46b7aa352af21d5c74d8e1435dbbbce5d90ad805dd7db"
+        },
+        {
+          "unit": 108,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 109,
+          "sha256": "7d10a6df473d4367ee271f1fc3dcbb63d2ecb76373baa2b507adf1f151541a40"
+        }
+      ]
+    },
+    "heading": "馮太后：行政下沉",
+    "situation": "北魏王室、部落領袖、都護和名門大族爭奪治理權。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "行政班底、財源與儒學正當性相互配合，三長制比表面改姓更接近權力轉移。",
+    "conditions": [
+      "保留團體權利可形成弱共主與強地方的另一配置。"
+    ],
+    "exceptions": [
+      "血統、曹字語源及波斯直系傳播保留不確定。"
+    ],
+    "conflicts": [
+      "孝文帝作收尾為作者的權重判斷，非取消其所有政策作用。"
+    ]
+  },
+  {
+    "id": "BIO26-A04",
+    "source_id": "BIO26-F14",
+    "source_sha256": "7f5ebbe6c37fe108ca1e0cd0799f9c53ad13507897580d85601cbb5e2fbe07ed",
+    "source_name": "刘仲敬论诸夏十大罪人之武则天.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          3,
+          63
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "006c360b6885c80fa92f9164a775df513a9f607c592fe55525cee6940417e856",
+      "locators": [
+        {
+          "unit": 3,
+          "sha256": "a0cadd0166bdd16aa18736b066ef9e7e9e8752dc235301bbc6cfe60dda9bff93"
+        },
+        {
+          "unit": 4,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 5,
+          "sha256": "0078687caa03f3a90210fe4deaed3a1d9014ce9b9e00f0559098062265cfb24a"
+        },
+        {
+          "unit": 6,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 7,
+          "sha256": "526ba7d7f3e0c74d94ec7bd15604e1c25f84518f8158dc08cc3d8fffce0a9873"
+        },
+        {
+          "unit": 8,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 9,
+          "sha256": "41f5bc7e6523f1b4b732611763af47dee189dbf96af966cb10b339ff5885a71f"
+        },
+        {
+          "unit": 10,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 11,
+          "sha256": "8a8c7f3fbf49df1b08d85b6a9f252548018a293bf72f611adc8c6c6ae5b213b0"
+        },
+        {
+          "unit": 12,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 13,
+          "sha256": "e89927fc3ab385d83f070824a316b0907899d74a9760a86267e46cf32b3a0783"
+        },
+        {
+          "unit": 14,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 15,
+          "sha256": "662354c3d27d1dbe471b10e107a4b7a76b8f254b77c885b801ca05129554e4a3"
+        },
+        {
+          "unit": 16,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 17,
+          "sha256": "7291ce9db55cdb4d1f3cf6db4f388979be9a176076cd2ade0ad3a0472c1eda16"
+        },
+        {
+          "unit": 18,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 19,
+          "sha256": "e647fa88fd52b44f4baff2c68824557af61772c54891a1fc6c827c828d1269d9"
+        },
+        {
+          "unit": 20,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 21,
+          "sha256": "9c1d2ae9e37675c170c9e6bca2ac89ecbbe486f0cad2da1508f9fdfa62e6ac0c"
+        },
+        {
+          "unit": 22,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 23,
+          "sha256": "f53c5dc0ed221e03c6035c383fb18b4e2200003b6b232429bfaa664ffd14500b"
+        },
+        {
+          "unit": 24,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 25,
+          "sha256": "cfced19e4c41463807159b78d683378e987743d6dbc1b1ee5294ea83b34a9124"
+        },
+        {
+          "unit": 26,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 27,
+          "sha256": "a7896c055e19db55dfce9b604776e0fdd5d8fe91ad4794d78c185e264e602bb3"
+        },
+        {
+          "unit": 28,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 29,
+          "sha256": "322e7916c0c95e4be60defd2626851154b4eb11e7b30f9902bedda0c02d43476"
+        },
+        {
+          "unit": 30,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 31,
+          "sha256": "29754fc390b98eab23d0c7d77c9c6547606d580e1c6eb3805eea5f2c47a1289d"
+        },
+        {
+          "unit": 32,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 33,
+          "sha256": "00dee16a2a8fedbb0bd47ca6ebbac1fdafe40f4c3ed6fe1877b87e0a88ade81e"
+        },
+        {
+          "unit": 34,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 35,
+          "sha256": "6d14a351c4c670e4080fd1e843be691995ed134e324f9fb1f631f7dfcca2b171"
+        },
+        {
+          "unit": 36,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 37,
+          "sha256": "3f81fcda4e33916b7403d6f881da6858a3e0bb3a2eb6714faea79173fca5622d"
+        },
+        {
+          "unit": 38,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 39,
+          "sha256": "ac4801d4d5bf5a978635a83d661b634365c92c0e2864bc91476703924d9cf9e0"
+        },
+        {
+          "unit": 40,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 41,
+          "sha256": "8562f8bc16faacfa38f5c63b1dc6106dd25ef7d5752353b5e640f9232cb34f57"
+        },
+        {
+          "unit": 42,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 43,
+          "sha256": "557f682c9323897aa98d630aa83a16320d108150b2ad2de6d640728191f312a2"
+        },
+        {
+          "unit": 44,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 45,
+          "sha256": "9b2c8cadc78e674b6572da9cffc10c94f24770094ca62bbfab2087fcefe69185"
+        },
+        {
+          "unit": 46,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 47,
+          "sha256": "decb55ccd004f6a487a95b25e945e6be06b79e59ed6ac6bd99a9f9c9fa397838"
+        },
+        {
+          "unit": 48,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 49,
+          "sha256": "53254b8807dc405d21b88d8159eac71b919d701356d0c5ae48c89123bb91fa29"
+        },
+        {
+          "unit": 50,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 51,
+          "sha256": "4a5c1eb0d1fdc13ba131f30f836a815961156438a09811c22fef1dec6c82320b"
+        },
+        {
+          "unit": 52,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 53,
+          "sha256": "2861282290a101a5e40ec7147b91a8e9ce4d3e9787b2ace12552db9842798eb3"
+        },
+        {
+          "unit": 54,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 55,
+          "sha256": "33cd3b051b391f0c7b799e91e7c749f8ebbe318357160ff7283c77b156ee8405"
+        },
+        {
+          "unit": 56,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 57,
+          "sha256": "dfcbda824e576291d7896dc0cbddc5277cc42d828c00ffb121d76448b3cbc195"
+        },
+        {
+          "unit": 58,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 59,
+          "sha256": "d85f0d3238fdc3bd15f5db7bddb1c84bcacc3061f53b628b778360f24f9748c8"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "2d3c630a274f9e4ee593b1dd84da58a0626df66323982f954151b45eae2478d1"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "a41ebadc9ad53f4ee603a5723c831f08e1cf4f45d8d636896edb8690487afd27"
+        }
+      ]
+    },
+    "heading": "武后：持續供應代理人",
+    "situation": "關隴門第與局外人君主的競爭；科舉擴大新人渠道。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "科舉把偶發游士供給常態化；名義復辟未復原社會基礎。",
+    "conditions": [
+      "同一小貴族在本土可維護約束，失根後可協助拆除；重新扎根可再生。"
+    ],
+    "exceptions": [
+      "孔子是不隨利益轉向的顯式例外。"
+    ],
+    "conflicts": [
+      "安史之亂必然性與長時段科舉因果不當作已驗證定律。"
+    ]
+  },
+  {
+    "id": "BIO26-A05",
+    "source_id": "BIO26-F13",
+    "source_sha256": "709514637953545425741c63ae19c7c14315d3dfadbb533031ddf5b1efd12f97",
+    "source_name": "刘仲敬论诸夏十大罪人之柴荣.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          15,
+          25
+        ],
+        [
+          43,
+          73
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "4238cfeb5a5dafad3588e4dea67cf2abbecb04e1f032e67d6051ce14e8c6deb7",
+      "locators": [
+        {
+          "unit": 15,
+          "sha256": "6e8337e4681c98201084dc1cbc00635f5d8ffd24434e789bc5cc0fee282b3e17"
+        },
+        {
+          "unit": 16,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 17,
+          "sha256": "9369bf1340b3d83f852855c7d38117fc0e396e341c57df203a22b977143d2a58"
+        },
+        {
+          "unit": 18,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 19,
+          "sha256": "fa630fbad7bc96fff84ae3288f08f6ae68f18f21725696e39574dd6ff1aa716a"
+        },
+        {
+          "unit": 20,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 21,
+          "sha256": "5f485978442f8824a8a6451ec250dcadf30f61d4a8840c717718d0c14020e26c"
+        },
+        {
+          "unit": 22,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 23,
+          "sha256": "93b3e1ea1805bc47b060fd4ab15f71e74117922e0b6dfd9db9ba1712ac5c2545"
+        },
+        {
+          "unit": 24,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 25,
+          "sha256": "b4be638c84cd7b1c8fcdae1d31a74722a183c8d126d43667721b0cf472ff468a"
+        },
+        {
+          "unit": 43,
+          "sha256": "704920fe3f67f8fc72bfee47c9ff8f37ad4a5069095ccc1f55f07cf93ac85c35"
+        },
+        {
+          "unit": 44,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 45,
+          "sha256": "22947104e3cc8cd2e962d5ba3339e340a1cb98f408c9e15416c1ca7819e7999d"
+        },
+        {
+          "unit": 46,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 47,
+          "sha256": "d3536109f976de76b9d12a4ba4e1a933b1c8b4ad5f077459a305ba43edea37a4"
+        },
+        {
+          "unit": 48,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 49,
+          "sha256": "2d63d91b5e4ff4f610a0c74c9a9061b9d5ac07d7c4291b5ca0ca69bcdd30b6e7"
+        },
+        {
+          "unit": 50,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 51,
+          "sha256": "fb36a74d2f593e5c1ce2dbce344620c4a8b612e5f5d146fb780746ddbf49c93e"
+        },
+        {
+          "unit": 52,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 53,
+          "sha256": "634d2661b5bc187dc9b15b5c3ffe1ac865fb2bc8ecd7910ba0367c3bdf700fc1"
+        },
+        {
+          "unit": 54,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 55,
+          "sha256": "478ea3b9ffe25abe430d27a13981c010f999fecfc7b00bcaa916d3b0bc267f7a"
+        },
+        {
+          "unit": 56,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 57,
+          "sha256": "32136003f980644ce743c448b622df8c332da638bc662832c207025c4e3b97b0"
+        },
+        {
+          "unit": 58,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 59,
+          "sha256": "58f4e99dd160ba4abef1d4692743dda3bb649a2f05a3078e2ea0bc893302df36"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "18b5273af97f8717b9d6040e4ba4f2b432a2c85dae8eda39503bf4ee0525bb3c"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "f90a3542b61397372c2070a9cb4020f8d1fe3088c02838364813ce4ff670a094"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "cc07814a89dae2c23e7ad38c02d73bc896a6cae867a73ca5bf49ba7757d9b104"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "9ad10a15da6e594e136debb3309ca1fe322961c1220d709de4697229a1412a49"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "5cc1b8962f56013833ca231735ea8b6ca53aec8da3ad90ecd7248c9ba6937f92"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "1cbd60acf65e1c3473e4e664212c35676e8439ee7837ec1a92c5b91f52449e24"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "2fa27d6ff7b89d9e49036309fa88e911d1498f20588033b1f14cf46034832ce6"
+        }
+      ]
+    },
+    "heading": "柴榮：中央軍財政互鎖",
+    "situation": "軍事輸入渠道轉弱，京師兵力與地方軍事傳統競爭。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "財政集中支持訓練裝備和規模；依軍立國又鎖定首都與漕運。",
+    "conditions": [
+      "外部渠道、地方軍力和財源不同時，集中化效果不同。"
+    ],
+    "exceptions": [
+      "更好裝備不等於完整繼承信任與義務。"
+    ],
+    "conflicts": [
+      "軍費比例與必不能戰等絕對主張未獨立核定。"
+    ]
+  },
+  {
+    "id": "BIO26-A06",
+    "source_id": "BIO26-F11",
+    "source_sha256": "16c77577fb7c333c47e953994799eebbbc1c461080990ff8c9ba4b442b62b7c8",
+    "source_name": "刘仲敬论诸夏十大罪人之忽必烈.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          3,
+          25
+        ],
+        [
+          45,
+          121
+        ],
+        [
+          139,
+          163
+        ],
+        [
+          185,
+          193
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "df57c9471e7bac19fa02779d0b13c176f2f2af157f492133f48d7031b129ce14",
+      "locators": [
+        {
+          "unit": 3,
+          "sha256": "fe722d6a5b924b22ad8f2f6589bfd1cd0056bb284055c6ae45b9302c82789032"
+        },
+        {
+          "unit": 4,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 5,
+          "sha256": "d82cefb1ee2fd93827dde50e2609c7a3163425d2d433721ef4b49f6f727e82ba"
+        },
+        {
+          "unit": 6,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 7,
+          "sha256": "3042660d71331a0b2005e1aeea0e905535d6b1a7b429e60d079cc9b22e4ee132"
+        },
+        {
+          "unit": 8,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 9,
+          "sha256": "9b06f1402a86fb26fdf22ab4ad8c4d79c1583673865ffe62344ee8bbd33d62fb"
+        },
+        {
+          "unit": 10,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 11,
+          "sha256": "9e55a6c03c83bd071211ae38215a3b6fdf0f99b5a691bae6d971939efc6ca17b"
+        },
+        {
+          "unit": 12,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 13,
+          "sha256": "55d6b1d3ef2a771aa554187dbc4b3f707c8fb63556fb4d350fe18b23211fb3e8"
+        },
+        {
+          "unit": 14,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 15,
+          "sha256": "df1c88660f8e9c850430e6cb028d4e0b4322dc38626192ce7a41717274231ab7"
+        },
+        {
+          "unit": 16,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 17,
+          "sha256": "6d240d75b5b456c390b6d0f69fd93936aa575e5c13ed66b7a148512ed93ab775"
+        },
+        {
+          "unit": 18,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 19,
+          "sha256": "6b5e7558928a0fee90cd08a13447142e2edbb5761d5a12262d19d29142088613"
+        },
+        {
+          "unit": 20,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 21,
+          "sha256": "ee739b66d1fe850d2e0b9aab9715d07291a4c3584982e56dde87443f8ac1edfb"
+        },
+        {
+          "unit": 22,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 23,
+          "sha256": "d39de2c9bc26ddc958498bd88c750f970f37b074ffb56fc7f0f0508e03e76f3c"
+        },
+        {
+          "unit": 24,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 25,
+          "sha256": "baef5b52f2efd5ae18e6f5232cc0da2aadd18658cf7c33b09e63b9b3fd3dd57b"
+        },
+        {
+          "unit": 45,
+          "sha256": "5e8c2a9185ca0936a37906a9d2106e97fce6d2827e666fe6a1f7fa1dcff12ce4"
+        },
+        {
+          "unit": 46,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 47,
+          "sha256": "04fd02b9cd4f6416f4616915f249ed70d1c21e964e762b56c31bba5d00686356"
+        },
+        {
+          "unit": 48,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 49,
+          "sha256": "7fd75cde6cea9fa94764b3502db5d1deb327adb1f088d4bc071c60c95ae9841f"
+        },
+        {
+          "unit": 50,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 51,
+          "sha256": "e177880084f4de83b06c25f539c831cd932a30b3be2ee18c3933ae5c2ce5b002"
+        },
+        {
+          "unit": 52,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 53,
+          "sha256": "b28617b3568289f30f1435b36cf5b5c3dea11adc86430f84611cea9d34568f3c"
+        },
+        {
+          "unit": 54,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 55,
+          "sha256": "049c658b8566b6de24dfa5636654b431dcdfe010db9f4abb0cd3e6527d673d7d"
+        },
+        {
+          "unit": 56,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 57,
+          "sha256": "0c5d8eea594bbd90b4577f70d4a04b1f9b8736f1317b180be76b88f90a5b9ebf"
+        },
+        {
+          "unit": 58,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 59,
+          "sha256": "7ba70fa43abbe5a4a84cf9fd54c55b17ffd5d10d4b20db63ee0f2dbe1de5a118"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "9aedbe212994057cfbe447fd6c76008ade1803174bbdf9361ac05e1ae439231f"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "5c607653075356d33d6020699e9ef7c37d99fca577a9e8c5743cf96a63a20d0f"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "7f6b8501a2482e078dce3adef970fe1a5cb62f283226f0dd8745dac8d711f85f"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "5db153a0064ff88f221d37df96a12d7e4a7de1b315b0a710336625b234cfd2a1"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "9378a4a788c926bf10a081f08798fa0d1aa67ca09a62031a12edc561f7da19d8"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "745883b04cc09c850cc511c2be39eb9450e82c020d1d29c5265477b0c9d5de82"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "10fb93322fb031482706a3f5af84e29c61bf348a8fa6e66def0b2e2d8113e336"
+        },
+        {
+          "unit": 74,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 75,
+          "sha256": "79550782b162d4d6d0cb117c576da090031d192f142a647e916010f542752050"
+        },
+        {
+          "unit": 76,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 77,
+          "sha256": "111851420e896e7e85d6d19b2cbffb7433e3f4536c518e495cdd93923d71ce88"
+        },
+        {
+          "unit": 78,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 79,
+          "sha256": "37533929405407ee4d6acfb0a5685de42686fd8aeec89ee7a1ac877473fc06c8"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "30baffec4ef0b21d8b9f95af01fba9ca4a2e729626e498b5663bc4092306b2d2"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "a75f1193b67e2eacf4aeb4b8df13de1ab44aa2d8a5f79318c588d6d6118fd53d"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "6ac0d31c54a7407d048fa42087a7010e0ac2fa5696190b8c7902323c043d92bb"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "4e9b55861824f3e7cdedfce4795a6e3ce78d65d8f87d1862d034b0bb6dbc2694"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "9d716b4dfbde729c45e983b6f1bdd19df00b385d999632885da515f217f39bd7"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "0abbaa508e09280eb9709974b9831d59f02256ac4deeb3632ca9e3a028be5b27"
+        },
+        {
+          "unit": 92,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 93,
+          "sha256": "f4a2bacbb9453ea79526f2192e5eae03d7079d21f8982770e57e96e489b0016f"
+        },
+        {
+          "unit": 94,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 95,
+          "sha256": "e5e1923a940e898b3e1e9f9f0345e73b838d37511d11edbc0f909e96af0fb6ad"
+        },
+        {
+          "unit": 96,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 97,
+          "sha256": "61f1eb847fa247ef1d0f76e288f4b41b7b0c05eb467f18b6d7591f635a83aa5b"
+        },
+        {
+          "unit": 98,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 99,
+          "sha256": "1256d63a2527e61c8f0f7fbab0c76bb4a6c9f63c22bbaf7b5b30b392751d01fa"
+        },
+        {
+          "unit": 100,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 101,
+          "sha256": "732590a66275b13e24a7ae6569ca9a0b0708e38ac3392b0788c9103760264099"
+        },
+        {
+          "unit": 102,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 103,
+          "sha256": "e34e18902399c67e686a8eb7ccc595391712862d4a1bd44569e68c4fd7649ca5"
+        },
+        {
+          "unit": 104,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 105,
+          "sha256": "4e55a2caca4f0faa5a5c4d414e5b18a8d2d1301fe15af0f9e4a2b9f1ff091cf6"
+        },
+        {
+          "unit": 106,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 107,
+          "sha256": "406158594d0a42e1d88fb787e50cde938e4298a8a7314be3839a381990cf5ac6"
+        },
+        {
+          "unit": 108,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 109,
+          "sha256": "d9d4b3ef19549b0b776a7f432b1eac9d59eea077dc5ca71176e75b53a083888b"
+        },
+        {
+          "unit": 110,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 111,
+          "sha256": "7acf35e166b4ac3d8218af7d1dfc1f527fbd7d6cee3bb79a54180df00205d254"
+        },
+        {
+          "unit": 112,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 113,
+          "sha256": "6839f14d77c407879a994f6e2dc6208e91fdf487a6f998c7175353d525537c11"
+        },
+        {
+          "unit": 114,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 115,
+          "sha256": "8dea86ed765f3efa19a0e444df302fce727c073f345c5b811252c5fe589e5ec0"
+        },
+        {
+          "unit": 116,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 117,
+          "sha256": "cf5277e945c468bc3a4493c1e7a9a62ffc725246c7e4b1bde8b3fbc7a61bf5a1"
+        },
+        {
+          "unit": 118,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 119,
+          "sha256": "11d012e5e414ed8e2c80c37e08290d60962660c8c5da5bd26f2fff524e37a3d6"
+        },
+        {
+          "unit": 120,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 121,
+          "sha256": "94daa51922e61ba9dbde2c15a07e146415130c6dfdca067abd9d8a1b33932f46"
+        },
+        {
+          "unit": 139,
+          "sha256": "f5a8d2f9c772afd505998f71e6f0005168edbab3ecb54891fa0b732f4a115cac"
+        },
+        {
+          "unit": 140,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 141,
+          "sha256": "4d4660ff99d77fcc5f75479e370968a0d784995002eb64d5972e2a06931df205"
+        },
+        {
+          "unit": 142,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 143,
+          "sha256": "4ca29242f8acd0f782f7d32b1c0aa1f0900cf4ebdb77f34e99b41a388791aaae"
+        },
+        {
+          "unit": 144,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 145,
+          "sha256": "1037f56a678baaba95f69ac32932260d999d31b80d1a52d538028af5aac0650a"
+        },
+        {
+          "unit": 146,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 147,
+          "sha256": "c63c4b2becf2718c0734eac8fc93b37849ffd2c894b84e5a928cd679f6a5543d"
+        },
+        {
+          "unit": 148,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 149,
+          "sha256": "8def4ca8e6d8307558aee32cf7765ea91d85237aa0b47aef733853d379ee2ad1"
+        },
+        {
+          "unit": 150,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 151,
+          "sha256": "0a7fd2a3775e9c92ab6d863f1afdaa87625767aa67990fc4dbbcbb04f18bcb61"
+        },
+        {
+          "unit": 152,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 153,
+          "sha256": "d6d7d334454cf3fe3325acafae809880319ba9f4c9557cafb7c808e60accdf60"
+        },
+        {
+          "unit": 154,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 155,
+          "sha256": "ba267d68f9366cd67849707c0ac904e41f20c649da2adf47d822f77fa79725ca"
+        },
+        {
+          "unit": 156,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 157,
+          "sha256": "c2793b6f98e57804752600cf69288cbb3152f15dc605ecdf6fc3327c3ee3c05f"
+        },
+        {
+          "unit": 158,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 159,
+          "sha256": "3ec40c0331f5abd5c31b6a7419b32e1f1177be134f17090f5e009ca612b12185"
+        },
+        {
+          "unit": 160,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 161,
+          "sha256": "92cf64e77fa75e3bb1dd8ee117e159617d7883b1ba8eb15c6af772f7e46e8970"
+        },
+        {
+          "unit": 162,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 163,
+          "sha256": "f01d94057bfcd476015bbd1a4315a4bdc0a8f5948208e4e408fd06ee285339f6"
+        },
+        {
+          "unit": 185,
+          "sha256": "643e2f222900292c95cf56036fe4daa9508326e0e9fef6283edb75de8c1aef1d"
+        },
+        {
+          "unit": 186,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 187,
+          "sha256": "da8dd2ae542437c0695079a6bc7f88b12e48ea4652959bff2ab844b3edc89860"
+        },
+        {
+          "unit": 188,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 189,
+          "sha256": "0ecf2fd895d55ad50c3d3a9d09a6c004aa2fc7260bebb809688b6a2569f09919"
+        },
+        {
+          "unit": 190,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 191,
+          "sha256": "3c0f46e30a2a530742ee127651fe970d6d71954690afd7ee81f47f99ab668808"
+        },
+        {
+          "unit": 192,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 193,
+          "sha256": "b4727ee68166a33d148820028cd35dd747f96c5abeda8badc13ff6f5d588843a"
+        }
+      ]
+    },
+    "heading": "忽必烈：網絡變命令鏈",
+    "situation": "金元之際世侯、宗教團體與蒙古宗王的多層保護網絡。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "穩定稅收與文官任命提高君主資源，受俸者換出自主權。",
+    "conditions": [
+      "海都等保有自身軍事基礎者仍能退出或反抗。"
+    ],
+    "exceptions": [
+      "元代多法域與封建因素並未瞬間歸零。"
+    ],
+    "conflicts": [
+      "後妃賄賂、後代食人命運及忽里勒台必變大憲章不作事實推論。"
+    ]
+  },
+  {
+    "id": "BIO26-A07",
+    "source_id": "BIO26-F12",
+    "source_sha256": "315916af2e1c6c8d10fe84caf80bd7f976886bdc1106419186be45c67e50c912",
+    "source_name": "刘仲敬论诸夏十大罪人之朱元璋.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          37,
+          99
+        ],
+        [
+          117,
+          153
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "91c2d379b376a572f8306a5ba9b94940c469e89e3ce7f1f1dfa8266d27cd89c0",
+      "locators": [
+        {
+          "unit": 37,
+          "sha256": "7d1a898cee89328040b2e87a468d41313e440adbd532f09ecae29b0ed916e6d7"
+        },
+        {
+          "unit": 38,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 39,
+          "sha256": "069bf98afc6f4ddf11284974b893f1ad6159d5dda2a918f9a5110e75d9df9d19"
+        },
+        {
+          "unit": 40,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 41,
+          "sha256": "48ceee3e432464832964eb53f24dc9368481ee5eb046e09f9e1ea8a58257c469"
+        },
+        {
+          "unit": 42,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 43,
+          "sha256": "bdb4c856cb5fd6d72e01e8870f8681563e589b1d319a134b0fb41dd31409e78e"
+        },
+        {
+          "unit": 44,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 45,
+          "sha256": "c55ce5393bfe2543feb4dd390c10b7f35e0274b1dac180f152dc20a56aae1df1"
+        },
+        {
+          "unit": 46,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 47,
+          "sha256": "05cc609e85ed9eb21d1690d6ed10bfc3b070219a4d8067c436fb9bfc797bb3da"
+        },
+        {
+          "unit": 48,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 49,
+          "sha256": "0c3fa6eda630a69bbcc282175fce7680e9f658a2e5afb3286f1aadfe8a1073cf"
+        },
+        {
+          "unit": 50,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 51,
+          "sha256": "9248c383335a05cf517d4c386e4a716e200a787e0dba9a28f1c1a628b2516847"
+        },
+        {
+          "unit": 52,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 53,
+          "sha256": "25d3d715184111817f8299a24edfcdf5e36ba849f8c8901488afdc6b43646fd7"
+        },
+        {
+          "unit": 54,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 55,
+          "sha256": "d348649d1de68dae5500a0f4792db67f6b469c149bb7e7943af1b4c3cadd2fd4"
+        },
+        {
+          "unit": 56,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 57,
+          "sha256": "f7f3e17c31e207d8bc4f54e4936cec6941b3c8825fdbf4f5fd59e8d5503e1f6e"
+        },
+        {
+          "unit": 58,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 59,
+          "sha256": "9965c1efbb0c00ab1a2a542742c58d5f550410a1732079c60cf6116a79652ff7"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "00f6df0e71beb1dcffbc8ea24e0bc83566aa889cc5137c607cde7d5dd854d12d"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "94e59186dd82e3ee74ae6d3a500dab5d854f8a25b8bb8ccb3dd3ddf6b64dbd5b"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "11bbb0775c6d51cbf2529d097596f722f2872ed25ef7a4ca7e8c861d095f8c22"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "042eeb7ed8acf0c8e2601e781c93622be932347c4123e0ad14085a1902a859d5"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "73ad33c336530bad54cb0ea8c19161064a44035861c71e473b06e821f74bbce5"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "b760acc8803542389420de4297118e4d3eab23fd318ceebfdd305ace5b7c9cbc"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "2f455462d1659f0ed2cc7f3d7586cb5d6a039924dd5b6ab4e0324ad8213e11ee"
+        },
+        {
+          "unit": 74,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 75,
+          "sha256": "d8fcd528276a663d01989152a1518957b110bf48bd30f4b7e772a02adf493327"
+        },
+        {
+          "unit": 76,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 77,
+          "sha256": "03be3fc9a2be319e03b21cc3fa540768c8b59b360b114ad88735a78bc3734086"
+        },
+        {
+          "unit": 78,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 79,
+          "sha256": "33c0306c0f5aa4e4040f46127c20de1c343a9b1fb397824780add829a5e498a7"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "7cf45d9c3f8eeaa5b4614131639a8cd6ff29d17661da50ce69b700e80c9d7cec"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "91e5a1afe1fb0a8410f61cc07f50e4d5684b58fdaf98bf8784d565fe954d1620"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "a34bac20644ba83209a4ad003afab7afeaa791213c45d912138372d6ab8dbf78"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "36fb19dfce7b0d8aa8d7f73daa2db5904e0dff887775b9fc877ebeb0a84d335e"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "0c16b720fcc4c04e38d313df7e93144912232ff8a6a34b96fb747e2d2fa73754"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "1854e4937de29aa226d56baa7967219d47b561c8fdf946a183bb1b5038ef70ca"
+        },
+        {
+          "unit": 92,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 93,
+          "sha256": "b88da01f79e2fecddcdc7081d53e10f0b81091275e6330e1aee34d3e89ef88e4"
+        },
+        {
+          "unit": 94,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 95,
+          "sha256": "3621f81fc6f4edc3b629132dfec3e6d3c122eebd842f3e5149f8a9f3377403b0"
+        },
+        {
+          "unit": 96,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 97,
+          "sha256": "fd51f4c6b8bca0ee4f6b47bc71db6b4f6ce073895b4e7fe288da59bbcbd4c772"
+        },
+        {
+          "unit": 98,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 99,
+          "sha256": "c52f8a2b32c388dd50de2382dae6e5e2cee63d98ef2870b8864c0c5af3e547f5"
+        },
+        {
+          "unit": 117,
+          "sha256": "3ec468c48674e2173d2131f796abf94e518a6ca9328dba53d2109a0202bb8c8f"
+        },
+        {
+          "unit": 118,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 119,
+          "sha256": "8817b7a8d4efb7b6db01bee14e9b32640c3d5895da3ad59372ce900be506adad"
+        },
+        {
+          "unit": 120,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 121,
+          "sha256": "34e4a4681ef423c442bd1be1cc5eda5251a3d6375167815432283eb8ac83f521"
+        },
+        {
+          "unit": 122,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 123,
+          "sha256": "79b3b33d91f8479e170b09a371bc41647aeac776fb8ec6e6021d1316715dbb45"
+        },
+        {
+          "unit": 124,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 125,
+          "sha256": "282bfdb12195892d285577f6f2dae91775079fb2573d39b166352570c34fc81f"
+        },
+        {
+          "unit": 126,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 127,
+          "sha256": "dc23dde5c780f644dcbfd50091f944a7bb2d2dfde5eb4fa820f3a7a0321cff01"
+        },
+        {
+          "unit": 128,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 129,
+          "sha256": "5651f07a095e6994c6e915fb94bf9b9a10e2b4ef99323cb639c29454e70fad79"
+        },
+        {
+          "unit": 130,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 131,
+          "sha256": "04c436ee79e74ccf58c76644925e3b3d65080ca7afc582522491e9ad43145a09"
+        },
+        {
+          "unit": 132,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 133,
+          "sha256": "c709f606c6f74703cdbf0427ab89833be83f761e0b71cf4d7d196b6ea875bd2a"
+        },
+        {
+          "unit": 134,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 135,
+          "sha256": "791cba34a8cd2d36f307824f1e4fbf2e90d94ea5fb4293d3109e06be0406446d"
+        },
+        {
+          "unit": 136,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 137,
+          "sha256": "7f842476f6dc0e5ed5f8e64cb974d7e0c1045a4bea289bdbd5b72f9c553364aa"
+        },
+        {
+          "unit": 138,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 139,
+          "sha256": "8604bfdcbd1a2813acf158b41e62d69de091155045b88ca492c5d47163c762f6"
+        },
+        {
+          "unit": 140,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 141,
+          "sha256": "931477865a5394121150c7c938d2106458438d7aae5a36a63c746c72ac2c6bd6"
+        },
+        {
+          "unit": 142,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 143,
+          "sha256": "1539a5ae4bc159951418dc3c1356be0368457bf7b4b9313e7ad7fa8dc69386fb"
+        },
+        {
+          "unit": 144,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 145,
+          "sha256": "2ad18e801347faf26a86c9a9fca19590c51fe641a33ae37b10858e1e32e64e0c"
+        },
+        {
+          "unit": 146,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 147,
+          "sha256": "590b3a1e04a2bac6dd6a42827d2bb50927d1e0776d31fa1171b42263b72e0302"
+        },
+        {
+          "unit": 148,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 149,
+          "sha256": "546773f1338eb681746a152a1bc274359170ac6cc8fd5fd2d8d92ceba0596a2b"
+        },
+        {
+          "unit": 150,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 151,
+          "sha256": "f16ba32672d09486540a202aa81df2ac68fde61c4b8044035f7b8ab387d47c75"
+        },
+        {
+          "unit": 152,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 153,
+          "sha256": "aab7e64d1eb51cf6e997441ab0e1139e20ca403e0706273d057e194e7eac4462"
+        }
+      ]
+    },
+    "heading": "朱元璋與張士誠：地方保護和擴張",
+    "situation": "元末中央財政不足，地方武裝與地主尋求穩定邊界。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "擴張動員與地方財產聯盟對軍費、戰爭和承認有不同激勵。",
+    "conditions": [
+      "地方保境仍可有戰爭與不平等，不被理想化為無衝突自由。"
+    ],
+    "exceptions": [
+      "征服者名號與實際法域寬窄不必同向。"
+    ],
+    "conflicts": [
+      "原文明言黃羅傘非考據真實；全朝合法食人、族群貶抑不採為機制。"
+    ]
+  },
+  {
+    "id": "BIO26-A08",
+    "source_id": "BIO26-F18",
+    "source_sha256": "d994871e3faade8d232885e1ad8f8ea6326d41344be4c6e57ef27dcfd3f63bcd",
+    "source_name": "刘仲敬论诸夏十大罪人之雍正.docx",
+    "span": {
+      "kind": "paragraph",
+      "ranges": [
+        [
+          15,
+          39
+        ],
+        [
+          59,
+          119
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "1c41cb697b432a7860b5ac61479257ea8e77bdcd51a1d2b44bcaa6fcfbc66f4c",
+      "locators": [
+        {
+          "unit": 15,
+          "sha256": "7cff963949fccc9c8eb70e22ce2fe3d04385d6fdd725ba8cda77dea753a10e90"
+        },
+        {
+          "unit": 16,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 17,
+          "sha256": "cc194a4ddb11b1b6f3fc34fe7f6a95a2d8fca3d6fcd1d774fd89fc797d8f284d"
+        },
+        {
+          "unit": 18,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 19,
+          "sha256": "f4a7c565f15878571eb06ffbc678a46b40fbd37ce53c54f66b0dcf7b6b4f5a49"
+        },
+        {
+          "unit": 20,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 21,
+          "sha256": "a5c3e57e6473c21edf4dfbb89439c070ec57bf2312121640130dbd57d140b69b"
+        },
+        {
+          "unit": 22,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 23,
+          "sha256": "aa3e6700619f3cb65d98a59d6189750a5f467fd32264f97cec9268b36bec4a19"
+        },
+        {
+          "unit": 24,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 25,
+          "sha256": "48085aa3671e0facc0e7cff01b3d024877b7855a3321c7b030ffb1356f2c2425"
+        },
+        {
+          "unit": 26,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 27,
+          "sha256": "1d4d4f47eeba5fae960cde168188e57702ddd954dbfc20e5020f0da066eddb3e"
+        },
+        {
+          "unit": 28,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 29,
+          "sha256": "823a833991439e5b80ae69bd992752f0477e404c970b3dc596250ef1487e9f46"
+        },
+        {
+          "unit": 30,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 31,
+          "sha256": "705970ae0af809689e4dfdbaff34c58645f79dcc1fe021b3aacd1e7e41cb7648"
+        },
+        {
+          "unit": 32,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 33,
+          "sha256": "762216863a0cc6b48b59dff7a0a61f49ddc28e076774cfe31bb719636a3c96e2"
+        },
+        {
+          "unit": 34,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 35,
+          "sha256": "1dcaacb0537c10f53f81ebde3a96e69b46ccf52d0e91fa6fa6262e2c216b3c63"
+        },
+        {
+          "unit": 36,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 37,
+          "sha256": "d3a0885687357c055cc051336b0d090ae4730dad3ef6fdb93768dedb641cd01a"
+        },
+        {
+          "unit": 38,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 39,
+          "sha256": "2412dfa2ac914131ddc8919d79d569fd8a73626a7e623b95f2badfa9fcbd17aa"
+        },
+        {
+          "unit": 59,
+          "sha256": "da6364d7f4af420bd5deabb03fe95a74efa474502094eebc5b53b57259b34032"
+        },
+        {
+          "unit": 60,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 61,
+          "sha256": "3c344d21627aebc4ff2e56c8e8f9f233705b5061c2e8323c34f345b36bb01c7a"
+        },
+        {
+          "unit": 62,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 63,
+          "sha256": "4a6a0632bb1bacafaddcd904c0560549d36cd19c6af84382f910a898094c92a0"
+        },
+        {
+          "unit": 64,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 65,
+          "sha256": "c1ed509aaf7578d62fa9bdafba67a683e63232607d4b243bc126882f036b9378"
+        },
+        {
+          "unit": 66,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 67,
+          "sha256": "2dfaf7ff95e709e9284bd071dc57ccffa36fdc0f83b963b56f6bb1991b2763b8"
+        },
+        {
+          "unit": 68,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 69,
+          "sha256": "0023d5e26f89b33dd25df9e24435483924040ea5ab45eb127b5c1461d8583574"
+        },
+        {
+          "unit": 70,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 71,
+          "sha256": "17d50ed935625646902341c01c96d9ac95b2811290c9348a70537b45826fd3f7"
+        },
+        {
+          "unit": 72,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 73,
+          "sha256": "e5d45ab158fff0674d3abddf69fe9b3a73d9a6e9a5588627033cc7a95341488f"
+        },
+        {
+          "unit": 74,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 75,
+          "sha256": "0a5bb0f5f88e5e3b5c6b18238140690d3f09930ca95e9ce04889349c5f924dd0"
+        },
+        {
+          "unit": 76,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 77,
+          "sha256": "d3a025a453e3ccfbfc08873b22a23a5b72914135adc36a6912fa7d028d600001"
+        },
+        {
+          "unit": 78,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 79,
+          "sha256": "d4b464ca6deb0a6e0189234c8f563f0fb57a1c8089edd01bbf06a90e0f377d5b"
+        },
+        {
+          "unit": 80,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 81,
+          "sha256": "f4b5a6fdb0fb6a1237b3b3f8bb3f085506e0bf1212e18682feabceec0abb7881"
+        },
+        {
+          "unit": 82,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 83,
+          "sha256": "3d30f809a737c92015d11ec97f9b7de2364df92b48eef929cc03d94d2b6bae1b"
+        },
+        {
+          "unit": 84,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 85,
+          "sha256": "0f480f04bdec2edb3b89c6abe8f60da109b440795ae5567f8b2c22887a105b8e"
+        },
+        {
+          "unit": 86,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 87,
+          "sha256": "1a16ff0a331a4749068739e9609fb9aff648a73f098ca6bab51fed8b811a8ae0"
+        },
+        {
+          "unit": 88,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 89,
+          "sha256": "a4308316a632c9228d715d0c9a26169c54633f617f74f428b2eb816a0d1a8840"
+        },
+        {
+          "unit": 90,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 91,
+          "sha256": "489d5d72351bcdf1cee90877ea91a2e0370084ef988ab826a580eafc53961494"
+        },
+        {
+          "unit": 92,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 93,
+          "sha256": "8f3b75b21d235e14483796a5a776f6398bb7903ee2414dee72533e36fe717cca"
+        },
+        {
+          "unit": 94,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 95,
+          "sha256": "3fc3f8fce701e730a8bb24df2bb406d784ff2d1b806362f049bf8273ecc297ab"
+        },
+        {
+          "unit": 96,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 97,
+          "sha256": "07a37f2bd6743580cd6779f46d0c08259550dbaab5438405d9e1db7b210361d7"
+        },
+        {
+          "unit": 98,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 99,
+          "sha256": "485299d41d57c7460765daa0ca26940a239f0259f0be3676c96589e8a20781e1"
+        },
+        {
+          "unit": 100,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 101,
+          "sha256": "a09444f076c5143660bd1e39f1c822fcacb9c1f26a2af0028fdaf33155032e90"
+        },
+        {
+          "unit": 102,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 103,
+          "sha256": "5e323aeb25dd987256521508a8b121cd41f9ce57149a0a275327f6e1f5145315"
+        },
+        {
+          "unit": 104,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 105,
+          "sha256": "f820130ae49b0e32346989549d7cbd2be6c53c2ba4a5e9912fd9dc6a53d02c52"
+        },
+        {
+          "unit": 106,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 107,
+          "sha256": "3297fc33bf7575cba573be711395f64d1ce2747530ffa3d333951be4d41d3536"
+        },
+        {
+          "unit": 108,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 109,
+          "sha256": "87ad1af90538716f5be230438e7eee154786dc5b7db027c08e33c624312f9810"
+        },
+        {
+          "unit": 110,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 111,
+          "sha256": "c81f28c06e8e12675b07fb64b65aed6e02ea5368a574ef1237add41cfd0fc2ed"
+        },
+        {
+          "unit": 112,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 113,
+          "sha256": "668de3ded6b6d69f911dcb519624431f3ccfeb9b4a121eb402c09b592f941c6e"
+        },
+        {
+          "unit": 114,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 115,
+          "sha256": "ad2fdb8d3734501ae52131e8f99e039f996515e4b253cc1bd5f6e75483608ba5"
+        },
+        {
+          "unit": 116,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 117,
+          "sha256": "32aac95cf77c0f469f54e4d2d6c820a3424468a9c1ecaba470e688c5ad97a3a1"
+        },
+        {
+          "unit": 118,
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "unit": 119,
+          "sha256": "3bc3fc7e886cc6e2b0021736ce311239147a0b58abe7a28c79959a2263aa751b"
+        }
+      ]
+    },
+    "heading": "雍正：安全與治理成本",
+    "situation": "征服聯盟依靠保護義務、地方頭人與多法域。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "削弱可自主組織者可提高君主安全，也提高直接治理成本。",
+    "conditions": [
+      "乾隆有復舊意願而缺乏承載網絡；心理安全只能作假說。"
+    ],
+    "exceptions": [
+      "同一君主名號可以容納不同制度；帝國不可簡化為單一法律。"
+    ],
+    "conflicts": [
+      "一朝廢盡議政、驅逐全部技術人員等須另證；民國/明國轉錄混亂。"
+    ]
+  },
+  {
+    "id": "BIO26-A09",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          70,
+          73
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "75d2d1104d68e1c04afd2b4187099c495607fb6da0390527c9f3d2c211d63313",
+      "locators": [
+        {
+          "unit": 70,
+          "sha256": "e683d0aed8aa8fcc05d850240d4063532fef5249cac71d8a918332fb50b98e4e"
+        },
+        {
+          "unit": 71,
+          "sha256": "a9207aefd40c576c1ce08100e514c20e83d6b68d427d5d1ac261829575cedb7d"
+        },
+        {
+          "unit": 72,
+          "sha256": "d680472785dd62ea9043b49046b5e455f88fb22d2598d84e86ac98aaa23c11da"
+        },
+        {
+          "unit": 73,
+          "sha256": "5c548844e5319ba77618e322287ededd9fdcb9ec0d81a5aa7c71e76659550b62"
+        }
+      ]
+    },
+    "heading": "張學良：代理承諾與失去根基",
+    "situation": "奉系由緩衝地帶統治者變成流亡客軍。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "自我地位認知與資源依賴脫節；中共需要不等於蘇聯承諾。",
+    "conditions": [
+      "保留根據地與外交平衡時有不同議價空間。"
+    ],
+    "exceptions": [
+      "不能將各方驚訝拼成全知陰謀。"
+    ],
+    "conflicts": [
+      "心理、隱秘承諾屬作者判斷；rp.70最初一句歸前篇。"
+    ]
+  },
+  {
+    "id": "BIO26-A10",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          73,
+          79
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "502f410d675d11b3e16446cb30e8672de2778274a083794a18baae8248cfcfed",
+      "locators": [
+        {
+          "unit": 73,
+          "sha256": "5c548844e5319ba77618e322287ededd9fdcb9ec0d81a5aa7c71e76659550b62"
+        },
+        {
+          "unit": 74,
+          "sha256": "c8376a092d0468230c218c3886541591b79ece8ea2bd68595c26e219f675a977"
+        },
+        {
+          "unit": 75,
+          "sha256": "fbaccb9c82279d89b10e29c7b75d01415aa683d637bf182d9eecd398d9068bb9"
+        },
+        {
+          "unit": 76,
+          "sha256": "01dcbd9c8de4bead5a479e1f77e242e86c1e7bf87b45a82829a4aaf0a115b8ea"
+        },
+        {
+          "unit": 77,
+          "sha256": "c221d144752dbec0ee06702d9fbe88059723b0e2fa317574d4e7e0c8116e14da"
+        },
+        {
+          "unit": 78,
+          "sha256": "7a58f76065339f4f64d73b87200587d323c3f3073c6b9eeed73d1cfef73c4f4a"
+        },
+        {
+          "unit": 79,
+          "sha256": "1108c23547233e5071004c445d0c047a4de98b2c639e596c15a8e422596dab9e"
+        }
+      ]
+    },
+    "heading": "林彪：能力需要資源條件",
+    "situation": "正規軍官在非正規求生環境、抗戰擴軍與東北工業條件之間移位。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "戰術與訓練能力須結合幹部、工業、人力與外援方能放大。",
+    "conditions": [
+      "外援不穩時本地籌款能力可能勝過正規資格。"
+    ],
+    "exceptions": [
+      "私人不滿不能證成政變；原文承認墜機謎團。"
+    ],
+    "conflicts": [
+      "蘇援數字與日軍資料為引用，未獨立核定。"
+    ]
+  },
+  {
+    "id": "BIO26-A11",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          79,
+          80
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "c957b2cfb2c0253026031394b3304dd2ae06e96f63dcebb00d9b6838eb153480",
+      "locators": [
+        {
+          "unit": 79,
+          "sha256": "1108c23547233e5071004c445d0c047a4de98b2c639e596c15a8e422596dab9e"
+        },
+        {
+          "unit": 80,
+          "sha256": "4695bc5e0e674132ba8200b5540ac6ae14b4349fab11604e7a74b14124ad6f93"
+        }
+      ]
+    },
+    "heading": "龔楚：參與者、受害者、逃亡者",
+    "situation": "清洗先帶來升遷，後來威脅本人。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "組織退出受限，使自保與反思可能混合。",
+    "conditions": [
+      "退出動機不決定後來披露材料真假。"
+    ],
+    "exceptions": [
+      "不把所有受害者與參與者視為互斥身份。"
+    ],
+    "conflicts": [
+      "心理去人化修辭未繼承。"
+    ]
+  },
+  {
+    "id": "BIO26-A12",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          88,
+          96
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "bafff5e78bd14e92a69cbda7c11b54a502c0a30afb58543ce9f471f5cbbc6d82",
+      "locators": [
+        {
+          "unit": 88,
+          "sha256": "b6074350efe2c115d32c67cf4f72451f93df69d8eea8e41c4f5c990346857296"
+        },
+        {
+          "unit": 89,
+          "sha256": "dcc9be6d8ada3b36a926f273097d0738cc6eb851c6f60e5fe68d0f9289df08f0"
+        },
+        {
+          "unit": 90,
+          "sha256": "2028c0a93a36f208ee020c2ce5882120afa4c86b1bb033167260f54ce43b65f3"
+        },
+        {
+          "unit": 91,
+          "sha256": "14facaf7eab8e01af4dc6965abf4161a8cc3f150939b8494c8abf4c5547b0169"
+        },
+        {
+          "unit": 92,
+          "sha256": "69ff7ba39f4cb335ea32f13bfe077cd8306117b0da02f84cdfd0d605fea643e6"
+        },
+        {
+          "unit": 93,
+          "sha256": "ece3d95687d1042b307f4049993eeac43c06a8f78c86b9f119820d795849d5c5"
+        },
+        {
+          "unit": 94,
+          "sha256": "9f77480029d403d6c352347d969e58285b74efc3986741c063ecb581ea63a161"
+        },
+        {
+          "unit": 95,
+          "sha256": "476e66a753f5551c6d9435ac3d7a74577b0b9db7fbf5141113739d3bf0d31f9d"
+        },
+        {
+          "unit": 96,
+          "sha256": "15976b68658eeab10c4804be860a25c25c069a37a29c3474ac70df29143ee0f9"
+        }
+      ]
+    },
+    "heading": "李克農：內保與外情的分工",
+    "situation": "黨內監視、白區滲透、海外資助與正式談判有不同工作環境。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "待遇與不可退出紀律並用；部門職權不能由後來污名反推。",
+    "conditions": [
+      "人脈離開原語言社會後不必仍有效。"
+    ],
+    "exceptions": [
+      "對秘密活動的接近度不同，不能用一個名稱包攬罪責。"
+    ],
+    "conflicts": [
+      "大量金額與暴行歸屬主張未核驗，動機和歸責推測降級。"
+    ]
+  },
+  {
+    "id": "BIO26-A13",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          96,
+          108
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "2f9a42f7fc338b537213fefebd7e3553ddc3be0cb69a3a6fb8faa13c7aec4e58",
+      "locators": [
+        {
+          "unit": 96,
+          "sha256": "15976b68658eeab10c4804be860a25c25c069a37a29c3474ac70df29143ee0f9"
+        },
+        {
+          "unit": 97,
+          "sha256": "102a5a9735438984f16056cb98366346741e626b18281edb9a2e6a9ead1439ad"
+        },
+        {
+          "unit": 98,
+          "sha256": "2163d3f212f49e2aedf4b219ad98e2d72344c3bd541e5b626896adff6d4968f9"
+        },
+        {
+          "unit": 99,
+          "sha256": "05ae3c001a489b17e279cf09cfc4d6972dc1c866b2bfc7d232af8c12cce59d8b"
+        },
+        {
+          "unit": 100,
+          "sha256": "21a4f2c3c9b30ade1824e8ac02e0b3795e12fb25b1baae4e800b91eddf7b4989"
+        },
+        {
+          "unit": 101,
+          "sha256": "59b04818d988cb97da5193309301dae7ccf04cccb78d10f9e52c6d8dd357477b"
+        },
+        {
+          "unit": 102,
+          "sha256": "2bc35f13e8ab34e5a23ac70e44bc4bf5a241d0b4ac73a67d3351c41b611e5c1c"
+        },
+        {
+          "unit": 103,
+          "sha256": "eacab52e3bb06298c8f3bdb5649337f1fdd252fef05dc91bcf90cb7d1fa1ca1d"
+        },
+        {
+          "unit": 104,
+          "sha256": "ac9c33bc7b3e6e5e8048c1a768b0ae40064d5d1e71a781ca5abf3a383601278f"
+        },
+        {
+          "unit": 105,
+          "sha256": "4053955c03e56026954cc54c75f8adfa043d74cd406aecd7b322c9602f7f751a"
+        },
+        {
+          "unit": 106,
+          "sha256": "2f472a4a9f4e54db4a4d9d2f19296922aaff62b477ddb2ade5f6845e82c803d6"
+        },
+        {
+          "unit": 107,
+          "sha256": "bd50669e5dc3a76ecebbdcbb00f9c19f85f00624603c062d637d663d158102de"
+        },
+        {
+          "unit": 108,
+          "sha256": "f221f6fd2e4ad8c1751ce5486846baef8fef1337c36d509970177da8576be2a3"
+        }
+      ]
+    },
+    "heading": "劉少奇：先替代聯絡，再清算財產",
+    "situation": "小地主上升、新式教育、地下工運、抗戰根據地與幹部黨擴張。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "統戰期社會組織替代使舊領袖先失去動員能力；幹部機器又制約領袖。",
+    "conditions": [
+      "直接奪產可激起地方凝結核抵抗；穩定市場可導向另一上升路徑。"
+    ],
+    "exceptions": [
+      "小地主與社區保護者不同；營養激素不能作人物德性判定。"
+    ],
+    "conflicts": [
+      "文革交待與平反有相反定性；高饒秘謀及毛全部預謀保持假說。"
+    ]
+  },
+  {
+    "id": "BIO26-A14",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          108,
+          114
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "00629fbab07c74d58e41496df653f5f351750258904187decf1b2d2bd0b67255",
+      "locators": [
+        {
+          "unit": 108,
+          "sha256": "f221f6fd2e4ad8c1751ce5486846baef8fef1337c36d509970177da8576be2a3"
+        },
+        {
+          "unit": 109,
+          "sha256": "67fdea63912de160576dc4a676b3dcf1d02635bc6f62efd82a05d2ef6ed0e646"
+        },
+        {
+          "unit": 110,
+          "sha256": "0a47ccfcd49934bf444dd934992983991be4b0a191a2ecb38ffc95786f4484f3"
+        },
+        {
+          "unit": 111,
+          "sha256": "8df9274679257f74c817ab9d63dd79504d71bab3df210d85510c78be59762121"
+        },
+        {
+          "unit": 112,
+          "sha256": "a7b8aabf313d6e51212f819a905e4e4ed39021ca6762b92421f224c99607e77f"
+        },
+        {
+          "unit": 113,
+          "sha256": "46d7a243d8fcff852906ddcb432594dbae881e65522747e36fe6907986e7f8e8"
+        },
+        {
+          "unit": 114,
+          "sha256": "bfcc66666d1e6fbd668d5972153f4cb3f9feb3505115fa48e7055628b88767ae"
+        }
+      ]
+    },
+    "heading": "高崗：資源管轄不是私人班底",
+    "situation": "陝北本土關係被大組織吸收，後任東北重職。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "臨時領袖支持不等於可持續保護；頭銜與獨立組織相分離。",
+    "conditions": [
+      "若自身可持續幹部武力不同，遭重新交易的能力亦不同。"
+    ],
+    "exceptions": [
+      "引述者立場互相衝突。"
+    ],
+    "conflicts": [
+      "原文結尾承認無以對證；不可用供詞互補成唯一真相。"
+    ]
+  },
+  {
+    "id": "BIO26-A15",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          114,
+          120
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "c051eafcc8edaf133f426ca5aa4c59d9ea3a0c359d5231014824ef96f7de6df3",
+      "locators": [
+        {
+          "unit": 114,
+          "sha256": "bfcc66666d1e6fbd668d5972153f4cb3f9feb3505115fa48e7055628b88767ae"
+        },
+        {
+          "unit": 115,
+          "sha256": "00b9f403a1b12942f9211fba686712941c3735356f7347ead7b300e990848c0a"
+        },
+        {
+          "unit": 116,
+          "sha256": "1d9cbf1d3858de4f3eb30a4935e551a15d3eed0c41a36cc1f12cbd4440c2cb4a"
+        },
+        {
+          "unit": 117,
+          "sha256": "940b177d328ab5f3d248e5f02fea155614dfcd40196febcfc2778e5009bc8f6c"
+        },
+        {
+          "unit": 118,
+          "sha256": "d9c5c809ef34973a7af093348c68e9264420753536d5acbc8d1cb3a84bf1973b"
+        },
+        {
+          "unit": 119,
+          "sha256": "0d583b9eb7a5c2c5b61f8b23a6ec01d96b63ffe49def8e796726395f1c08937a"
+        },
+        {
+          "unit": 120,
+          "sha256": "028e844b461d704f251b8c3eaf8240e88aef583b05cf937dae8fa131b859d877"
+        }
+      ]
+    },
+    "heading": "江青：動員與替代機器",
+    "situation": "家庭、學校、文藝圈與政治保護關係接續，文革時上升。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "跨階層教育可能有進無退；聲勢能破壞卻不必能接管行政武力。",
+    "conditions": [
+      "穩定地位與職業能力可改變激進化誘因。"
+    ],
+    "exceptions": [
+      "不從性別、家庭形式直接推定政治性格。"
+    ],
+    "conflicts": [
+      "關於母親消失、性關係與潛意識的推測不採。"
+    ]
+  },
+  {
+    "id": "BIO26-A16",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          175,
+          180
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "392a8769260e65a0132bf8adf1a7ed2b383286abf08d1e7fbf108c9ab3dcefc5",
+      "locators": [
+        {
+          "unit": 175,
+          "sha256": "46561384c404cc4cf34737e08493c38eb183ab587d299b41005d77f8c243e7f5"
+        },
+        {
+          "unit": 176,
+          "sha256": "d5b250c72b239fdbd2f0a17362d7c34089f20265e79eefec300919737cd7cd73"
+        },
+        {
+          "unit": 177,
+          "sha256": "f403fdb2a0f46fbf804193452c762523e79ee287b830dd1222faebba4583e703"
+        },
+        {
+          "unit": 178,
+          "sha256": "b35be51f5a339d1d78bf0c4a3f3d0206401f5d6983048e8647853d101fe2c551"
+        },
+        {
+          "unit": 179,
+          "sha256": "de89a37c60a5858145202dbbead4411353d2da02eea372fd25123374a290b058"
+        },
+        {
+          "unit": 180,
+          "sha256": "8667339d77944fb70852d82efe92c50334916f81deb388a1e89227dc5e24230a"
+        }
+      ]
+    },
+    "heading": "陳獨秀：名義領袖與實際權限",
+    "situation": "政論家的名聲進入秘密資助、幹部與情報組織。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "公開頭銜可能不伴隨決策信息與資源，責任卻會集中於可見人物。",
+    "conditions": [
+      "言論長期影響不被短期權限有限所否定。"
+    ],
+    "exceptions": [
+      "晚年批評不能單獨改變組織資源。"
+    ],
+    "conflicts": [
+      "家庭心理和秘密資助規模須區分解釋與證明。"
+    ]
+  },
+  {
+    "id": "BIO26-A17",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          204,
+          221
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "9557483568a2674ae7e5dab3072e6d109ad9bb413179f88e7eb003820c8a2207",
+      "locators": [
+        {
+          "unit": 204,
+          "sha256": "7b623852ba56e1f03a2a894d7e4d4953e3d8dbde09cd5417128b61433874951a"
+        },
+        {
+          "unit": 205,
+          "sha256": "6fb29273c47a0c4d1ce6491e9a16c10464a60a79733c56d552d37fdf462c74b6"
+        },
+        {
+          "unit": 206,
+          "sha256": "d0bdcff69ef73f40955d6e91d510ef8286875ec6f0447c0b243211da1dbd058d"
+        },
+        {
+          "unit": 207,
+          "sha256": "7d11c71325a56baf09f22e1b343d005fcdc9c8c4d555ffda18755ac1eab68150"
+        },
+        {
+          "unit": 208,
+          "sha256": "61c68826d6d77b3deb306ffb1df8af4ab3f656709c125f069131e88797b7ea48"
+        },
+        {
+          "unit": 209,
+          "sha256": "f4286e51250f8be691f1e9ded3c50b2d7bd69351d48f05201f5753b3dd72a617"
+        },
+        {
+          "unit": 210,
+          "sha256": "c60ad95f09864dacc4d86c29b3adc5eff4ef100755a93ebd22bb10ae469c91e4"
+        },
+        {
+          "unit": 211,
+          "sha256": "b67694c970575e19870840a4b0f62b2ad8a8d077d226afa164d268f60c0ce33d"
+        },
+        {
+          "unit": 212,
+          "sha256": "6cbff1de87aba7ba96db5c4c89f73f34cd68a150c056259ed3248de30152e1c7"
+        },
+        {
+          "unit": 213,
+          "sha256": "d9074c259ca1691560ccf17925ac226a90837cc10a33583330605e8059538b43"
+        },
+        {
+          "unit": 214,
+          "sha256": "a9c173e454f40ddae2c731e39fbe121bda8b5b8bf2e52addcae7b95cf5d97299"
+        },
+        {
+          "unit": 215,
+          "sha256": "ceb4908300a5c316e9518145fb254222d7d3992e1d6a32c4a0f65bdebbc6a496"
+        },
+        {
+          "unit": 216,
+          "sha256": "7c10df031473a49261d998b41ae0ecae47a6239df53d7956c117ac8882b6f017"
+        },
+        {
+          "unit": 217,
+          "sha256": "620b6215dad86ce8edb69e1619c6101d99bb5624f7a9b5d3872a1d25368c8bc3"
+        },
+        {
+          "unit": 218,
+          "sha256": "e020ece76490cc6cfb3db3233d02164db97b1a62550e9302a03a01377f12b283"
+        },
+        {
+          "unit": 219,
+          "sha256": "ca07de6a0866211ebb2aceb6e774a4d6ffd913d519578a785335180dd9653b43"
+        },
+        {
+          "unit": 220,
+          "sha256": "0a618693eb45a8f584b6c89e21ccec29681992f5792fae3cf8391912a60be77a"
+        },
+        {
+          "unit": 221,
+          "sha256": "0950f18001aa1ae3a93ee0e99bdb78e7a2c7dd91d38f983aa1f27e03f1956bd6"
+        }
+      ]
+    },
+    "heading": "周恩來：不可替代的網絡",
+    "situation": "海外培訓、黃埔政工、上海秘密工作與統戰渠道相接續。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "領袖既限制又利用專業組織者；生前路線勝利與身後繼承可分離。",
+    "conditions": [
+      "可替代組織尚未建立時，最高權威也受依賴限制。"
+    ],
+    "exceptions": [
+      "公開秘密配合而分離；下級知情範圍小於上級。"
+    ],
+    "conflicts": [
+      "性關係與特定陰謀不採；徐景賢引文保持第三人回憶層級；與F03交疊。"
+    ]
+  },
+  {
+    "id": "BIO26-A18",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          221,
+          223
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "6cd734ebec79ea08a6ca0f3546f17d105f0764c5eafb407d2588bb4a58b1fe3b",
+      "locators": [
+        {
+          "unit": 221,
+          "sha256": "0950f18001aa1ae3a93ee0e99bdb78e7a2c7dd91d38f983aa1f27e03f1956bd6"
+        },
+        {
+          "unit": 222,
+          "sha256": "ea85b484f0cf4d22a4e76f1ede710fae64e92a93bc7670793be43049dc1b876a"
+        },
+        {
+          "unit": 223,
+          "sha256": "324b4b96282fe0f70774f69f6c6a0f62ac36d4dffc9cfd3781ee00ca51391529"
+        }
+      ]
+    },
+    "heading": "丁玲：統戰價值衰減",
+    "situation": "文藝人投入延安，先有吸引外圍的價值，再被納入幹部紀律。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "特權、自由、宣傳價值與受壓可同時存在；英雄名聲可堵塞普通生活退路。",
+    "conditions": [
+      "組織尚需外部認可時，待遇與容忍度不同。"
+    ],
+    "exceptions": [
+      "不以相對特權正當化迫害。"
+    ],
+    "conflicts": [
+      "rp.221四個人物標題只有占位，並非丁玲之前的四篇正文。"
+    ]
+  },
+  {
+    "id": "BIO26-A19",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          80,
+          85
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "8d10969c8cac2be9720980e25f4feac8f4a00e5a9007044f1676c76b70a49b0c",
+      "locators": [
+        {
+          "unit": 80,
+          "sha256": "4695bc5e0e674132ba8200b5540ac6ae14b4349fab11604e7a74b14124ad6f93"
+        },
+        {
+          "unit": 81,
+          "sha256": "7fc2dcad8076af271eeba6ddcbe98f4e23a7c62b1e3de3c171ffaf0a4dc1c5cb"
+        },
+        {
+          "unit": 82,
+          "sha256": "564ac3ccc048273fee1414affcba4c6a42cec7f2b88194f1553c36080154c238"
+        },
+        {
+          "unit": 83,
+          "sha256": "f5cf750b5ed30ea0b76f37eb8279fb081b8a586e3f2ba6bcab174d0d793990ef"
+        },
+        {
+          "unit": 84,
+          "sha256": "502804f6e994ed96b80595a7334ca27efa9bd5ac472ec7ad8fc2708983a6e264"
+        },
+        {
+          "unit": 85,
+          "sha256": "581f4a062fe4f4050caf5c8bc52b8e4e89744e59abb8f90bdb84b212b126710c"
+        }
+      ]
+    },
+    "heading": "郭沫若：外部紀律與作品",
+    "situation": "創作、翻譯與政治資助交織。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "翻譯受原作者結構約束，可好於缺少節制的自創。",
+    "conditions": [
+      "文學才力與組織判斷不相等。"
+    ],
+    "exceptions": [
+      "遲緩跟風可不同於精明核心掌權。"
+    ],
+    "conflicts": [
+      "同F27/新書交疊；私生活動機與虐戀心理框架不轉事實。"
+    ]
+  },
+  {
+    "id": "BIO26-A20",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          85,
+          88
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "9cdcebe60f93cf6dd210d60750ccff310a47e0166aaaefd9354f20d7e88f8e8a",
+      "locators": [
+        {
+          "unit": 85,
+          "sha256": "581f4a062fe4f4050caf5c8bc52b8e4e89744e59abb8f90bdb84b212b126710c"
+        },
+        {
+          "unit": 86,
+          "sha256": "771176dbdb0562e9557ae20217ae9b80f7e5866772391895a8e1a2b6cf08932a"
+        },
+        {
+          "unit": 87,
+          "sha256": "0101b44114356287f1ac9d42a65f6e13112901584c77391a467ebf1181f4b7de"
+        },
+        {
+          "unit": 88,
+          "sha256": "b6074350efe2c115d32c67cf4f72451f93df69d8eea8e41c4f5c990346857296"
+        }
+      ]
+    },
+    "heading": "瞿秋白：代理能力與決斷責任",
+    "situation": "俄文、翻譯與宣傳能力被任用於超出其意願能力的政治責任。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "政策正確性隨上級轉向，代言者容易成替罪者。",
+    "conditions": [
+      "專業能力不保證可負擔獨立決策。"
+    ],
+    "exceptions": [
+      "臨終口號的晚出回憶不直接等同當時記錄。"
+    ],
+    "conflicts": [
+      "同F24/新書交疊；弱化家庭心理決定論。"
+    ]
+  },
+  {
+    "id": "BIO26-A21",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          120,
+          125
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "25f66a25b7217478e0ba38bd1613369d5491793afb83e81897c609e84f29fb86",
+      "locators": [
+        {
+          "unit": 120,
+          "sha256": "028e844b461d704f251b8c3eaf8240e88aef583b05cf937dae8fa131b859d877"
+        },
+        {
+          "unit": 121,
+          "sha256": "30d731306dc755211cf6689571807d901e04033aac0343f0abe007ab05d23585"
+        },
+        {
+          "unit": 122,
+          "sha256": "ffce4ddeab9fd43601aca63d0b4c0700698fe0d4ade8d3c108750b67638ff51e"
+        },
+        {
+          "unit": 123,
+          "sha256": "29fc2fdac00dcdf9e0cbd8916325082de06620841ca657121a2a711c6dcde891"
+        },
+        {
+          "unit": 124,
+          "sha256": "aba551e95ecacad458d1fab2eb135a519def765c535539f90a0a05f19e149570"
+        },
+        {
+          "unit": 125,
+          "sha256": "365f7cb91ee251d94736cc7a40d356a6563ecd4db71e47c165857f6789a73ede"
+        }
+      ]
+    },
+    "heading": "胡風：投入、受害與平反",
+    "situation": "國民黨左派與共產組織之間的文宣職業路徑。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "公開面貌不足單獨識別組織關係；平反若只留下受害者身份，可能抹去先前投入與責任。",
+    "conditions": [
+      "思想可能長期起作用，不等於個別文人有短期決策權；文人受害不能代表普通群眾全部遭遇。"
+    ],
+    "exceptions": [
+      "前段提出兩種關係解釋並承認無證據排除；追問早年責任不正當化後來迫害。"
+    ],
+    "conflicts": [
+      "本agent讀rp.120–124；rp.125由modern已讀摘要補尾，未重讀原文。"
+    ],
+    "team_boundary": {
+      "reflow_page": 125,
+      "sha256": "365f7cb91ee251d94736cc7a40d356a6563ecd4db71e47c165857f6789a73ede",
+      "read_by": "c06_modern",
+      "used_via": "already-read summary",
+      "raw_source_reread": false,
+      "scope": "胡風篇尾至袁世凱篇頭之前；參與者／受害者／平反及文人與群眾評價尺度。"
+    }
+  },
+  {
+    "id": "BIO26-A22",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          180,
+          180
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "8667339d77944fb70852d82efe92c50334916f81deb388a1e89227dc5e24230a",
+      "locators": [
+        {
+          "unit": 180,
+          "sha256": "8667339d77944fb70852d82efe92c50334916f81deb388a1e89227dc5e24230a"
+        }
+      ]
+    },
+    "heading": "胡適：最大公約數",
+    "situation": "公共舆論領袖依賴廣泛接受與溫厚社交。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "廣泛共識有別於深刻洞見和政治執行資源。",
+    "conditions": [
+      "方向判斷可好於具體操作。"
+    ],
+    "exceptions": [
+      "不把思想有共識等同沒有內容。"
+    ],
+    "conflicts": [
+      "與新書或他載體合併，不作第二證據。"
+    ]
+  },
+  {
+    "id": "BIO26-A23",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          180,
+          187
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "034b8759e9ee4f6677602ebc34bcfe5159d3933de3e0899714a74d46a9842eaa",
+      "locators": [
+        {
+          "unit": 180,
+          "sha256": "8667339d77944fb70852d82efe92c50334916f81deb388a1e89227dc5e24230a"
+        },
+        {
+          "unit": 181,
+          "sha256": "ddd4d24800ac0c446376cb8baa987b87d802304fdf7a8689567de837471d9ead"
+        },
+        {
+          "unit": 182,
+          "sha256": "e9ba6a603d9bf1790464eb12d7797a66281745a4895d695e14c05ac75aa769c5"
+        },
+        {
+          "unit": 183,
+          "sha256": "5580381ea5b1ca6d4bdeed3eaa52884529c95fa3934f5b135f56128491c157c3"
+        },
+        {
+          "unit": 184,
+          "sha256": "05fa330a91127f6590ca9dc85a814ce5ae7a9fe1db8f3a6bcc153d80433fe43e"
+        },
+        {
+          "unit": 185,
+          "sha256": "6fb005598946957f65355c1b8f5ac3ed1018af8ab0ac06379fd46a0659c67c56"
+        },
+        {
+          "unit": 186,
+          "sha256": "6629cd913a30404d9ad027aab40c1080f96bf6d122e3e14f5dc6e3b86887ef21"
+        },
+        {
+          "unit": 187,
+          "sha256": "6b47d985a9726b18713367ee14e5237c465db22c3a42fadcd001395852dfeca9"
+        }
+      ]
+    },
+    "heading": "陳寅恪：學問與共同體",
+    "situation": "廣泛語言與史學能力、士大夫共同體崩解和晚年留居。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "問題意識與材料整合有別於文憑、藏書和單純考訂。",
+    "conditions": [
+      "實踐倫理需社會承載；見識不能保證可行退路。"
+    ],
+    "exceptions": [
+      "詩文影射的解讀保持作者推論層級。"
+    ],
+    "conflicts": [
+      "同F35/新書交疊；第三人引文非作者親見。"
+    ]
+  },
+  {
+    "id": "BIO26-A24",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          187,
+          197
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "11678fe6525b80c6bda04b0cfdf3f09a3d9f9e93bed0f3aa59e956ebcfce7450",
+      "locators": [
+        {
+          "unit": 187,
+          "sha256": "6b47d985a9726b18713367ee14e5237c465db22c3a42fadcd001395852dfeca9"
+        },
+        {
+          "unit": 188,
+          "sha256": "3df9dce1b81b0b36bce12399628677de4307e73d4df5bfc86f79f9e901b7e5fc"
+        },
+        {
+          "unit": 189,
+          "sha256": "4b82f14af44c37607209a5a411fe3f9f939239d9b41ff1609cba7ec812b72faf"
+        },
+        {
+          "unit": 190,
+          "sha256": "f4ffa6c4d8929b965976c536530af98493274a310dd28f64d96c02d64835c694"
+        },
+        {
+          "unit": 191,
+          "sha256": "62f4260a210545779b1d7fcc22b865eb808324c7765ae83995ebae6e9ad69e05"
+        },
+        {
+          "unit": 192,
+          "sha256": "fa5e7ac44a110baa4f3ed0f5391d378404a830541eace78654a5b862f6640a3a"
+        },
+        {
+          "unit": 193,
+          "sha256": "4c9e2dfc81f8e4867c3a5676ac5f15dd81527af97696bebb8fd1d0b7d7b3b43e"
+        },
+        {
+          "unit": 194,
+          "sha256": "6a33638bf0fe969ba9a8df5331a94e4fc74ad64b1e63df554c274d05fd9366eb"
+        },
+        {
+          "unit": 195,
+          "sha256": "13f9290e292658b16212c28cb72a24bc5784cb67a1cd2a56f47e0451b5ea028b"
+        },
+        {
+          "unit": 196,
+          "sha256": "f1bf409de56e69129fe5329fb29a48aa5e8aeacb6c4cb0e1c61f9acfc866e821"
+        },
+        {
+          "unit": 197,
+          "sha256": "c5757ccac9de5c2121f788549dc9062d1e522f8bee4821313c32b75783786a0a"
+        }
+      ]
+    },
+    "heading": "魯迅：出版、資助與作品",
+    "situation": "俸祿、教職、稿酬、出版人及政治文藝網絡交替。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "作品評價、物質依賴與政治運用須分開。",
+    "conditions": [
+      "粉絲經濟可有時間滯後；名望不證明當期創作力。"
+    ],
+    "exceptions": [
+      "受資助不能單獨決定每篇作品價值。"
+    ],
+    "conflicts": [
+      "同F33/新書交疊；大段魯迅原文與編者腳註不作劉的原創主張。"
+    ]
+  },
+  {
+    "id": "BIO26-A25",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          197,
+          201
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "134723c9779e7b754ceed2b823473ab59b63ba6290951173c8da5c904b7f40af",
+      "locators": [
+        {
+          "unit": 197,
+          "sha256": "c5757ccac9de5c2121f788549dc9062d1e522f8bee4821313c32b75783786a0a"
+        },
+        {
+          "unit": 198,
+          "sha256": "1c06401a3ac4dc9fe50aa419bc5eb72410138446596feaff1968d2a5a1c2ce87"
+        },
+        {
+          "unit": 199,
+          "sha256": "6d6185a6b309c58af0b500b316cba420fae1a489e1d46948887eb34cde5b0eee"
+        },
+        {
+          "unit": 200,
+          "sha256": "0e72a80710adb9a9398c8ef5b4ff0eb5bff484cc590ea2f80fa3f8a1371927e9"
+        },
+        {
+          "unit": 201,
+          "sha256": "405ae65f4a86b7dbd5bfbdd38023f495b9eac04bc0b7af70c9df99a1f8c33bde"
+        }
+      ]
+    },
+    "heading": "錢穆：精密、聲望與保護人",
+    "situation": "苦寒學術投入、新亞育才與冷戰文化需要。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "考訂精密不等於憲制問題意識；門生與時局可重估導師聲望。",
+    "conditions": [
+      "胡適不認同立場仍容許學術立足，是黨派排斥的反例。"
+    ],
+    "exceptions": [
+      "晚年名望不宜倒填早年社會位置。"
+    ],
+    "conflicts": [
+      "同F28/新書交疊，不把階級詞化為個體本質。"
+    ]
+  },
+  {
+    "id": "BIO26-A26",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          201,
+          204
+        ]
+      ],
+      "text_join": "\\n between original units",
+      "sha256": "113a3641fc05d5ffd691371bbe149988a7b1857667855eab2a98121d589535bf",
+      "locators": [
+        {
+          "unit": 201,
+          "sha256": "405ae65f4a86b7dbd5bfbdd38023f495b9eac04bc0b7af70c9df99a1f8c33bde"
+        },
+        {
+          "unit": 202,
+          "sha256": "8269957a643dfa51a52e93f827d102eeeebcdb355edfb824a8a44d590cdb3c85"
+        },
+        {
+          "unit": 203,
+          "sha256": "f3fca37d2790320c3433e1b0c09a9bd0e2ee6d719eeb421d56511e83538c5271"
+        },
+        {
+          "unit": 204,
+          "sha256": "7b623852ba56e1f03a2a894d7e4d4953e3d8dbde09cd5417128b61433874951a"
+        }
+      ]
+    },
+    "heading": "黃仁宇：數目管理的反例",
+    "situation": "明代財政專業支點被延伸到通史與制度比較。",
+    "audience": "人物評傳或講座的漢語讀者；未有獨立現場受眾記錄",
+    "constraints": [
+      "限供給文本；不讀音訊與圖片",
+      "不是外部史實核驗",
+      "同文載體合併計證"
+    ],
+    "observation": "技術管理能力與制度耐久不是同一變項；英國混雜構造形成反例。",
+    "conditions": [
+      "局部經驗可提出線索，不保證全史填空可靠。"
+    ],
+    "exceptions": [
+      "完整不等於可靠，結論須與選材範圍相稱。"
+    ],
+    "conflicts": [
+      "書評性判斷非各國財政史的獨立實證研究。"
+    ]
+  }
+]

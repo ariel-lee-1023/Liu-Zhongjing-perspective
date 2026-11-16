@@ -1,0 +1,21 @@
+{
+  "scope": "Redistill supplied people-biography text folder and specified Republic-of-China literary-biography Markdown into stronger C06; newly supported treatment replaces duplicate old refs, preserving other topic modules unless direct duplicate needs a scoped route correction.",
+  "excluded_by_user": [
+    "all M4A audio",
+    "all PNG/image content, including image references embedded in converted book"
+  ],
+  "source_limit": {
+    "maximum_source_reading_units": 256,
+    "maximum_raw_characters_per_unit": 4500,
+    "preferred_view_block_size": 4200,
+    "includes_cross_review": true,
+    "ocr_pages": 0,
+    "external_source_acquisition": false
+  },
+  "publication": "prior explicit authorization to commit and push persists; exclude pre-existing AGENTS.md edit",
+  "reading_is_not_extraction": true,
+  "source_scope": "DOCX/PDF variants grouped after text comparison; 14-chapter book and MOBI collection distinguished. Catalog/editorial/bibliography/third-party quotations are not new subject claims. No claim of audio or image coverage.",
+  "output": "existing references/clusters/c06-figures.md; English filenames; Traditional Chinese direct-statement substance",
+  "allocation": "derive content groups/cases/opposite conditions before drafting; no universal ceiling, no original formula scaling or repeated generalization padding",
+  "recognition": "candidate, no authorized configured endpoint; no new calls"
+}

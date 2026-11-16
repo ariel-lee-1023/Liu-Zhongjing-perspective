@@ -1,0 +1,82 @@
+{
+  "scope": "source-grounded incremental synchronization; not a whole-persona new source gate or independent historical review",
+  "changes": [
+    {
+      "files": [
+        "SKILL.md",
+        "references/frameworks.md"
+      ],
+      "reason": "家系與微環境為解釋條件，不消除專業能力或組織資源的作用；錢鍾書和張愛玲不能被同一表層標籤取代。",
+      "evidence": [
+        "BIO26-L01",
+        "BIO26-L36",
+        "BIO26-L37",
+        "BIO26-L38",
+        "BIO26-L40",
+        "BIO26-L41",
+        "BIO26-L42",
+        "BIO26-L43",
+        "BIO26-L44"
+      ]
+    },
+    {
+      "files": [
+        "SKILL.md",
+        "references/frameworks.md",
+        "references/voice.md"
+      ],
+      "reason": "瞿秋白與宋希濂：晚年利害與提問方式構成疑問，不等於已證明某個口號沒有喊過。",
+      "evidence": [
+        "BIO26-L25"
+      ]
+    },
+    {
+      "files": [
+        "SKILL.md",
+        "references/frameworks.md"
+      ],
+      "reason": "移民重新扎根的反向條件、忽必烈的官俸替代及朱元璋與張士誠的不同承擔。",
+      "source": "BIO26-F11/F12/F14；BIO26-M相應人物章；詳見古代組逐段索引。"
+    },
+    {
+      "files": [
+        "references/frameworks.md",
+        "references/clusters/c07-1-nation-invention-world-history.md"
+      ],
+      "reason": "顧頡剛章正文及註釋重蒸餾，研究差異與戰時統一命名分開；替換舊N05，人物細節留C06。",
+      "evidence": [
+        "BIO26-L26",
+        "BIO26-L27",
+        "BIO26-L28",
+        "BIO26-L29"
+      ]
+    },
+    {
+      "files": [
+        "references/voice.md",
+        "SKILL.md"
+      ],
+      "reason": "書面人物論述保留反諷歸屬、不同開篇與必要轉折；舊頻率和句長只代表原樣本，不是新增實測或硬限制。",
+      "evidence": [
+        "BIO26-L49"
+      ],
+      "historical_metrics_remeasured": false
+    },
+    {
+      "files": [
+        "SKILL.md"
+      ],
+      "reason": "C06改為按人名和問題選讀相應節及來源定位；保留完整新語料內容，不另設模組統一上限。"
+    }
+  ],
+  "cross_review": "core-root-cross-review.json",
+  "response": "core-root-cross-response.json",
+  "recognition_calls": 0,
+  "runtime_hashes": {
+    "SKILL.md": "750487a994479d68090c1df60e4b9dd85c49e6d83daa06854f23d96db5429ffa",
+    "references/frameworks.md": "8a2188fde99785e37b6f55e9cf316791c21693a0235ec971695b57f7b27ddf0a",
+    "references/voice.md": "27537766b20fb36870d8a140b9c24f503f307c548eb3a1de94cc1547c1e2c1fa",
+    "references/clusters/c06-figures.md": "3e68ac6171de6eebdcc276420ff9976879346fff70058621c8502e2e09d955ad",
+    "references/clusters/c07-1-nation-invention-world-history.md": "0d271fe24faf8fc5e36bdaf11c64401b7b19a8b24ff26d7c855f79c21c93ae98"
+  }
+}

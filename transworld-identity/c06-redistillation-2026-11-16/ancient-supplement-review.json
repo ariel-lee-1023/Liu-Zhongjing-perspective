@@ -1,0 +1,451 @@
+{
+  "status": "complete_local_source_distillation",
+  "plan_sha256": "07331e5a98c37673b40d91fa07a3e5291174aff03dca3a0f930dad5736aab40d",
+  "part_sha256": "8c814e6e2ef22cf09d36b95f4eda08ce083bd7cf680d7e83aac58115b9316ee1",
+  "reading_units": [
+    {
+      "block_id": "AP-S01",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 1,
+      "characters": 3372,
+      "sha256": "f8aeb1042747a6b80037cd87dabdef10097589407b5b1cfb9568471fee55173b",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 1
+          },
+          "offset": 0,
+          "length": 981,
+          "original_page_sha256": "331c7e4af1d401dfa1ea11cdf5ead713f01c3fde81dff60ba3b6e65f4212c1f0"
+        },
+        {
+          "locator": {
+            "reflow_page": 2
+          },
+          "offset": 0,
+          "length": 1175,
+          "original_page_sha256": "6367bc70b21cbda357ded1e48cbab91b2058cb83b31cfcdce3d8d81e3cea11ae"
+        },
+        {
+          "locator": {
+            "reflow_page": 3
+          },
+          "offset": 0,
+          "length": 1216,
+          "original_page_sha256": "3dd70756f04e578030899afac5d61b151372c8664ebc7e00c64611e5978c5271"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S02",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 2,
+      "characters": 3475,
+      "sha256": "2449bbb72d4e12816af020916b2809b5acc88212d0f129e2365a8470c4edc7d4",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 4
+          },
+          "offset": 0,
+          "length": 1104,
+          "original_page_sha256": "1fd3151b314478ed9eff7201ba6c144ca9e5b23bf312c94c61e477ef1a762678"
+        },
+        {
+          "locator": {
+            "reflow_page": 5
+          },
+          "offset": 0,
+          "length": 1152,
+          "original_page_sha256": "9bf418d43417132d2b7baedb64fdc97e126b8347b5f2b36d15c5a72dd0a6903a"
+        },
+        {
+          "locator": {
+            "reflow_page": 6
+          },
+          "offset": 0,
+          "length": 1219,
+          "original_page_sha256": "765296fefba60633e6ce265ed498057ed372e0287ad20e7ebb62b41fe76e3843"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S03",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 3,
+      "characters": 3541,
+      "sha256": "0af00431416aa0c9cc257deaf40b347b58c9e1c76b9d0270020355bcd5237056",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 7
+          },
+          "offset": 0,
+          "length": 1103,
+          "original_page_sha256": "ace8d9193a78323a021ced8f31b7ff72adf848b10df651988ee3b26324fe1326"
+        },
+        {
+          "locator": {
+            "reflow_page": 8
+          },
+          "offset": 0,
+          "length": 1228,
+          "original_page_sha256": "1f04d182698c075c5b9ade24886c35eb6dd404f9225c6c16d613af98c274e4a8"
+        },
+        {
+          "locator": {
+            "reflow_page": 9
+          },
+          "offset": 0,
+          "length": 1210,
+          "original_page_sha256": "e9e92b2f890c75b526234e5038cac60b45037b9abdf590459afb9e3f3422fb78"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S04",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 4,
+      "characters": 3675,
+      "sha256": "fe98fde8be88c51528dcc02ce2d71613e1d709bfae02ae94da60f1b8ca708353",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 10
+          },
+          "offset": 0,
+          "length": 1230,
+          "original_page_sha256": "34a3a67021eb05f387be40ff385b383ae4172e978ff17d801d856fce8657b9bd"
+        },
+        {
+          "locator": {
+            "reflow_page": 11
+          },
+          "offset": 0,
+          "length": 1207,
+          "original_page_sha256": "7e282cd1f1c1101f591292bfb98b7d16aa05f7ad3fae24729182df9ddef3d29d"
+        },
+        {
+          "locator": {
+            "reflow_page": 12
+          },
+          "offset": 0,
+          "length": 1238,
+          "original_page_sha256": "b544c45cd114acefd303eee1dedf2faf5a2b3208d71ecf26b51f0b7c7c134b12"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S05",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 5,
+      "characters": 3279,
+      "sha256": "3cebf4f03c5c9e06ef58a3234f1a3748481960f9b1bbf9e34a53ed665f670252",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 13
+          },
+          "offset": 0,
+          "length": 1108,
+          "original_page_sha256": "09ff96ab27017594e99061ccd17f4b3cec0ba12c399188f3d3c72dbb13b1ef71"
+        },
+        {
+          "locator": {
+            "reflow_page": 14
+          },
+          "offset": 0,
+          "length": 1179,
+          "original_page_sha256": "62ea2ab2cafdc7b844d02bdc4c9e090fbb6821a725da544d6843452946482791"
+        },
+        {
+          "locator": {
+            "reflow_page": 15
+          },
+          "offset": 0,
+          "length": 992,
+          "original_page_sha256": "555fd0a50c5e8bcbad578e5fe0a87723f73aff72ed189fa30a49f63082e54805"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S06",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 6,
+      "characters": 3554,
+      "sha256": "f411f28d76ef3257f68e6f1c6898562f39418202c0416962eb1318e47b3306ae",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 16
+          },
+          "offset": 0,
+          "length": 1211,
+          "original_page_sha256": "b8153a2c55d493f2025d794a0a0ff0a0daaa247cf5fede3560db7b28d6c02460"
+        },
+        {
+          "locator": {
+            "reflow_page": 17
+          },
+          "offset": 0,
+          "length": 1226,
+          "original_page_sha256": "bd566df83b56c0d6581780e8d830f3ec58444fd9672d392d967466185ef53323"
+        },
+        {
+          "locator": {
+            "reflow_page": 18
+          },
+          "offset": 0,
+          "length": 1117,
+          "original_page_sha256": "97f859af809afba877816212789030cf0135772ae01da707bb3c83fb14b4bf7e"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S07",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 7,
+      "characters": 3456,
+      "sha256": "6bf9b72e9a1539209269fc7b10c27ff7f93bec57c921b214629f0362297a323d",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 19
+          },
+          "offset": 0,
+          "length": 1179,
+          "original_page_sha256": "8ae460a8dbd4ad5927540430d58ab0f0157bbbb4e4f64fb2fe9ed0eae1fa9fd9"
+        },
+        {
+          "locator": {
+            "reflow_page": 20
+          },
+          "offset": 0,
+          "length": 1240,
+          "original_page_sha256": "3d84a886db16fdec68690a37aff88ac83ae4fd0f12e2555e44ba1a7f27970ec5"
+        },
+        {
+          "locator": {
+            "reflow_page": 21
+          },
+          "offset": 0,
+          "length": 1037,
+          "original_page_sha256": "c8535d236e70c725d4be3b3dbcd7fe6d4d9ec5b06ff2797f96a6c12ebe2df9ef"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S08",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 8,
+      "characters": 3168,
+      "sha256": "3008d16b776477866eca5ec852fd885f876c29dee4902ef5bb0ca91cabd553bd",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 22
+          },
+          "offset": 0,
+          "length": 994,
+          "original_page_sha256": "c9b84926566dcedea0166ff9360446b75d11807ff0242cf86db576c8a5e18659"
+        },
+        {
+          "locator": {
+            "reflow_page": 23
+          },
+          "offset": 0,
+          "length": 977,
+          "original_page_sha256": "d15bb076a9374925ba6010b9b86523b7583071d1337790a89688b14dc8a997cc"
+        },
+        {
+          "locator": {
+            "reflow_page": 24
+          },
+          "offset": 0,
+          "length": 1197,
+          "original_page_sha256": "cec44223890e2cc9de6738b1ab6ba44094ca2b35d0e4599c43ea13a890359d2b"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S09",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 9,
+      "characters": 3045,
+      "sha256": "1dbe36d4d58e9cffdb4bc76832f9a82ee5585006b861a5ab783bb6b4da1a0f62",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 25
+          },
+          "offset": 0,
+          "length": 1207,
+          "original_page_sha256": "91c76860e27cbf849c9567b492bc2f13c2333fc88bda090e925001819942f10f"
+        },
+        {
+          "locator": {
+            "reflow_page": 26
+          },
+          "offset": 0,
+          "length": 1209,
+          "original_page_sha256": "2f513aede6e9f5cc608f57f032f7d07e4395c44ad98e4a2f09e8759f12f469b4"
+        },
+        {
+          "locator": {
+            "reflow_page": 27
+          },
+          "offset": 0,
+          "length": 629,
+          "original_page_sha256": "410bd5d1afd108ecab21fd2b9aa276c49fa17e6d616dc7e7b646eaa5db05484a"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S10",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 10,
+      "characters": 3392,
+      "sha256": "6c6a743d76babb0d631892bb95b3bc6d3e85b5fb7989a2892de9c7f451e62227",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 28
+          },
+          "offset": 0,
+          "length": 1207,
+          "original_page_sha256": "c20004a8b3108928091cfa40c39facf8a10955511259ed2fe5035e797642d7b1"
+        },
+        {
+          "locator": {
+            "reflow_page": 29
+          },
+          "offset": 0,
+          "length": 1090,
+          "original_page_sha256": "03b1b08ecb8d599354470d3458b8583549bb67e7d1065b7d0d9186f7f09c1ced"
+        },
+        {
+          "locator": {
+            "reflow_page": 30
+          },
+          "offset": 0,
+          "length": 1095,
+          "original_page_sha256": "b83b277e2a239995e145f8d41aa6fc872652b4826581c213bb1734d62bd06db0"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S11",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 11,
+      "characters": 3469,
+      "sha256": "8fc067fb2a3ed645b2fbee13239132adcf94b96cf153b0edcc10314697639023",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 31
+          },
+          "offset": 0,
+          "length": 1207,
+          "original_page_sha256": "18c1147db4b13593dde810d265758df9862fbc8a308bb700848cca410f8d3074"
+        },
+        {
+          "locator": {
+            "reflow_page": 32
+          },
+          "offset": 0,
+          "length": 1052,
+          "original_page_sha256": "4de3e780769aaa59555c07c5aafc689f886fae6683e14d5b5591bd6356737af9"
+        },
+        {
+          "locator": {
+            "reflow_page": 33
+          },
+          "offset": 0,
+          "length": 1210,
+          "original_page_sha256": "0378daa32b21a60eb75b7dab98a9f280aa2484ab1b413276ae2bf18b52666a24"
+        }
+      ]
+    },
+    {
+      "block_id": "AP-S12",
+      "input_file": "root-mobi-blocks.json",
+      "one_based_index": 12,
+      "characters": 3582,
+      "sha256": "f488c90d9fecaac6a50d8dc48c553db3c9d173c864ceb226e2dc722cdd2111e5",
+      "pieces": [
+        {
+          "locator": {
+            "reflow_page": 34
+          },
+          "offset": 0,
+          "length": 1187,
+          "original_page_sha256": "bc602c3c5b1f50bb9fc9fb2107c6033d66ea82f5b608a3492186726257942a70"
+        },
+        {
+          "locator": {
+            "reflow_page": 35
+          },
+          "offset": 0,
+          "length": 1206,
+          "original_page_sha256": "14b1291726efccfaf7e228b2bef0c69ccddadef9a8a92d116e93c82498e3f70a"
+        },
+        {
+          "locator": {
+            "reflow_page": 36
+          },
+          "offset": 0,
+          "length": 1189,
+          "original_page_sha256": "8850e82ecd935b73c2aecf67a0bdff907cab8c4dfcc3c8a65a59707b55f96866"
+        }
+      ]
+    }
+  ],
+  "reading_unit_count": 12,
+  "main_reading_units_separate": 57,
+  "agent_aggregate_full_reading_units": 69,
+  "aggregate_budget": 69,
+  "maximum_raw_chars_in_unit": 3675,
+  "raw_characters_read": 41008,
+  "raw_source_rereads": 0,
+  "measurement": {
+    "output_characters": 7742,
+    "output_han_characters": 6389,
+    "body_han_characters": 5854,
+    "evidence_count": 14
+  },
+  "page37_boundary": {
+    "source_sha256": "9eb81d248c83becebdd2d77a2e67ae314775fd29ad0fc02c5d9e847a9ef524a7",
+    "provided_by": "root",
+    "received_as": "already-read summary; not reread",
+    "matches_parent_hash": true
+  },
+  "compression": "Preserved ten distinct causal groups and all named people. Collapsed long geographical digressions, long embedded poems, polemical adjectives, deterministic personality judgments and covert-history scenarios. Preserved reverse conditions and costs instead of replacing them by moral praise/blame. Editorial attribution limitations are separated at the end.",
+  "uncertainties": [
+    "Page numbers are extraction reflow positions",
+    "Song alternate parliamentary path is counterfactual",
+    "War origins and foreign diplomatic intentions remain contested source interpretations, not established certainties",
+    "Qu Hongji 1907 removal cause explicitly unsettled in source",
+    "Fu Zuoyi page31 chronology inconsistent",
+    "Chen Lifu private motives, media award and broad technology legacy claims not independently established",
+    "Chapter boundary at page36–37 supplied by root summary",
+    "Other people’s poems and quoted advisers remain third-party works"
+  ],
+  "exclusions": [
+    "All audio",
+    "All images",
+    "External research and recognition calls",
+    "Group dehumanization, biological determinism, sexual/private-life speculation",
+    "Claims that a particular war was inevitable or that every major actor knew the same outcome"
+  ],
+  "duplicate_handling": "MOBI alone is source family here; no invented independent confirmation. Mechanisms can join existing modern/persona groups without counting repeated case as another source.",
+  "validation": {
+    "all_unit_lengths_le_4500": true,
+    "all_units_read_complete": true,
+    "planned_body_range_met": true,
+    "source_hashes_recorded": true,
+    "page37_parent_hash_verified": true,
+    "all_evidence_ids_unique": true,
+    "no_audio_or_image_read": true,
+    "recognition_status": "candidate only; no endpoint configured; no model call"
+  }
+}

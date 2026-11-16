@@ -1,0 +1,388 @@
+{
+  "schema": "c06-redistillation-review-v1",
+  "status": "complete_scratch_delivery",
+  "source_scope": "17指定DOCX完整文字；MOBI第24–37塊及rp167蔣經國尾。未讀音訊、圖片或PDF；未外部核驗史實。",
+  "read_log": "modern-read-log.json",
+  "plan_before_draft": "modern-plan-v1.json固定DOCX範圍；讀完追加M後modern-plan.json v2固定新增七組，後有root分工去重及補尾記錄；未為迎合現稿倒推字數。",
+  "unit_counts": [
+    {
+      "unit_id": "modern-lin",
+      "heading": "林則徐：有效的官場經驗遇到不可內化的權利制度",
+      "planned_han_range": [
+        650,
+        900
+      ],
+      "actual_han": 681,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-zhang",
+      "heading": "張作霖：地方保險、財政信用與問鼎中原的代價",
+      "planned_han_range": [
+        650,
+        900
+      ],
+      "actual_han": 708,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-yan",
+      "heading": "閻錫山：專業撤退、地方團結與越出能力範圍",
+      "planned_han_range": [
+        550,
+        800
+      ],
+      "actual_han": 615,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-chen",
+      "heading": "陳炯明：地方財政、原則的成本與生態位衝突",
+      "planned_han_range": [
+        1000,
+        1350
+      ],
+      "actual_han": 1005,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-song",
+      "heading": "宋子文：把金融能力交給不受約束的中央",
+      "planned_han_range": [
+        650,
+        900
+      ],
+      "actual_han": 688,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-chiang",
+      "heading": "蔣介石：外援、財政與拆除地方防線",
+      "planned_han_range": [
+        700,
+        1000
+      ],
+      "actual_han": 801,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-gu",
+      "heading": "顧維鈞：外交承諾如何成為憲制的一部分",
+      "planned_han_range": [
+        750,
+        1050
+      ],
+      "actual_han": 830,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-zhangshizhao",
+      "heading": "章士釗：專業移植與游士的自我消耗",
+      "planned_han_range": [
+        650,
+        900
+      ],
+      "actual_han": 780,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-li",
+      "heading": "李大釗：政治轉向如何遮蔽思想遺產",
+      "planned_han_range": [
+        450,
+        700
+      ],
+      "actual_han": 551,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-zhou",
+      "heading": "周恩來：組織渠道、雙重指揮與統戰的分層",
+      "planned_han_range": [
+        1000,
+        1350
+      ],
+      "actual_han": 1059,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-mao",
+      "heading": "毛澤東：權術的適用窗口與不能替代的組織",
+      "planned_han_range": [
+        1100,
+        1500
+      ],
+      "actual_han": 1128,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-deng",
+      "heading": "鄧小平：幹部復辟、地方徵取與開放的政治邊界",
+      "planned_han_range": [
+        700,
+        1000
+      ],
+      "actual_han": 742,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-jiang",
+      "heading": "江澤民：技術管家的適應性及其邊界",
+      "planned_han_range": [
+        600,
+        850
+      ],
+      "actual_han": 733,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-ye",
+      "heading": "葉劍英：地方信任與職業組織的不同義務",
+      "planned_han_range": [
+        350,
+        550
+      ],
+      "actual_han": 410,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-jin",
+      "heading": "金庸：敘事成本、文學突破與統戰價值",
+      "planned_han_range": [
+        750,
+        1050
+      ],
+      "actual_han": 895,
+      "status": "delegated_same_four_groups_to_literary; overlap_draft_separate",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-kissinger",
+      "heading": "基辛格：自我想像、制度位置與實力尺度",
+      "planned_han_range": [
+        950,
+        1300
+      ],
+      "actual_han": 1026,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-yuan-xu",
+      "heading": "袁世凱與徐世昌：仲裁者的責任和文官權威的遞減",
+      "planned_han_range": [
+        800,
+        1100
+      ],
+      "actual_han": 913,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-huang-feng",
+      "heading": "黃興與馮國璋：軍事技術、私人信用與自我限制",
+      "planned_han_range": [
+        750,
+        1050
+      ],
+      "actual_han": 880,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-cao-wu",
+      "heading": "曹錕與吳佩孚：班底調停、憲法形式與有限戰爭",
+      "planned_han_range": [
+        950,
+        1300
+      ],
+      "actual_han": 961,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-han-fengyu",
+      "heading": "韓復榘與馮玉祥：可保衛的地方利益與不可持續的外援",
+      "planned_han_range": [
+        950,
+        1300
+      ],
+      "actual_han": 1054,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-cai",
+      "heading": "蔡鍔：軍事教育、護國聯盟與早逝留下的英雄形象",
+      "planned_han_range": [
+        700,
+        1000
+      ],
+      "actual_han": 786,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-zuo-sheng",
+      "heading": "左宗棠與盛宣懷：外來技術、財政網絡與政治判斷",
+      "planned_han_range": [
+        850,
+        1150
+      ],
+      "actual_han": 956,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    },
+    {
+      "unit_id": "modern-chiangchingkuo",
+      "heading": "蔣經國：社會工程、情報制度與可控本土化的限度",
+      "planned_han_range": [
+        850,
+        1150
+      ],
+      "actual_han": 1002,
+      "status": "in_main_draft",
+      "within_planned_range": true
+    }
+  ],
+  "main_han": 18309,
+  "overlap_han": 895,
+  "same_text_groups": [
+    {
+      "group": "BIO26-F02-M-ZHANG",
+      "relation": "F02與M135–138同篇重述/字形差，已同群"
+    },
+    {
+      "group": "BIO26-F05-M-SONG",
+      "relation": "F05與M159–163同篇，已同群"
+    },
+    {
+      "group": "BIO26-F20-B-JIN",
+      "relation": "literary組回報新書四群同文；本組F20證據保留，主文歸literary"
+    },
+    {
+      "group": "BIO26-F01-M-LIN",
+      "relation": "root回報M54–58同篇，root另有證據；本組未冒報親讀M該範圍"
+    },
+    {
+      "group": "BIO26-LECTURE-FIVE-PATHS",
+      "relation": "F08/F21/F25/F30/F31同講座家族；非五份獨立史實印證"
+    },
+    {
+      "group": "BIO26-MAO-TWO-DISCOURSES",
+      "relation": "F15/F34兩次講述相互重複，合併機制，不以重述作核實"
+    },
+    {
+      "group": "BIO26-F30-and-M-CHEN",
+      "relation": "不同篇同人，M補共產國際/彭湃反條件，未硬說全文相同"
+    }
+  ],
+  "exclusions": [
+    {
+      "source_id": "BIO26-F02",
+      "scope": "¶65起",
+      "reason": "相關人物信息附錄，不歸劉；年代可疑不據此補生平"
+    },
+    {
+      "source_id": "BIO26-F03",
+      "scope": "¶61–80及其他長引",
+      "reason": "徐景賢等第三人回憶；保留歸屬，不轉成劉親見。私生活和沙基責任細節不作定案"
+    },
+    {
+      "source_id": "BIO26-F04",
+      "scope": "角色扮演諷刺及私人代理指控",
+      "reason": "不可當作者直接事實聲明；常規中蘇戰方案僅反事實"
+    },
+    {
+      "source_id": "BIO26-F06",
+      "scope": "家族說法、¶53怪詞及第三人引文",
+      "reason": "不裁定父系或過繼、不猜補人名、李銳沙葉新言論另歸屬"
+    },
+    {
+      "source_id": "BIO26-F07",
+      "scope": "¶3–6、受損人名日期、¶59附至末",
+      "reason": "正文傳抄重損且死亡日內部矛盾；附錄官方傳記非作者。root核對PDF同損傷，不能借PDF猜修"
+    },
+    {
+      "source_id": "BIO26-F08",
+      "scope": "附注與轉引",
+      "reason": "不全算作者新主張；法制度描述未作現行法律核定"
+    },
+    {
+      "source_id": "BIO26-F15/BIO26-F34",
+      "scope": "家庭心理、死亡醫療和私人性指控",
+      "reason": "心理僅假說；醫療及殺害指控不採；不因事後成功推全知"
+    },
+    {
+      "source_id": "BIO26-F19",
+      "scope": "¶47–81信件引文及死亡數字",
+      "reason": "鄧信件是第三層引文；糧食機制保留、未驗數字不採"
+    },
+    {
+      "source_id": "BIO26-F20",
+      "scope": "¶45–47與¶113起附錄",
+      "reason": "暴行否認不採；父親日期內部矛盾；附錄不全歸劉"
+    },
+    {
+      "source_id": "BIO26-F25",
+      "scope": "頭部日期、政治案件指控",
+      "reason": "年份異常不採；不能因作者評價就全認證起訴材料"
+    },
+    {
+      "source_id": "BIO26-M",
+      "scope": "胡風篇尾、吳/馮死亡、蔣經國心理與世界模型",
+      "reason": "胡風摘要交ancient組接續，不重算來源；死因不定；家庭心理和世界模型不升格為客觀定律"
+    }
+  ],
+  "old_c06_integration": {
+    "replace": [
+      "舊毛只列幹部/特務/土匪派系：以D12–13資源窗口、組織不等價和路徑限制替代",
+      "舊周唐生智藥物/私人人情單例：以D10–11幹部渠道、雙重指揮和分層統戰為核心，未證醫療故事不帶入",
+      "舊閻只以撤退可見軍事能力：以D03工事補給、側翼及越界成本替代",
+      "舊孫第二次革命拖袁下水：納D04及DS01財政/仲裁/合法性條件",
+      "舊基辛格中蘇/阿富汗反事實：以D18均勢適用條件和資源尺度重述，明確反事實限制",
+      "舊金庸退學反諷：由literary四群完整節取代，D17供同文核對",
+      "現代人物薄泛總論：具體落到地方出資、財政技術、班底與對立條件"
+    ],
+    "retain_via_parent": [
+      "無重疊的古代/文學人物與其來源歷史由相應組保留",
+      "家鄉共同體損益判準保留在具體案例中，不重複展開抽象總論"
+    ],
+    "not_carried": [
+      "宿主角色指令和輸出規訓",
+      "沒有本批來源支持的頻率/比例泛化",
+      "血緣本質化、未驗醫療殺害、現實特務名單暗示"
+    ]
+  },
+  "validation": {
+    "all_17_docx_full_text_coverage": true,
+    "all_primary_assigned_mobi_blocks_read": true,
+    "chiangchingkuo_tail_complete": true,
+    "source_reading_exception_disclosed": true,
+    "all_counts_in_predeclared_ranges": true,
+    "independent_historical_fact_check": false,
+    "independent_recognition_or_quality_audit": false,
+    "repo_mutations": false,
+    "source_locator_syntax_and_bounds": "pass",
+    "evidence_id_uniqueness": "pass",
+    "all_evidence_source_and_unit_hashes": "pass (prior check; sources unchanged)",
+    "cross_review": "AI editorial cross-review by c06_ancient_party; MC01–07 applied, not independent history verification"
+  },
+  "cross_review_response": "modern-cross-response.json",
+  "final_draft_sha256": "83283e783b1bed4cda0c93c9023bf5f3ad7dceaf26f648d4befd539b99703a34",
+  "editorial_note_han": 372
+}

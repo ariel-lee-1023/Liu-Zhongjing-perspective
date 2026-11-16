@@ -1,0 +1,546 @@
+[
+  {
+    "id": "BIO26-R01",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 37,38,39,40,41,42,43",
+    "source_spans": [
+      {
+        "reflow_page": 37,
+        "sha256": "9eb81d248c83becebdd2d77a2e67ae314775fd29ad0fc02c5d9e847a9ef524a7"
+      },
+      {
+        "reflow_page": 38,
+        "sha256": "2193431b931515a2b5f5fb2a9d3f87f0b67c378654f3c03fe5a6628d9b185554"
+      },
+      {
+        "reflow_page": 39,
+        "sha256": "c4475e84cdfe37bdf119074cae8f1c800f97ce4320ff509285cdc8f815a9dbdf"
+      },
+      {
+        "reflow_page": 40,
+        "sha256": "297837038128f8ddfd54fc7dab378052b36dabafb750d235832381e61c110610"
+      },
+      {
+        "reflow_page": 41,
+        "sha256": "c792f408b743b5a7ad4bf0d1ec1d708c9495e56165f0759d34675b23dfc8ef04"
+      },
+      {
+        "reflow_page": 42,
+        "sha256": "c7a9a27aef7e90d2667f68c507939100feb4fadcf5e1f8712195be5dffd6953c"
+      },
+      {
+        "reflow_page": 43,
+        "sha256": "dfd158465b8e579e6dd69fb6a505e5d91d69e1090e2b44bfbb0bf4a222a5aa75"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r01",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "戴季陶：內圈忠誠、死後教義與反共的列寧式組織",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "區分思想左右、政策策略與實際組織歸屬。",
+      "領土目標、外援來源與核心純潔不能假設同時滿足。"
+    ],
+    "exceptions": [],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "戴季陶：內圈忠誠、死後教義與反共的列寧式組織"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R02",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 46,47,48",
+    "source_spans": [
+      {
+        "reflow_page": 46,
+        "sha256": "a575c984e6286d38a0cd95de148e42fcf2709b74b3ae9079022ebbe88aac4af1"
+      },
+      {
+        "reflow_page": 47,
+        "sha256": "03c24e35a6d471dc88825804d980ac2f908a6e86e3e2739faeb8f2390f4e5ece"
+      },
+      {
+        "reflow_page": 48,
+        "sha256": "e5a0da5eaa7ffa54b4569f6cf5ce0aab2a8470b415570c76bf574ef63ab52a7a"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r02",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "慈禧：家內權威與朝廷規則",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "使用當時宮廷與士大夫各自的制度期待；王熙鳳是比喻，不是證據。",
+      "不同階段的合作成功與失敗分開。"
+    ],
+    "exceptions": [
+      "性別本質、門風與婚配市場貶抑不轉為普遍操作規則。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "慈禧：家內權威與朝廷規則"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R03",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 48,49,50",
+    "source_spans": [
+      {
+        "reflow_page": 48,
+        "sha256": "e5a0da5eaa7ffa54b4569f6cf5ce0aab2a8470b415570c76bf574ef63ab52a7a"
+      },
+      {
+        "reflow_page": 49,
+        "sha256": "16e1e844fbe6df1191af9478d60dde162a00c4bc918849e9a257b2d3309ac1cc"
+      },
+      {
+        "reflow_page": 50,
+        "sha256": "92d39275c34d08ff0183377be6aa18bd63984f79661d5c75736d1dc0353dd483"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r03",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "李鴻章：能辦事卻不能決定事",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "區分代表權、技術裁量與最終否決權。",
+      "結構約束不免除具體用人及資源管理的責任。"
+    ],
+    "exceptions": [],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "李鴻章：能辦事卻不能決定事"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R04",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 50,51,52,53,54",
+    "source_spans": [
+      {
+        "reflow_page": 50,
+        "sha256": "92d39275c34d08ff0183377be6aa18bd63984f79661d5c75736d1dc0353dd483"
+      },
+      {
+        "reflow_page": 51,
+        "sha256": "2213f1eb39674d029fe957322bf28dbfe950d32d69e0a5add4c2251b5c169912"
+      },
+      {
+        "reflow_page": 52,
+        "sha256": "5d9ac89a34841ac2c640c5f10b5bab04b051d1555f4d0b01876a65a2125f5088"
+      },
+      {
+        "reflow_page": 53,
+        "sha256": "940cce08c64b113f65e68626b989f0e36bbf6d66795d6378c2b4118f427a0e6d"
+      },
+      {
+        "reflow_page": 54,
+        "sha256": "ea99ada7b029d14f3f7f054fce00eb3afeaf135995146a1209bae9e13facba17"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r04",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "段祺瑞：好部下與壞領導",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "專業技術在既成支持系統下更能發揮；領導需負責建立協調。",
+      "法統依賴、不同時期班底與自保/報復目標分開。"
+    ],
+    "exceptions": [
+      "不把來源三一八的代理人比喻當法律結論或傷害平民的正當理由。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "段祺瑞：好部下與壞領導"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R05",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 58,59",
+    "source_spans": [
+      {
+        "reflow_page": 58,
+        "sha256": "17473ed1e628b57e624807899b293ff5150a0e1b13eaed895ec404e7c29aca3e"
+      },
+      {
+        "reflow_page": 59,
+        "sha256": "7b87173bed5b50088de23323cb80b19eb42c6dd9d49c9eb6bf07b75514a5b162"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r05",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "張佩綸：不能勝與不必全軍覆沒",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "區分無法取得戰爭勝利與可以避免的損失。",
+      "輿論能力不可直接代替戰場經驗。"
+    ],
+    "exceptions": [
+      "小說詩作歸屬的推測不作定論。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "張佩綸：不能勝與不必全軍覆沒"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R06",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 59,60",
+    "source_spans": [
+      {
+        "reflow_page": 59,
+        "sha256": "7b87173bed5b50088de23323cb80b19eb42c6dd9d49c9eb6bf07b75514a5b162"
+      },
+      {
+        "reflow_page": 60,
+        "sha256": "ab141543f1b7688f8d5757bbd1887678c053c7374d6850bcadeac78b876519f2"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r06",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "翁同龢：局部得勢與共同基礎的損耗",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "援助者與被援助者未必同一記帳尺度。",
+      "為保護親政而讓步是可能動機，非已知心事。"
+    ],
+    "exceptions": [],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "翁同龢：局部得勢與共同基礎的損耗"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R07",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 60,61,62,63,64,65",
+    "source_spans": [
+      {
+        "reflow_page": 60,
+        "sha256": "ab141543f1b7688f8d5757bbd1887678c053c7374d6850bcadeac78b876519f2"
+      },
+      {
+        "reflow_page": 61,
+        "sha256": "07e7893b93ba05667e3a17b4edd7e5967818916c3ea657964c1ecdba16923283"
+      },
+      {
+        "reflow_page": 62,
+        "sha256": "8c53e864faefb3e87e4ba212a6d0f440b2c261275d82c0379719dd415e5fa2bd"
+      },
+      {
+        "reflow_page": 63,
+        "sha256": "e050e0cdc73b66a3d3ad3152f6adc03042a3ffaa2c86c476ffad7ff9a5c74809"
+      },
+      {
+        "reflow_page": 64,
+        "sha256": "79ad6cc4f4efcd55209a6e39ca9bc57781dfa9daa58cf46a8779fa85e7e18545"
+      },
+      {
+        "reflow_page": 65,
+        "sha256": "0ab8086f5beac2f8f0aafbfef13a05fbd90606af17bffd1a73513fec99193eb4"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r07",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "康有為與梁啟超：封閉教團和開放傳播",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "概念的近代重組不等於字詞首次出現。",
+      "傳播效果不必有一致計畫，改革目標不能取消授權問題。",
+      "海外捐款競爭不等於所有公開思想皆純粹偽裝。"
+    ],
+    "exceptions": [
+      "書內方括號補充未必作者撰寫；不以補注獨立佐證。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "康有為與梁啟超：封閉教團和開放傳播"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R08",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 65,66,67",
+    "source_spans": [
+      {
+        "reflow_page": 65,
+        "sha256": "0ab8086f5beac2f8f0aafbfef13a05fbd90606af17bffd1a73513fec99193eb4"
+      },
+      {
+        "reflow_page": 66,
+        "sha256": "ef2ace4585ef505209a2fb15f96f819d88c07153a6ebf8097d8439a693e31e21"
+      },
+      {
+        "reflow_page": 67,
+        "sha256": "efabde2900fee2211f393ba4a8ac68d689a54aaf64b20d61a489c83fa74be16f"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r08",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "張之洞：名聲、代理位置與改革資格",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "公開姿態、組織自主性、實際風險承擔分開。",
+      "制度內成功者的改革資格和改革最終後果分開。"
+    ],
+    "exceptions": [],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "張之洞：名聲、代理位置與改革資格"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R09",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 67,68,69",
+    "source_spans": [
+      {
+        "reflow_page": 67,
+        "sha256": "efabde2900fee2211f393ba4a8ac68d689a54aaf64b20d61a489c83fa74be16f"
+      },
+      {
+        "reflow_page": 68,
+        "sha256": "215d4462d7c2aac00f71ed2b2ad65f327680cc2746c5bc3192f41b68a0d5c982"
+      },
+      {
+        "reflow_page": 69,
+        "sha256": "6b9ce94222828be61321a46633ee9afa99183686332bac75baae7562d66e9434"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r09",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "王國維：材料國籍與思想來源",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "材料、方法及後世符號不等同。",
+      "文化遺民和產權/反革命解釋保留張力，不聲稱單一自殺動機已證實。"
+    ],
+    "exceptions": [
+      "關於韋伯與1926政治活動的編註存在年代核對需要，本次不採其具體連結。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "王國維：材料國籍與思想來源"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R10",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 43,44,45",
+    "source_spans": [
+      {
+        "reflow_page": 43,
+        "sha256": "dfd158465b8e579e6dd69fb6a505e5d91d69e1090e2b44bfbb0bf4a222a5aa75"
+      },
+      {
+        "reflow_page": 44,
+        "sha256": "fc57d1fa7cb59db6180b87b22e12d8870e996f8ec82368f66a2d5960c50f50f3"
+      },
+      {
+        "reflow_page": 45,
+        "sha256": "b02828f1b0fae0804d14aea7256dcd6394ba66370501874e8536d2e307789a77"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r10",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "顧維鈞",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "二十一條洩密有多個原文提出的可能動機；不把作者戰爭因果模型視作獨立史實。",
+      "外交裁量隨通訊和國際政治格局改變。"
+    ],
+    "exceptions": [
+      "不採顧個人對二戰負單一責任的定論。"
+    ],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "顧維鈞"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  },
+  {
+    "id": "BIO26-R11",
+    "source_id": "BIO26-M",
+    "source": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "locator": "MOBI reflow pages 54,55,56,57,58",
+    "source_spans": [
+      {
+        "reflow_page": 54,
+        "sha256": "ea99ada7b029d14f3f7f054fce00eb3afeaf135995146a1209bae9e13facba17"
+      },
+      {
+        "reflow_page": 55,
+        "sha256": "f8a4f8b84c71f86775775943b0cf8fba5f48e28c6eda270e0c6f9e05403e27f1"
+      },
+      {
+        "reflow_page": 56,
+        "sha256": "f96841e0b82955faf6592db43defbe0251a2fb8b9666023ee26f86ff74e16886"
+      },
+      {
+        "reflow_page": 57,
+        "sha256": "08006b24f238c1daef7c00dad438cf5e5e52f6846c2e944ba6f810097f060b26"
+      },
+      {
+        "reflow_page": 58,
+        "sha256": "17473ed1e628b57e624807899b293ff5150a0e1b13eaed895ec404e7c29aca3e"
+      }
+    ],
+    "attribution": "劉仲敬具名評傳的合輯；文內引語、編者方括號及註釋分開；正文為蒸餾重述，非作者原話或獨立史學核證。",
+    "group_id": "bio26-bio26-r11",
+    "situation": "書面人物評傳，以近代政治、組織與思想史解釋行為；原發表日期未逐篇核定。",
+    "audience": "評傳與政治史讀者。",
+    "available_information": "本次所供MOBI的可抽取文字，未採外部傳記、音訊或圖片。",
+    "constraints": "MOBI頁碼是固定擷取環境的重排頁，不是印刷頁；同題DOCX/PDF及書籍不視為獨立佐證。",
+    "observation": "林則徐",
+    "claim_type": "editorial_synthesis",
+    "conditions": [
+      "當時財政及對領事責任的不同期待優先於後來英雄標籤。",
+      "能力依環境而變；區分經世神話與後來反帝神話。"
+    ],
+    "exceptions": [],
+    "conflicts": [],
+    "runtime_support": [
+      "references/clusters/c06-figures.md"
+    ],
+    "runtime_sections": [
+      "林則徐"
+    ],
+    "curation": {
+      "decision": "replace_duplicate_with_new_distillation",
+      "reason": "依新語料保留實際作用機制、相反條件與歸屬差異。"
+    }
+  }
+]

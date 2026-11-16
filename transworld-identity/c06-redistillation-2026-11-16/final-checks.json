@@ -1,0 +1,628 @@
+{
+  "status": "pass",
+  "C06_sha256": "3e68ac6171de6eebdcc276420ff9976879346fff70058621c8502e2e09d955ad",
+  "C06_body_han": 52153,
+  "C06_case_sections": 67,
+  "modern_original_lower_bounds": [
+    {
+      "heading": "林則徐：有效的官場經驗遇到不可內化的權利制度",
+      "body_han": 681,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "張作霖：地方保險、財政信用與問鼎中原的代價",
+      "body_han": 708,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "閻錫山：專業撤退、地方團結與越出能力範圍",
+      "body_han": 685,
+      "original_lower": 550,
+      "pass": true
+    },
+    {
+      "heading": "陳炯明：地方財政、原則的成本與生態位衝突",
+      "body_han": 1005,
+      "original_lower": 1000,
+      "pass": true
+    },
+    {
+      "heading": "宋子文：把金融能力交給不受約束的中央",
+      "body_han": 688,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "蔣介石：外援、財政與拆除地方防線",
+      "body_han": 1646,
+      "original_lower": 700,
+      "pass": true
+    },
+    {
+      "heading": "顧維鈞：外交承諾如何成為憲制的一部分",
+      "body_han": 993,
+      "original_lower": 750,
+      "pass": true
+    },
+    {
+      "heading": "章士釗：專業移植與游士的自我消耗",
+      "body_han": 780,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "李大釗：政治轉向如何遮蔽思想遺產",
+      "body_han": 551,
+      "original_lower": 450,
+      "pass": true
+    },
+    {
+      "heading": "周恩來：組織渠道、雙重指揮與統戰的分層",
+      "body_han": 1159,
+      "original_lower": 1000,
+      "pass": true
+    },
+    {
+      "heading": "毛澤東：權術的適用窗口與不能替代的組織",
+      "body_han": 1128,
+      "original_lower": 1100,
+      "pass": true
+    },
+    {
+      "heading": "鄧小平：幹部復辟、地方徵取與開放的政治邊界",
+      "body_han": 742,
+      "original_lower": 700,
+      "pass": true
+    },
+    {
+      "heading": "江澤民：技術管家的適應性及其邊界",
+      "body_han": 733,
+      "original_lower": 600,
+      "pass": true
+    },
+    {
+      "heading": "葉劍英：地方信任與職業組織的不同義務",
+      "body_han": 410,
+      "original_lower": 350,
+      "pass": true
+    },
+    {
+      "heading": "金庸：意外的市場出口與遲來的統戰價值",
+      "body_han": 1079,
+      "original_lower": 750,
+      "pass": true
+    },
+    {
+      "heading": "基辛格：自我想像、制度位置與實力尺度",
+      "body_han": 1026,
+      "original_lower": 950,
+      "pass": true
+    },
+    {
+      "heading": "袁世凱與徐世昌：仲裁者的責任和文官權威的遞減",
+      "body_han": 913,
+      "original_lower": 800,
+      "pass": true
+    },
+    {
+      "heading": "黃興與馮國璋：軍事技術、私人信用與自我限制",
+      "body_han": 880,
+      "original_lower": 750,
+      "pass": true
+    },
+    {
+      "heading": "曹錕與吳佩孚：班底調停、憲法形式與有限戰爭",
+      "body_han": 961,
+      "original_lower": 950,
+      "pass": true
+    },
+    {
+      "heading": "韓復榘與馮玉祥：可保衛的地方利益與不可持續的外援",
+      "body_han": 1054,
+      "original_lower": 950,
+      "pass": true
+    },
+    {
+      "heading": "蔡鍔：軍事教育、護國聯盟與早逝留下的英雄形象",
+      "body_han": 786,
+      "original_lower": 700,
+      "pass": true
+    },
+    {
+      "heading": "左宗棠與盛宣懷：外來技術、財政網絡與政治判斷",
+      "body_han": 956,
+      "original_lower": 850,
+      "pass": true
+    },
+    {
+      "heading": "蔣經國：社會工程、情報制度與可控本土化的限度",
+      "body_han": 1002,
+      "original_lower": 850,
+      "pass": true
+    }
+  ],
+  "ancient_supplement_original_lower_bounds": [
+    {
+      "heading": "一、人物判斷與歷史模型",
+      "body_han": 722,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "宋教仁：議會勝利還需要一個能合作的行政體系",
+      "body_han": 479,
+      "original_lower": 450,
+      "pass": true
+    },
+    {
+      "heading": "黎元洪：信用可以救急，卻不能消除集中化的後果",
+      "body_han": 770,
+      "original_lower": 650,
+      "pass": true
+    },
+    {
+      "heading": "孫中山：僑社動員與統治尺度",
+      "body_han": 312,
+      "original_lower": 300,
+      "pass": true
+    },
+    {
+      "heading": "蔣介石：外援、財政與拆除地方防線",
+      "body_han": 1646,
+      "original_lower": 800,
+      "pass": true
+    },
+    {
+      "heading": "汪兆銘：名望、犧牲與組織責任",
+      "body_han": 538,
+      "original_lower": 500,
+      "pass": true
+    },
+    {
+      "heading": "瞿鴻禨：原則指向具體的義務",
+      "body_han": 374,
+      "original_lower": 350,
+      "pass": true
+    },
+    {
+      "heading": "閻錫山：專業撤退、地方團結與越出能力範圍",
+      "body_han": 685,
+      "original_lower": 350,
+      "pass": true
+    },
+    {
+      "heading": "傅作義：局部作戰能力與政治退路",
+      "body_han": 486,
+      "original_lower": 450,
+      "pass": true
+    },
+    {
+      "heading": "陳氏兄弟：黨機器、專業理想與組織者的耗損",
+      "body_han": 891,
+      "original_lower": 650,
+      "pass": true
+    }
+  ],
+  "literary_root_original_lower_bounds": "final-literary-root-allocation-check.json",
+  "prior_69_units": "prior-allocation-preservation.json",
+  "links": [
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c01-ayi-life-advice.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c02-1-mesopotamia.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c02-2-premodern-order.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c03-wadi-psychology.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c04-civilization-theory.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c05-current-affairs-capital-institutions-and-class.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c06-figures.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c07-1-nation-invention-world-history.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists": true
+    },
+    {
+      "from": "SKILL.md",
+      "destination": "references/clusters/c08-minguo-wenyan.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#可以帶來的問題",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#開始使用",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#檔案與載入",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#來源及其作用",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#範圍與目前狀態",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "#授權",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c02-1-mesopotamia.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "SKILL.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "SKILL.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/frameworks.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/voice.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "SKILL.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/frameworks.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/voice.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": ".agents/skills/liu-zhongjing-perspective",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "fidelity-ledger/",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c01-ayi-life-advice.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c02-2-premodern-order.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c03-wadi-psychology.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c04-civilization-theory.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c05-current-affairs-capital-institutions-and-class.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c06-figures.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c07-1-nation-invention-world-history.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c08-minguo-wenyan.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c02-1-mesopotamia.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "references/clusters/c07-2-reversed-east-asian-history.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "fidelity-ledger/provenance.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/provenance.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/provenance.md#readme-editorial-review-2026-10-30",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/cultivation-2026-10-31/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/framework-routing-2026-10-31/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/redistillation-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/history/redistillation-2026-11-16/",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/source-allocation-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/source-extension-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "fidelity-ledger/provenance.md",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "transworld-identity/validation.json",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "LICENSE",
+      "exists": true
+    },
+    {
+      "from": "README.md",
+      "destination": "NOTICE.md",
+      "exists": true
+    },
+    {
+      "from": "CHANGELOG.md",
+      "destination": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "CHANGELOG.md",
+      "destination": "transworld-identity/core-sync-2026-11-16/review.json",
+      "exists": true
+    },
+    {
+      "from": "CHANGELOG.md",
+      "destination": "transworld-identity/source-extension-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "CHANGELOG.md",
+      "destination": "transworld-identity/allocation-implementation-2026-11-16/report.md",
+      "exists": true
+    },
+    {
+      "from": "references/voice.md",
+      "destination": "frameworks.md",
+      "exists": true
+    },
+    {
+      "from": "references/voice.md",
+      "destination": "clusters/c06-figures.md",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#models",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#writers",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#empire",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#republic",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#party",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c06-figures.md",
+      "destination": "#sources",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c07-1-nation-invention-world-history.md",
+      "destination": "c07-2-reversed-east-asian-history.md",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c07-1-nation-invention-world-history.md",
+      "destination": "c02-1-mesopotamia.md",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c07-1-nation-invention-world-history.md",
+      "destination": "../frameworks.md",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c07-1-nation-invention-world-history.md",
+      "destination": "../voice.md",
+      "exists": true
+    },
+    {
+      "from": "references/clusters/c07-1-nation-invention-world-history.md",
+      "destination": "c06-figures.md",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "measurements.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "allocation.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "source-inventory.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "source-integrity.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "source-families.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "core-sync-review.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "core-root-cross-response.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "final-checks.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "package-root.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "package-discovery.json",
+      "exists": true
+    },
+    {
+      "from": "transworld-identity/c06-redistillation-2026-11-16/report.md",
+      "destination": "../validation.json",
+      "exists": true
+    }
+  ],
+  "JSON_parse": "pass",
+  "runtime_source_ids_and_hashes": "checks.json",
+  "AGENTS_unchanged_from_worktree_baseline": true,
+  "historical_files_preserved": true,
+  "pre_existing_AGENTS_sha256": "0041160399dbfc7d9bdf59fa28816ebb5ceb4c53ab35c460cc7d5eed7b9b1fd2",
+  "validation_scope": "structural and editorial checks; no new recognition and no independent historical verification"
+}

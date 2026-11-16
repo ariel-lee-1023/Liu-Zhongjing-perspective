@@ -1,0 +1,24 @@
+{
+  "review": "modern-cross-review.json",
+  "resolved": [
+    "MC01",
+    "MC02",
+    "MC03",
+    "MC04",
+    "MC05",
+    "MC06",
+    "MC07"
+  ],
+  "action": "實施語義重寫而非機械刪作者字串；保留關鍵例外；另設編輯歸屬與限制。",
+  "merge_actions_for_root": [
+    "MR01",
+    "MR02",
+    "MR03",
+    "MR04",
+    "MR05",
+    "MR06",
+    "MR07"
+  ],
+  "merge_reason": "跨稿去重由root在總裝完成，本組未刪其他組獨特來源。",
+  "missing_replacement_anchors": []
+}

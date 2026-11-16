@@ -1,0 +1,16 @@
+{
+  "applied": [
+    "CR-L01",
+    "CR-L02",
+    "CR-L03",
+    "CR-L04",
+    "CR-L05",
+    "CR-L06",
+    "CR-L07",
+    "CR-L08",
+    "CR-L09",
+    "CR-L10",
+    "CR-L11"
+  ],
+  "source": "core-root-cross-review.json"
+}

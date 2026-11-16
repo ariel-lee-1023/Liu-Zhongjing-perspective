@@ -1,0 +1,90 @@
+{
+  "source_blocks_read": [
+    "root-mobi-13",
+    "root-mobi-14",
+    "root-mobi-15",
+    "root-mobi-16",
+    "root-mobi-17",
+    "root-mobi-18",
+    "root-mobi-19",
+    "root-mobi-20",
+    "root-mobi-21",
+    "root-mobi-22",
+    "root-mobi-23"
+  ],
+  "mobi_reflow_pages_read": [
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+  ],
+  "mobi_read_units": 11,
+  "catalog_read": {
+    "source_id": "BIO26-P22",
+    "physical_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "use": "編輯/二次盤點；含任務文字、缺完整目錄、外鏈，非作者正文，未跟隨連結；不採主張"
+  },
+  "pdf_variant_review": {
+    "pairs": 35,
+    "normalization": "NFKC + alphanumeric",
+    "non_numeric_runs": 146,
+    "all_non_numeric_diffs_read": true,
+    "differences": "144個口/又擷取字形差異；李敖標題兩段移位；口在多處語義正確，不盲目用PDF覆寫DOCX",
+    "numeric_runs": 504,
+    "numeric_operations": "PDF插入頁碼；唯一四位數1112為F21/P21最後兩頁11/12，已檢查頁尾",
+    "pdf_pages_fully_read": false,
+    "method_limit": "字母數字規範化不檢查純標點、排版或圖像，PDF只作同文家族核對"
+  },
+  "exclusions": [
+    "audio",
+    "image",
+    "OCR",
+    "external sources"
+  ],
+  "exceptions": [
+    {
+      "scope": "actual_tool_output",
+      "source_id": "BIO26-P22",
+      "raw_characters": 7072,
+      "reason": "五頁各不足4500，但誤在同一回傳印出；5個邏輯頁單元不消除單次超量。內容已完整顯示閱讀，無重試/額外擴源。"
+    }
+  ],
+  "not_read_output": "最初root block1–2因context truncation未見內容，不算root完成；之後由古代agent完整覆蓋。",
+  "root_draft_basis": "root-plan.json先於root-part.md；9節正文均在各自內容範圍內；Gu/Lin由modern合併",
+  "recognition_calls": 0
+}

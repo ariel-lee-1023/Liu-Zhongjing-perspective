@@ -1,0 +1,306 @@
+{
+  "status": "implemented_from_read_corpus",
+  "counting_unit": "正文漢字U+3400..U+9FFF；不含標題、來源短標、來源定位及維護說明",
+  "universal_runtime_ceiling": null,
+  "source_plans": [
+    "literary-plan.json",
+    "literary-supplement-plan.json",
+    "ancient-party-plan.json",
+    "ancient-supplement-plan.json",
+    "modern-plan.json",
+    "root-plan.json"
+  ],
+  "source_plan_sha256": {
+    "literary": "934cbfbdff829e552017cee94d4984fbc08e3126da8a65b784ef6a0431efd3de",
+    "literary-supplement": "f467a7d66dd9fd6602c374d6cf90de7300cb3ab5e51e9c403fe11f372e05385b",
+    "ancient-party": "4bb30ac67a95183adb9b9a151c5f8b854e6499d57ef44f732af75395f6de1b7e",
+    "ancient-supplement": "07331e5a98c37673b40d91fa07a3e5291174aff03dca3a0f930dad5736aab40d",
+    "modern": "88c8e19bf81a2dfdd8e810895156000288bb319592b8acbbf5967bc34869657e",
+    "root": "5ead39277e3ba5be704fd9be42d06c13ed0d90d7178296d8196de29c739ecf7b"
+  },
+  "scope": "原C06的11節縮寫改為逐人物/案例處理；同人重複內容只保留一份，分稿額度不重複相加。",
+  "actual": {
+    "path": "references/clusters/c06-figures.md",
+    "sha256": "3e68ac6171de6eebdcc276420ff9976879346fff70058621c8502e2e09d955ad",
+    "body_han": 52153,
+    "metadata_han": 3136,
+    "whole_file_han": 55289,
+    "whole_file_characters": 68159,
+    "case_sections": 67,
+    "non_case_body_han": 833,
+    "sections": [
+      {
+        "heading": "魯迅：筆墨官司與聲名的開發權",
+        "body_han": 988
+      },
+      {
+        "heading": "周作人：地方風物與無處安放的局外人",
+        "body_han": 1043
+      },
+      {
+        "heading": "陳寅恪：知道載體將亡的學問",
+        "body_han": 1098
+      },
+      {
+        "heading": "余英時：失去地方之後的文化家園",
+        "body_han": 1572
+      },
+      {
+        "heading": "郭沫若：沒有紀律的才氣與組織供養",
+        "body_han": 1091
+      },
+      {
+        "heading": "瞿秋白：被領導位置包住的祕書",
+        "body_han": 744
+      },
+      {
+        "heading": "顧頡剛：拆神話的人也需要國族神話",
+        "body_han": 947
+      },
+      {
+        "heading": "錢穆：苦寒的精密與遲來的名位",
+        "body_han": 786
+      },
+      {
+        "heading": "胡適：公共共識與政治能力",
+        "body_han": 225
+      },
+      {
+        "heading": "黃仁宇：數目字之外的長跑者",
+        "body_han": 770
+      },
+      {
+        "heading": "錢鍾書：水蜘蛛的天分與水面的厚度",
+        "body_han": 768
+      },
+      {
+        "heading": "張愛玲：能看見人，未必願意經營一個國家",
+        "body_han": 1645
+      },
+      {
+        "heading": "李敖：以名滾名的市場與失去的政治位置",
+        "body_han": 957
+      },
+      {
+        "heading": "金庸：意外的市場出口與遲來的統戰價值",
+        "body_han": 1079
+      },
+      {
+        "heading": "余光中：文學的鄉愁與沒有疆界的故國",
+        "body_han": 992
+      },
+      {
+        "heading": "帝國的完成：劉徹消除兩種約束",
+        "body_han": 547
+      },
+      {
+        "heading": "苻堅與馮太后：征服集團怎樣耗掉自己的退路",
+        "body_han": 631
+      },
+      {
+        "heading": "武后：從偶然獲得游士，到持續製造官僚",
+        "body_han": 490
+      },
+      {
+        "heading": "柴榮：強幹弱枝的軍費循環",
+        "body_han": 377
+      },
+      {
+        "heading": "忽必烈：把有權利的附庸換成有俸祿的官僚",
+        "body_han": 442
+      },
+      {
+        "heading": "朱元璋與張士誠：擴張者和地方財產聯盟",
+        "body_han": 360
+      },
+      {
+        "heading": "雍正：皇位更安全，不等於帝國更能治理",
+        "body_han": 407
+      },
+      {
+        "heading": "林則徐：有效的官場經驗遇到不可內化的權利制度",
+        "body_han": 681
+      },
+      {
+        "heading": "慈禧：家內權威與朝廷規則",
+        "body_han": 524
+      },
+      {
+        "heading": "李鴻章：能辦事卻不能決定事",
+        "body_han": 381
+      },
+      {
+        "heading": "張佩綸：不能勝與不必全軍覆沒",
+        "body_han": 379
+      },
+      {
+        "heading": "翁同龢：局部得勢與共同基礎的損耗",
+        "body_han": 355
+      },
+      {
+        "heading": "康有為與梁啟超：封閉教團和開放傳播",
+        "body_han": 919
+      },
+      {
+        "heading": "張之洞：名聲、代理位置與改革資格",
+        "body_han": 500
+      },
+      {
+        "heading": "王國維：材料國籍與思想來源",
+        "body_han": 506
+      },
+      {
+        "heading": "左宗棠與盛宣懷：外來技術、財政網絡與政治判斷",
+        "body_han": 956
+      },
+      {
+        "heading": "章太炎：思想的發明者與共和國的遺民",
+        "body_han": 938
+      },
+      {
+        "heading": "蔡元培：兼容並包者推動的統一化",
+        "body_han": 931
+      },
+      {
+        "heading": "吳稚暉：沒有實權的老頑童與有期限的權威",
+        "body_han": 702
+      },
+      {
+        "heading": "瞿鴻禨：原則指向具體的義務",
+        "body_han": 374
+      },
+      {
+        "heading": "宋教仁：議會勝利還需要一個能合作的行政體系",
+        "body_han": 479
+      },
+      {
+        "heading": "黎元洪：信用可以救急，卻不能消除集中化的後果",
+        "body_han": 770
+      },
+      {
+        "heading": "孫中山：僑社動員與統治尺度",
+        "body_han": 312
+      },
+      {
+        "heading": "段祺瑞：好部下與壞領導",
+        "body_han": 828
+      },
+      {
+        "heading": "袁世凱與徐世昌：仲裁者的責任和文官權威的遞減",
+        "body_han": 913
+      },
+      {
+        "heading": "黃興與馮國璋：軍事技術、私人信用與自我限制",
+        "body_han": 880
+      },
+      {
+        "heading": "曹錕與吳佩孚：班底調停、憲法形式與有限戰爭",
+        "body_han": 961
+      },
+      {
+        "heading": "蔡鍔：軍事教育、護國聯盟與早逝留下的英雄形象",
+        "body_han": 786
+      },
+      {
+        "heading": "張作霖：地方保險、財政信用與問鼎中原的代價",
+        "body_han": 708
+      },
+      {
+        "heading": "閻錫山：專業撤退、地方團結與越出能力範圍",
+        "body_han": 685
+      },
+      {
+        "heading": "陳炯明：地方財政、原則的成本與生態位衝突",
+        "body_han": 1005
+      },
+      {
+        "heading": "韓復榘與馮玉祥：可保衛的地方利益與不可持續的外援",
+        "body_han": 1054
+      },
+      {
+        "heading": "章士釗：專業移植與游士的自我消耗",
+        "body_han": 780
+      },
+      {
+        "heading": "李大釗：政治轉向如何遮蔽思想遺產",
+        "body_han": 551
+      },
+      {
+        "heading": "傅作義：局部作戰能力與政治退路",
+        "body_han": 486
+      },
+      {
+        "heading": "蔣介石：外援、財政與拆除地方防線",
+        "body_han": 1646
+      },
+      {
+        "heading": "宋子文：把金融能力交給不受約束的中央",
+        "body_han": 688
+      },
+      {
+        "heading": "顧維鈞：外交承諾如何成為憲制的一部分",
+        "body_han": 993
+      },
+      {
+        "heading": "戴季陶：內圈忠誠、死後教義與反共的列寧式組織",
+        "body_han": 771
+      },
+      {
+        "heading": "汪兆銘：名望、犧牲與組織責任",
+        "body_han": 538
+      },
+      {
+        "heading": "陳氏兄弟：黨機器、專業理想與組織者的耗損",
+        "body_han": 891
+      },
+      {
+        "heading": "張學良與林彪：軍事聲望不能替代政治根基",
+        "body_han": 425
+      },
+      {
+        "heading": "周恩來：組織渠道、雙重指揮與統戰的分層",
+        "body_han": 1159
+      },
+      {
+        "heading": "李克農與劉少奇：情報、幹部與社會網絡的替換",
+        "body_han": 729
+      },
+      {
+        "heading": "毛澤東：權術的適用窗口與不能替代的組織",
+        "body_han": 1128
+      },
+      {
+        "heading": "鄧小平：幹部復辟、地方徵取與開放的政治邊界",
+        "body_han": 742
+      },
+      {
+        "heading": "江澤民：技術管家的適應性及其邊界",
+        "body_han": 733
+      },
+      {
+        "heading": "葉劍英：地方信任與職業組織的不同義務",
+        "body_han": 410
+      },
+      {
+        "heading": "高崗、龔楚與江青：機會、退出和替代能力",
+        "body_han": 486
+      },
+      {
+        "heading": "陳獨秀、丁玲與胡風：文人的組織位置",
+        "body_han": 650
+      },
+      {
+        "heading": "蔣經國：社會工程、情報制度與可控本土化的限度",
+        "body_han": 1002
+      },
+      {
+        "heading": "基辛格：自我想像、制度位置與實力尺度",
+        "body_han": 1026
+      }
+    ]
+  },
+  "integration_map": "integration-map.json",
+  "original_69_unit_lower_bounds": "先前69單元下界仍適用；本輪僅重寫C07-1 U16，正文245漢字>=220；其他68對應正文位元保持。",
+  "review": "各預配人物的原下界檢查見分組review；跨稿蔣/閻/周/金重複配置由合併正文承載，來源可靠性記帳不填正文。核心改動由人物機制和必要反向條件決定，不另設通用字數限制。",
+  "new_recognition_calls": 0
+}

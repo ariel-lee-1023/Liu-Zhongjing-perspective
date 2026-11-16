@@ -13,6 +13,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- 2026-11-16（人物增補）：以指定民國文人卷、人物DOCX／PDF同文版本與MOBI實際正文重組C06；新蒸餾取代重複舊內容，音訊與圖片不納入。同步核心條件、frameworks、voice及C07-1顧頡剛摘要，保留人物引語、小說、編輯附錄和傳抄限制。來源、配置及驗證見[C06報告](transworld-identity/c06-redistillation-2026-11-16/report.md)；零新增辨識呼叫，Candidate不變。
+
 - 2026-11-16：同步SKILL.md與新增C05題材，為實作改善及個人處境補回來源條件；C05更名為`c05-current-affairs-capital-institutions-and-class.md`，顯示名「時事、資本、制度與階級」。正文不變，現行連結與驗證指紋同步，歷史記錄按[遷移對照](transworld-identity/core-sync-2026-11-16/review.json)保留；未執行新人格辨識。
 
 - 2026-11-16（後續增補）：以來源支持的細節補足全部69個原計量區塊下界；C05加入教育答問、娛樂、知識與虛無感、認知戰四份文件，另設知識單元，先核增量配置再寫稿。保存相反條件、原檔破損限制及來源去重；來源帳本和當前計量同步。依使用者最新授權，完成驗證後直接提交推送此前與本次修改，AGENTS.md原改動保持未提交。詳見[增補報告](transworld-identity/source-extension-2026-11-16/report.md)。零新辨識呼叫，Candidate不變。

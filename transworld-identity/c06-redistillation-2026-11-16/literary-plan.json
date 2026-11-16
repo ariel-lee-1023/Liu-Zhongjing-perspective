@@ -1,0 +1,833 @@
+{
+  "created_utc": "2026-11-16T12:08:07.599897+00:00",
+  "stage": "before_prose_draft",
+  "scope": "書籍全14章新蒸餾；十份同名DOCX去重比對；甲部書面評傳",
+  "reading_completed_units": 37,
+  "reading_limit": 60,
+  "method": "先完成實讀與差異閱讀，再列獨立論證；各人物篇幅按必要內容分配，不採統一上限，不把同篇DOCX當新增佐證。",
+  "body_hanzi_definition": "去除Markdown標題與來源短標後，計U+3400–U+4DBF及U+4E00–U+9FFF漢字；篇幅範圍是審稿提示，非填充下限。",
+  "total_planned_hanzi_range": [
+    13300,
+    17750
+  ],
+  "chapters": [
+    {
+      "chapter": 1,
+      "person": "魯迅",
+      "slug": "lu-xun",
+      "planned_body_hanzi_range": [
+        850,
+        1100
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F33",
+      "content_groups": [
+        {
+          "id": "BIO26-L01",
+          "heading": "家難與義務落差",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 81,
+            "line_end": 89
+          },
+          "argument": "科場案後的家道下降被轉成世態炎涼的公共控訴；善待與冷遇都能證明同一指控。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L02",
+          "heading": "公費、保護人與寫作的起點",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 91,
+            "line_end": 119
+          },
+          "argument": "技術學堂、官費留學、教育部薪水和新文化寫手需求，構成從文的物質路徑；自述與職業條件不能混讀。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L03",
+          "heading": "聲名資產的兩次開發",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 121,
+            "line_end": 123
+          },
+          "argument": "書商以既有名聲變現，政治組織再將名流包裝為統戰資產；創作、收入和政治象徵的時序不同。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L04",
+          "heading": "論敵承擔的證明責任",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 125,
+            "line_end": 157
+          },
+          "argument": "《我們不再受騙了》是被引用並反諷拆解的魯迅文章；蘇聯輸出與排隊辯護顯示預設陣營如何控制可接受證據。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 2,
+      "person": "周作人",
+      "slug": "zhou-zuoren",
+      "planned_body_hanzi_range": [
+        850,
+        1150
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": null,
+      "content_groups": [
+        {
+          "id": "BIO26-L05",
+          "heading": "富貴不能補回童年的安全感",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 251,
+            "line_end": 269
+          },
+          "argument": "監獄陰影、雜書和水師學堂的謀生，塑成退守的小天地；後來成功沒有消除失敗預期。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L06",
+          "heading": "越國土風與北京的市場",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 269,
+            "line_end": 287
+          },
+          "argument": "地方民俗、日本理想、白話文和官費教育彼此衝突；一家人的生活牽住地方文化研究者。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L07",
+          "heading": "局外人的制度期限",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 289,
+            "line_end": 303
+          },
+          "argument": "小品與翻譯有其長處，國民性時評缺乏圈內知識；戰爭改變技術人員可留任的規則。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L08",
+          "heading": "技術身分的最後庇護",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 305,
+            "line_end": 337
+          },
+          "argument": "魯迅資料和翻譯的低政治風險曾保留收入，新的階級清算仍能撤回庇護；明白危險與能改變路徑不同。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 3,
+      "person": "陳寅恪",
+      "slug": "chen-yinke",
+      "planned_body_hanzi_range": [
+        1000,
+        1300
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F35",
+      "content_groups": [
+        {
+          "id": "BIO26-L09",
+          "heading": "博雅教育的階級條件",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 347,
+            "line_end": 353
+          },
+          "argument": "家學、資產、時間價格與問題興趣共同支撐無文憑而廣博的學習，不是增加資料儲量即可複製。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L10",
+          "heading": "有立場的線索與替立場找材料",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 355,
+            "line_end": 361
+          },
+          "argument": "既不把引文密度等同中立，也區分巧辯與釐清雜亂線索的能力；哲學整合不是此人的最強項。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L11",
+          "heading": "文化遺民的共同體載體",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 363,
+            "line_end": 377
+          },
+          "argument": "政治上層與社區基層分次瓦解；基督教社區和列寧主義解構提供相反條件；理解不保證逃離。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L12",
+          "heading": "今典藏在古典中的財政結構",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 379,
+            "line_end": 443
+          },
+          "argument": "李懷光/西安事變、聯金/聯蘇、錢柳/夫妻去留串起文獻與自身處境；影射仍是詮釋而非已核證史實。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 4,
+      "person": "余英時",
+      "slug": "yu-ying-shih",
+      "planned_body_hanzi_range": [
+        1450,
+        1900
+      ],
+      "planned_paragraphs": 6,
+      "same_argument_docx": "BIO26-F23",
+      "content_groups": [
+        {
+          "id": "BIO26-L13",
+          "heading": "士紳根系與文化幻肢",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 453,
+            "line_end": 481
+          },
+          "argument": "余詠南的鄉里德業、余協中流亡、鄉村童年，把有邊界的共同體改造成離身的文化認同。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L14",
+          "heading": "遺民的節操與學院的適應",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 491,
+            "line_end": 529
+          },
+          "argument": "新亞的貧困、方以智研究的情境、赴美後職業學術及對費正清和新亞改制的不同態度，顯出行動邊界。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L15",
+          "heading": "內在超越缺少組織支點",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 531,
+            "line_end": 561
+          },
+          "argument": "儒家非教會，五四移植世俗化劇本診錯病因；儒商倫理材料也不能補出加爾文教式組織。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L16",
+          "heading": "文化源流不能決定政治邊界",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 563,
+            "line_end": 597
+          },
+          "argument": "臺灣文化源流論、同情臺獨又不願臺獨的張力；韓越與德語諸邦構成同源而分治的對照。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L17",
+          "heading": "節操拆穿收編，思想史仍受制於視野",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 603,
+            "line_end": 647
+          },
+          "argument": "解讀陳寅恪破壞去政治化的統戰；朱熹、科舉與士大夫自我神話，思想影響和組織能力不可互證。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L18",
+          "heading": "心理診斷的限度",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 649,
+            "line_end": 661
+          },
+          "argument": "毛害怕秩序的洞察仍需區分蘇聯幹部體系與個人秩序；脈象/切片比喻限制思想史的證據強度。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 5,
+      "person": "郭沫若",
+      "slug": "guo-moruo",
+      "planned_body_hanzi_range": [
+        1000,
+        1350
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F27",
+      "content_groups": [
+        {
+          "id": "BIO26-L19",
+          "heading": "雙重標準與被翻譯約束的才氣",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 707,
+            "line_end": 715
+          },
+          "argument": "新舊道德取權避責和胡適相反；多產才氣被缺乏節制耗散，翻譯藉原作者紀律保存成果。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L20",
+          "heading": "文學不滿轉成組織供養",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 717,
+            "line_end": 725
+          },
+          "argument": "聲名回報不如胡適、創造社瓦解與革命職位，使遊蕩作家獲得研究資源而更依附供養者。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L21",
+          "heading": "歷史分期是派系責任表",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 727,
+            "line_end": 735
+          },
+          "argument": "富農、豪紳分類連到北伐失敗責任；奴隸/封建框架及兩面性使相反材料均可吸收。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L22",
+          "heading": "外圍人的諂媚與內圈的考驗",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 741,
+            "line_end": 767
+          },
+          "argument": "對周恩來地位誤判和歌頌時間落後揭示外圍恐懼；真心考驗的隱喻僅限領袖—黨內知識分子，不適用全部受害者。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 6,
+      "person": "瞿秋白",
+      "slug": "qu-qiubai",
+      "planned_body_hanzi_range": [
+        700,
+        950
+      ],
+      "planned_paragraphs": 3,
+      "same_argument_docx": "BIO26-F24",
+      "content_groups": [
+        {
+          "id": "BIO26-L23",
+          "heading": "讀書的單一出路如何變成依附",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 799,
+            "line_end": 811
+          },
+          "argument": "家道失敗、母親期望、考試挫折與通訊員機會，形成只能憑文案謀生的路徑。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L24",
+          "heading": "冒充領導的祕書",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 811,
+            "line_end": 827
+          },
+          "argument": "蘇聯政策決定理論方向和人事地位；譯述能力不能代替承擔決斷，換線後文字成罪證。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L25",
+          "heading": "烈士與叛徒之外的記憶政治",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 827,
+            "line_end": 855
+          },
+          "argument": "《多餘的話》、宋希濂晚年口供和被平反的時點有衝突；不從性格推斷口號必定未發生。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 7,
+      "person": "顧頡剛",
+      "slug": "gu-jiegang",
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F32",
+      "content_groups": [
+        {
+          "id": "BIO26-L26",
+          "heading": "疑古的民族構建問題",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 865,
+            "line_end": 885
+          },
+          "argument": "越國家譜與疑古方法、漢族文化構建轉成帝國版圖繼承；辨偽的政治用途不由技術決定。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L27",
+          "heading": "統一論把自己的前提推翻",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 885,
+            "line_end": 917
+          },
+          "argument": "1923反一元與1939不得再析民族相反；受統治即可融為一家之論同時替新的征服提供理由。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L28",
+          "heading": "替邊疆收集材料，替材料封鎖出口",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 919,
+            "line_end": 949
+          },
+          "argument": "民俗、巴蜀和邊疆研究一面產生差異，一面按國族團結壓制差異；由戴季陶的對象變成費孝通的批評者。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L29",
+          "heading": "發明家也成為可回收的材料",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 927,
+            "line_end": 935
+          },
+          "argument": "國民黨黃金期學術資源和後來檢討、日記被收用、學生批師，呈現文字生產的自主權被奪走。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 8,
+      "person": "錢穆",
+      "slug": "qian-mu",
+      "planned_body_hanzi_range": [
+        750,
+        1000
+      ],
+      "planned_paragraphs": 3,
+      "same_argument_docx": "BIO26-F28",
+      "content_groups": [
+        {
+          "id": "BIO26-L30",
+          "heading": "苦寒考訂與政治神話的不同用途",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 965,
+            "line_end": 977
+          },
+          "argument": "節衣縮食與長期考訂產生精密成果，卻不等於理解神話能否建國；康有為與戴季陶是對照。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L31",
+          "heading": "書面知識買不到社交經驗",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 977,
+            "line_end": 995
+          },
+          "argument": "問胡適僻書、與蔣同餐及為蒙文通求情三事，區分階級習慣、學術範圍和實際節操。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L32",
+          "heading": "晚年地位由門生與冷戰追認",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 997,
+            "line_end": 1027
+          },
+          "argument": "新亞成果、英國與臺北文化需求、素書樓和院士，說明導師名望可由追隨者消費，不必出自本人經營。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 9,
+      "person": "黃仁宇",
+      "slug": "ray-huang",
+      "planned_body_hanzi_range": [
+        700,
+        950
+      ],
+      "planned_paragraphs": 3,
+      "same_argument_docx": null,
+      "content_groups": [
+        {
+          "id": "BIO26-L33",
+          "heading": "戰爭問題與財政支點",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1037,
+            "line_end": 1047
+          },
+          "argument": "軍旅與流亡提供提問，明代財稅研究支撐不同成熟度的體系；漢語接受和美國學界地位不可混同。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L34",
+          "heading": "通史的真牙與假牙",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1049,
+            "line_end": 1057
+          },
+          "argument": "不均勻史料使完整敘事依賴局部支點和補接；洞見不能直接等同結論，更不能免除具體命題檢查。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L35",
+          "heading": "數目字管理的英國反例",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1057,
+            "line_end": 1089
+          },
+          "argument": "多中心網絡、理性管理之線索有用；皇家海軍腐敗和英國長期成功使管理先進等同國運的藥方失效。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 10,
+      "person": "錢鍾書",
+      "slug": "qian-zhongshu",
+      "planned_body_hanzi_range": [
+        750,
+        1050
+      ],
+      "planned_paragraphs": 3,
+      "same_argument_docx": "BIO26-F29",
+      "content_groups": [
+        {
+          "id": "BIO26-L36",
+          "heading": "掌故的陌生化與階級市場",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1099,
+            "line_end": 1109
+          },
+          "argument": "林譯、英文小說及英國學院機智在較扁平社會改變價格；不是只有裝博學動機。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L37",
+          "heading": "水蜘蛛的微環境與麵包缺席",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1111,
+            "line_end": 1127
+          },
+          "argument": "粉絲—同儕—嫉妒者的環境延續，速得回報的機智削弱系統整合誘因；洞見與可檢驗知識不同。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L38",
+          "heading": "夜氣、場面話與貢賦",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1129,
+            "line_end": 1165
+          },
+          "argument": "私人看法、柔性社交和政治壓力各有條件，晚年名聲加重敷衍；不能把每句公開話都當真意。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 11,
+      "person": "張愛玲",
+      "slug": "eileen-chang",
+      "planned_body_hanzi_range": [
+        1500,
+        2000
+      ],
+      "planned_paragraphs": 6,
+      "same_argument_docx": null,
+      "content_groups": [
+        {
+          "id": "BIO26-L39",
+          "heading": "兩個家園與逃離家族的反常收益",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1175,
+            "line_end": 1219
+          },
+          "argument": "北洋家運衰退與上海教會教育/港大生活交錯；違抗繼母可能切斷沒落路徑，家事歧證須並列。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L40",
+          "heading": "政治感受力不等於符號政治",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1221,
+            "line_end": 1251
+          },
+          "argument": "香港人物經驗、上海讀者和快寫的時間窗口，使小天地的敏銳與宏大組織能力分離。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L41",
+          "heading": "通俗文學的評價與發表市場",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1253,
+            "line_end": 1283
+          },
+          "argument": "通俗趣味、各派報刊、十八春話語稅與冷戰評價相互作用；兩部反共小說的藝術判斷帶立場但不可全化約。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L42",
+          "heading": "小說中的分類權與共同犯罪",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1285,
+            "line_end": 1327
+          },
+          "argument": "《赤地之戀》劉荃、張勵、李向前展示工作組消費、改劃地主、強迫參與和造宣傳的機制；小說不能充當事件實錄。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L43",
+          "heading": "編外身分的離境窗口",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1329,
+            "line_end": 1347
+          },
+          "argument": "未完成收編的通俗作者被低估，得以出走；向美新處主動交付作品及拒絕回滬顯示能動性。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L44",
+          "heading": "退出運動而保存小天地",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1349,
+            "line_end": 1355
+          },
+          "argument": "赴美後不再承擔反共組織任務，以紅樓夢與海上花為終身興趣；保留語言記憶不等於完成民族構建。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 12,
+      "person": "李敖",
+      "slug": "li-ao",
+      "planned_body_hanzi_range": [
+        950,
+        1250
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F26",
+      "content_groups": [
+        {
+          "id": "BIO26-L45",
+          "heading": "三代由土豪到游士的轉換",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1435,
+            "line_end": 1461
+          },
+          "argument": "滿洲拓荒、北大培訓與流亡臺灣，顯示教育個人上升可伴地方資源流失。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L46",
+          "heading": "文星的天窗有派系邊界",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1463,
+            "line_end": 1471
+          },
+          "argument": "失意元老派系提供文化庇護，文學精進集中青年期；思想傳播的回報取決於風險與時機。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L47",
+          "heading": "以名滾名與民主後的失驗",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1471,
+            "line_end": 1489
+          },
+          "argument": "監禁、名望和私怨轉成政治資本；開放選舉要求承擔選民責難，粉絲機制不能代替代表關係。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L48",
+          "heading": "由黨外導師到存在感交易",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1489,
+            "line_end": 1497
+          },
+          "argument": "法源寺符號人物、民進黨三成預測落空、表演與統戰，收束文學和政治兩方面的退化。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 13,
+      "person": "金庸",
+      "slug": "jin-yong",
+      "planned_body_hanzi_range": [
+        1000,
+        1350
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": null,
+      "content_groups": [
+        {
+          "id": "BIO26-L49",
+          "heading": "家族榜樣與負擔分配",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1519,
+            "line_end": 1545
+          },
+          "argument": "查文清故事、國語/國恥教育和中央政治學校離校，顯示認同承諾與親自承擔成本的衝突；退學動機僅為評傳推讀。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L50",
+          "heading": "求仕失敗與武俠市場的意外",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1547,
+            "line_end": 1567
+          },
+          "argument": "新聞翻譯、求官受挫、打雜接寫和明報創辦，顯示市場收入打開組織依附的出口；冷戰經濟條件不能省略。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L51",
+          "heading": "人物模板與韋小寶的突破",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1567,
+            "line_end": 1573
+          },
+          "argument": "體裁通俗不等於不可成經典；平面人物為成本選擇的解釋，後期對師父的感情超出功利計算。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L52",
+          "heading": "土財主如何升為統戰對象",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1575,
+            "line_end": 1627
+          },
+          "argument": "六七受威脅、月刊平臺、僑外知識分子與基本法角色，串起保護成本、名流價值和組織轉線。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    },
+    {
+      "chapter": 14,
+      "person": "余光中",
+      "slug": "yu-kwang-chung",
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "planned_paragraphs": 4,
+      "same_argument_docx": "BIO26-F22",
+      "content_groups": [
+        {
+          "id": "BIO26-L53",
+          "heading": "南洋認同工程進入家庭",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1637,
+            "line_end": 1671
+          },
+          "argument": "父系閩越南洋與母系吳語家園、父親辦學和官職，以互不通語的父母展示文化認同需另行建造。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L54",
+          "heading": "安全的文人生涯與窄幅技藝",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1671,
+            "line_end": 1679
+          },
+          "argument": "文星同場而避時政、長壽多產與散文修辭爭論，構成中產職業路徑，不應僅作怯懦道德指控。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L55",
+          "heading": "活語言的資訊庫與文白修補",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1681,
+            "line_end": 1699
+          },
+          "argument": "語言從日常交往自發生長，翻譯/方言的活化不同於國語設計；文字本身不是全部障礙。",
+          "paragraphs": 1
+        },
+        {
+          "id": "BIO26-L56",
+          "heading": "鄉愁的文化地圖與政治遺產",
+          "primary_source": "BIO26-B",
+          "locator": {
+            "line_start": 1701,
+            "line_end": 1735
+          },
+          "argument": "伊色佳、江南和漂泊的文學價值，與從未自我治理的完整故國想像相互支撐。",
+          "paragraphs": 1
+        }
+      ],
+      "allocation_reason": "依據本章已實讀的獨立論證、特有案例與相反條件分段；篇幅容納各群的因果與限制，不由現稿或來源總字數換算。"
+    }
+  ],
+  "limits": [
+    "作者的政治分類、心理歸因與反事實是評傳論證，未作獨立史實核證。",
+    "人物引語、被評論的小說與書後註釋分層；小說場景不作事件記錄。",
+    "音訊與圖像完全不讀；圖片說明不作人物機制證據；不外查。",
+    "F35含簡體、hhh雜訊、附注重排及局部措辭差異；不默改爭議名詞與日期。"
+  ]
+}

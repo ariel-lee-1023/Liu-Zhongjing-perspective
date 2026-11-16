@@ -1,0 +1,768 @@
+[
+  {
+    "id": "BIO26-AS01",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          1,
+          4
+        ]
+      ],
+      "article_heading": "《近代史的墮落》序",
+      "text_join": "newline between complete page texts",
+      "sha256": "bf69a6ca50688d7de86c9da041e32796bd1a81d7f05179f57ed1304415a7bfb9",
+      "locators": [
+        {
+          "unit": 1,
+          "sha256": "331c7e4af1d401dfa1ea11cdf5ead713f01c3fde81dff60ba3b6e65f4212c1f0"
+        },
+        {
+          "unit": 2,
+          "sha256": "6367bc70b21cbda357ded1e48cbab91b2058cb83b31cfcdce3d8d81e3cea11ae"
+        },
+        {
+          "unit": 3,
+          "sha256": "3dd70756f04e578030899afac5d61b151372c8664ebc7e00c64611e5978c5271"
+        },
+        {
+          "unit": 4,
+          "sha256": "1fd3151b314478ed9eff7201ba6c144ca9e5b23bf312c94c61e477ef1a762678"
+        }
+      ]
+    },
+    "heading": "歷史模型：環境、節點與組織承載",
+    "situation": "在材料不足且歷史路徑不可逆的環境中判斷人物和制度。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "品質的效果取決於環境與組織；解釋力不等同保存保護網絡的能力。",
+    "conditions": [
+      "辨認不可控制的季節、局部環境與可選擇節點；區分因果、相關與不確知。"
+    ],
+    "exceptions": [
+      "模型是維持尺度的工具，不承諾算出必然歷史。"
+    ],
+    "conflicts": [
+      "物理、生物及性別類比是論述比喻，未作科學事實。"
+    ]
+  },
+  {
+    "id": "BIO26-AS02",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          2,
+          4
+        ]
+      ],
+      "article_heading": "《近代史的墮落》序",
+      "text_join": "newline between complete page texts",
+      "sha256": "8f663d20ebd54c4513c7ccce2fe8d3f6f389b6bba850b6e589397f0c922d4d8a",
+      "locators": [
+        {
+          "unit": 2,
+          "sha256": "6367bc70b21cbda357ded1e48cbab91b2058cb83b31cfcdce3d8d81e3cea11ae"
+        },
+        {
+          "unit": 3,
+          "sha256": "3dd70756f04e578030899afac5d61b151372c8664ebc7e00c64611e5978c5271"
+        },
+        {
+          "unit": 4,
+          "sha256": "1fd3151b314478ed9eff7201ba6c144ca9e5b23bf312c94c61e477ef1a762678"
+        }
+      ]
+    },
+    "heading": "大共同體的保護與地方義務",
+    "situation": "王永江與陳廉伯在資源動員和政治上升的壓力下保護所代表群體。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "公共強制可供保護也可集中汲取；拒絕把共同體換作個人上升資本，是有成本的承諾。",
+    "conditions": [
+      "替代組織未能接續時，拆除小共同體可能使個人更孤立。"
+    ],
+    "exceptions": [
+      "地方武裝有有限義務不等於無對外侵害；規模不自動表示秩序產出。"
+    ],
+    "conflicts": [
+      "對王永江、陳廉伯的敘事未外部核驗；杜月笙、王佐等反事實未作必然。"
+    ]
+  },
+  {
+    "id": "BIO26-AS03",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          5,
+          7
+        ]
+      ],
+      "article_heading": "「議會迷」宋教仁",
+      "text_join": "newline between complete page texts",
+      "sha256": "8ac849fd719291dc140731a21f8ec5f1ef76bb388690e7d352b77095ee4e9595",
+      "locators": [
+        {
+          "unit": 5,
+          "sha256": "9bf418d43417132d2b7baedb64fdc97e126b8347b5f2b36d15c5a72dd0a6903a"
+        },
+        {
+          "unit": 6,
+          "sha256": "765296fefba60633e6ce265ed498057ed372e0287ad20e7ebb62b41fe76e3843"
+        },
+        {
+          "unit": 7,
+          "sha256": "ace8d9193a78323a021ced8f31b7ff72adf848b10df651988ee3b26324fe1326"
+        }
+      ]
+    },
+    "heading": "宋教仁：議會與行政合作",
+    "situation": "地域派系未完全合併，宋以議會主導的基本法及政黨內閣安排革命後政治。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "文本制衡還依賴議會的社會來源、政黨凝聚、行政合作與各方承受協調成本的意願。",
+    "conditions": [
+      "政黨支持不穩時，多黨合作或附條件內閣可能維持有限共同規則。"
+    ],
+    "exceptions": [
+      "宋未遇刺不保證穩定民主；有缺陷憲法仍可能比公開取消底線保留更多限制。"
+    ],
+    "conflicts": [
+      "間島法律史細節及未遇刺後的路線屬來源敘事／反事實，未獨立認證。"
+    ]
+  },
+  {
+    "id": "BIO26-AS04",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          7,
+          13
+        ]
+      ],
+      "article_heading": "「純德」黎元洪",
+      "text_join": "newline between complete page texts",
+      "sha256": "457dcb01a9654ad0e686c1f60021d39566be7768c048f1e469a468fc850a71a1",
+      "locators": [
+        {
+          "unit": 7,
+          "sha256": "ace8d9193a78323a021ced8f31b7ff72adf848b10df651988ee3b26324fe1326"
+        },
+        {
+          "unit": 8,
+          "sha256": "1f04d182698c075c5b9ade24886c35eb6dd404f9225c6c16d613af98c274e4a8"
+        },
+        {
+          "unit": 9,
+          "sha256": "e9e92b2f890c75b526234e5038cac60b45037b9abdf590459afb9e3f3422fb78"
+        },
+        {
+          "unit": 10,
+          "sha256": "34a3a67021eb05f387be40ff385b383ae4172e978ff17d801d856fce8657b9bd"
+        },
+        {
+          "unit": 11,
+          "sha256": "7e282cd1f1c1101f591292bfb98b7d16aa05f7ad3fae24729182df9ddef3d29d"
+        },
+        {
+          "unit": 12,
+          "sha256": "b544c45cd114acefd303eee1dedf2faf5a2b3208d71ecf26b51f0b7c7c134b12"
+        },
+        {
+          "unit": 13,
+          "sha256": "09ff96ab27017594e99061ccd17f4b3cec0ba12c399188f3d3c72dbb13b1ef71"
+        }
+      ]
+    },
+    "heading": "黎元洪：信用與集中化悖論",
+    "situation": "湖北新軍、士紳、藩庫資源與起義後政權需要可信任的協調者。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "財政與專業進步不能替代政治聯絡；保護財產而集中軍財，可同時建立省內專斷。",
+    "conditions": [
+      "對中央的自主要求與對州縣的集中可能並存；秩序黨支持依附於具體任務。"
+    ],
+    "exceptions": [
+      "退讓不等於不能爭權；反二次革命不等於支持洪憲；私人信用需可控制的制度範圍。"
+    ],
+    "conflicts": [
+      "英國顧問引語、艦艇技術與各類人數財額未核定；不繼承群體貶抑。"
+    ]
+  },
+  {
+    "id": "BIO26-AS05",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          13,
+          15
+        ]
+      ],
+      "article_heading": "「僑社領袖」孫中山",
+      "text_join": "newline between complete page texts",
+      "sha256": "3cebf4f03c5c9e06ef58a3234f1a3748481960f9b1bbf9e34a53ed665f670252",
+      "locators": [
+        {
+          "unit": 13,
+          "sha256": "09ff96ab27017594e99061ccd17f4b3cec0ba12c399188f3d3c72dbb13b1ef71"
+        },
+        {
+          "unit": 14,
+          "sha256": "62ea2ab2cafdc7b844d02bdc4c9e090fbb6821a725da544d6843452946482791"
+        },
+        {
+          "unit": 15,
+          "sha256": "555fd0a50c5e8bcbad578e5fe0a87723f73aff72ed189fa30a49f63082e54805"
+        }
+      ]
+    },
+    "heading": "孫中山：僑社網絡與統治尺度",
+    "situation": "南洋、兩廣網絡支持反清及反覆動員，統治全國又需要另類機器。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "地域認同的動員能力不能無成本擴成跨地域治理；新組織形式會重分原群體優勢。",
+    "conditions": [
+      "不同目標爭用有限資金與幹部，堅毅既可保存機會又可延續資源錯配。"
+    ],
+    "exceptions": [
+      "反對共同敵人不等於對政治遺產已有共識。"
+    ],
+    "conflicts": [
+      "不採生理、血統或智力作人物本質判定；心理描寫為來源解釋。"
+    ]
+  },
+  {
+    "id": "BIO26-AS06",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          15,
+          18
+        ]
+      ],
+      "article_heading": "成也介石，敗也介石",
+      "text_join": "newline between complete page texts",
+      "sha256": "ba4bb5bda0fb62b94f47d32da2449982edb784f80acb72864509c5c3e7ac9ac4",
+      "locators": [
+        {
+          "unit": 15,
+          "sha256": "555fd0a50c5e8bcbad578e5fe0a87723f73aff72ed189fa30a49f63082e54805"
+        },
+        {
+          "unit": 16,
+          "sha256": "b8153a2c55d493f2025d794a0a0ff0a0daaa247cf5fede3560db7b28d6c02460"
+        },
+        {
+          "unit": 17,
+          "sha256": "bd566df83b56c0d6581780e8d830f3ec58444fd9672d392d967466185ef53323"
+        },
+        {
+          "unit": 18,
+          "sha256": "97f859af809afba877816212789030cf0135772ae01da707bb3c83fb14b4bf7e"
+        }
+      ]
+    },
+    "heading": "蔣介石：堅毅與後備",
+    "situation": "黃埔日常工作、嫡系動員、孤注一擲的戰場配置及外部保護。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "勤勉可累積組織資本；缺乏後備和補充時，忠誠者先消耗；道德不能替代盟國利益判斷。",
+    "conditions": [
+      "戰爭成效依賴工業、交通、補充和外交交換，而非單一意志。"
+    ],
+    "exceptions": [
+      "意外獲救不證明此前每項風險正確；對外圍的懷柔會與內部嚴格形成議價差。"
+    ],
+    "conflicts": [
+      "將戰敗完全繫於人格、任何年份必敗與各方皆已知結局等斷言未繼承。"
+    ]
+  },
+  {
+    "id": "BIO26-AS07",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          18,
+          21
+        ]
+      ],
+      "article_heading": "被嫌棄的蔣介石的後半生",
+      "text_join": "newline between complete page texts",
+      "sha256": "dd063b8979eb2f90b02aa091dfb0fa473e64ab24138be53bc23919935719d9d4",
+      "locators": [
+        {
+          "unit": 18,
+          "sha256": "97f859af809afba877816212789030cf0135772ae01da707bb3c83fb14b4bf7e"
+        },
+        {
+          "unit": 19,
+          "sha256": "8ae460a8dbd4ad5927540430d58ab0f0157bbbb4e4f64fb2fe9ed0eae1fa9fd9"
+        },
+        {
+          "unit": 20,
+          "sha256": "3d84a886db16fdec68690a37aff88ac83ae4fd0f12e2555e44ba1a7f27970ec5"
+        },
+        {
+          "unit": 21,
+          "sha256": "c8535d236e70c725d4be3b3dbcd7fe6d4d9ec5b06ff2797f96a6c12ebe2df9ef"
+        }
+      ]
+    },
+    "heading": "蔣介石：統制與跨政權產權變化",
+    "situation": "戰前金融和資源機構、內遷企業、沿海私營金融、戰後接收及臺灣經濟。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "戰時遷移與既有集中政策相互強化；國有化可跨戰爭勝敗和政權名稱延續。",
+    "conditions": [
+      "稅基、軍費、轟炸與金融位置塑造經濟控制程度；後來民營擴張可另生精英。"
+    ],
+    "exceptions": [
+      "戰時經濟條件不能直接裁定政權正當性；政治口號轉向不等於產權同幅轉向。"
+    ],
+    "conflicts": [
+      "不採接收者統一惡意或精確世界左傾排序為核定事實。"
+    ]
+  },
+  {
+    "id": "BIO26-AS08",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          21,
+          27
+        ]
+      ],
+      "article_heading": "「業餘搞政治的詩人」汪兆銘",
+      "text_join": "newline between complete page texts",
+      "sha256": "b8608b7752f3955185fc78348647d438b541ef4ea552970443751d9ce9e7d414",
+      "locators": [
+        {
+          "unit": 21,
+          "sha256": "c8535d236e70c725d4be3b3dbcd7fe6d4d9ec5b06ff2797f96a6c12ebe2df9ef"
+        },
+        {
+          "unit": 22,
+          "sha256": "c9b84926566dcedea0166ff9360446b75d11807ff0242cf86db576c8a5e18659"
+        },
+        {
+          "unit": 23,
+          "sha256": "d15bb076a9374925ba6010b9b86523b7583071d1337790a89688b14dc8a997cc"
+        },
+        {
+          "unit": 24,
+          "sha256": "cec44223890e2cc9de6738b1ab6ba44094ca2b35d0e4599c43ea13a890359d2b"
+        },
+        {
+          "unit": 25,
+          "sha256": "91c76860e27cbf849c9567b492bc2f13c2333fc88bda090e925001819942f10f"
+        },
+        {
+          "unit": 26,
+          "sha256": "2f513aede6e9f5cc608f57f032f7d07e4395c44ad98e4a2f09e8759f12f469b4"
+        },
+        {
+          "unit": 27,
+          "sha256": "410bd5d1afd108ecab21fd2b9aa276c49fa17e6d616dc7e7b646eaa5db05484a"
+        }
+      ]
+    },
+    "heading": "汪兆銘：名望與組織責任",
+    "situation": "士大夫文學自期、重大時刻返黨與拒斥日常政務，和平和救黨的目標衝突。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "犧牲及審美成就能支撐清流名望，不能自動控制以其名義行事的黨機器。",
+    "conditions": [
+      "長期和平需外部保護條件；保留革命成果和恢復被革命改動的體系可能相互牽制。"
+    ],
+    "exceptions": [
+      "動機的純潔不能裁定外交可行性；詩人一次決絕不能代替首腦每日責任。"
+    ],
+    "conflicts": [
+      "大段詩作屬他人；戰爭責任、日方單一動機、心理及刺殺敘事未升格確證。"
+    ]
+  },
+  {
+    "id": "BIO26-AS09",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          27,
+          29
+        ]
+      ],
+      "article_heading": "真正的士大夫瞿鴻禨",
+      "text_join": "newline between complete page texts",
+      "sha256": "de1c8871d534b5625f8ef45e4571fd48850c0f75fd88fdc35c71ac95f2657ae6",
+      "locators": [
+        {
+          "unit": 27,
+          "sha256": "410bd5d1afd108ecab21fd2b9aa276c49fa17e6d616dc7e7b646eaa5db05484a"
+        },
+        {
+          "unit": 28,
+          "sha256": "c20004a8b3108928091cfa40c39facf8a10955511259ed2fe5035e797642d7b1"
+        },
+        {
+          "unit": 29,
+          "sha256": "03b1b08ecb8d599354470d3458b8583549bb67e7d1065b7d0d9186f7f09c1ced"
+        }
+      ]
+    },
+    "heading": "瞿鴻禨：對具體義務的忠誠",
+    "situation": "清末改革、退隱、民國徵收及洪憲／法統重光邀其出仕。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "忠誠指向具體承諾而非任何同名政體；獎賞隨勝者轉移的人會侵蝕守約激勵。",
+    "conditions": [
+      "共和可在理念上可取，個人仍可因舊義務不仕；清流操守不保證改革可行。"
+    ],
+    "exceptions": [
+      "拒絕不同政權的機會使原則具有可觀察成本，不代表所有政治判斷正確。"
+    ],
+    "conflicts": [
+      "丁未政潮的原因原文即承認難定，未擇一傳聞作實。"
+    ]
+  },
+  {
+    "id": "BIO26-AS10",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          29,
+          30
+        ]
+      ],
+      "article_heading": "土豪德行閻錫山",
+      "text_join": "newline between complete page texts",
+      "sha256": "bed8aa9bed74f6df667029e1196546e1c3611991a1f878bceff5dd48505e8f0a",
+      "locators": [
+        {
+          "unit": 29,
+          "sha256": "03b1b08ecb8d599354470d3458b8583549bb67e7d1065b7d0d9186f7f09c1ced"
+        },
+        {
+          "unit": 30,
+          "sha256": "b83b277e2a239995e145f8d41aa6fc872652b4826581c213bb1734d62bd06db0"
+        }
+      ]
+    },
+    "heading": "閻錫山：地方韌性",
+    "situation": "山西軍政集團在北洋壓力下維持地方合作，後加入北伐。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "內部團結、有限野心與長期實施使敗戰不必變成解體；外向擴張改變外部進入條件。",
+    "conditions": [
+      "組織持續性可以補償表述與理論能力不足。"
+    ],
+    "exceptions": [
+      "地方韌性不保證永久勝利；對外擴張不等於保存原先地方自主。"
+    ],
+    "conflicts": [
+      "不把地域性格本質化；五百完人原文亦承認傳奇成分。"
+    ]
+  },
+  {
+    "id": "BIO26-AS11",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          30,
+          32
+        ]
+      ],
+      "article_heading": "技術官僚傅作義",
+      "text_join": "newline between complete page texts",
+      "sha256": "4bea0a36171c42993319c39c7840bcc39023a29f41a6c16053a9c34147094ce0",
+      "locators": [
+        {
+          "unit": 30,
+          "sha256": "b83b277e2a239995e145f8d41aa6fc872652b4826581c213bb1734d62bd06db0"
+        },
+        {
+          "unit": 31,
+          "sha256": "18c1147db4b13593dde810d265758df9862fbc8a308bb700848cca410f8d3074"
+        },
+        {
+          "unit": 32,
+          "sha256": "4de3e780769aaa59555c07c5aafc689f886fae6683e14d5b5591bd6356737af9"
+        }
+      ]
+    },
+    "heading": "傅作義：地方軍民網絡與升官失權",
+    "situation": "正規職業軍人、綏遠移民軍事基地、東北物質優勢及新政權任職。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "軍民同構增強抗滲透；整體工業運輸可改變局部優勢；高頭銜可換走實際基地。",
+    "conditions": [
+      "原有居民與移民的保護需求可能衝突；保留組織比名義管轄更決定政治退路。"
+    ],
+    "exceptions": [
+      "局部勝利不證明援助者本身弱；技術人員可繼續受用而其政治集團已解散。"
+    ],
+    "conflicts": [
+      "頁31入學日期與民國紀年不一致；隱秘戰爭動機、向臺灣輸誠未核定。"
+    ]
+  },
+  {
+    "id": "BIO26-AS12",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          32,
+          35
+        ]
+      ],
+      "article_heading": "蔣家天下陳家黨",
+      "text_join": "newline between complete page texts",
+      "sha256": "0e70837c8beb2f2914776fbcb3503178180c4ce417bb4e1c601cfb831476058d",
+      "locators": [
+        {
+          "unit": 32,
+          "sha256": "4de3e780769aaa59555c07c5aafc689f886fae6683e14d5b5591bd6356737af9"
+        },
+        {
+          "unit": 33,
+          "sha256": "0378daa32b21a60eb75b7dab98a9f280aa2484ab1b413276ae2bf18b52666a24"
+        },
+        {
+          "unit": 34,
+          "sha256": "bc602c3c5b1f50bb9fc9fb2107c6033d66ea82f5b608a3492186726257942a70"
+        },
+        {
+          "unit": 35,
+          "sha256": "14b1291726efccfaf7e228b2bef0c69ccddadef9a8a92d116e93c82498e3f70a"
+        }
+      ]
+    },
+    "heading": "陳立夫：形式相似與實際控制",
+    "situation": "工程師因親信需要進入機要、組織部，接觸中統與美國進步知識圈。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "黨的機構形式不能單獨決定控制密度；技術偏好與地方網絡影響工作有效性。",
+    "conditions": [
+      "私人信任在入場窗口重要，但可使用的社會渠道與幹部關係才決定後續能力。"
+    ],
+    "exceptions": [
+      "熟悉精英社交圈不等於熟悉整個外國社會；規劃理想不等於政治控制。"
+    ],
+    "conflicts": [
+      "媒體風雲人物、私下退隱原因及外國隱秘辯護動機未作確證。"
+    ]
+  },
+  {
+    "id": "BIO26-AS13",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          33,
+          35
+        ]
+      ],
+      "article_heading": "蔣家天下陳家黨",
+      "text_join": "newline between complete page texts",
+      "sha256": "dd3be27d27e61af9bfc6fb42ff131fe532bf23d73c4c8039c8037ee59205df33",
+      "locators": [
+        {
+          "unit": 33,
+          "sha256": "0378daa32b21a60eb75b7dab98a9f280aa2484ab1b413276ae2bf18b52666a24"
+        },
+        {
+          "unit": 34,
+          "sha256": "bc602c3c5b1f50bb9fc9fb2107c6033d66ea82f5b608a3492186726257942a70"
+        },
+        {
+          "unit": 35,
+          "sha256": "14b1291726efccfaf7e228b2bef0c69ccddadef9a8a92d116e93c82498e3f70a"
+        }
+      ]
+    },
+    "heading": "陳立夫：教育集中與跨政權人才遺產",
+    "situation": "戰時教育國家化、理工優先、統一學制，以及長期文化工程。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "人才投入可以先於經濟吸收能力，並由不同政權繼承；反共與計畫建設可同時存在。",
+    "conditions": [
+      "地方和宗教保護組織弱時，專家取得比理論發源地更大的實驗空間。"
+    ],
+    "exceptions": [
+      "培養人才不能保證原政權續存，新政權也不能獨占全部人才形成原因。"
+    ],
+    "conflicts": [
+      "「兩彈一星」與全部計畫建設歸屬不作核定；避免把思想聯繫寫成陰謀。"
+    ]
+  },
+  {
+    "id": "BIO26-AS14",
+    "source_id": "BIO26-M",
+    "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+    "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+    "span": {
+      "kind": "reflow_page",
+      "ranges": [
+        [
+          35,
+          37
+        ]
+      ],
+      "article_heading": "蔣家天下陳家黨",
+      "text_join": "newline between complete page texts",
+      "sha256": "d445d35225398178ee98d6856eaa61580dec6131ab28382613a3d563c9f78e41",
+      "locators": [
+        {
+          "unit": 35,
+          "sha256": "14b1291726efccfaf7e228b2bef0c69ccddadef9a8a92d116e93c82498e3f70a"
+        },
+        {
+          "unit": 36,
+          "sha256": "8850e82ecd935b73c2aecf67a0bdff907cab8c4dfcc3c8a65a59707b55f96866"
+        },
+        {
+          "unit": 37,
+          "sha256": "9eb81d248c83becebdd2d77a2e67ae314775fd29ad0fc02c5d9e847a9ef524a7"
+        }
+      ]
+    },
+    "heading": "陳果夫：組織勞動與人員耗損",
+    "situation": "長期黨務、清黨與保存左派組織方向並行，個人疾病耗損持續工作的能力。",
+    "audience": "人物評傳或歷史模型序言的漢語讀者；無獨立現場受眾記錄",
+    "constraints": [
+      "僅供給文本；不讀音訊與圖片",
+      "重排頁不是原書印刷頁",
+      "作者制度解釋不等於外部史實核驗",
+      "同文跨載體不作第二來源"
+    ],
+    "observation": "組織效力需要繁瑣人事與關係勞動；少數人的勤勉補缺，亦使機器依賴其健康與接班。",
+    "conditions": [
+      "節制與熱忱可以增加極端情境韌性，但不能自動轉移為整體社會風氣。"
+    ],
+    "exceptions": [
+      "聲望和宣言不能自動接替具體職務；清黨與保留集中改革目標並不互斥。"
+    ],
+    "conflicts": [
+      "rp37由root已讀摘要補邊；完整預謀與暗殺敘事未作史實。"
+    ],
+    "team_boundary": {
+      "reflow_page": 37,
+      "sha256": "9eb81d248c83becebdd2d77a2e67ae314775fd29ad0fc02c5d9e847a9ef524a7",
+      "read_by": "root",
+      "used_by": "c06_ancient_party via supplied summary",
+      "raw_source_reread": false,
+      "summary_scope": "私生活紀律可增強極端情境韌性但未必能轉移風氣；組織人才耗損降低黨務能力，提供跨頁收尾。"
+    }
+  }
+]

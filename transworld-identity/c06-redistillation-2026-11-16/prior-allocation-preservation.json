@@ -1,0 +1,33 @@
+{
+  "status": "pass",
+  "unchanged_four_source_plans": true,
+  "module_checks": [
+    {
+      "module": "c02-1",
+      "sha256": "493593b61f81b6c6ef81baf333ff29580bd67bc4ed097561f972bbf46d7f483d",
+      "unchanged": true
+    },
+    {
+      "module": "c02-2",
+      "sha256": "b9ea6a35d75889be4df849833d2ceaa15cb58c49e101cc606bde9ba574d50f32",
+      "unchanged": true
+    },
+    {
+      "module": "c05",
+      "sha256": "ee67228be343d06a8d6b393a331c56fb4b59e94f7bcaba05ea927784de09c63a",
+      "unchanged": true
+    },
+    {
+      "module": "c07-1",
+      "unchanged_units": 15,
+      "changed_unit_body_han": 245,
+      "original_lower": 220
+    },
+    {
+      "module": "c07-2",
+      "sha256": "e188b7e83abeced3616ce633a359d7af55510e95034718a9d49f06a22f5e13e7",
+      "unchanged": true
+    }
+  ],
+  "baseline": "956c54b10f4da87d50a4ba811bf55b7ab9afe6f9"
+}

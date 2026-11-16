@@ -1,0 +1,928 @@
+{
+  "status": "pass_for_declared_editorial_checks",
+  "source_files_sha256_checked": 73,
+  "all_source_files_unchanged": true,
+  "evidence_records": 147,
+  "active_evidence_records": 147,
+  "evidence_ids_unique": true,
+  "evidence_locator_checks": [
+    {
+      "id": "BIO26-L01",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L02",
+      "source_locators_verified": 9,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L03",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L04",
+      "source_locators_verified": 16,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L05",
+      "source_locators_verified": 8,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L06",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L07",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L08",
+      "source_locators_verified": 13,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L09",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L10",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L11",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L12",
+      "source_locators_verified": 33,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L13",
+      "source_locators_verified": 10,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L14",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L15",
+      "source_locators_verified": 11,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L16",
+      "source_locators_verified": 15,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L17",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L18",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L19",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L20",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L21",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L22",
+      "source_locators_verified": 8,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L23",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L24",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L25",
+      "source_locators_verified": 14,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L26",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L27",
+      "source_locators_verified": 11,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L28",
+      "source_locators_verified": 10,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L29",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L30",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L31",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L32",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L33",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L34",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L35",
+      "source_locators_verified": 13,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L36",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L37",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L38",
+      "source_locators_verified": 16,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L39",
+      "source_locators_verified": 17,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L40",
+      "source_locators_verified": 10,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L41",
+      "source_locators_verified": 10,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L42",
+      "source_locators_verified": 14,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L43",
+      "source_locators_verified": 8,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L44",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L45",
+      "source_locators_verified": 8,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L46",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L47",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L48",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L49",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L50",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L51",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L52",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L53",
+      "source_locators_verified": 12,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L54",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L55",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L56",
+      "source_locators_verified": 14,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L57",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L58",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L59",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L60",
+      "source_locators_verified": 1,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L61",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L62",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L63",
+      "source_locators_verified": 1,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L64",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L65",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-L66",
+      "source_locators_verified": 1,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A01",
+      "source_locators_verified": 80,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A02",
+      "source_locators_verified": 53,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A03",
+      "source_locators_verified": 47,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A04",
+      "source_locators_verified": 61,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A05",
+      "source_locators_verified": 42,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A06",
+      "source_locators_verified": 134,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A07",
+      "source_locators_verified": 100,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A08",
+      "source_locators_verified": 86,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A09",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A10",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A11",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A12",
+      "source_locators_verified": 9,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A13",
+      "source_locators_verified": 13,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A14",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A15",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A16",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A17",
+      "source_locators_verified": 18,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A18",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A19",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A20",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A21",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A22",
+      "source_locators_verified": 1,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A23",
+      "source_locators_verified": 8,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A24",
+      "source_locators_verified": 11,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A25",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-A26",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS01",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS02",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS03",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS04",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS05",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS06",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS07",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS08",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS09",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS10",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS11",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS12",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS13",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-AS14",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D01",
+      "source_locators_verified": 57,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D02",
+      "source_locators_verified": 65,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D03",
+      "source_locators_verified": 81,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D04",
+      "source_locators_verified": 38,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D05",
+      "source_locators_verified": 76,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D06",
+      "source_locators_verified": 130,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D07",
+      "source_locators_verified": 30,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D08",
+      "source_locators_verified": 79,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D09",
+      "source_locators_verified": 25,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D10",
+      "source_locators_verified": 43,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D11",
+      "source_locators_verified": 40,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D12",
+      "source_locators_verified": 192,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D13",
+      "source_locators_verified": 116,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D14",
+      "source_locators_verified": 52,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D15",
+      "source_locators_verified": 75,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D16",
+      "source_locators_verified": 17,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D17",
+      "source_locators_verified": 109,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-D18",
+      "source_locators_verified": 143,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS01",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS02",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS03",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS04",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS05",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS06",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS07",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS08",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS09",
+      "source_locators_verified": 4,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS10",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS11",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-DS12",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R01",
+      "source_locators_verified": 7,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R02",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R03",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R04",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R05",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R06",
+      "source_locators_verified": 2,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R07",
+      "source_locators_verified": 6,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R08",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R09",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R10",
+      "source_locators_verified": 3,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    },
+    {
+      "id": "BIO26-R11",
+      "source_locators_verified": 5,
+      "runtime_sections_exist": true,
+      "editorially_omitted": false
+    }
+  ],
+  "runtime_source_ids_resolve": true,
+  "C06_case_headings_unique": true,
+  "English_cluster_filenames": true,
+  "original_69_lower_bounds_preserved": true,
+  "C07_1_changed_unit": {
+    "body_han": 245,
+    "original_range": [
+      220,
+      300
+    ],
+    "original_lower_bound_met": true,
+    "new_source_evidence": [
+      "BIO26-L26",
+      "BIO26-L28",
+      "BIO26-L29"
+    ]
+  },
+  "source_reading": {
+    "formal_agent_units": {
+      "literary": 43,
+      "modern": 69,
+      "ancient_party": 69
+    },
+    "root_formal_units": 19,
+    "conservative_reserve_for_previews_metadata_fragments_and_truncations": 40,
+    "conservative_total_upper_bound": 240,
+    "declared_limit": 256,
+    "exact_tool_call_total_claimed": false,
+    "per_return_4500_limit_claimed": false,
+    "exceptions": "F01曾單回傳4822來源字元；部分批次回傳合計超4500。root最初MOBI兩塊因上下文截斷未算完成，已由指定子組完整覆蓋；各組另記除錯預覽，不冒稱新增獨立證據或合規完整單次輸出。",
+    "OCR_pages": 0,
+    "external_acquisition": false
+  },
+  "independent_historical_verification": false,
+  "recognition_calls": 0,
+  "pre_existing_AGENTS_sha256": "0041160399dbfc7d9bdf59fa28816ebb5ceb4c53ab35c460cc7d5eed7b9b1fd2"
+}

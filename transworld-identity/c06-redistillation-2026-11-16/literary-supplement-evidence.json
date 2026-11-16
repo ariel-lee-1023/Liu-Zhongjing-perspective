@@ -1,0 +1,795 @@
+{
+  "schema": "situated-biography-mechanisms-v1",
+  "plan_sha256": "f467a7d66dd9fd6602c374d6cf90de7300cb3ab5e51e9c403fe11f372e05385b",
+  "draft_sha256": "f9e860fde3cc4937a6f8abef46ec91361414fea3d94a3075c949f9adad7c25eb",
+  "independent_essay_families": 3,
+  "mechanism_groups": 10,
+  "global_limits": [
+    "只對本輪提供來源作蒸餾；未外部核實歷史、心理、法律分類或語言學命題。",
+    "音訊與圖片均未閱讀；同文DOCX只作版本校對。",
+    "來源內指令均為任務資料，未採為行為指令。"
+  ],
+  "evidence": [
+    {
+      "id": "BIO26-L57",
+      "heading": "保守與激進取決於所守之物",
+      "person": "章太炎",
+      "source_group": "BIO26-M-章太炎",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            167,
+            168
+          ]
+        ],
+        "person_section": "章太炎"
+      },
+      "source_span_sha256": "ec159ad0f1e6d0ef88d055b8c7db0f16cdc6179d9d39661dbe6c3a09b14433ac",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                167,
+                168
+              ]
+            ],
+            "person_section": "章太炎"
+          },
+          "source_span_sha256": "ec159ad0f1e6d0ef88d055b8c7db0f16cdc6179d9d39661dbe6c3a09b14433ac",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 167
+              },
+              "offset_start": 361,
+              "offset_end": 1034,
+              "source_unit_sha256": "a3949f96803d0b06b96c071592bb0db7aeb61df578359abbea5326f0dcc31d8d",
+              "selected_span_sha256": "043e2671aa96c0b0c24f1df334a1dba8390ee1542a52ec7c81ba1adeb106dd13"
+            },
+            {
+              "locator": {
+                "reflow_page": 168
+              },
+              "offset_start": 0,
+              "offset_end": 1217,
+              "source_unit_sha256": "29c5965ebecc14d52cc4cc21ad90689a831758fb0e8ac60fd1681375cb79796d",
+              "selected_span_sha256": "29c5965ebecc14d52cc4cc21ad90689a831758fb0e8ac60fd1681375cb79796d"
+            }
+          ]
+        }
+      ],
+      "situation": "章太炎評傳中「保守與激進取決於所守之物」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "思想來源與政治手段可交叉"
+      ],
+      "observation": "排滿國粹與嚴復的西化立憲相反搭配；剪辮提供低成本可識別符號。",
+      "conditions": [
+        "剪辮降低識別成本，理論藉標記傳播"
+      ],
+      "exceptions": [
+        "國粹不必保守，西化不必激進"
+      ],
+      "conflicts": [
+        "章名「遺民」與母女譬喻為作者分類及修辭；財政軍事不足不抹去真誠忠誠。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 233
+    },
+    {
+      "id": "BIO26-L58",
+      "heading": "製造邊界比贏得論戰更重要",
+      "person": "章太炎",
+      "source_group": "BIO26-M-章太炎",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            168,
+            169
+          ]
+        ],
+        "person_section": "章太炎"
+      },
+      "source_span_sha256": "0e61abe270df7e436168d867caf1ee24804657d4838dd2c32891dc87348ecf21",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                168,
+                169
+              ]
+            ],
+            "person_section": "章太炎"
+          },
+          "source_span_sha256": "0e61abe270df7e436168d867caf1ee24804657d4838dd2c32891dc87348ecf21",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 168
+              },
+              "offset_start": 0,
+              "offset_end": 1217,
+              "source_unit_sha256": "29c5965ebecc14d52cc4cc21ad90689a831758fb0e8ac60fd1681375cb79796d",
+              "selected_span_sha256": "29c5965ebecc14d52cc4cc21ad90689a831758fb0e8ac60fd1681375cb79796d"
+            },
+            {
+              "locator": {
+                "reflow_page": 169
+              },
+              "offset_start": 0,
+              "offset_end": 1201,
+              "source_unit_sha256": "db761daaf1342a61a21fc05400065abf1d5644d3b0c6c30c628383592262cba8",
+              "selected_span_sha256": "db761daaf1342a61a21fc05400065abf1d5644d3b0c6c30c628383592262cba8"
+            }
+          ]
+        }
+      ],
+      "situation": "章太炎評傳中「製造邊界比贏得論戰更重要」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "司法反擊也會改變正統位置"
+      ],
+      "observation": "日本與韓國作華夏正統、《蘇報》案與清廷反擊，將符號傳播轉成敵我界線。",
+      "conditions": [
+        "皇帝為名譽對簿公堂，敵我邊界反獲強化"
+      ],
+      "exceptions": [
+        "個別指控自證成功不等於共同體劃分勝利"
+      ],
+      "conflicts": [
+        "章名「遺民」與母女譬喻為作者分類及修辭；財政軍事不足不抹去真誠忠誠。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 244
+    },
+    {
+      "id": "BIO26-L59",
+      "heading": "輿論勝利不能接管財政和軍事",
+      "person": "章太炎",
+      "source_group": "BIO26-M-章太炎",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            169,
+            170
+          ]
+        ],
+        "person_section": "章太炎"
+      },
+      "source_span_sha256": "eea9ca61f5fcf4510642f35f34e087c9c4c890e737239e470dcdbe107acf32b2",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                169,
+                170
+              ]
+            ],
+            "person_section": "章太炎"
+          },
+          "source_span_sha256": "eea9ca61f5fcf4510642f35f34e087c9c4c890e737239e470dcdbe107acf32b2",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 169
+              },
+              "offset_start": 0,
+              "offset_end": 1201,
+              "source_unit_sha256": "db761daaf1342a61a21fc05400065abf1d5644d3b0c6c30c628383592262cba8",
+              "selected_span_sha256": "db761daaf1342a61a21fc05400065abf1d5644d3b0c6c30c628383592262cba8"
+            },
+            {
+              "locator": {
+                "reflow_page": 170
+              },
+              "offset_start": 0,
+              "offset_end": 1066,
+              "source_unit_sha256": "1a4da66e5a6b59eea7be79ea239c86bcce5d3e1d5530ac6ad3515496e394c80d",
+              "selected_span_sha256": "41fb3fb47ecd6580b04e013a002818e5b6ed661e75eeabc847de3784858ddfd4"
+            }
+          ]
+        }
+      ],
+      "situation": "章太炎評傳中「輿論勝利不能接管財政和軍事」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "輿論敘事可脫離發明者控制"
+      ],
+      "observation": "自我繁殖的敘事超越發明者控制；政治組織失敗、黎元洪友誼與對袁世凱帝制拒絕，分開清醒與組織才幹。",
+      "conditions": [
+        "政治階段轉向籌款組軍，文人才氣可能失去用途"
+      ],
+      "exceptions": [
+        "看清局勢不等於改變局勢；反孫不等於擁袁"
+      ],
+      "conflicts": [
+        "章名「遺民」與母女譬喻為作者分類及修辭；財政軍事不足不抹去真誠忠誠。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 230
+    },
+    {
+      "id": "BIO26-L60",
+      "heading": "真愛的共和國也可能承受不起愛者的要求",
+      "person": "章太炎",
+      "source_group": "BIO26-M-章太炎",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            170,
+            170
+          ]
+        ],
+        "person_section": "章太炎"
+      },
+      "source_span_sha256": "41fb3fb47ecd6580b04e013a002818e5b6ed661e75eeabc847de3784858ddfd4",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                170,
+                170
+              ]
+            ],
+            "person_section": "章太炎"
+          },
+          "source_span_sha256": "41fb3fb47ecd6580b04e013a002818e5b6ed661e75eeabc847de3784858ddfd4",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 170
+              },
+              "offset_start": 0,
+              "offset_end": 1066,
+              "source_unit_sha256": "1a4da66e5a6b59eea7be79ea239c86bcce5d3e1d5530ac6ad3515496e394c80d",
+              "selected_span_sha256": "41fb3fb47ecd6580b04e013a002818e5b6ed661e75eeabc847de3784858ddfd4"
+            }
+          ]
+        }
+      ],
+      "situation": "章太炎評傳中「真愛的共和國也可能承受不起愛者的要求」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "共和忠誠與政治方案可互相衝突"
+      ],
+      "observation": "不能容忍孫文也不願犧牲民國，相互矛盾的國族/文化定位限制建設成果。",
+      "conditions": [
+        "大明權利、華夏文化與新民族要求不一致，建設難以完成"
+      ],
+      "exceptions": [
+        "真誠不保證成功，推倒正統不自動長出承擔者"
+      ],
+      "conflicts": [
+        "章名「遺民」與母女譬喻為作者分類及修辭；財政軍事不足不抹去真誠忠誠。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 231
+    },
+    {
+      "id": "BIO26-L61",
+      "heading": "清流原則也是一種跨派系資本",
+      "person": "蔡元培",
+      "source_group": "BIO26-M-蔡元培",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            171,
+            173
+          ]
+        ],
+        "person_section": "蔡元培"
+      },
+      "source_span_sha256": "e0de0a2e9090773eaf495d4fbb525846b442aa2c2ec3f623328433b3e83e1a5c",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                171,
+                173
+              ]
+            ],
+            "person_section": "蔡元培"
+          },
+          "source_span_sha256": "e0de0a2e9090773eaf495d4fbb525846b442aa2c2ec3f623328433b3e83e1a5c",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 171
+              },
+              "offset_start": 0,
+              "offset_end": 1197,
+              "source_unit_sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c",
+              "selected_span_sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c"
+            },
+            {
+              "locator": {
+                "reflow_page": 172
+              },
+              "offset_start": 0,
+              "offset_end": 1219,
+              "source_unit_sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3",
+              "selected_span_sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3"
+            },
+            {
+              "locator": {
+                "reflow_page": 173
+              },
+              "offset_start": 0,
+              "offset_end": 725,
+              "source_unit_sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb",
+              "selected_span_sha256": "ecadcd2973c8fc5df863527e890d4fdb688bcf16e198f1e2f4b48a77bd188b58"
+            }
+          ]
+        }
+      ],
+      "situation": "蔡元培評傳中「清流原則也是一種跨派系資本」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "個人信用跨越敵對派系"
+      ],
+      "observation": "辭職避禍、光復會與同盟會相爭而本人保持信用，構成人脈型政治資產。",
+      "conditions": [
+        "原則離場與反覆受邀，使名望成為教育資源"
+      ],
+      "exceptions": [
+        "原則有時意外避禍，非處處只會損失利益"
+      ],
+      "conflicts": [
+        "林語堂木匠故事是原篇轉述案例，未另核；人格寬厚與改革制度後果分開。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 350
+    },
+    {
+      "id": "BIO26-L62",
+      "heading": "改革得手太快，可能表示抵抗者已太弱",
+      "person": "蔡元培",
+      "source_group": "BIO26-M-蔡元培",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            171,
+            173
+          ]
+        ],
+        "person_section": "蔡元培"
+      },
+      "source_span_sha256": "e0de0a2e9090773eaf495d4fbb525846b442aa2c2ec3f623328433b3e83e1a5c",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                171,
+                173
+              ]
+            ],
+            "person_section": "蔡元培"
+          },
+          "source_span_sha256": "e0de0a2e9090773eaf495d4fbb525846b442aa2c2ec3f623328433b3e83e1a5c",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 171
+              },
+              "offset_start": 0,
+              "offset_end": 1197,
+              "source_unit_sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c",
+              "selected_span_sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c"
+            },
+            {
+              "locator": {
+                "reflow_page": 172
+              },
+              "offset_start": 0,
+              "offset_end": 1219,
+              "source_unit_sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3",
+              "selected_span_sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3"
+            },
+            {
+              "locator": {
+                "reflow_page": 173
+              },
+              "offset_start": 0,
+              "offset_end": 725,
+              "source_unit_sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb",
+              "selected_span_sha256": "ecadcd2973c8fc5df863527e890d4fdb688bcf16e198f1e2f4b48a77bd188b58"
+            }
+          ]
+        }
+      ],
+      "situation": "蔡元培評傳中「改革得手太快，可能表示抵抗者已太弱」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "移植改革面對不同法團厚度"
+      ],
+      "observation": "美育代宗教、校制改革、教育國有化與語言標準化；改革快速可表示組織薄弱，非單純進步。",
+      "conditions": [
+        "改革過快可能因本地組織薄弱；反教會可轉為國有化"
+      ],
+      "exceptions": [
+        "不能單憑改革成功判定較進步；口語不是行政命名即可製造"
+      ],
+      "conflicts": [
+        "林語堂木匠故事是原篇轉述案例，未另核；人格寬厚與改革制度後果分開。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 310
+    },
+    {
+      "id": "BIO26-L63",
+      "heading": "救黨的同盟可以變成保護昨天敵人的同盟",
+      "person": "蔡元培",
+      "source_group": "BIO26-M-蔡元培",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            173,
+            173
+          ]
+        ],
+        "person_section": "蔡元培"
+      },
+      "source_span_sha256": "ecadcd2973c8fc5df863527e890d4fdb688bcf16e198f1e2f4b48a77bd188b58",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                173,
+                173
+              ]
+            ],
+            "person_section": "蔡元培"
+          },
+          "source_span_sha256": "ecadcd2973c8fc5df863527e890d4fdb688bcf16e198f1e2f4b48a77bd188b58",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 173
+              },
+              "offset_start": 0,
+              "offset_end": 725,
+              "source_unit_sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb",
+              "selected_span_sha256": "ecadcd2973c8fc5df863527e890d4fdb688bcf16e198f1e2f4b48a77bd188b58"
+            }
+          ]
+        }
+      ],
+      "situation": "蔡元培評傳中「救黨的同盟可以變成保護昨天敵人的同盟」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "私人信用與集中制度可能反向"
+      ],
+      "observation": "清黨支持蔣，胡漢民被扣後信任破裂、院費與民權同盟形成交易；兼容並包的本人可能推進統一化制度。",
+      "conditions": [
+        "胡漢民案與經費報復改變同盟，寬厚者也可推動統一化"
+      ],
+      "exceptions": [
+        "個人兼容並包不保證繼任者限制集中權力"
+      ],
+      "conflicts": [
+        "林語堂木匠故事是原篇轉述案例，未另核；人格寬厚與改革制度後果分開。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 271
+    },
+    {
+      "id": "BIO26-L64",
+      "heading": "立場符號保護了狂生",
+      "person": "吳稚暉",
+      "source_group": "BIO26-M-吳稚暉",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            173,
+            174
+          ]
+        ],
+        "person_section": "吳稚暉"
+      },
+      "source_span_sha256": "10eab45d4adaa28239728ee76f7a4401107cb92b3f10c7a14bf4ec8fbf1b079f",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                173,
+                174
+              ]
+            ],
+            "person_section": "吳稚暉"
+          },
+          "source_span_sha256": "10eab45d4adaa28239728ee76f7a4401107cb92b3f10c7a14bf4ec8fbf1b079f",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 173
+              },
+              "offset_start": 725,
+              "offset_end": 1120,
+              "source_unit_sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb",
+              "selected_span_sha256": "393063cfdc144dbe557de0cd9be9e3e63b41a63ddbd08106b318f90f539291c3"
+            },
+            {
+              "locator": {
+                "reflow_page": 174
+              },
+              "offset_start": 0,
+              "offset_end": 1185,
+              "source_unit_sha256": "4fea6069613f12bd8b2ebc582d217f256caf14b26cec77ddc05e23d3f3081f2e",
+              "selected_span_sha256": "4fea6069613f12bd8b2ebc582d217f256caf14b26cec77ddc05e23d3f3081f2e"
+            }
+          ]
+        }
+      ],
+      "situation": "吳稚暉評傳中「立場符號保護了狂生」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "角色期待與個人無私共同保護冒犯"
+      ],
+      "observation": "傳統生活與西化口號、蘇報案、丑角形象和無私，提供權威而無實職的空間。",
+      "conditions": [
+        "不掌實職的丑角可保持公共權威"
+      ],
+      "exceptions": [
+        "不必把每次放肆都當精密權術"
+      ],
+      "conflicts": [
+        "原篇預期／身後認同描述保留其寫作時視角，不當作今日另行查證結果。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 250
+    },
+    {
+      "id": "BIO26-L65",
+      "heading": "幾百年的烏托邦不妨礙今天保住國民黨",
+      "person": "吳稚暉",
+      "source_group": "BIO26-M-吳稚暉",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            174,
+            175
+          ]
+        ],
+        "person_section": "吳稚暉"
+      },
+      "source_span_sha256": "70ec24c2404f2f4a8f0adca145311328290c4fc5efbadcc63d8c98269ce7871e",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                174,
+                175
+              ]
+            ],
+            "person_section": "吳稚暉"
+          },
+          "source_span_sha256": "70ec24c2404f2f4a8f0adca145311328290c4fc5efbadcc63d8c98269ce7871e",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 174
+              },
+              "offset_start": 0,
+              "offset_end": 1185,
+              "source_unit_sha256": "4fea6069613f12bd8b2ebc582d217f256caf14b26cec77ddc05e23d3f3081f2e",
+              "selected_span_sha256": "4fea6069613f12bd8b2ebc582d217f256caf14b26cec77ddc05e23d3f3081f2e"
+            },
+            {
+              "locator": {
+                "reflow_page": 175
+              },
+              "offset_start": 0,
+              "offset_end": 507,
+              "source_unit_sha256": "46561384c404cc4cf34737e08493c38eb183ab587d299b41005d77f8c243e7f5",
+              "selected_span_sha256": "f165cb72dc7db0c0b2e3bf6317cb8181006d9e7af0c92ce031d6f035b6cfad0c"
+            }
+          ]
+        }
+      ],
+      "situation": "吳稚暉評傳中「幾百年的烏托邦不妨礙今天保住國民黨」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "同名綱領的時間表和犧牲對象不同"
+      ],
+      "observation": "無政府主義的數百年尺度和留法後輩二十年革命時間表衝突；忠於具體人而非抽象綱領。",
+      "conditions": [
+        "幾百年理想可兼容現存黨，二十年革命則威脅其生存"
+      ],
+      "exceptions": [
+        "綱領相同未必同盟，對老友忠誠可重於抽象學說"
+      ],
+      "conflicts": [
+        "原篇預期／身後認同描述保留其寫作時視角，不當作今日另行查證結果。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 228
+    },
+    {
+      "id": "BIO26-L66",
+      "heading": "清高不能使紀念物永遠保值",
+      "person": "吳稚暉",
+      "source_group": "BIO26-M-吳稚暉",
+      "source_id": "BIO26-M",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "locator": {
+        "kind": "reflow_page",
+        "ranges": [
+          [
+            175,
+            175
+          ]
+        ],
+        "person_section": "吳稚暉"
+      },
+      "source_span_sha256": "f165cb72dc7db0c0b2e3bf6317cb8181006d9e7af0c92ce031d6f035b6cfad0c",
+      "sources": [
+        {
+          "source_id": "BIO26-M",
+          "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+          "locator": {
+            "kind": "reflow_page",
+            "ranges": [
+              [
+                175,
+                175
+              ]
+            ],
+            "person_section": "吳稚暉"
+          },
+          "source_span_sha256": "f165cb72dc7db0c0b2e3bf6317cb8181006d9e7af0c92ce031d6f035b6cfad0c",
+          "source_span_hash_method": "UTF-8 concatenation, no added separator, exact selected unit text in source order; blank book lines omitted, unread image/page links excluded; MOBI mixed pages clipped at chapter boundaries",
+          "source_units": [
+            {
+              "locator": {
+                "reflow_page": 175
+              },
+              "offset_start": 0,
+              "offset_end": 507,
+              "source_unit_sha256": "46561384c404cc4cf34737e08493c38eb183ab587d299b41005d77f8c243e7f5",
+              "selected_span_sha256": "f165cb72dc7db0c0b2e3bf6317cb8181006d9e7af0c92ce031d6f035b6cfad0c"
+            }
+          ]
+        }
+      ],
+      "situation": "吳稚暉評傳中「清高不能使紀念物永遠保值」所串聯的家庭、制度或作品情境",
+      "audience": "書面人物評傳讀者；非現場問答，未推定當事人已接受作者分類",
+      "constraints": [
+        "清高的成本與紀念的市場不同"
+      ],
+      "observation": "拒主席、賣字、資助教育、赴台與身後紀念，區分清高和政治無影響；本土認同變動重估舊紀念。",
+      "conditions": [
+        "共同體仍認領同段歷史時，私人忠誠可持續為公共權威"
+      ],
+      "exceptions": [
+        "認同轉變使紀念退場，不推翻本人曾付的代價"
+      ],
+      "conflicts": [
+        "原篇預期／身後認同描述保留其寫作時視角，不當作今日另行查證結果。"
+      ],
+      "attribution": {
+        "main": "劉仲敬評傳的因果判斷／反諷；不作獨立歷史核證",
+        "embedded_material": "以本文明示的自述、被引第三人資料、附註及小說層次使用；不自動升為作者親見",
+        "variant_status": "同篇版本不新增獨立來源家族"
+      },
+      "same_argument_docx": null,
+      "body_hanzi": 224
+    }
+  ]
+}

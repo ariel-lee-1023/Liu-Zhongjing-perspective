@@ -1,0 +1,117 @@
+{
+  "status": "frozen_before_draft",
+  "basis": "Complete direct reading of 25 DOCX blocks, 31 assigned MOBI blocks, and one boundary page; no current C06 prose inspected",
+  "reading_units": 57,
+  "source_derived_han_range": [
+    6500,
+    9000
+  ],
+  "range_reason": "Eight distinct imperial transitions require their own mechanism, actor contrast and lost alternative; ten political cases require organisational positions, resource channels and different failure conditions; six literary repeats need only variant handoff rather than duplicate biography. Range is an adequacy estimate, not a ceiling or a source-length ratio.",
+  "groups": [
+    {
+      "heading": "帝國的完成與自組織退路",
+      "mechanisms": [
+        "橫向列國與縱向中介同時消除",
+        "分散核心人口使戰敗失去退路",
+        "行政技術由宮廷下沉基層",
+        "科舉使無根代理人供給常態化"
+      ],
+      "necessary_cases": [
+        "劉徹與劉邦、項羽",
+        "苻堅與仇池",
+        "馮太后與孝文帝、崔浩",
+        "武后與長孫氏、唐玄宗"
+      ],
+      "opposite_conditions": [
+        "同姓統治者仍可被地方政治傳統約束",
+        "本土小貴族可保護習慣法，移植後可反向",
+        "重新扎根能恢復共同體",
+        "敗戰不必消滅保有原鄉的政治集團"
+      ]
+    },
+    {
+      "heading": "財政、軍事與君主安全",
+      "mechanisms": [
+        "以中央財力養軍並壓低地方防衛能力",
+        "以可撤換文官替代有自身權利的保護者",
+        "以地方財產聯盟限制戰爭，或以再分配支持擴張",
+        "君主安全與帝國治理成本相反變化"
+      ],
+      "necessary_cases": [
+        "柴榮、郭威、趙匡胤",
+        "忽必烈與海都、世侯、儒戶",
+        "朱元璋與張士誠",
+        "雍正與康熙、乾隆"
+      ],
+      "opposite_conditions": [
+        "財政集中可確實改善訓練裝備，卻不等於恢復互信",
+        "征服帝國仍可能容納多法域",
+        "擴張勝利不等於社會可持續",
+        "復舊口號不能重建已拆散的網絡"
+      ]
+    },
+    {
+      "heading": "黨、軍、經紀人與不對稱聯盟",
+      "mechanisms": [
+        "名義職位與資金、幹部、情報控制不重合",
+        "短期保護與長期依附",
+        "統戰期先替代社會關係再沒收財產",
+        "無退出機制把政策轉向變成生存危機",
+        "外交路線改變黨內競爭場地"
+      ],
+      "necessary_cases": [
+        "張學良",
+        "林彪",
+        "龔楚",
+        "李克農",
+        "劉少奇",
+        "高崗",
+        "江青",
+        "陳獨秀",
+        "周恩來",
+        "丁玲"
+      ],
+      "opposite_conditions": [
+        "戰術才能不等於自主政治基地",
+        "外援中斷可降低正規幹部優勢並放大本地籌款者",
+        "文宣動員可以破壞秩序但不必能替代幹部機器",
+        "組織不可替代性可限制最高領袖"
+      ]
+    },
+    {
+      "heading": "文人重複篇的實質變項",
+      "mechanisms": [
+        "資助與作品價值分辨",
+        "名聲與實際權限分辨",
+        "考據精密與憲制解釋分辨",
+        "技術能力與制度韌性分辨"
+      ],
+      "necessary_cases": [
+        "郭沫若",
+        "瞿秋白",
+        "胡風（僅讀到rp.124，後半由root銜接）",
+        "胡適",
+        "陳寅恪",
+        "魯迅",
+        "錢穆",
+        "黃仁宇"
+      ],
+      "opposite_conditions": [
+        "人物同文跨載體不算獨立印證",
+        "優秀翻譯可以靠外部紀律勝過創作",
+        "網絡庇護可寬容不同學術路線",
+        "可量化管理領先不保證政治耐久"
+      ]
+    }
+  ],
+  "epistemic_constraints": [
+    "Supplied authorial interpretations remain interpretations; unsupported genealogical, psychological and covert-operation claims are not promoted to established history",
+    "Counterfactual European trajectories remain counterfactual",
+    "Do not reproduce racial dehumanization or sex/gender stereotypes as operative reasoning",
+    "Exclude F16 paragraphs117–153 editorial revision appendix",
+    "MOBI221 Kang Sheng/Rao Shushi/Gu Zhun/Soong Ching-ling are title-only placeholders, not read chapters",
+    "MOBI224–228 are colophon and repeated index",
+    "No audio or image content inspected",
+    "Long third-party quotes do not become Liu's own claims"
+  ]
+}

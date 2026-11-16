@@ -87,8 +87,8 @@
         7310,
         9930
       ],
-      "current_body_han": 7591,
-      "current_metadata_han": 1016,
+      "current_body_han": 7590,
+      "current_metadata_han": 997,
       "current_body_quantity_status": "within_reference_range",
       "current_metadata_quantity_status": "within_reference_range",
       "implementation_status": "implemented_and_editorially_reviewed_for_declared_scope",
@@ -96,7 +96,8 @@
       "previous_body_han": 7501,
       "previous_metadata_han": 1612,
       "before_source_extension_body_han": 7411,
-      "all_original_unit_lower_bounds_met": true
+      "all_original_unit_lower_bounds_met": true,
+      "current_source_revision": "../c06-redistillation-2026-11-16/report.md"
     },
     {
       "module": "c07-2",
@@ -158,7 +159,7 @@
     "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
     "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
   },
-  "measurements": "../core-sync-2026-11-16/measurements.json",
+  "measurements": "../c06-redistillation-2026-11-16/measurements.json",
   "cross_review": "allocation-cross-review.json",
   "current_editorial_policy": "依使用者最新要求，所有原參考單元下界必須達到；只用來源支持的實質細節補足，不恢復重複總論。C05四份新增來源另核增量配置，沒有統一上限。完成驗證後直接提交推送，保留既有AGENTS.md未提交改動。",
   "numerical_ranges_are_acceptance_gates": "original_lower_bounds_required_this_revision; source-based current ranges are editorial references, not universal caps",
@@ -167,5 +168,6 @@
   "plan_record_note": "四份單元配置及其指紋保留核定時狀態；本彙總更新為實施狀態。",
   "publication": "commit_and_push_authorized_after_validation",
   "source_extension_plan_sha256": "9ea40e20fc526b3cb9ae5063981fe90e9456056645193d5e4e5c72023973b688",
-  "current_core_loading_revision": "../core-sync-2026-11-16/review.json"
+  "current_core_loading_revision": "../c06-redistillation-2026-11-16/report.md",
+  "C06_increment": "../c06-redistillation-2026-11-16/allocation.json"
 }

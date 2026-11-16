@@ -1,0 +1,325 @@
+{
+  "schema": "literary-distillation-review-v1",
+  "review_scope": "作者來源內部重讀、版本比對與AI編輯檢查；不是獨立專家核證",
+  "plan_written_before_draft": true,
+  "plan_sha256": "f467a7d66dd9fd6602c374d6cf90de7300cb3ab5e51e9c403fe11f372e05385b",
+  "draft_sha256": "f9e860fde3cc4937a6f8abef46ec91361414fea3d94a3075c949f9adad7c25eb",
+  "plan_created_utc": "2026-11-16T12:09:41.954351+00:00",
+  "body_hanzi_definition": "去標題及來源短標後計漢字",
+  "body_hanzi": 2571,
+  "heading_count_h2": 3,
+  "mechanism_groups": 10,
+  "chapters": [
+    {
+      "person": "章太炎",
+      "heading": "章太炎：思想的發明者與共和國的遺民",
+      "necessary_content": [
+        {
+          "BIO26-L57": "排滿國粹與嚴復的西化立憲相反搭配；剪辮提供低成本可識別符號。"
+        },
+        {
+          "BIO26-L58": "日本與韓國作華夏正統、《蘇報》案與清廷反擊，將符號傳播轉成敵我界線。"
+        },
+        {
+          "BIO26-L59": "自我繁殖的敘事超越發明者控制；政治組織失敗、黎元洪友誼與對袁世凱帝制拒絕，分開清醒與組織才幹。"
+        },
+        {
+          "BIO26-L60": "不能容忍孫文也不願犧牲民國，相互矛盾的國族/文化定位限制建設成果。"
+        }
+      ],
+      "retained_group_ids": [
+        "BIO26-L57",
+        "BIO26-L58",
+        "BIO26-L59",
+        "BIO26-L60"
+      ],
+      "body_hanzi": 938,
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "within_planned_range": true,
+      "compression_and_omissions": "壓縮古文評價與反覆辱罵；保留反常搭配、符號、司法反擊、思想失控及共和忠誠。",
+      "conflicts": [
+        "章名「遺民」與母女譬喻為作者分類及修辭；財政軍事不足不抹去真誠忠誠。"
+      ]
+    },
+    {
+      "person": "蔡元培",
+      "heading": "蔡元培：兼容並包者推動的統一化",
+      "necessary_content": [
+        {
+          "BIO26-L61": "辭職避禍、光復會與同盟會相爭而本人保持信用，構成人脈型政治資產。"
+        },
+        {
+          "BIO26-L62": "美育代宗教、校制改革、教育國有化與語言標準化；改革快速可表示組織薄弱，非單純進步。"
+        },
+        {
+          "BIO26-L63": "清黨支持蔣，胡漢民被扣後信任破裂、院費與民權同盟形成交易；兼容並包的本人可能推進統一化制度。"
+        }
+      ],
+      "retained_group_ids": [
+        "BIO26-L61",
+        "BIO26-L62",
+        "BIO26-L63"
+      ],
+      "body_hanzi": 931,
+      "planned_body_hanzi_range": [
+        900,
+        1200
+      ],
+      "within_planned_range": true,
+      "compression_and_omissions": "三組合併重複生涯轉折；依原預配下界補入德國學業與任教育總長、中法大學的預科性質、歐洲改革者自籌資產的實際代價，未補總論。",
+      "conflicts": [
+        "林語堂木匠故事是原篇轉述案例，未另核；人格寬厚與改革制度後果分開。"
+      ]
+    },
+    {
+      "person": "吳稚暉",
+      "heading": "吳稚暉：沒有實權的老頑童與有期限的權威",
+      "necessary_content": [
+        {
+          "BIO26-L64": "傳統生活與西化口號、蘇報案、丑角形象和無私，提供權威而無實職的空間。"
+        },
+        {
+          "BIO26-L65": "無政府主義的數百年尺度和留法後輩二十年革命時間表衝突；忠於具體人而非抽象綱領。"
+        },
+        {
+          "BIO26-L66": "拒主席、賣字、資助教育、赴台與身後紀念，區分清高和政治無影響；本土認同變動重估舊紀念。"
+        }
+      ],
+      "retained_group_ids": [
+        "BIO26-L64",
+        "BIO26-L65",
+        "BIO26-L66"
+      ],
+      "body_hanzi": 702,
+      "planned_body_hanzi_range": [
+        700,
+        1000
+      ],
+      "within_planned_range": true,
+      "compression_and_omissions": "壓縮官職推讓的重複例子；保留人設、時間尺度、實際成本和紀念期限。",
+      "conflicts": [
+        "原篇預期／身後認同描述保留其寫作時視角，不當作今日另行查證結果。"
+      ]
+    }
+  ],
+  "reading": {
+    "completed_bounded_units": 6,
+    "total_completed_agent_units": 43,
+    "allocated_limit": 60,
+    "main_breakdown": {
+      "book_full_14_chapters": 30,
+      "qu_docx_full": 2,
+      "chen_docx_full": 2,
+      "all_other_docx_differences": 3,
+      "mobi_supplement": 5,
+      "cai_cross_reread": 1
+    },
+    "actual_units": [
+      {
+        "block": 38,
+        "characters": 3452,
+        "sha256": "d02e6e2a64e00941517bd40a9c3f077c8947db207532eaf1af45182ab4c1b0ba",
+        "pieces": [
+          {
+            "page": 167,
+            "offset": 0,
+            "sha256": "a3949f96803d0b06b96c071592bb0db7aeb61df578359abbea5326f0dcc31d8d"
+          },
+          {
+            "page": 168,
+            "offset": 0,
+            "sha256": "29c5965ebecc14d52cc4cc21ad90689a831758fb0e8ac60fd1681375cb79796d"
+          },
+          {
+            "page": 169,
+            "offset": 0,
+            "sha256": "db761daaf1342a61a21fc05400065abf1d5644d3b0c6c30c628383592262cba8"
+          }
+        ]
+      },
+      {
+        "block": 39,
+        "characters": 3564,
+        "sha256": "1ef1fcb1db13a4c48e18424e97f1aeacdd9cc578aab64f36c02e8a9fcbdcfd7f",
+        "pieces": [
+          {
+            "page": 170,
+            "offset": 0,
+            "sha256": "1a4da66e5a6b59eea7be79ea239c86bcce5d3e1d5530ac6ad3515496e394c80d"
+          },
+          {
+            "page": 171,
+            "offset": 0,
+            "sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c"
+          },
+          {
+            "page": 172,
+            "offset": 0,
+            "sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3"
+          }
+        ]
+      },
+      {
+        "block": 40,
+        "characters": 3399,
+        "sha256": "afbcba6204769db931870067c920400b65e1dadc12f513e1de492b3347eed76c",
+        "pieces": [
+          {
+            "page": 173,
+            "offset": 0,
+            "sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb"
+          },
+          {
+            "page": 174,
+            "offset": 0,
+            "sha256": "4fea6069613f12bd8b2ebc582d217f256caf14b26cec77ddc05e23d3f3081f2e"
+          },
+          {
+            "page": 175,
+            "offset": 0,
+            "sha256": "46561384c404cc4cf34737e08493c38eb183ab587d299b41005d77f8c243e7f5"
+          }
+        ]
+      },
+      {
+        "block": 41,
+        "characters": 2795,
+        "sha256": "3b4a3fe79022ebe11c9ae3daac1c94d450dcdc1cdb3b6413770798c39ef3b4d6",
+        "pieces": [
+          {
+            "page": 229,
+            "offset": 0,
+            "sha256": "0ed1fe36d59f6d187d26176475809bc49b186099775129c30423f6cc9810cdb4"
+          },
+          {
+            "page": 230,
+            "offset": 0,
+            "sha256": "8f7286977c3b0a723805b8842e4c11db444cf3165596c1b197b641d5b2159b57"
+          }
+        ]
+      },
+      {
+        "block": 42,
+        "characters": 2974,
+        "sha256": "23a910f376a8e7d8805165160d7caa6a583032f6bf93013c02f09cc70edddde6",
+        "pieces": [
+          {
+            "page": 231,
+            "offset": 0,
+            "sha256": "5d7da6312d57f57ecbedb19bd496227338597e10623a227a1afe864221ad6557"
+          },
+          {
+            "page": 232,
+            "offset": 0,
+            "sha256": "d4022bc2c4f5385e1fa1925b194960e0b16c584ed602e998674dd9d2f6acffbb"
+          },
+          {
+            "page": 233,
+            "offset": 0,
+            "sha256": "8009130ad40c7f5f75b7e8b9548fe1e9a383b87865a3461b167bec568c736191"
+          }
+        ]
+      }
+    ],
+    "cai_additional_reread": {
+      "source_id": "BIO26-M",
+      "purpose": "已讀三頁補充蔡元培具體事件交叉重讀",
+      "characters": 3141,
+      "sha256": "e0de0a2e9090773eaf495d4fbb525846b442aa2c2ec3f623328433b3e83e1a5c",
+      "ranges": [
+        171,
+        173
+      ],
+      "last_page_end_offset": 725,
+      "pieces": [
+        {
+          "page": 171,
+          "source_unit_sha256": "0124cd5ccc4767d948d2564173d508b46459907ac09fc0b8d542c81f8a22249c"
+        },
+        {
+          "page": 172,
+          "source_unit_sha256": "6666b64e3147684117caaeffedb9b16c2842b2c7c8c4419eda1d5210859641a3"
+        },
+        {
+          "page": 173,
+          "source_unit_sha256": "b30fa03d73e7282eb60c480dfc46eedd6e2d1b155023065bd592080228cbdcbb"
+        }
+      ]
+    },
+    "extraction_is_not_reading": true,
+    "no_claim_of_independent_full_docx_reread": "九份DOCX透過逐字同文對齊承接書籍實讀並讀完所有差異；F24與F35另各完整實讀2單元。",
+    "ancillary_debug_failures": [
+      "核計元資料時一次把comparison list誤當keys印出，輸出截斷；先前已完成完整書籍與逐差異閱讀，該輸出不算完成閱讀或新增佐證。",
+      "一次root-mobi-blocks巢狀list schema檢查意外輸出非分派首塊片段並截斷；未據該片段增加任何論點或覆蓋。"
+    ],
+    "bounded_reading_accounting": "43完成單元（含已讀蔡元培的1單元交叉重讀）；2次元資料除錯意外輸出不算完成源讀，合計45來源輸出嘗試；另有極短章名邊界定位，不新增論證。"
+  },
+  "source_exclusions": [
+    "全部音訊",
+    "全部圖片／掃描頁",
+    "外部連結內容",
+    "未讀的第三方原始文獻"
+  ],
+  "validation": {
+    "all_planned_groups_present": true,
+    "citations_resolve_to_read_units": true,
+    "no_local_source_paths_in_prose": true,
+    "traditional_chinese_editorial_prose": true,
+    "no_role_adoption_or_host_imitation_instructions": true
+  },
+  "old_c06_replacement": {
+    "replace": "既有甲組§1–4人物縮寫、宿主模仿指令及平面標籤，以本輪逐人物機制為準。",
+    "preserve_elsewhere": "原35篇舊閱讀統計與來源歷史保留原適用範圍，不宣稱重新驗證或套用於本輪全稿。",
+    "limits": "政治人物及講座乙組由root與其他組整合；金庸F20同篇不重算。",
+    "framework_correction": "錢鍾書的整合不足與張愛玲的人際洞察、文字藝術、組織依附須分開，不能一概稱只活表層。"
+  },
+  "boundary_handling": {
+    "content_pages": [
+      167,
+      168,
+      169,
+      170,
+      171,
+      172,
+      173,
+      174,
+      175
+    ],
+    "directory_only_pages": [
+      229,
+      230,
+      231,
+      232,
+      233
+    ],
+    "not_derived": [
+      "rp167蔣經國尾段",
+      "rp175陳獨秀篇頭（交古代組）",
+      "目錄條目不新增論點"
+    ],
+    "chapter_clipping": {
+      "章太炎": [
+        167,
+        361,
+        170,
+        1066
+      ],
+      "蔡元培": [
+        170,
+        1066,
+        173,
+        725
+      ],
+      "吳稚暉": [
+        173,
+        725,
+        175,
+        507
+      ]
+    },
+    "mobi_locator_warning": "rp為PyMuPDF重排頁而非紙本頁碼，需source hash、篇名及單元hash共同重定位。"
+  }
+}

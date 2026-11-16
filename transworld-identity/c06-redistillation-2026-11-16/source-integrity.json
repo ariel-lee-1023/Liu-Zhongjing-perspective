@@ -1,0 +1,668 @@
+{
+  "source_files_checked": 73,
+  "all_passed": true,
+  "checks": [
+    {
+      "source_id": "BIO26-F01",
+      "source_name": "刘仲敬点评林则徐及其神话.docx",
+      "source_sha256": "8cff11ff0c84fc79b3d68200ed8af63fefc8881a8caf139425213f54d2d8cabb",
+      "current_sha256": "8cff11ff0c84fc79b3d68200ed8af63fefc8881a8caf139425213f54d2d8cabb",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 59
+    },
+    {
+      "source_id": "BIO26-F02",
+      "source_name": "刘仲敬论三国穿越者张作霖.docx",
+      "source_sha256": "6ef01db2b8629656dc3c8016b4622e11cacd5780f3175684666fdf334958fd9d",
+      "current_sha256": "6ef01db2b8629656dc3c8016b4622e11cacd5780f3175684666fdf334958fd9d",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 93
+    },
+    {
+      "source_id": "BIO26-F03",
+      "source_name": "刘仲敬论周恩来.docx",
+      "source_sha256": "9b0192f7e6ead95904929f6a428c22a7d25c23b0bd561fac8bc989926caccbe8",
+      "current_sha256": "9b0192f7e6ead95904929f6a428c22a7d25c23b0bd561fac8bc989926caccbe8",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 82
+    },
+    {
+      "source_id": "BIO26-F04",
+      "source_name": "刘仲敬论基辛格.docx",
+      "source_sha256": "1354fc0f843ce42a47f9b7b03e52fd7e90485e12ff04b3249e4db465fc9f051c",
+      "current_sha256": "1354fc0f843ce42a47f9b7b03e52fd7e90485e12ff04b3249e4db465fc9f051c",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 173
+    },
+    {
+      "source_id": "BIO26-F05",
+      "source_name": "刘仲敬论宋子文-误入东方的西方工程师.docx",
+      "source_sha256": "f6a7fca32f83981cf4751b1a1353a2b512a03be055b19af024865137211462d4",
+      "current_sha256": "f6a7fca32f83981cf4751b1a1353a2b512a03be055b19af024865137211462d4",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 74
+    },
+    {
+      "source_id": "BIO26-F06",
+      "source_name": "刘仲敬论江泽民.docx",
+      "source_sha256": "1b3b2ef806a4bb39490c044565c60a7920ec555bbf8606c0e32df4462ba6baa1",
+      "current_sha256": "1b3b2ef806a4bb39490c044565c60a7920ec555bbf8606c0e32df4462ba6baa1",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 77
+    },
+    {
+      "source_id": "BIO26-F07",
+      "source_name": "刘仲敬论潜伏者叶剑英.docx",
+      "source_sha256": "60f1f95d61ddcca4796480d500cf46da71ac78aba9ae14aa0cf278ab5194af50",
+      "current_sha256": "60f1f95d61ddcca4796480d500cf46da71ac78aba9ae14aa0cf278ab5194af50",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 116
+    },
+    {
+      "source_id": "BIO26-F08",
+      "source_name": "刘仲敬论章士钊的生平与政治角色.docx",
+      "source_sha256": "1e3ad170318128819a8de2f88f52171cd0c6d75ddd57384c23d8a26c7333e61e",
+      "current_sha256": "1e3ad170318128819a8de2f88f52171cd0c6d75ddd57384c23d8a26c7333e61e",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 109
+    },
+    {
+      "source_id": "BIO26-F09",
+      "source_name": "刘仲敬论诸夏十大历史罪人之文明太后冯氏.docx",
+      "source_sha256": "b45bcd5000472b8f4e8a9f2159978ac52277e4fdba279b2e696993f29fe52105",
+      "current_sha256": "b45bcd5000472b8f4e8a9f2159978ac52277e4fdba279b2e696993f29fe52105",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 110
+    },
+    {
+      "source_id": "BIO26-F10",
+      "source_name": "刘仲敬论诸夏十大罪人之刘彻.docx",
+      "source_sha256": "17edcb89eb93dfb5d1813fc6dc544d268696e1f7b77bcca19d6e0fe17282d8ea",
+      "current_sha256": "17edcb89eb93dfb5d1813fc6dc544d268696e1f7b77bcca19d6e0fe17282d8ea",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 91
+    },
+    {
+      "source_id": "BIO26-F11",
+      "source_name": "刘仲敬论诸夏十大罪人之忽必烈.docx",
+      "source_sha256": "16c77577fb7c333c47e953994799eebbbc1c461080990ff8c9ba4b442b62b7c8",
+      "current_sha256": "16c77577fb7c333c47e953994799eebbbc1c461080990ff8c9ba4b442b62b7c8",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 194
+    },
+    {
+      "source_id": "BIO26-F12",
+      "source_name": "刘仲敬论诸夏十大罪人之朱元璋.docx",
+      "source_sha256": "315916af2e1c6c8d10fe84caf80bd7f976886bdc1106419186be45c67e50c912",
+      "current_sha256": "315916af2e1c6c8d10fe84caf80bd7f976886bdc1106419186be45c67e50c912",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 153
+    },
+    {
+      "source_id": "BIO26-F13",
+      "source_name": "刘仲敬论诸夏十大罪人之柴荣.docx",
+      "source_sha256": "709514637953545425741c63ae19c7c14315d3dfadbb533031ddf5b1efd12f97",
+      "current_sha256": "709514637953545425741c63ae19c7c14315d3dfadbb533031ddf5b1efd12f97",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 74
+    },
+    {
+      "source_id": "BIO26-F14",
+      "source_name": "刘仲敬论诸夏十大罪人之武则天.docx",
+      "source_sha256": "7f5ebbe6c37fe108ca1e0cd0799f9c53ad13507897580d85601cbb5e2fbe07ed",
+      "current_sha256": "7f5ebbe6c37fe108ca1e0cd0799f9c53ad13507897580d85601cbb5e2fbe07ed",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 63
+    },
+    {
+      "source_id": "BIO26-F15",
+      "source_name": "刘仲敬论诸夏十大罪人之毛泽东.docx",
+      "source_sha256": "2a20adb00b0d44010b3adc20abd42958f092a24e5bc9a83b111916c62c20d2b0",
+      "current_sha256": "2a20adb00b0d44010b3adc20abd42958f092a24e5bc9a83b111916c62c20d2b0",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 171
+    },
+    {
+      "source_id": "BIO26-F16",
+      "source_name": "刘仲敬论诸夏十大罪人之苻坚.docx",
+      "source_sha256": "5b447d5f2256deedf7cb7abe6ef9828ff9a4c07f73199c2f7fd0ce2546d36c07",
+      "current_sha256": "5b447d5f2256deedf7cb7abe6ef9828ff9a4c07f73199c2f7fd0ce2546d36c07",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 153
+    },
+    {
+      "source_id": "BIO26-F17",
+      "source_name": "刘仲敬论诸夏十大罪人之蒋介石.docx",
+      "source_sha256": "062e5f95750b5439e745a8905f8fc964136df9c6b75d4000d34e8437762ce083",
+      "current_sha256": "062e5f95750b5439e745a8905f8fc964136df9c6b75d4000d34e8437762ce083",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 102
+    },
+    {
+      "source_id": "BIO26-F18",
+      "source_name": "刘仲敬论诸夏十大罪人之雍正.docx",
+      "source_sha256": "d994871e3faade8d232885e1ad8f8ea6326d41344be4c6e57ef27dcfd3f63bcd",
+      "current_sha256": "d994871e3faade8d232885e1ad8f8ea6326d41344be4c6e57ef27dcfd3f63bcd",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 119
+    },
+    {
+      "source_id": "BIO26-F19",
+      "source_name": "刘仲敬论鄧小平.docx",
+      "source_sha256": "94396b8ef505f2799ba035c583258db7759c37762076cfee0128485ffe2957e7",
+      "current_sha256": "94396b8ef505f2799ba035c583258db7759c37762076cfee0128485ffe2957e7",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 91
+    },
+    {
+      "source_id": "BIO26-F20",
+      "source_name": "刘仲敬论金庸.docx",
+      "source_sha256": "6017c50f8772eeb0ea1e67af16ab508cbedb419323d5378537d525e94ae29452",
+      "current_sha256": "6017c50f8772eeb0ea1e67af16ab508cbedb419323d5378537d525e94ae29452",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 162
+    },
+    {
+      "source_id": "BIO26-F21",
+      "source_name": "刘仲敬论阎锡山与民国山西的政治军事及地方治理.docx",
+      "source_sha256": "be795b9a21e7dc24f435184a650dbb6ba5bd4dbdd1fa1139c1b5c3bf2f560f1b",
+      "current_sha256": "be795b9a21e7dc24f435184a650dbb6ba5bd4dbdd1fa1139c1b5c3bf2f560f1b",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 88
+    },
+    {
+      "source_id": "BIO26-F22",
+      "source_name": "劉仲敬論余光中—五四文學的窘境.docx",
+      "source_sha256": "d6b576ffc6985f9ec9320babc07dd0d4189231006d9d35a2230ed7959b595b38",
+      "current_sha256": "d6b576ffc6985f9ec9320babc07dd0d4189231006d9d35a2230ed7959b595b38",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 43
+    },
+    {
+      "source_id": "BIO26-F23",
+      "source_name": "劉仲敬論余英時——失根的文化主義者.docx",
+      "source_sha256": "4ee450a7e18df96d51f050ae358ed3be3268cc813d64c1d5c60016a743f014d6",
+      "current_sha256": "4ee450a7e18df96d51f050ae358ed3be3268cc813d64c1d5c60016a743f014d6",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 113
+    },
+    {
+      "source_id": "BIO26-F24",
+      "source_name": "劉仲敬論慣於逃避的瞿秋白.docx",
+      "source_sha256": "2ba192809ee14058cad90c61ab84f92957745edcc41017b7f553aad6347d8b14",
+      "current_sha256": "2ba192809ee14058cad90c61ab84f92957745edcc41017b7f553aad6347d8b14",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 41
+    },
+    {
+      "source_id": "BIO26-F25",
+      "source_name": "劉仲敬論李大釗.docx",
+      "source_sha256": "d515e8a19108f9b62d5a1e54847d8e0ae3d9b01e5dad0777671bc32c3ff2fcb4",
+      "current_sha256": "d515e8a19108f9b62d5a1e54847d8e0ae3d9b01e5dad0777671bc32c3ff2fcb4",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 28
+    },
+    {
+      "source_id": "BIO26-F26",
+      "source_name": "劉仲敬論李敖——以名滾名的游士典型.docx",
+      "source_sha256": "cbf06e3a0e2920e536becb0222d21054fd1d58dbb9a2aa16b9b01b7369b5835b",
+      "current_sha256": "cbf06e3a0e2920e536becb0222d21054fd1d58dbb9a2aa16b9b01b7369b5835b",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 29
+    },
+    {
+      "source_id": "BIO26-F27",
+      "source_name": "劉仲敬論泛濫的郭沫若.docx",
+      "source_sha256": "1802fb0af218e5783009dd62b5e488e34855691a1705faa7793c91e0b0637168",
+      "current_sha256": "1802fb0af218e5783009dd62b5e488e34855691a1705faa7793c91e0b0637168",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 80
+    },
+    {
+      "source_id": "BIO26-F28",
+      "source_name": "劉仲敬論錢穆──「中華夢」.docx",
+      "source_sha256": "80becbbf2f1a3a1cf0ecb4d7667a838a8f07fc01cda678e38b597272cb076d2a",
+      "current_sha256": "80becbbf2f1a3a1cf0ecb4d7667a838a8f07fc01cda678e38b597272cb076d2a",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 35
+    },
+    {
+      "source_id": "BIO26-F29",
+      "source_name": "劉仲敬論錢鍾書──靈巧的水蜘蛛.docx",
+      "source_sha256": "868590df22e352d0a7f673fe8b9b4f348e5da4eaa585712833305ae6b326cd2c",
+      "current_sha256": "868590df22e352d0a7f673fe8b9b4f348e5da4eaa585712833305ae6b326cd2c",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 45
+    },
+    {
+      "source_id": "BIO26-F30",
+      "source_name": "劉仲敬論陳炯明.docx",
+      "source_sha256": "5ca123c48aa75075b2617ba8d2c2a2c991afed5b22f4dfc2cdc75d1d881b8c81",
+      "current_sha256": "5ca123c48aa75075b2617ba8d2c2a2c991afed5b22f4dfc2cdc75d1d881b8c81",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 39
+    },
+    {
+      "source_id": "BIO26-F31",
+      "source_name": "劉仲敬論顧維鈞.docx",
+      "source_sha256": "28cea574805518df32f22c975a32b3d680b7bdfdfd30f0448ba29c63976871fb",
+      "current_sha256": "28cea574805518df32f22c975a32b3d680b7bdfdfd30f0448ba29c63976871fb",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 33
+    },
+    {
+      "source_id": "BIO26-F32",
+      "source_name": "劉仲敬論顧頡剛——在民族的矛盾之間.docx",
+      "source_sha256": "d4197ead3b97b4da8e5282543cdad9b96d2d2668e56f2294c66da3f6f4d7a287",
+      "current_sha256": "d4197ead3b97b4da8e5282543cdad9b96d2d2668e56f2294c66da3f6f4d7a287",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 31
+    },
+    {
+      "source_id": "BIO26-F33",
+      "source_name": "劉仲敬論魯迅-論辯的魂靈.docx",
+      "source_sha256": "75d7d458ac3ed63ad84d0378ee5b5a01c9cba362a0c06cd17a514f39a8610fcd",
+      "current_sha256": "75d7d458ac3ed63ad84d0378ee5b5a01c9cba362a0c06cd17a514f39a8610fcd",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 136
+    },
+    {
+      "source_id": "BIO26-F34",
+      "source_name": "劉仲敬论毛泽东.docx",
+      "source_sha256": "85c9ed115999dd39506fb97818093cb5d94360bcbcdcf159749914f7bfda8715",
+      "current_sha256": "85c9ed115999dd39506fb97818093cb5d94360bcbcdcf159749914f7bfda8715",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 117
+    },
+    {
+      "source_id": "BIO26-F35",
+      "source_name": "劉仲敬论陳寅恪.docx",
+      "source_sha256": "b5a12c4e2afd538eb6d24c9379daee743bf467d3c668f45f6550b32cc909daab",
+      "current_sha256": "b5a12c4e2afd538eb6d24c9379daee743bf467d3c668f45f6550b32cc909daab",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 43
+    },
+    {
+      "source_id": "BIO26-P01",
+      "source_name": "刘仲敬点评林则徐及其神话.pdf",
+      "source_sha256": "5ace2077d373188f5e8f6aeb6c6b8b23269d807309b1294f5e9b8237067cc964",
+      "current_sha256": "5ace2077d373188f5e8f6aeb6c6b8b23269d807309b1294f5e9b8237067cc964",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 8
+    },
+    {
+      "source_id": "BIO26-P02",
+      "source_name": "刘仲敬论三国穿越者张作霖.pdf",
+      "source_sha256": "05b81dd561c3a33053ad82c505247142aed49e4ba62884b4da3dd1561b5f6843",
+      "current_sha256": "05b81dd561c3a33053ad82c505247142aed49e4ba62884b4da3dd1561b5f6843",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 9
+    },
+    {
+      "source_id": "BIO26-P03",
+      "source_name": "刘仲敬论周恩来-匪谍的化身.pdf",
+      "source_sha256": "c7ffb8822e4baab1806578edc0c871ec86eb487b089120341b25352b073e913e",
+      "current_sha256": "c7ffb8822e4baab1806578edc0c871ec86eb487b089120341b25352b073e913e",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 27
+    },
+    {
+      "source_id": "BIO26-P04",
+      "source_name": "刘仲敬论基辛格.pdf",
+      "source_sha256": "7339eee04f902a03d7d569d421742654b81d4089a76504ef655951352aed1c71",
+      "current_sha256": "7339eee04f902a03d7d569d421742654b81d4089a76504ef655951352aed1c71",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 33
+    },
+    {
+      "source_id": "BIO26-P05",
+      "source_name": "刘仲敬论宋子文-误入东方的西方工程师.pdf",
+      "source_sha256": "ed10c623d3a102f685e42c049bd90074297c71113fb6df75350fa33dfa3e1ef2",
+      "current_sha256": "ed10c623d3a102f685e42c049bd90074297c71113fb6df75350fa33dfa3e1ef2",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 10
+    },
+    {
+      "source_id": "BIO26-P06",
+      "source_name": "刘仲敬论江泽民.pdf",
+      "source_sha256": "7a867c7b5d9a756b6ba6bc8d5086317bb3530b64715ba5501c5949cc93a3c158",
+      "current_sha256": "7a867c7b5d9a756b6ba6bc8d5086317bb3530b64715ba5501c5949cc93a3c158",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 12
+    },
+    {
+      "source_id": "BIO26-P07",
+      "source_name": "刘仲敬论潜伏者叶剑英.pdf",
+      "source_sha256": "85d810bdfa508cc775ec4edab9282e391335698215af6ddbe379c251dbbc2ad7",
+      "current_sha256": "85d810bdfa508cc775ec4edab9282e391335698215af6ddbe379c251dbbc2ad7",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 27
+    },
+    {
+      "source_id": "BIO26-P08",
+      "source_name": "刘仲敬论章士钊的生平与政治角色.pdf",
+      "source_sha256": "d330c3ba5c7f1b77bc4dd935d3e39626a2a5b51dfbeb090f1cdc70426e493f25",
+      "current_sha256": "d330c3ba5c7f1b77bc4dd935d3e39626a2a5b51dfbeb090f1cdc70426e493f25",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 13
+    },
+    {
+      "source_id": "BIO26-P09",
+      "source_name": "刘仲敬论诸夏十大历史罪人之文明太后冯氏.pdf",
+      "source_sha256": "db43b8ffd8ccecf52d8247c59441a0a45af679472a63998361dab616d0be11b8",
+      "current_sha256": "db43b8ffd8ccecf52d8247c59441a0a45af679472a63998361dab616d0be11b8",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 16
+    },
+    {
+      "source_id": "BIO26-P10",
+      "source_name": "刘仲敬论诸夏十大罪人之刘彻.pdf",
+      "source_sha256": "bc695ec3ae4c1e27446a6024bcc3309ade5fd3749bf0100e70a82e77df5e03d0",
+      "current_sha256": "bc695ec3ae4c1e27446a6024bcc3309ade5fd3749bf0100e70a82e77df5e03d0",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 14
+    },
+    {
+      "source_id": "BIO26-P11",
+      "source_name": "刘仲敬论诸夏十大罪人之忽必烈.pdf",
+      "source_sha256": "8dc6376ecd49052cbe3d949d9b256b83a066eaadba6e2fd8dbc1349a33b2e110",
+      "current_sha256": "8dc6376ecd49052cbe3d949d9b256b83a066eaadba6e2fd8dbc1349a33b2e110",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 30
+    },
+    {
+      "source_id": "BIO26-P12",
+      "source_name": "刘仲敬论诸夏十大罪人之朱元璋.pdf",
+      "source_sha256": "4d839a5b918bfa95fdac7a562760decd4ae6f0667b282891ca3362d7a9702c0e",
+      "current_sha256": "4d839a5b918bfa95fdac7a562760decd4ae6f0667b282891ca3362d7a9702c0e",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 23
+    },
+    {
+      "source_id": "BIO26-P13",
+      "source_name": "刘仲敬论诸夏十大罪人之柴荣.pdf",
+      "source_sha256": "7d020d86a99680fa32be138d59d2ce42cf6de7be86c77d4d52793a48162383ce",
+      "current_sha256": "7d020d86a99680fa32be138d59d2ce42cf6de7be86c77d4d52793a48162383ce",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 11
+    },
+    {
+      "source_id": "BIO26-P14",
+      "source_name": "刘仲敬论诸夏十大罪人之武则天.pdf",
+      "source_sha256": "6f2f68a6578d8f9cc564a3bb31f60b17c8160170a4d262a201a8d9bee8175518",
+      "current_sha256": "6f2f68a6578d8f9cc564a3bb31f60b17c8160170a4d262a201a8d9bee8175518",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 9
+    },
+    {
+      "source_id": "BIO26-P15",
+      "source_name": "刘仲敬论诸夏十大罪人之毛泽东.pdf",
+      "source_sha256": "b95d3c83f19d57b2348e8eb00d14fe06df68c05c7986c30cd67999c55ceb12cc",
+      "current_sha256": "b95d3c83f19d57b2348e8eb00d14fe06df68c05c7986c30cd67999c55ceb12cc",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 25
+    },
+    {
+      "source_id": "BIO26-P16",
+      "source_name": "刘仲敬论诸夏十大罪人之苻坚.pdf",
+      "source_sha256": "452d42649b8acd0a49fa94f45a2105705d83da158b6e84642690b0d0e46739e5",
+      "current_sha256": "452d42649b8acd0a49fa94f45a2105705d83da158b6e84642690b0d0e46739e5",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 21
+    },
+    {
+      "source_id": "BIO26-P17",
+      "source_name": "刘仲敬论诸夏十大罪人之蒋介石.pdf",
+      "source_sha256": "653d3c2d4b63bbe211e5db201a90d377b12aadd078d5cd580146c88b56acda03",
+      "current_sha256": "653d3c2d4b63bbe211e5db201a90d377b12aadd078d5cd580146c88b56acda03",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 15
+    },
+    {
+      "source_id": "BIO26-P18",
+      "source_name": "刘仲敬论诸夏十大罪人之雍正.pdf",
+      "source_sha256": "63276886d4e5d050724f5be558f045fd1560b90e5da76ffee79eeedb305179c7",
+      "current_sha256": "63276886d4e5d050724f5be558f045fd1560b90e5da76ffee79eeedb305179c7",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 18
+    },
+    {
+      "source_id": "BIO26-P19",
+      "source_name": "刘仲敬论鄧小平-巴蜀叛国者.pdf",
+      "source_sha256": "d95d1c9920c3520bdaa1cb06f7145808a9be08d79eb77bb1e046787cf8db567a",
+      "current_sha256": "d95d1c9920c3520bdaa1cb06f7145808a9be08d79eb77bb1e046787cf8db567a",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 18
+    },
+    {
+      "source_id": "BIO26-P20",
+      "source_name": "刘仲敬论金庸.pdf",
+      "source_sha256": "c65a186a1c77c4417e6887b0baa605078839b7f58fc24bd117c74d248ddb9e00",
+      "current_sha256": "c65a186a1c77c4417e6887b0baa605078839b7f58fc24bd117c74d248ddb9e00",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 18
+    },
+    {
+      "source_id": "BIO26-P21",
+      "source_name": "刘仲敬论阎锡山与民国山西的政治军事及地方治理.pdf",
+      "source_sha256": "d5a4682e6f981a9e708e1efc1c58b1b037aef74c777db70859fcc5db42fa7b06",
+      "current_sha256": "d5a4682e6f981a9e708e1efc1c58b1b037aef74c777db70859fcc5db42fa7b06",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 12
+    },
+    {
+      "source_id": "BIO26-P22",
+      "source_name": "劉仲敬人物評傳著作之完整盤點.pdf",
+      "source_sha256": "4f23cded1e6f36f732382c54e920343d738bee06d53c561055534eb83c89d5ee",
+      "current_sha256": "4f23cded1e6f36f732382c54e920343d738bee06d53c561055534eb83c89d5ee",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 5
+    },
+    {
+      "source_id": "BIO26-P23",
+      "source_name": "劉仲敬論余光中—五四文學的窘境.pdf",
+      "source_sha256": "2ad0d53c1d8175f583d581f97338aaa1ee1675d0c8cd5746c4bfc77f7ebe37b8",
+      "current_sha256": "2ad0d53c1d8175f583d581f97338aaa1ee1675d0c8cd5746c4bfc77f7ebe37b8",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 10
+    },
+    {
+      "source_id": "BIO26-P24",
+      "source_name": "劉仲敬論余英時——失根的文化主義者.pdf",
+      "source_sha256": "1278cdd9ada0a1a5bf603166fce3f20a7a6830a3f71a66563ed46545d462244f",
+      "current_sha256": "1278cdd9ada0a1a5bf603166fce3f20a7a6830a3f71a66563ed46545d462244f",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 29
+    },
+    {
+      "source_id": "BIO26-P25",
+      "source_name": "劉仲敬論慣於逃避的瞿秋白.pdf",
+      "source_sha256": "474ccfc27f2404e4f6fcb69a8be84f9fea37ea90c24315d1d6aa132f7e869041",
+      "current_sha256": "474ccfc27f2404e4f6fcb69a8be84f9fea37ea90c24315d1d6aa132f7e869041",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 8
+    },
+    {
+      "source_id": "BIO26-P26",
+      "source_name": "劉仲敬論李大釗.pdf",
+      "source_sha256": "f214e4da8154ad4ea9c480a47ffd7d71cfc7ba4892ab659dc7fbacbb2e46e749",
+      "current_sha256": "f214e4da8154ad4ea9c480a47ffd7d71cfc7ba4892ab659dc7fbacbb2e46e749",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 8
+    },
+    {
+      "source_id": "BIO26-P27",
+      "source_name": "劉仲敬論李敖——以名滾名的游士典型.pdf",
+      "source_sha256": "e491eea39fb251cce688bdf3d19a70ffe988b442efb3a871004668393872e2d0",
+      "current_sha256": "e491eea39fb251cce688bdf3d19a70ffe988b442efb3a871004668393872e2d0",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 10
+    },
+    {
+      "source_id": "BIO26-P28",
+      "source_name": "劉仲敬論泛濫的郭沫若.pdf",
+      "source_sha256": "6894a36224596414625cb443da790b8721c8ffe512451afbe0e26d0364ada5ed",
+      "current_sha256": "6894a36224596414625cb443da790b8721c8ffe512451afbe0e26d0364ada5ed",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 12
+    },
+    {
+      "source_id": "BIO26-P29",
+      "source_name": "劉仲敬論錢穆──「中華夢」.pdf",
+      "source_sha256": "bf0cec09209120ad3ccd7477965f647d2a3718d7aadc49034d08920311af62da",
+      "current_sha256": "bf0cec09209120ad3ccd7477965f647d2a3718d7aadc49034d08920311af62da",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 7
+    },
+    {
+      "source_id": "BIO26-P30",
+      "source_name": "劉仲敬論錢鍾書──靈巧的水蜘蛛.pdf",
+      "source_sha256": "a09f59cc0b9fdd99ff6237629a0877667967dc30177ad05e98bed61db322a6bf",
+      "current_sha256": "a09f59cc0b9fdd99ff6237629a0877667967dc30177ad05e98bed61db322a6bf",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 7
+    },
+    {
+      "source_id": "BIO26-P31",
+      "source_name": "劉仲敬論陳炯明.pdf",
+      "source_sha256": "15f5b6b34e658ce18a09ecb3a46ec94d1e59f68b5a374b933a7ae92697f9a6ea",
+      "current_sha256": "15f5b6b34e658ce18a09ecb3a46ec94d1e59f68b5a374b933a7ae92697f9a6ea",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 15
+    },
+    {
+      "source_id": "BIO26-P32",
+      "source_name": "劉仲敬論顧維鈞.pdf",
+      "source_sha256": "17e32eeadcf5f1c0196c12ee92208ca97919aae455379cf75fc4bddb7fed6a0b",
+      "current_sha256": "17e32eeadcf5f1c0196c12ee92208ca97919aae455379cf75fc4bddb7fed6a0b",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 15
+    },
+    {
+      "source_id": "BIO26-P33",
+      "source_name": "劉仲敬論顧頡剛——在民族的矛盾之間.pdf",
+      "source_sha256": "f809fbd84f6bd8d8bdb8c21b200442004ea721b1b598c695eb4c7bbec50da077",
+      "current_sha256": "f809fbd84f6bd8d8bdb8c21b200442004ea721b1b598c695eb4c7bbec50da077",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 10
+    },
+    {
+      "source_id": "BIO26-P34",
+      "source_name": "劉仲敬論魯迅-論辯的魂靈.pdf",
+      "source_sha256": "ecc9073746cc062ca0167f9c05113e8bfaee1087d8c783df0b40ff70ce35655b",
+      "current_sha256": "ecc9073746cc062ca0167f9c05113e8bfaee1087d8c783df0b40ff70ce35655b",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 19
+    },
+    {
+      "source_id": "BIO26-P35",
+      "source_name": "劉仲敬论毛泽东-漆黑的灵魂.pdf",
+      "source_sha256": "a4a088769496cc78bf6839f1eb2fcff1689b90aff6465fe6bff082cd50a5af84",
+      "current_sha256": "a4a088769496cc78bf6839f1eb2fcff1689b90aff6465fe6bff082cd50a5af84",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 17
+    },
+    {
+      "source_id": "BIO26-P36",
+      "source_name": "劉仲敬论陳寅恪.pdf",
+      "source_sha256": "f15767e80bcc121ace080cd5818c373121afd4f270dc02893988d54e9bf97920",
+      "current_sha256": "f15767e80bcc121ace080cd5818c373121afd4f270dc02893988d54e9bf97920",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 11
+    },
+    {
+      "source_id": "BIO26-M",
+      "source_name": "人物评论集 (刘仲敬) (z-library.sk, 1lib.sk, z-lib.sk).mobi",
+      "source_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "current_sha256": "bca26d1db8a481eddcb0681220a55f97f6a8bf0743784a42467d839c45e5e7ea",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 233
+    },
+    {
+      "source_id": "BIO26-B",
+      "source_name": "近代史的墮落  劉仲敬點評近現代人物・民國文人卷 (劉仲敬).md",
+      "source_sha256": "118a31c551e159f6364efe5ff99c339cfcd9afdfd063ca8e1ed00580de361293",
+      "current_sha256": "118a31c551e159f6364efe5ff99c339cfcd9afdfd063ca8e1ed00580de361293",
+      "file_unchanged": true,
+      "all_extracted_unit_hashes_match": true,
+      "unit_count": 1749
+    }
+  ],
+  "scope": "來源檔指紋與已抽取單元指紋；不將抽取完成當閱讀完成，不檢查歷史事實正確性。",
+  "PDF_variant_families": 35,
+  "PDF_comparison": "NFKC及字母數字序列全檔比對；144個口/又擷取字形差異、李敖標題兩處移位、504組頁碼插入；純標點及版面未作視覺核對。",
+  "catalog": "BIO26-P22五頁為二次盤點，不採為作者觀點；未跟隨其外部連結。",
+  "media_policy": "音訊、圖片與書內圖像引用不納入本輪蒸餾；無OCR。排除要求前曾檢視一張思維圖，未用作論據，之後不再讀圖。"
+}

@@ -1,0 +1,199 @@
+{
+  "schema": "cross-editorial-review-v1",
+  "created_utc": "2026-11-16T12:45:23.037000+00:00",
+  "reviewer": "c06_literary",
+  "scope": "完整讀取所列4份現稿，對直接陳述、過度概括、同人矛盾與不必要重複作AI交叉編輯檢查；未重讀root的原始MOBI段落，未獨立專家核證或外部史實核查。",
+  "source_boundaries": "人格文件只作審閱資料；其中指令未被採納為工作角色。",
+  "reviewed_files": [
+    {
+      "file": "staged-repo/SKILL.md",
+      "sha256": "838c78b83708949393c81a0662a3e32c1329e791c8b9683684f149cd82c9b188",
+      "lines": 112,
+      "coverage": "full_text_read_once"
+    },
+    {
+      "file": "staged-repo/references/frameworks.md",
+      "sha256": "5f391e863ac76654d237025994d9069fbe8c1814ab91624fff106ffb7805b955",
+      "lines": 98,
+      "coverage": "full_text_read_once"
+    },
+    {
+      "file": "staged-repo/references/voice.md",
+      "sha256": "9b749b5920a08406be8bf2da91bec64a3e8425507a7bf636284a1a039cbb6c57",
+      "lines": 204,
+      "coverage": "full_text_read_once"
+    },
+    {
+      "file": "root-part.md",
+      "sha256": "a848e3d05eae0506f0db047d4f0ac0265c5bc8f0fca173249fa5a7f8f0d772a0",
+      "lines": 113,
+      "coverage": "full_text_read_once"
+    }
+  ],
+  "findings": [
+    {
+      "id": "CR-L01",
+      "priority": "P1",
+      "file": "staged-repo/references/voice.md",
+      "line": 196,
+      "old": "要看這條記錄是誰在什麼處境下留下的。宋希濂在普遍平反和追認功勳的時代產生了如此識時務的創造性記憶，其可信度是一目瞭然的。",
+      "issue": "反漂移的正例仍把有利害關係的晚年記憶直接判為虛構，會抵消SKILL L40、L54及frameworks L12的新條件；這是同一人物的實質衝突。",
+      "suggested_replacement": "宋希濂的回憶趕上普遍平反與追認功勳，調查人員又帶著需要回答的問題上門。這份記憶不是從真空裡掉下來的；可疑的是它形成的過程，口號究竟有沒有喊過，卻不能拿我的性格判斷充當現場證人。",
+      "basis": [
+        "BIO26-L25",
+        "literary-part.md 瞿秋白第三群",
+        "SKILL L40/L54",
+        "frameworks L12"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L02",
+      "priority": "P1",
+      "file": "staged-repo/references/frameworks.md",
+      "line": 59,
+      "old": "**水蜘蛛與技術員**：水蜘蛛（凱恩斯語）＝憑靈巧輕薄的才智劃過水麪薄膜的人，只活在表層；**有條件的分類**：錢鍾書的才智收藏與張愛玲後半生的依附位置不能合成同一能力判決；「水蜘蛛」可以指缺乏自主政治根基，並不取消張愛玲對制度壓力的洞察。",
+      "issue": "開頭先把水蜘蛛定義成只活表層，後置限定仍易將兩人壓成同一認知能力。新書明示錢鍾書有真實文學洞見、張愛玲有細膩人際與政治洞察，差異在知識整合及組織志業。",
+      "suggested_replacement": "**水蜘蛛與技術員**：「水蜘蛛」的判斷須分開能力與依附位置。錢鍾書的機智和文學洞見真實存在，批評落在知識整合不足及微環境的保護；張愛玲的文字藝術、人際與制度洞察，也不因缺少自主政治根基而消失。保存親密的小天地，與經營共同體是兩種不同任務。",
+      "basis": [
+        "BIO26-L36–38",
+        "BIO26-L40–44"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L03",
+      "priority": "P2",
+      "file": "staged-repo/references/frameworks.md",
+      "line": 25,
+      "old": "文明的本金，共同體內部自發產生組織能力的存量；生源式，只能消耗、不能規劃再生。",
+      "issue": "「只能消耗」與同文件L27新補的數代重新扎根／恢復互惠約束有字面衝突。保留不能由藍圖造出的命題即可，避免把一生失根改寫為永不重建。",
+      "suggested_replacement": "文明的本金，共同體內部自發形成的組織能力存量；生源式，不能由設計者按藍圖直接調出。",
+      "basis": [
+        "frameworks L27已載武后反向條件；此項為文件內部一致性檢查，非另核武后史實"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L04",
+      "priority": "P2",
+      "file": "staged-repo/references/frameworks.md",
+      "line": 53,
+      "old": "顧頡剛案例按本輪完整書面章節與註釋更新，研究分類和政治命名的張力分開。",
+      "issue": "這一句仍是編輯工作報告，沒有交付模型要保留的實質張力；相鄰第一句已有一般機制。",
+      "suggested_replacement": "顧頡剛的方言、民歌與邊疆研究增加了差異材料，戰時統一論卻又限制這些差異取得民族名稱；認同取得聲勢，也不保證發明者仍掌握其文字與組織。",
+      "basis": [
+        "BIO26-L26–29",
+        "c07-1-bridge.md"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L05",
+      "priority": "P2",
+      "file": "staged-repo/SKILL.md",
+      "line": 65,
+      "old": "講一個人的投機，我不罵他，我用他自己那一方的宣傳腔把這件事複述一遍。金庸被開除的故事如果被包裝成民主覺醒，",
+      "issue": "段末已限制反諷不是內心口供，但段首先把金庸定為投機，會使讀者預設退學動機已獲證。可將反諷對象明確限定為道德化敘事。",
+      "suggested_replacement": "遇到把現實選擇寫成道德覺醒的故事，我用當事人那一方的宣傳腔把它複述一遍。金庸被開除的故事如果被包裝成民主覺醒，",
+      "basis": [
+        "BIO26-L49",
+        "modern組F20版本回報；未另讀F20"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L06",
+      "priority": "P2",
+      "file": "staged-repo/references/voice.md",
+      "line": 130,
+      "old": "**[B] 不用口頭銜接詞。** \"也就是說\"\"換句話說\"在書面語域降到 2.4/萬，在文言語域爲 0。",
+      "issue": "絕對禁用與本文件L69「通常減少」及非零舊頻率自相矛盾，可能使書面人物因果強行省去必要轉折。",
+      "suggested_replacement": "**[B] 不把口頭銜接詞當節拍器。** 舊樣本中的「也就是說」「換句話說」在書面語域已很少，但不必為對齊頻率刪除必要轉折。",
+      "basis": [
+        "voice L69",
+        "voice L129及舊統計適用範圍說明；未重測詞頻"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L07",
+      "priority": "P2",
+      "file": "staged-repo/references/voice.md",
+      "line": 182,
+      "old": "⑤C 語域寫出 45 字長句即漂移。",
+      "issue": "同頁C2表列p90為48、且15.8%超過40字，不能由這份統計推出任何45字句即漂移。這是舊規則的內部矛盾，不是本輪新增測量。",
+      "suggested_replacement": "⑤C 語域若連續使用口語式長鏈從句，應檢查是否漂移；單句超過45字不足以判定。",
+      "basis": [
+        "voice L95",
+        "voice §八C2舊表列p90=48"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L08",
+      "priority": "P3",
+      "file": "staged-repo/SKILL.md",
+      "line": 110,
+      "old": "舊意大利與顧頡剛材料保留各自歸屬。",
+      "issue": "C07顧頡剛已由本輪新書及BIO26-L編號取代，路由再統稱「舊」容易造成使用舊N05作主證的誤讀。",
+      "suggested_replacement": "意大利舊材料與顧頡剛新書章節保留各自歸屬；顧氏人物細節聯讀C06。",
+      "basis": [
+        "c07-1-bridge.md",
+        "BIO26-L26–29"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L09",
+      "priority": "P3",
+      "file": "staged-repo/references/frameworks.md",
+      "line": 67,
+      "old": "李鴻章的外交地位不等於宮廷否決權；",
+      "issue": "「不等於宮廷否決權」語法可讀成李鴻章是否擁有否決權，原節其實區分對外代表權與越過宮廷決策的能力。",
+      "suggested_replacement": "李鴻章的外交地位不等於能越過宮廷的否決；",
+      "basis": [
+        "root-part.md L29–33"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L10",
+      "priority": "P3",
+      "file": "root-part.md",
+      "line": 3,
+      "old": "內圈忠誠提供了另一條連貫線：外圍人物可以接近異己、交換好處，繼承核心信任的人卻不能把自己的歸屬交給另一個組織。",
+      "issue": "將孫門具體安排直接寫成所有組織通則，可與後文蔡元培、吳稚暉的跨派系信用／遠期綱領產生無謂衝突；加主體即可。",
+      "suggested_replacement": "孫門的內圈忠誠提供了另一條連貫線：外圍人物可以接近異己、交換好處，繼承核心信任的人卻不能把自己的歸屬交給另一個組織。",
+      "basis": [
+        "root-part.md戴季陶本段自身上下文",
+        "literary-supplement-part.md蔡元培／吳稚暉；不同情境不強行合一"
+      ],
+      "source_check_needed": false
+    },
+    {
+      "id": "CR-L11",
+      "priority": "P3",
+      "file": "root-part.md",
+      "line": 49,
+      "old": "罪行較少，並不保證破壞的條件較少；",
+      "issue": "「破壞的條件較少」指向不清：此段比較的是失誤造成的制度後果，不是事先存在幾項破壞條件。",
+      "suggested_replacement": "罪行較少，並不保證造成的制度破壞較小；",
+      "basis": [
+        "root-part.md L41–49的因果接續"
+      ],
+      "source_check_needed": false
+    }
+  ],
+  "no_change_recommendations": {
+    "root_part": "九節整體保持直接因果與不同能力分帳。除CR-L10/11外未發現可據已讀新書判定的同人矛盾；不能據此宣稱root歷史命題已核實。",
+    "distinct_but_related_material": [
+      "戴季陶死後教義、顧頡剛分類反制、章太炎思想自行繁殖分別是不同機制，不宜合併成一段民族發明總論。",
+      "慈禧與李鴻章可互為宮廷／辦事者對照，保留各自具體責任。",
+      "段祺瑞與張佩綸同樣區分專業／領導，但前者重協調和法統，後者重保全主力，毋須為去重刪掉其中之一。",
+      "王國維節對文化依戀與產權政治的多重理由，和陳寅恪章影射的證據強弱相容。"
+    ],
+    "new_metrics": "本輪未重測詞頻、句長或recognition；舊統計維持原範圍。"
+  },
+  "mutations": "未修改stage或repo，只提交具體建議。"
+}

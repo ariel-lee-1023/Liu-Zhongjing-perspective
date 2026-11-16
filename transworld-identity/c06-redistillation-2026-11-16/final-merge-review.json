@@ -1,0 +1,396 @@
+{
+  "reviewer": "c06_ancient_party",
+  "review_kind": "AI editorial merge-integrity review of already-read generated drafts; not independent historical verification",
+  "target": "staged-repo/references/clusters/c06-figures.md",
+  "status": "pass_after_verified_repairs",
+  "original_source_reads_added": 0,
+  "stage_mutated_by_reviewer": false,
+  "source_budget_changed": false,
+  "source_reading_units_unchanged": 69,
+  "method": "Compared every non-editorial paragraph of ancient-party-part.md, ancient-supplement-part.md and hu-shih-part.md against the integrated draft. Exact matches were mechanically verified; nonexact replacements and shared sections were read. Checked source-derived plan obligations, reversal conditions and editorial attribution. Searched specific missing mechanisms rather than rereading source books.",
+  "original_ranges_unchanged": {
+    "ancient_party_han": [
+      6500,
+      9000
+    ],
+    "ancient_supplement_han": [
+      5150,
+      7150
+    ]
+  },
+  "counting_rule": "Han characters U+3400–U+9FFF, excluding headings and bracketed source references. Shared final sections are measured as actual integrated carriers of assigned mechanisms; this is not a claim that every character was newly authored by this agent and must not be added again to another agent's output total. Attribution notes are not used to fill substantive lower bounds.",
+  "overall": "Main and supplement mechanisms, reversal conditions and source-derived lower bounds are now carried by the integrated draft. Zhou and the composite literary summary were safely merged; Hu Shih is separate and both Hu Feng paragraphs survive. Root restored the initially omitted protection/community mechanism with Wang Yongjiang/Chen Lianbo and Chiang survival-feedback mechanism. Two pre-existing original subsection shortfalls—Wang Jingwei and Fu Zuoyi—were explicitly repaired with already-read substantive increments; they are no longer hidden by aggregate surplus. No original budget or plan was changed.",
+  "main_coverage": [
+    {
+      "evidence": "BIO26-A01",
+      "section": "帝國的完成：劉徹消除兩種約束",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "橫向列國與縱向中介同時消除",
+        "同姓不取消地方利益",
+        "柔仁不自動重建制度約束",
+        "軍制與財政互鎖"
+      ]
+    },
+    {
+      "evidence": "BIO26-A02/A03",
+      "section": "苻堅與馮太后",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "擴張分散核心部眾而失去退路",
+        "敗戰與政治集團解體不同",
+        "基層行政下沉重於衣冠改姓",
+        "多國路徑是有條件分支"
+      ]
+    },
+    {
+      "evidence": "BIO26-A04",
+      "section": "武后",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "本土與失根小貴族角色相反",
+        "孔子與重新扎根的例外",
+        "科舉使代理人供應常態化",
+        "名號復辟不等於組織復原",
+        "舊軍事功能仍須另購服務"
+      ]
+    },
+    {
+      "evidence": "BIO26-A05",
+      "section": "柴榮",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "財政集中與中央軍形成互鎖",
+        "依軍立國鎖住首都漕運",
+        "裝備改善不等於互信再生",
+        "內部安全與邊防配置有張力"
+      ]
+    },
+    {
+      "evidence": "BIO26-A06",
+      "section": "忽必烈",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "多重效忠是差別保護關係",
+        "宗教的實際服務與知識人再安置",
+        "俸祿替代自主權",
+        "海都的退出與反抗能力",
+        "元代多法域未瞬間消失"
+      ]
+    },
+    {
+      "evidence": "BIO26-A07",
+      "section": "朱元璋與張士誠",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "地方財產聯盟約束戰爭",
+        "擴張依賴下一輪動員",
+        "征服者與本土統治者的寬嚴不必相同",
+        "地方秩序不理想化為無衝突自由"
+      ]
+    },
+    {
+      "evidence": "BIO26-A08",
+      "section": "雍正",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "保護義務與間接治理節約成本",
+        "君主安全可以提高治理成本",
+        "乾隆復舊不能命令重建社會承載"
+      ]
+    },
+    {
+      "evidence": "BIO26-A09/A10",
+      "section": "張學良與林彪",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "失去根據地後的盟友待遇誤認",
+        "中共需要不等於蘇聯承諾",
+        "戰術訓練須由工業與外援放大",
+        "私人不滿不等於已實行政變"
+      ]
+    },
+    {
+      "evidence": "BIO26-A12/A13",
+      "section": "李克農與劉少奇",
+      "status": "preserved_exact_after_split_from_Zhou",
+      "mechanisms": [
+        "外情、內保和社會滲透有不同責任",
+        "福利與不能退出並行",
+        "先替代社會網絡再剝財產",
+        "工會在不同政權位置功能轉變",
+        "幹部機器反過來約束領袖",
+        "財產持有不等於社區保護義務"
+      ]
+    },
+    {
+      "evidence": "BIO26-A11/A14/A15",
+      "section": "高崗、龔楚與江青",
+      "status": "preserved_exact",
+      "mechanisms": [
+        "資源管轄不等於私人班底",
+        "領袖暗示不是長期保護",
+        "參與、受害、逃亡可以並存",
+        "文藝動員不等於接管軍政能力"
+      ]
+    },
+    {
+      "evidence": "BIO26-A16/A18/A21",
+      "section": "陳獨秀、丁玲與胡風：文人的組織位置",
+      "status": "preserved_exact_and_heading_updated",
+      "mechanisms": [
+        "可見名聲與實際決策渠道分離",
+        "思想長期影響不被短期實權不足取消",
+        "胡風投入、受害、平反互不抹去",
+        "作家受害不能代替普通群眾所有遭遇",
+        "丁玲統戰價值衰減",
+        "吳滿有英雄聲名收窄退路"
+      ],
+      "hu_feng_two_paragraphs": "both exact matches present"
+    },
+    {
+      "evidence": "BIO26-A17",
+      "section": "周恩來",
+      "status": "merged_more_fully",
+      "mechanisms": [
+        "人員培養與配置超過名位",
+        "公開與秘密、核心與外圍分層",
+        "下級接觸範圍有限",
+        "毛需要又限制專業機器",
+        "個人勝利與身後派系勝利分離"
+      ],
+      "deletion_judgment": "Original two paragraphs safely removed as duplicates: integrated Zhou supplies concrete channels and a separate final paragraph on succession."
+    },
+    {
+      "evidence": "BIO26-A19/A20/A22/A23/A24/A25/A26",
+      "section": "郭沫若／瞿秋白／胡適／陳寅恪／魯迅／錢穆／黃仁宇",
+      "status": "shared_literary_carriers",
+      "mechanisms": [
+        "原作者紀律提升郭的翻譯",
+        "瞿的代言能力與決斷責任錯配",
+        "胡的最大公約數不等於洞見或執行",
+        "陳的博學不等於資料倉庫",
+        "魯的出版資助與作品評價分開",
+        "胡對錢的學術容納反例",
+        "黃的數目管理受到英國制度耐久反例限制"
+      ],
+      "deletion_judgment": "Composite literary summary is redundant with full literary sections; its deletion is sound, provided Hu Shih remains separate, as now verified."
+    }
+  ],
+  "supplement_coverage": [
+    {
+      "evidence": "BIO26-AS01/AS02",
+      "section": "一、人物判斷與歷史模型",
+      "status": "restored_after_initial_merge_omission",
+      "original_lower": 650,
+      "current_han": 722,
+      "mechanisms": [
+        "品質與環境適配",
+        "不可逆節點與因果不確知",
+        "解釋優勢不等於保護優勢",
+        "大小共同體按強制性質區分",
+        "替代保護能否及時接續",
+        "分散低壓與集中高壓的差別",
+        "王永江及陳廉伯為代表群體承擔政治代價"
+      ],
+      "current_result": "pass"
+    },
+    {
+      "evidence": "BIO26-AS03",
+      "section": "宋教仁",
+      "original_lower": 450,
+      "current_han": 479,
+      "current_result": "pass",
+      "mechanisms": [
+        "地域網絡未完全合黨",
+        "議會財權須看納稅者／選團結構",
+        "行政合作成本",
+        "不完美妥協仍可保住共同限制",
+        "未遇刺不保證穩定民主"
+      ]
+    },
+    {
+      "evidence": "BIO26-AS04",
+      "section": "黎元洪",
+      "original_lower": 650,
+      "current_han": 770,
+      "current_result": "pass",
+      "mechanisms": [
+        "行政財政改善不等於政治聯絡",
+        "藩庫讓擴軍改變戰爭時間",
+        "信用保護財產而集中軍財",
+        "對上自治對下專斷",
+        "反二次革命不等於支持帝制",
+        "信用須有可控制範圍"
+      ]
+    },
+    {
+      "evidence": "BIO26-AS05",
+      "section": "孫中山",
+      "original_lower": 300,
+      "current_han": 312,
+      "current_result": "pass",
+      "mechanisms": [
+        "僑社動員與內地統治尺度不同",
+        "地域排斥同時支持防守並限制擴張",
+        "新黨機器重分原網絡優勢",
+        "彼此衝突目標耗用有限資源"
+      ]
+    },
+    {
+      "evidence": "BIO26-AS06/AS07",
+      "section": "蔣介石",
+      "original_lower": 800,
+      "current_han": 1646,
+      "current_result": "pass_shared_with_modern",
+      "mechanisms": [
+        "勤勉累積日常組織",
+        "精銳先消耗與外圍議價",
+        "獲救不證明原先因果正確",
+        "幸存可能強化重複冒險",
+        "戰前集中與戰時內遷互相強化",
+        "接收的跨政權國有化",
+        "臺灣社會道路與領袖目標分離"
+      ],
+      "restored_text_note": "General allied-interest opening was removed as duplicate; the three consequential sentences on survival, repeated risk and protection/price are present."
+    },
+    {
+      "evidence": "BIO26-AS08",
+      "section": "汪兆銘",
+      "original_lower": 500,
+      "current_han": 538,
+      "current_result": "pass_after_source_grounded_repair",
+      "mechanisms": [
+        "審美及犧牲不代替每日組織責任",
+        "名望可被用作旗號而不控制人員",
+        "救黨情誼限制退出",
+        "保存革命成果與恢復保護體系的矛盾"
+      ],
+      "content_status": "Earlier original subdraft and first integrated snapshot were below the unchanged subsection lower bound. Root inserted the already-read specific increment; final count now meets it.",
+      "previous_han_before_final_repair": 467
+    },
+    {
+      "evidence": "BIO26-AS09",
+      "section": "瞿鴻禨",
+      "original_lower": 350,
+      "current_han": 374,
+      "current_result": "pass",
+      "mechanisms": [
+        "清廉與改革可行性不同",
+        "忠誠指向具體義務而非任何君主",
+        "新舊兩套承諾被帝制同時損害",
+        "反覆拒仕讓原則有可觀察成本"
+      ]
+    },
+    {
+      "evidence": "BIO26-AS10",
+      "section": "閻錫山",
+      "original_lower": 350,
+      "current_han": 685,
+      "current_result": "pass_shared_with_modern",
+      "mechanisms": [
+        "地方團結使敗而不散",
+        "長期漸進治理不要求理論創見",
+        "表述與實踐能力不同",
+        "外向擴張打開外部競爭",
+        "中立須外部允許"
+      ],
+      "deletion_judgment": "Original local-solidarity and expansion paragraphs are substantially repeated by DOCX-based section; added final paragraph preserves the unique model-province/limited-articulation increment."
+    },
+    {
+      "evidence": "BIO26-AS11",
+      "section": "傅作義",
+      "original_lower": 450,
+      "current_han": 486,
+      "current_result": "pass_after_source_grounded_repair",
+      "mechanisms": [
+        "正規技術在需要堅守時有效",
+        "移民軍民同構及蒙古人的相反利益",
+        "東北物質條件改變局部優勢",
+        "升官與舊部拆散可以消除政治自主"
+      ],
+      "content_status": "Earlier original subdraft and first integrated snapshot were below the unchanged subsection lower bound. Root inserted the already-read specific increment; final count now meets it.",
+      "previous_han_before_final_repair": 420
+    },
+    {
+      "evidence": "BIO26-AS12/AS13/AS14",
+      "section": "陳氏兄弟",
+      "original_lower": 650,
+      "current_han": 891,
+      "current_result": "pass",
+      "mechanisms": [
+        "親信入口與制度密度分開",
+        "技術／學歷與江湖渠道效果不同",
+        "反共可以與集中計畫並存",
+        "教育投入跨政權繼承",
+        "精英社交圈不等於整個外國社會",
+        "清黨仍保左派方向",
+        "組織勞動及身體耗損",
+        "節制提高韌性但不自動改造全社會"
+      ]
+    }
+  ],
+  "main_lower_bound_assessment": {
+    "lower_unchanged": 6500,
+    "current_nonliterary_shared_carrier_han": 6703,
+    "result": "pass",
+    "note": "The 12 non-literary integrated carriers alone exceed 6500; independently preserved literary equivalents and Hu Shih are not needed to make up this lower bound. Shared Zhou text is counted once in the final manuscript, not as independent evidence or duplicate output."
+  },
+  "supplement_lower_bound_assessment": {
+    "lower_unchanged": 5150,
+    "current_all_carriers_han": 6903,
+    "overall_result": "pass",
+    "per_section_result": "10 of 10 now meet unchanged original subsection lower bounds; Wang Jingwei and Fu Zuoyi pass only after the final verified repairs.",
+    "note": "No source reading or budget extension is requested. Do not use surplus Chen/Chiang length to conceal subsection obligations."
+  },
+  "required_final_repairs": [
+    {
+      "id": "FM01",
+      "status": "verified_resolved",
+      "section": "汪兆銘：名望、犧牲與組織責任",
+      "insert_before": "他的和平主張還有目的之間的衝突。",
+      "text": "汪在分共以後仍一度主張保留對蘇合作，廣州暴動後才更堅決反蘇。昨日的共同敵人不能保證明日仍有共同利益；曾經同屬左派，也不表示會永久接受同一外部組織的支配。〔BIO26-M rp.25〕",
+      "reason": "Adds the already-read temporal reversal of alliance, rather than padding repeated abstract claims. Preserves movement between left and anti-Soviet positions without asserting hidden motives.",
+      "insertion_han_excluding_citation": 71,
+      "exact_insertion_present": true
+    },
+    {
+      "id": "FM02",
+      "status": "verified_resolved",
+      "section": "傅作義：局部作戰能力與政治退路",
+      "insert_before": "傅作義希望返回綏遠經營水利",
+      "text": "他在正常環境中本可循專業晉升，在亂世卻必須替軍隊選擇政治歸宿。善於完成分內工作，不能保證能判斷何時必須冒險、另造聯盟或拒絕上級所給的安全職位。〔BIO26-M rp.32〕",
+      "reason": "Restores the already-read mismatch between technical career aptitude and the demand to make political alliances in disorder; no additional source acquisition.",
+      "insertion_han_excluding_citation": 66,
+      "exact_insertion_present": true
+    }
+  ],
+  "attribution_review": {
+    "result": "pass_for_requested_merge_scope",
+    "observations": [
+      "Opening clearly marks distilled views rather than verbatim Liu or independent historical certification.",
+      "Source section distinguishes reflow pages from print pages and title-only Kang Sheng/Rao Shushi/Gu Zhun/Soong Ching-ling placeholders from actual chapters.",
+      "Editorial annexes and damaged Ye text remain excluded; no unsupported reconstruction was introduced by merging.",
+      "Source copies and DOCX/PDF/MOBI repeats are not advertised as independent confirmation.",
+      "Hu Feng rp125 and Chen Guofu rp37 boundary provenance remains in agent evidence/review ledgers; short prose citations identify the respective article context."
+    ]
+  },
+  "validation_limits": [
+    "No original source text reread.",
+    "Exact preservation is a merge fact, not proof of historical truth.",
+    "Final-stage edits remain root's responsibility; the snapshot hash below identifies the version checked."
+  ],
+  "reviewed_target_sha256": "3e68ac6171de6eebdcc276420ff9976879346fff70058621c8502e2e09d955ad",
+  "reviewed_target_characters": 68159,
+  "original_plan_hashes": {
+    "ancient-party": "4bb30ac67a95183adb9b9a151c5f8b854e6499d57ef44f732af75395f6de1b7e",
+    "ancient-supplement": "07331e5a98c37673b40d91fa07a3e5291174aff03dca3a0f930dad5736aab40d"
+  },
+  "final_repair_verification": {
+    "all_exact_insertions_present": true,
+    "all_supplement_subsection_lower_bounds_met": true,
+    "main_overall_lower_carried": true,
+    "supplement_overall_lower_carried": true,
+    "original_plan_hashes_unchanged": true
+  }
+}
