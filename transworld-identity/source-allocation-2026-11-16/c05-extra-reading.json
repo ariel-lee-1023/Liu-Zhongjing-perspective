@@ -1,0 +1,104 @@
+{
+  "source_path": "source-local:劉仲敬論Current Affairs.md",
+  "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+  "max_windows": 12,
+  "max_raw_characters": 4500,
+  "windows": [
+    {
+      "id": "CA-X01",
+      "start_line": 1809,
+      "end_line": 1876,
+      "raw_characters": 3879,
+      "sha256": "05e3cb3afe49a7864ce7904626ffa7f2f003a0f394cb6176baae20e3772d077c",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X02",
+      "start_line": 8854,
+      "end_line": 8897,
+      "raw_characters": 4425,
+      "sha256": "736a326982274de29e6158709f8104fa253abc4e4897ac2e394122bd0a90226f",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X03",
+      "start_line": 10358,
+      "end_line": 10415,
+      "raw_characters": 4399,
+      "sha256": "cba652ca1838135f4f0c03d1ece6ae18b8830e0aa3b25e1f11a197d24a663f30",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X04",
+      "start_line": 15304,
+      "end_line": 15369,
+      "raw_characters": 4482,
+      "sha256": "23dee404dbca88ac052aa7db53b662c61070fce1e98a2211ae9e2e4bb06e6918",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X05",
+      "start_line": 15640,
+      "end_line": 15689,
+      "raw_characters": 4412,
+      "sha256": "1775f55224587ca8b4476b261462154ac5edf16d72223b5a9a8e0551bbeeecfa",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X06",
+      "start_line": 17020,
+      "end_line": 17073,
+      "raw_characters": 4301,
+      "sha256": "61fa50db8c8f9b71ea8ca741087061d87065a7234e0217bc266addbd45172d82",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X07",
+      "start_line": 19049,
+      "end_line": 19105,
+      "raw_characters": 4357,
+      "sha256": "68693eb37298999b21315921c4b4e975a64cd6434b461acc681141e25eaebf21",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X08",
+      "start_line": 20071,
+      "end_line": 20119,
+      "raw_characters": 4468,
+      "sha256": "b0f48bdeda9e79bd7ffa4f7293150cf81afd7cd905aae98aaaa12714c8c15ced",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X09",
+      "start_line": 20477,
+      "end_line": 20533,
+      "raw_characters": 4226,
+      "sha256": "b321d6da07a86f7964446b0804f507e7d758ad860a99888559e3b4d317a62ad8",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X10",
+      "start_line": 21603,
+      "end_line": 21667,
+      "raw_characters": 4352,
+      "sha256": "25e7fb5f4984d6bccf40be41ffc73b0be254e4ee6e1ebebae40a5f352844461c",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X11",
+      "start_line": 23332,
+      "end_line": 23373,
+      "raw_characters": 4379,
+      "sha256": "1b7e4d6317c74987fef56b92e8224a367203290b3367a962c6852067c1142d01",
+      "complete_output_reviewed": true
+    },
+    {
+      "id": "CA-X12",
+      "start_line": 26331,
+      "end_line": 26399,
+      "raw_characters": 4451,
+      "sha256": "d89d158c8e9a5f472dc52391a8922eab62ad447acd4b9abf57324c8a6083bce0",
+      "complete_output_reviewed": true
+    }
+  ]
+}

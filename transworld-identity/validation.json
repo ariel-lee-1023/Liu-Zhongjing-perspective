@@ -70,5 +70,17 @@
     "default_discovery_layout_passed": true,
     "research_release_check_run": false
   },
-  "previous_validation": "history/redistillation-2026-11-16/transworld-identity/validation.json"
+  "previous_validation": "history/redistillation-2026-11-16/transworld-identity/validation.json",
+  "content_allocation": {
+    "status": "adopted_editorial_allocation",
+    "record": "source-allocation-2026-11-16/allocation.json",
+    "implementation_status": "allocation_complete_runtime_revision_pending",
+    "runtime_changed": false,
+    "new_recognition_calls": 0,
+    "checks": "source-allocation-2026-11-16/checks.json",
+    "package_checks": [
+      "source-allocation-2026-11-16/package-root.json",
+      "source-allocation-2026-11-16/package-discovery.json"
+    ]
+  }
 }

@@ -1,0 +1,11 @@
+{
+  "purpose": "先固定論證配置，再作本輪機械長度比較；編輯者讀過現稿，並非盲分配實驗。",
+  "sha256": {
+    "c02-1": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+    "c05": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+    "c07-1": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+    "c07-2": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43"
+  },
+  "runtime_sha256_record": "baseline.json",
+  "measurement_not_yet_run_in_this_step": true
+}

@@ -1,0 +1,1000 @@
+{
+  "cluster": "C05",
+  "status": "source_based_content_allocation_with_explicit_unverified_reserve",
+  "unit": "正文漢字＝CJK漢字；不把標點、Markdown、英文和數字算漢字。範圍是可執行內容配置，非既有公式的token估計。",
+  "basis": {
+    "prior_articles_with_any_window": 27,
+    "prior_windows": 68,
+    "additional_windows": 12,
+    "additional_raw_characters": 52131,
+    "articles_with_any_window_now": 39,
+    "source_articles": 85,
+    "source_characters": 1883512,
+    "approx_unique_substantive_character_fraction": 0.1340941815077366,
+    "coverage_limit": "39篇皆是局部窗口，其中第15篇只核日期；未宣稱39篇通讀或85篇充分蒸餾。先做全目錄/章節題材歸類，再用12窗口辨認缺項。",
+    "source_sha256": "d95ea0af0675130041cd7006d0adecda10717c6e7ffcff48984f684446fcfd81",
+    "no_current_length_backsolving": true,
+    "old_6000_ceiling_used": false,
+    "coverage_measurement_note": "覆蓋比例為去重來源文字窗口，不是精確第一手答語比例；窗口仍含問題、頁碼錨點與局部編輯文字。"
+  },
+  "confirmed_units": [
+    {
+      "id": "U01",
+      "title": "格局、節點與材料的界限",
+      "primary_article_ids": [
+        35
+      ],
+      "evidence_ids": [
+        "CA01"
+      ],
+      "core_causal_claim": "既有從屬及先前選擇縮小後續選項；新材料必須接到財政和憲制才有意義。",
+      "necessary_cases": [
+        "朝鮮戰爭的既有義務",
+        "水利工藝—財源—市政能力"
+      ],
+      "conditions_or_countercases": [
+        "模型可修訂，不以格局取消材料"
+      ],
+      "home": "C05開篇；通用模型只引frameworks/C04",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          35
+        ],
+        "directory_or_preface_only_articles": []
+      },
+      "body_hanzi": {
+        "range": [
+          320,
+          480
+        ],
+        "working_target": 400,
+        "paragraphs": [
+          2,
+          3
+        ],
+        "reason": "一段機制、一段雙例、必要時一段模型限制；不重寫全人格認識論。"
+      },
+      "confirmed_body_share_pct": 3.2
+    },
+    {
+      "id": "U02",
+      "title": "國家的不同層級與公共功能外移",
+      "primary_article_ids": [
+        1,
+        26
+      ],
+      "evidence_ids": [
+        "CA02",
+        "CA12"
+      ],
+      "core_causal_claim": "中央人事、地方財政和企業福利不是同一整合度；公共服務失靈使責任移向有資源的團體。",
+      "necessary_cases": [
+        "不同來源國企福利",
+        "教會/私人醫療與無力另付費者"
+      ],
+      "conditions_or_countercases": [
+        "中央強不等於地方無利益",
+        "功能外移不等於國家突然消失或人人受益"
+      ],
+      "home": "C05制度單元；前近代起源引C02-2",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          1
+        ],
+        "directory_or_preface_only_articles": [
+          26
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          700,
+          950
+        ],
+        "working_target": 800,
+        "paragraphs": [
+          4,
+          5
+        ],
+        "reason": "兩條機制各一段、各一個具體案例，再給共同的名號/功能分離及受損者限制。"
+      },
+      "confirmed_body_share_pct": 6.5
+    },
+    {
+      "id": "U03",
+      "title": "全球資本的再生成本與金融政治反饋",
+      "primary_article_ids": [
+        29,
+        34,
+        48,
+        74
+      ],
+      "evidence_ids": [
+        "CA03",
+        "CA04",
+        "CA05",
+        "CA-X11"
+      ],
+      "core_causal_claim": "資本購買勞動中段卻依賴外部養育；短期成功可耗損再生；國際債務與美元流通把外部政策反饋到本國。",
+      "necessary_cases": [
+        "羅馬/迦太基及羅馬自身轉變",
+        "海地/多米尼加",
+        "一戰債務鏈與美元/廉價商品",
+        "改革開放外部資金把部分無組織人口納入生產的原述判斷"
+      ],
+      "conditions_or_countercases": [
+        "英國本地資本有非市場支撐",
+        "相對共產體制可能建構",
+        "2022等選舉預測不當既驗結果",
+        "第74篇暴力概括和數量推測不當統計事實"
+      ],
+      "home": "C05資本與金融主單元",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          29,
+          34,
+          74
+        ],
+        "directory_or_preface_only_articles": [
+          48
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          1350,
+          1700
+        ],
+        "working_target": 1500,
+        "paragraphs": [
+          7,
+          9
+        ],
+        "reason": "再生、跨期比較、金融反饋各需機制和案例；改革開放只留已讀的條件性補充，不因標題補造整套美國計畫。"
+      },
+      "confirmed_body_share_pct": 12.1
+    },
+    {
+      "id": "U04",
+      "title": "產業外包、技術路線與未知創新的成本",
+      "primary_article_ids": [
+        13,
+        31,
+        45,
+        81
+      ],
+      "evidence_ids": [
+        "CA06",
+        "CA07",
+        "CA-X04"
+      ],
+      "core_causal_claim": "包工頭補正式制度缺口並外移維護成本；已知技術可追趕，未知工藝需承擔失敗、標準和時間不確定。",
+      "necessary_cases": [
+        "國企設備與升遷誘因",
+        "406本地AI路線/417創新制度",
+        "太陽能理論可能與可用工藝的差別"
+      ],
+      "conditions_or_countercases": [
+        "外包可改善農民工眼前生活",
+        "全球化分工不等於瓦房店退化",
+        "具體華為2031及人物動機是原時點推測"
+      ],
+      "home": "C05產業技術；技術退化通論引C03",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          13,
+          31,
+          45
+        ],
+        "directory_or_preface_only_articles": [
+          81
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          1000,
+          1300
+        ],
+        "working_target": 1150,
+        "paragraphs": [
+          6,
+          7
+        ],
+        "reason": "把三種不同機制各用一對論證/案例段；保留406與417張力，不合成一條中國做不到的總論。"
+      },
+      "confirmed_body_share_pct": 9.3
+    },
+    {
+      "id": "U05",
+      "title": "AI資訊、藝術媒介與專用技術的社會後果",
+      "primary_article_ids": [
+        5,
+        36,
+        39,
+        72
+      ],
+      "evidence_ids": [
+        "CA08",
+        "CA09",
+        "CA-X01"
+      ],
+      "core_causal_claim": "資訊與內容取得便宜後，辨別和注意力成為限制；實用設備依功能/成本而非像人；豐裕或不老不保證開拓。",
+      "necessary_cases": [
+        "甲寅派誤拼與匪類標籤",
+        "都鐸通俗劇/廉價短內容",
+        "專用清潔照護機器",
+        "不老後事故損失的思想實驗"
+      ],
+      "conditions_or_countercases": [
+        "承認AI節省時間",
+        "內容價格數據是主持人說法",
+        "照護設備不替代情感共同體",
+        "注意力如何複製階級主論證只在U10寫一次"
+      ],
+      "home": "C05科技單元",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          5,
+          36,
+          39,
+          72
+        ],
+        "directory_or_preface_only_articles": []
+      },
+      "body_hanzi": {
+        "range": [
+          950,
+          1250
+        ],
+        "working_target": 1100,
+        "paragraphs": [
+          5,
+          7
+        ],
+        "reason": "資訊、媒介、設備、未來風險各留必要段；數位教養只短連到U10，避免同一機制跨節複述。"
+      },
+      "confirmed_body_share_pct": 8.9
+    },
+    {
+      "id": "U06",
+      "title": "移民、公民權、庇護與政治共同體",
+      "primary_article_ids": [
+        24,
+        38,
+        50,
+        52,
+        69
+      ],
+      "evidence_ids": [
+        "CA10",
+        "CA11",
+        "CA-X10"
+      ],
+      "core_causal_claim": "同一移民標籤包藏不同歷史權利；法院護權、政策達成與基本盤動員分屬不同收益；庇護論述依保護與責任關係展開。",
+      "necessary_cases": [
+        "屬地/血統及帝國不同臣民",
+        "出生公民權的法院和基本盤",
+        "庇護由分散保護信用轉為國家義務的來源比較"
+      ],
+      "conditions_or_countercases": [
+        "不是現行國籍/庇護法律說明",
+        "不延用來源對人群的暴力處方或污名總括",
+        "第52篇新讀僅前近代背景，不冒充當代海外社群全篇已核"
+      ],
+      "home": "C05制度移民；私人適應引C01/C03，古代共同體引C02/C07",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          24,
+          38,
+          52,
+          69
+        ],
+        "directory_or_preface_only_articles": [
+          50
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          850,
+          1150
+        ],
+        "working_target": 1000,
+        "paragraphs": [
+          5,
+          6
+        ],
+        "reason": "身份、機構、庇護各需一組機制/例子；真正海外組織演化留待核預留，不從篇名補寫。"
+      },
+      "confirmed_body_share_pct": 8.1
+    },
+    {
+      "id": "U07",
+      "title": "聯盟、外交成本與軍事目標",
+      "primary_article_ids": [
+        2,
+        11,
+        12,
+        22,
+        32,
+        42,
+        44,
+        58
+      ],
+      "evidence_ids": [
+        "CA13",
+        "CA18",
+        "CA-X07"
+      ],
+      "core_causal_claim": "聯盟名號不消除成員利益；政治親近不等於願付重建成本；阻止失敗、取得勝利、延緩風險是不同任務。",
+      "necessary_cases": [
+        "北約國別利益和殘餘功能",
+        "土耳其第二外交",
+        "防守與奪地能力",
+        "核不擴散的延緩效用",
+        "殖民交涉由多層契約簡化為主權國家的短橋接"
+      ],
+      "conditions_or_countercases": [
+        "勒龐/伊朗/中美具體預測限原時點",
+        "殖民段只支撐交涉成本，不能宣稱全篇殖民衰落已核",
+        "不提供武器戰術操作"
+      ],
+      "home": "C05國際政治；主權/民族形成的長歷史引C07-1/C02-2",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          2,
+          12,
+          42,
+          44,
+          58
+        ],
+        "directory_or_preface_only_articles": [
+          11,
+          22,
+          32
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          1100,
+          1500
+        ],
+        "working_target": 1300,
+        "paragraphs": [
+          6,
+          8
+        ],
+        "reason": "四種任務/成本各需案例；殖民制度只一短段作外交前提，不展開另一本世界史。"
+      },
+      "confirmed_body_share_pct": 10.5
+    },
+    {
+      "id": "U08",
+      "title": "政黨供養、外圍從屬與國家建構",
+      "primary_article_ids": [
+        17,
+        18,
+        21,
+        23,
+        30,
+        37,
+        73,
+        75
+      ],
+      "evidence_ids": [
+        "CA15",
+        "CA16",
+        "CA17",
+        "CA-X03"
+      ],
+      "core_causal_claim": "理念須靠金主、地方根基與成員供養持續；外圍活動不等於有路線權；推翻政權不同於形成共同體。",
+      "necessary_cases": [
+        "青年黨四川/臺灣差別",
+        "梁啟超與袁蔡兩難",
+        "白區從屬",
+        "民進黨聯盟與本土社區不完全重合",
+        "第三波的假想部落比較"
+      ],
+      "conditions_or_countercases": [
+        "五年不是精確期限",
+        "袁蔡限民初權力配置",
+        "民進黨段有轉錄缺字，不照抄相互矛盾句",
+        "第三波看法曾隨時間改變"
+      ],
+      "home": "C05當代組織；民族類型長史引C07-1，人物傳記引C06",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          23,
+          30,
+          73,
+          75
+        ],
+        "directory_or_preface_only_articles": [
+          17,
+          18,
+          21,
+          37
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          1000,
+          1350
+        ],
+        "working_target": 1150,
+        "paragraphs": [
+          6,
+          7
+        ],
+        "reason": "組織供養與共同體建構不能壓成一題；臺灣新例占一段，避免重述C07整套民族理論。"
+      },
+      "confirmed_body_share_pct": 9.3
+    },
+    {
+      "id": "U09",
+      "title": "認知戰、輿論不對稱與誰代表一個國家",
+      "primary_article_ids": [
+        25,
+        43,
+        65
+      ],
+      "evidence_ids": [
+        "CA14",
+        "CA-X02",
+        "CA-X09"
+      ],
+      "core_causal_claim": "信用會被短期外包收益耗損；不同位置對輿論的敏感度不對等；宣傳者的階級形象可被海外當作全國形象。",
+      "necessary_cases": [
+        "土耳其罵戰把中立者推向對面",
+        "巴麥尊/阿爾伯特的不同反應",
+        "美新處/VOA與進步知識青年"
+      ],
+      "conditions_or_countercases": [
+        "承認軍事欺敵有用途",
+        "英美及VOA敘述是原文歷史解釋，未外核",
+        "第25篇本次未讀到棉花成本結尾"
+      ],
+      "home": "C05媒體與政治；材料生成通則引frameworks/C06",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          25,
+          65
+        ],
+        "directory_or_preface_only_articles": [
+          43
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          700,
+          1000
+        ],
+        "working_target": 850,
+        "paragraphs": [
+          4,
+          5
+        ],
+        "reason": "原稿信用機制之外確有新增兩條，不只加案例；每條以機制/例證合段，保留共同界限。"
+      },
+      "confirmed_body_share_pct": 6.9
+    },
+    {
+      "id": "U10",
+      "title": "階級再生、教育分流與人格承受",
+      "primary_article_ids": [
+        55,
+        62,
+        63,
+        66,
+        84,
+        85
+      ],
+      "evidence_ids": [
+        "CA19",
+        "CA20",
+        "CA22",
+        "CA-X01",
+        "CA-X08",
+        "CA-X12"
+      ],
+      "core_causal_claim": "不同生態位承擔不同責任；積累須被制度保護；注意力/養育時間和國家勞動需求會改寫教育與代際位置。",
+      "necessary_cases": [
+        "工會工人/知識分子與本人階級",
+        "文明保護積累",
+        "數位安撫與義務教育的矯正作用",
+        "勞動短缺與普職分流的原述推演",
+        "騎馬/洋蔥",
+        "分工與執行能力也可產生階級"
+      ],
+      "conditions_or_countercases": [
+        "遺傳與環境兩極都不成立",
+        "國家教育既可擴能力也可作強制分流，條件不同",
+        "普職政策預測和人名指控不作當前確證",
+        "第84篇國家起源長史只短引C02-1"
+      ],
+      "home": "C05教育階級；私人關係實務引C01/C03",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          55,
+          63,
+          66,
+          84,
+          85
+        ],
+        "directory_or_preface_only_articles": [
+          62
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          1150,
+          1500
+        ],
+        "working_target": 1350,
+        "paragraphs": [
+          7,
+          9
+        ],
+        "reason": "新教育材料有獨立因果，需新增兩段；共同成本/時間線定義不重複，心理比喻保留改變可能。"
+      },
+      "confirmed_body_share_pct": 10.9
+    },
+    {
+      "id": "U11",
+      "title": "最優生育與家庭之外的責任",
+      "primary_article_ids": [
+        33,
+        56,
+        67
+      ],
+      "evidence_ids": [
+        "CA21"
+      ],
+      "core_causal_claim": "核心家庭缺中間共同體會承擔過高成本；最優再生不同於個別家長最多後代。",
+      "necessary_cases": [
+        "核心/主幹/部落教區",
+        "一夫多妻個體與總體差別",
+        "北歐政策有限改善",
+        "現實有缺陷的大家庭"
+      ],
+      "conditions_or_countercases": [
+        "多妻總體最高仍有疑問",
+        "政策可有作用但不保證替代率",
+        "不以理想機構比較現實親屬"
+      ],
+      "home": "C05家庭人口；具體人生決策引C01",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          33
+        ],
+        "directory_or_preface_only_articles": [
+          56,
+          67
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          650,
+          850
+        ],
+        "working_target": 750,
+        "paragraphs": [
+          4,
+          5
+        ],
+        "reason": "比較三種責任安排需兩段，政策與反例各一段；未讀56/67不先增作已核內容。"
+      },
+      "confirmed_body_share_pct": 6.0
+    },
+    {
+      "id": "U12",
+      "title": "學術、版權與正統的生產關係",
+      "primary_article_ids": [
+        7,
+        19,
+        27,
+        41,
+        49,
+        53
+      ],
+      "evidence_ids": [
+        "CA23",
+        "CA24"
+      ],
+      "core_causal_claim": "模型選擇包含判斷；行會維持技藝也保護利益；版稅依市場與支付秩序；道統是當代認祖的政治。",
+      "necessary_cases": [
+        "2021自然實驗與本人直覺",
+        "大學/專業行會",
+        "連載版權與戰時收入",
+        "宋儒/蘇聯道統"
+      ],
+      "conditions_or_countercases": [
+        "沒有完美模型不代表判斷等值",
+        "行會不能壓成純壟斷或純公共利益",
+        "相似片語不代表同一思想陣營"
+      ],
+      "home": "C05知識制度；人物評傳引C06，普通認識論引C04",
+      "status": {
+        "confirmed": "僅列示evidence的實讀段落支持，非所列各篇全文",
+        "partly_read_articles": [
+          7,
+          27,
+          41,
+          53
+        ],
+        "directory_or_preface_only_articles": [
+          19,
+          49
+        ]
+      },
+      "body_hanzi": {
+        "range": [
+          900,
+          1200
+        ],
+        "working_target": 1050,
+        "paragraphs": [
+          5,
+          7
+        ],
+        "reason": "四種制度機制各有一例，不能全縮成誰付錢；供養共通句只寫一次。"
+      },
+      "confirmed_body_share_pct": 8.5
+    }
+  ],
+  "routed_outside_c05": [
+    {
+      "home": "C02-2",
+      "articles": [
+        28,
+        51,
+        57,
+        60,
+        71
+      ],
+      "basis": "漢字、前近代秩序/服飾醫學習俗、羅馬憲制；只據題材識別，未驗原論證。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C04",
+      "articles": [
+        20
+      ],
+      "basis": "文明秩序與組織資源通論，C05引框架不重建。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C07-1",
+      "articles": [
+        10,
+        16,
+        40,
+        46,
+        54,
+        64,
+        76
+      ],
+      "basis": "民族/語言/身份發明及1848長歷史；當代例可跨引，但不另複製全論證。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C07-2",
+      "articles": [
+        68,
+        70,
+        77,
+        78,
+        79
+      ],
+      "basis": "東亞政治譜系、地方史和大一統長時段。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C03",
+      "articles": [
+        47,
+        59,
+        82
+      ],
+      "basis": "社會性格/制度塑形；47新增窗口主要為區域性格與帝國經驗，尚未讀到孟加拉主論點，不按篇名給C05新增完整案例。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C06",
+      "articles": [
+        61,
+        83
+      ],
+      "basis": "清流及知識分子的歷史政治位置；本輪僅題材識別。",
+      "c05_new_body_budget": 0
+    },
+    {
+      "home": "C01/C04",
+      "articles": [
+        80
+      ],
+      "basis": "自由、責任和文明定義，標題不足以確認當代新增機制。",
+      "c05_new_body_budget": 0
+    }
+  ],
+  "opaque_interview_titles": {
+    "articles": [
+      3,
+      4,
+      6,
+      8,
+      9,
+      14,
+      15
+    ],
+    "status": "除15有話題日期外未核正文；集數不足以判定主要題材，不分配confirmed主張",
+    "reserve_pool": "P2"
+  },
+  "reserve_units": [
+    {
+      "id": "P1",
+      "home": [
+        "U06"
+      ],
+      "candidate_articles": [
+        22,
+        50,
+        52
+      ],
+      "hanzi": [
+        200,
+        350
+      ],
+      "paragraphs": [
+        1,
+        2
+      ],
+      "status": "待核實預留，未可寫為已蒸餾",
+      "question": "是否有超出既有身份/保護制度的海外組織形成、融入與自我治理因果？52已讀只是古代背景。"
+    },
+    {
+      "id": "P2",
+      "home": [
+        "U02",
+        "U07",
+        "U08"
+      ],
+      "candidate_articles": [
+        3,
+        4,
+        6,
+        8,
+        9,
+        11,
+        14,
+        15,
+        17,
+        21,
+        22,
+        26,
+        32
+      ],
+      "hanzi": [
+        350,
+        600
+      ],
+      "paragraphs": [
+        2,
+        3
+      ],
+      "status": "待核實預留，整池不隨篇數倍增",
+      "question": "未核的動員、協議、選舉與政體題是否新增一至兩種不可被現有機制吸收的論證？集數標題本身不足以判斷。"
+    },
+    {
+      "id": "P3",
+      "home": [
+        "U08",
+        "U10",
+        "U12"
+      ],
+      "candidate_articles": [
+        19,
+        37,
+        49,
+        62
+      ],
+      "hanzi": [
+        200,
+        350
+      ],
+      "paragraphs": [
+        1,
+        2
+      ],
+      "status": "待核實預留",
+      "question": "激進政黨、思想供養、社交位置是否帶來新機制，或只是既有階級/供養論證的其他例子？"
+    },
+    {
+      "id": "P4",
+      "home": [
+        "U09"
+      ],
+      "candidate_articles": [
+        43
+      ],
+      "hanzi": [
+        180,
+        300
+      ],
+      "paragraphs": [
+        1,
+        2
+      ],
+      "status": "待核實預留",
+      "question": "田中奏折的檔案製造/部門動機是否需要獨立於信用和資料污染的一段？尚只有章節識別。"
+    },
+    {
+      "id": "P5",
+      "home": [
+        "U11"
+      ],
+      "candidate_articles": [
+        56,
+        67
+      ],
+      "hanzi": [
+        150,
+        250
+      ],
+      "paragraphs": [
+        1,
+        2
+      ],
+      "status": "待核實預留",
+      "question": "家庭模式與媽寶材料有無新責任結構，還是CA21/22的重複？"
+    }
+  ],
+  "separate_allocations": {
+    "historical_carryover": {
+      "ids": [
+        "CA-L01",
+        "CA-L02",
+        "CA-L03",
+        "CA-L04",
+        "CA-L05",
+        "CA-L06"
+      ],
+      "hanzi_range": [
+        600,
+        850
+      ],
+      "working_target": 700,
+      "paragraphs": [
+        5,
+        6
+      ],
+      "rule": "與新資本段近重的CA-L01只短留來源；H05地緣、華盛頓知識、娛樂頻譜、057移民及新疆棉舊源各留必要例與年代。第25篇局部閱讀未完成棉花結尾重核。",
+      "counting_boundary": "此範圍只計承接的實質判斷、必要案例與該例年代條件；純承接標籤/標題/定位另入metadata。"
+    },
+    "source_orientation_and_index": {
+      "hanzi_range": [
+        450,
+        650
+      ],
+      "working_target": 500,
+      "rule": "全檔來源身份與通用日期/語域說明、各級標題、純承接標籤、定位/索引文字均算此固定開銷；各單元具體時點與必要條件算正文。85篇全盤點與視窗hash只在維護JSON，不進runtime。"
+    }
+  },
+  "totals": {
+    "confirmed_body_hanzi_range": [
+      10670,
+      14230
+    ],
+    "confirmed_body_working_target": 12400,
+    "confirmed_plus_history_and_index_range": [
+      11720,
+      15730
+    ],
+    "confirmed_plus_history_and_index_target": 13600,
+    "unreleased_reserve_hanzi_range": [
+      1080,
+      1850
+    ],
+    "potential_total_range_if_all_reserves_earned": [
+      12800,
+      17580
+    ],
+    "rule": "核定正文按working_target落筆，段落增減在各單元範圍內；預留不填充，只有補核出新因果/反例且去重後才釋出；上限不是必須寫滿。"
+  },
+  "execution_rules": [
+    "先按12單元合併重複機制，而非逐85篇摘要；保留必要案例和反向條件。",
+    "同一論證只主寫一次：AI注意力的階級後果歸U10，U05只交代媒介；多層名號/功能分離先在U02說清。",
+    "新增已核內容使用CA-X定位；未核章節只列預留，不進正文作本人已支持主張。",
+    "跨模組項只有必要橋接；不能因合輯收錄便把C02/C07重抄到C05。",
+    "不因篇幅目標消除406/417、義務教育/強制分流、機械照護/家庭共同體等條件差異。",
+    "本輪不改runtime，不新增評測，不啟用未核reserve。"
+  ],
+  "additional_window_log": "c05-extra-reading.json",
+  "additional_window_findings": [
+    {
+      "id": "CA-X01",
+      "article": 5,
+      "finding": "新增：廉價內容、注意力/養育時間與階級複製；義務教育也可矯正底層再生，需保留此反向條件。",
+      "home": "U05/U10"
+    },
+    {
+      "id": "CA-X02",
+      "article": 25,
+      "finding": "新增：輿論權力及受眾敏感度不對等；未讀到新疆棉成本結尾，不能把CA-L06改作已新核。",
+      "home": "U09"
+    },
+    {
+      "id": "CA-X03",
+      "article": 30,
+      "finding": "新增臺灣當代組織例：黨外聯盟與本土社區不天然重合；若干轉錄缺字不能按字面當確定命題。",
+      "home": "U08"
+    },
+    {
+      "id": "CA-X04",
+      "article": 45,
+      "finding": "新增：理論可行、可用工藝、供應鏈與未知研究時間表分層；人物動機和2031時間解讀為推測。",
+      "home": "U04"
+    },
+    {
+      "id": "CA-X05",
+      "article": 47,
+      "finding": "所讀主要為考試尊嚴、區域性格/帝國經驗類比；未核孟加拉題名主論證，不據此擴編C05。",
+      "home": "C03；C05零增量"
+    },
+    {
+      "id": "CA-X06",
+      "article": 52,
+      "finding": "所讀主要為部落/封建/帝國與宗教輸入的既得利益，並未核完整海外華人社群沿革。",
+      "home": "C02/C07背景；P1待核"
+    },
+    {
+      "id": "CA-X07",
+      "article": 58,
+      "finding": "已核交涉成本、歷史權利與主權簡化；只用短橋接，不聲稱全篇殖民衰落因果已核。",
+      "home": "U07短橋接／C07長史"
+    },
+    {
+      "id": "CA-X08",
+      "article": 63,
+      "finding": "新增教育/就業分流、勞動短缺和政策時間線；具體未來政策、人名指控不作當代事實。",
+      "home": "U10"
+    },
+    {
+      "id": "CA-X09",
+      "article": 65,
+      "finding": "新增：對外傳播的專業階級被誤當整個國家；與利益自理/抽象民主傳教間存在張力。",
+      "home": "U09"
+    },
+    {
+      "id": "CA-X10",
+      "article": 69,
+      "finding": "庇護被比較為分散信用關係與國家義務；屬來源規範歷史觀，不是現行法；暴力處方與人群污名不轉運行指令。",
+      "home": "U06"
+    },
+    {
+      "id": "CA-X11",
+      "article": 74,
+      "finding": "已讀末段支持外部資本使部分人口重新納入生產；美國和平演變計畫全貌未核，極端暴力數量敘述不當統計。",
+      "home": "U03短補充／C03社會解體"
+    },
+    {
+      "id": "CA-X12",
+      "article": 84,
+      "finding": "分工/強制執行能產生治理能力，又可威脅其他自發秩序；階級流動全文未核。",
+      "home": "U10短條件／C02-1長史"
+    }
+  ],
+  "article_assignment_check": {
+    "exactly_one_primary_route_for_each_article": true,
+    "assigned_articles": 85,
+    "meaning": "主路由不是宣稱整篇只談一題；跨題證據在units以IDs聯繫。"
+  }
+}

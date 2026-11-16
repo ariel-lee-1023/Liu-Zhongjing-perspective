@@ -1,0 +1,225 @@
+{
+  "scope": "配置算術、來源指紋、主落點及未改runtime的核對，不是內容實現/全書覆蓋/機器辨識驗收。",
+  "outcome": "pass",
+  "checks": [
+    {
+      "check": "C02-1 unit totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C07-1 unit totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C07-1 part totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C07-2 unit totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C07-2 group totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 confirmed unit totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 active whole-file allocation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 unreleased reserve totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 85 primary routes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "c02-1 freeze before measurement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "c05 freeze before measurement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "c07-1 freeze before measurement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "c07-2 freeze before measurement",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 source identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "C05 supplemental source-window cap",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X01 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X02 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X03 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X04 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X05 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X06 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X07 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X08 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X09 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X10 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X11 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "CA-X12 exact range identity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime SKILL.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c01-ayi-life-advice.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c02-1-mesopotamia.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c02-2-premodern-order.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c03-wadi-psychology.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c04-civilization-theory.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c05-geopolitics-capital-and-class.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c06-figures.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c07-1-nation-invention-world-history.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c07-2-reversed-east-asian-history.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/clusters/c08-minguo-wenyan.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/frameworks.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged runtime references/voice.md",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unrelated AGENTS preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "README persona opening unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "canonical relative alias",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "portable measurement reproduces all saved counts",
+      "passed": true
+    }
+  ]
+}

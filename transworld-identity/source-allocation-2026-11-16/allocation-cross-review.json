@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-16",
+  "reviewer": "parallel editorial cross-review agent",
+  "scope": "唯讀檢查四個配置JSON本身的加總、論證理由、主落點及去重規則；未回讀原始來源，未評全書覆蓋，未測現有runtime是否已達配置。",
+  "outcome": "no_material_issue_found_in_declared_scope",
+  "findings": [],
+  "checks": [
+    {
+      "file": "c02-1-allocation.json",
+      "sha256": "583e9aa403fd69478ff7fe0cc9d8442999d41114df3cdb2a75895854f76d5327",
+      "unit_count": 13,
+      "summed_body_han_range": [
+        5080,
+        7200
+      ],
+      "reported_body_han_range": [
+        5080,
+        7200
+      ],
+      "sum_matches": true,
+      "substantive_reasons_present": true,
+      "primary_locus_and_merge_rules_consistent": true,
+      "headings_source_locators_and_general_attribution_separated_from_body": true
+    },
+    {
+      "file": "c07-1-allocation.json",
+      "sha256": "0e685e7c4d5719f8aa458ae1d92af0955db0798141b73f1853f4f93a42e7d357",
+      "unit_count": 16,
+      "summed_body_han_range": [
+        6450,
+        8630
+      ],
+      "reported_body_han_range": [
+        6450,
+        8630
+      ],
+      "sum_matches": true,
+      "substantive_reasons_present": true,
+      "primary_locus_and_merge_rules_consistent": true,
+      "headings_source_locators_and_general_attribution_separated_from_body": true,
+      "part_shares_match": true,
+      "paragraph_total_matches": true,
+      "overhead_and_whole_file_totals_match": true
+    },
+    {
+      "file": "c07-2-allocation.json",
+      "sha256": "4cf19af82bd8945794fd3c7dcf1161f5ae311125d5e6a5f1c6cfd42b69955b43",
+      "unit_count": 27,
+      "summed_body_han_range": [
+        8780,
+        12500
+      ],
+      "reported_body_han_range": [
+        8780,
+        12500
+      ],
+      "sum_matches": true,
+      "substantive_reasons_present": true,
+      "primary_locus_and_merge_rules_consistent": true,
+      "headings_source_locators_and_general_attribution_separated_from_body": true,
+      "group_shares_match": true,
+      "paragraph_total_matches": true,
+      "overhead_and_whole_file_totals_match": true
+    },
+    {
+      "file": "c05-allocation.json",
+      "sha256": "b92e4a735df2075b29eda10e269282258c8cc1c5f31b8860b031ac742f1a167d",
+      "unit_count": 12,
+      "summed_confirmed_body_han_range": [
+        10670,
+        14230
+      ],
+      "working_target_sum": 12400,
+      "historical_carryover_han_range": [
+        600,
+        850
+      ],
+      "fixed_overhead_han_range": [
+        450,
+        650
+      ],
+      "unreleased_reserve_han_range": [
+        1080,
+        1850
+      ],
+      "active_total_including_history_and_metadata": [
+        11720,
+        15730
+      ],
+      "all_totals_match": true,
+      "primary_routes_cover_all_85_articles_exactly_once": true,
+      "directory_only_topic_identification_not_treated_as_source_confirmed_claims": true,
+      "reserve_excluded_from_active_body": true,
+      "specific_case_conditions_and_general_metadata_separated": true,
+      "findings": [],
+      "scope": "只核配置JSON內部加總、路由、標籤及段落理由；未開原文或驗證新增來源主張。"
+    }
+  ],
+  "semantic_notes": [
+    "C02-1的總體模型限制由M01承擔，局部法律及考古限制由M13承擔，並非同一內容重複配額。",
+    "C07-1的共同分類、文化教育鏈、外援作用與人民邊界各有唯一展開位置；國別案例保留不同制度、行動與後果，其他落點只短指向。",
+    "C07-2的金代皇室／燕地中介／滿洲武士利益分工明確；上海人口吸納風險與總體戰擴權要求、上海保護能力不足與滿洲統制經濟壓自治分開保留，未因去重合成同一主張。",
+    "標題、定位表及一般取材歸屬另列；原論證需要的局部條件、反事實及自述證據地位屬正文，不應移入開銷以虛減正文。",
+    "C05未讀／僅目錄識別的篇目明列於各單元status，primary_article_ids表示題材主去向，不等於整篇已核；預留池即使跨單元列出同篇，並未重複增加主路由或當前可用正文。歷史承接、一般來源標籤與已核論證各分帳。"
+  ],
+  "limits": [
+    "篇幅區間仍是來源支持下的編輯估計，這個核對不將其轉成機器證明或唯一合理篇幅。",
+    "後續實際改稿與配置的符合程度另核；本次沒有改runtime、沒有新來源閱讀或評測呼叫。"
+  ]
+}
